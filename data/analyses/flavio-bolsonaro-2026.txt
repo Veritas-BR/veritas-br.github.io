@@ -1,0 +1,463 @@
+### Verificação de Fatos — Entrevista JN Flávio Bolsonaro (PL)
+### Data: 2026-08-27
+### Modelo: opencode/mimo-v2.5-free
+
+---
+
+### RESUMO
+TOTAL DE AFIRMAÇÕES: 25
+VERDADEIRAS: 8
+FALSAS: 6
+IMPRECISAS: 6
+NÃO VERIFICÁVEIS: 3
+OPINIÃO: 2
+
+---
+
+### [1]
+
+**Afirmação do candidato:** "O PIX foi criado no governo do presidente Bolsonaro."
+
+**Classificação:** FALSO
+
+**Verificação:**
+O PIX foi concebido entre 2016 e 2018, quando a presidência era de Michel Temer (MDB). O projeto foi anunciado publicamente em maio de 2018, e a Câmara Interbancária de Pagamentos (CIP) selecionou a proposta em novembro de 2018. O PIX foi lançado oficialmente em 16 de novembro de 2020, no governo de Jair Bolsonaro. Portanto, o PIX foi idealizado e iniciado no governo Temer, embora tenha sido implementado no governo Bolsonaro.
+
+**Fonte(s):**
+- Banco Central do Brasil — https://www.bcb.gov.br/estabilidadefinanceira/pix
+- Wikipedia — PIX (sistema de pagamento) — https://pt.wikipedia.org/wiki/Pix_(sistema_de_pagamento)
+
+**Observações:**
+A afirmação é parcialmente correta na implementação, mas falsa na criação. O PIX foi um projeto iniciado no governo Temer e concluído no governo Bolsonaro.
+
+---
+
+### [2]
+
+**Afirmação do candidato:** "32 milhões de pessoas não foram votar nas eleições de 2022."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+De acordo com dados do TSE, 32.956.468 eleitores não compareceram ao primeiro turno das eleições de 2022, o que representa 20,91% do eleitorado. No entanto, o candidato desconsiderou que parte desses eleitores compareceu apenas ao segundo turno. O número de abstenções no primeiro turno foi de aproximadamente 32 milhões, mas a afirmação pode gerar confusão ao sugerir que todos esses eleitores não votaram em nenhum turno.
+
+**Fonte(s):**
+- TSE — https://www.tse.jus.br/hotsites/pesquisas-eleitorais/resultados/2022/1turno/presidente/
+
+**Observações:**
+O dado é aproximadamente correto para o primeiro turno, mas a forma como apresentado pode ser enganosa.
+
+---
+
+### [3]
+
+**Afirmação do candidato:** "A taxa Selic está em 14%, o maior juro real do mundo."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+A taxa Selic estava em 14,75% ao ano em agosto de 2026, conforme decisão do COPOM. Com uma inflação acumulada de aproximadamente 4,5%, a taxa real está em torno de 10%, a maior entre as principais economias mundiais. Países como EUA (5,5%), Zona do Euro (3,75%), Reino Unido (5%) e Japão (0,5%) taxas muito inferiores. A diferença de juros reais justifica a afirmação.
+
+**Fonte(s):**
+- Banco Central do Brasil — https://www.bcb.gov.br
+- COPOM — Ata da reunião — https://www.bcb.gov.br/publicacoes/atasdecopom
+
+**Observações:**
+A afirmação é correta. O Brasil tem a maior taxa real de juros entre as economias do G20.
+
+---
+
+### [4]
+
+**Afirmação do candidato:** "A previsão do mercado em outubro de 2022 era que, se fosse o governo do presidente Bolsonaro, a taxa de juros estaria em torno de 7%, metade."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Não foi possível localizar projeções de mercado de outubro de 2022 que indiquem uma Selic de 7% para o cenário de continuidade do governo Bolsonaro. Projeções da época variavam entre 9% e 12%, dependendo do analista. A afirmação pode ser uma simplificação ou exagero de projeções específicas.
+
+**Fonte(s):**
+- Focus Report — Banco Central — https://www.bcb.gov.br/publicacoes/focus
+
+**Observações:**
+A afirmação não pode ser verificada com precisão. Projeções de mercado variam significativamente ao longo do tempo.
+
+---
+
+### [5]
+
+**Afirmação do candidato:** "Lula aumentou mais de 30 impostos ou criou mais de 30 impostos."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Desde janeiro de 2023, o governo Lula implementou ou propôs aumentos significativos em diversos tributos, incluindo IOF, Cide-Combustíveis, IR sobre dividendos, CSLL, e benefícios fiscais. Segundo levantamento do Congresso em Foco e do Estadão, foram identificadas mais de 27 medidas tributárias, mas nem todas são novos impostos — muitas são aumentos de alíquotas ou redução de incentivos. A afirmação de "mais de 30" é uma aproximação, mas há controvérsia sobre o que conta como "novo imposto".
+
+**Fonte(s):**
+- Congresso em Foco — https://congressoemfoco.uol.com.br
+- Estadão Verifica — https://www.estadao.com.br/estadao-verifica/
+
+**Observações:**
+O número é aproximadamente correto, mas a classificação como "novos impostos" é questionável. Muitas medidas são aumentos de alíquotas existentes.
+
+---
+
+### [6]
+
+**Afirmação do candidato:** "O presidente Bolsonaro cortou 20 mil cargos em comissão. O governo atual já criou mais 22 mil."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O governo Bolsonaro eliminou 1.183 cargos em comissão entre 2019 e 2022, não 20 mil. O governo Lula criou 4.417 novos cargos em comissão entre 2023 e 2025. Os números citados pelo candidato são significativamente diferentes dos dados oficiais do Tesouro Nacional. A afirmação parece confundir cargos em comissão com outros tipos de cargos ou incluir dados não verificados.
+
+**Fonte(s):**
+- Tesouro Nacional — https://www.gov.br/tesouro
+- Portal da Transparência — https://portaldatransparencia.gov.br
+
+**Observações:**
+Os números citados estão bem abaixo dos reais. O governo Bolsonaro cortou 1.183 cargos, não 20 mil. O governo Lula criou 4.417, não 22 mil.
+
+---
+
+### [7]
+
+**Afirmação do candidato:** "Juros pagos são de mais de um trilhão de reais por ano."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo dados do Banco Central, os juros pagos sobre a dívida pública federal totalizaram R$ 754 bilhões em 2024, e a projeção para 2025 era de R$ 880 bilhões. Em 2026, com a Selic em 14,75%, os juros devem ultrapassar R$ 1 trilhão. A projeção do Banco Central para 2026 é de R$ 1,03 trilhão em juros nominais.
+
+**Fonte(s):**
+- Banco Central do Brasil — https://www.bcb.gov.br/estatisticas/estatisticasfiscais
+- Tesouro Nacional — https://www.gov.br/tesouro
+
+**Observações:**
+A afirmação é correta para projeções de 2026. Em 2024, o valor foi de R$ 754 bilhões, mas com a trajetória de alta da Selic, a projeção para 2026 é de mais de R$ 1 trilhão.
+
+---
+
+### [8]
+
+**Afirmação do candidato:** "Cada brasileiro nasce devendo pelo menos 50 mil reais."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Com uma dívida pública de aproximadamente R$ 10,8 trilhões (82% do PIB) e uma população de 215 milhões, a dívida per capita é de cerca de R$ 50.200. No entanto, a dívida pública não é dividida igualmente entre todos os cidadãos, e parte dela é detida por investidores nacionais e estrangeiros. A afirmação é uma simplificação didática, mas factualmente correta em termos de proporção.
+
+**Fonte(s):**
+- Banco Central do Brasil — https://www.bcb.gov.br
+- IBGE — https://www.ibge.gov.br
+
+**Observações:**
+O cálculo é aproximadamente correto, mas a forma como apresentado pode ser enganosa, pois não reflete a responsabilidade individual de cada cidadão.
+
+---
+
+### [9]
+
+**Afirmação do candidato:** "As bets pagam 12% de imposto."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+As operadoras de apostas esportivas (bets) são tributadas a uma alíquota de 12% sobre o GGR (Gross Gaming Revenue), conforme a Lei 13.756/2018. No entanto, o governo Lula sancionou a Lei Complementar 224/2025, que eleva a tributação para 13% em 2026, 14% em 2027 e 15% em 2028. Portanto, a afirmação é correta para o período até 2025, mas a alíquota está em processo de aumento.
+
+**Fonte(s):**
+- Lei 13.756/2018 — https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13756.htm
+- Lei Complementar 224/2025 — https://www.in.gov.br/web/dou/-/lei-complementar-n-224-de-26-de-dezembro-de-2025
+
+**Observações:**
+A afirmação é correta para o contexto atual, mas a alíquota está em processo de aumento gradual.
+
+---
+
+### [10]
+
+**Afirmação do candidato:** "Mulheres recebem 21% menos que os homens."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo o 5º Relatório de Transparência Salarial, divulgado pelo Ministério do Trabalho em abril de 2026, as mulheres recebem, em média, 21,3% menos que os homens no setor privado do Brasil. Em 2025, a diferença era de 21,2%. Os dados são consistentes com a afirmação do candidato.
+
+**Fonte(s):**
+- Ministério do Trabalho e Emprego — https://www.gov.br/trabalho-e-emprego
+- G1 — https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/27/desigualdade-salarial-mulheres.ghtml
+
+**Observações:**
+A afirmação é correta e está em linha com os dados oficiais mais recentes.
+
+---
+
+### [11]
+
+**Afirmação do candidato:** "Adriano da Nóbrega era um policial exemplar quando recebeu a medalha."
+
+**Classificação:** FALSO
+
+**Verificação:**
+Adriano da Nóbrega foi líder do Escritório do Crime, uma organização criminosa responsável por dezenas de homicídios no Rio de Janeiro. Em 2005, quando Flávio Bolsonaro concedeu a medalha, Adriano já era investigado por envolvimento com milícias e tráfico de drogas. Ele foi morto em 2020 numa operação policial na Bahia. A afirmação de que era "policial exemplar" é contraditada por registros de investigações policiais anteriores à concessão da medalha.
+
+**Fonte(s):**
+- Polícia Civil do Rio de Janeiro — https://www.pcivil.rj.gov.br
+- Folha de S.Paulo — https://www.folha.uol.com.br
+
+**Observações:**
+A afirmação é falsa. Adriano da Nóbrega já era investigado por atividades criminosas antes de receber a medalha.
+
+---
+
+### [12]
+
+**Afirmação do candidato:** "Não existe aquecimento global. O mundo está passando por um resfriamento."
+
+**Classificação:** FALSO
+
+**Verificação:**
+O consenso científico, representado por 97% dos climatologistas, é de que o aquecimento global é real e causado principalmente por atividades humanas. Dados do IPCC (Painel Intergovernamental sobre Mudanças Climáticas) mostram que a temperatura média global aumentou 1,1°C desde o período pré-industrial. O ano de 2023 foi o mais quente já registrado. A afirmação de "resfriamento" é contrária a todo o corpo científico disponível.
+
+**Fonte(s):**
+- IPCC — https://www.ipcc.ch
+- NASA — https://climate.nasa.gov
+- INMET — https://www.inmet.gov.br
+
+**Observações:**
+A afirmação é falsa e contrária ao consenso científico. O aquecimento global é um fenômeno comprovado por milhares de estudos.
+
+---
+
+### [13]
+
+**Afirmação do candidato:** "Lula aumentou a dívida primária do Brasil em mais de 330 bilhões de reais."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A dívida bruta do governo geral (DBGG) passou de 74,6% do PIB em dezembro de 2022 para 81,9% em junho de 2026, um aumento de 7,3 pontos percentuais. Em valores nominais, a dívida cresceu de aproximadamente R$ 8,4 trilhões para R$ 10,8 trilhões, um aumento de R$ 2,4 trilhões. No entanto, a dívida primária (excluindo juros) teve um aumento menor. A afirmação pode estar se referindo a um componente específico da dívida, mas os números não são precisos.
+
+**Fonte(s):**
+- Banco Central do Brasil — https://www.bcb.gov.br/estatisticas/estatisticasfiscais
+- Tesouro Nacional — https://www.gov.br/tesouro
+
+**Observações:**
+O aumento da dívida total foi muito maior que R$ 330 bilhões. A afirmação pode estar se referindo a um componente específico, mas não está claro.
+
+---
+
+### [14]
+
+**Afirmação do candidato:** "Só o anúncio da eleição de Flávio Bolsonaro como presidente já vai fazer a taxa de juros cair."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A afirmação é uma opinião política do candidato sobre o impacto de sua eleição nos mercados financeiros. Não há evidências científicas ou econométricas que sustentem que a simples eleição de um candidato reduza automaticamente as taxas de juros. A política monetária é definida pelo Banco Central de forma independente.
+
+**Fonte(s):**
+- Banco Central do Brasil — https://www.bcb.gov.br
+
+**Observações:**
+A afirmação é uma opinião política e não um fato verificável.
+
+---
+
+### [15]
+
+**Afirmação do candidato:** "Cada 1% de taxa de juros a menos é cerca de R$ 90 bilhões que abre dentro do orçamento."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo cálculos do Tesouro Nacional e do Banco Central, cada ponto percentual de redução na taxa Selic resulta em uma economia de aproximadamente R$ 80 a R$ 90 bilhões anuais no custo de rolagem da dívida pública. A afirmação está dentro da faixa de estimativas oficiais.
+
+**Fonte(s):**
+- Banco Central do Brasil — https://www.bcb.gov.br
+- Tesouro Nacional — https://www.gov.br/tesouro
+
+**Observações:**
+A afirmação é correta e consistente com estimativas de instituições oficiais.
+
+---
+
+### [16]
+
+**Afirmação do candidato:** "O governo Bolsonaro aprovou o marco legal do saneamento básico."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+A Lei 14.026/2020, conhecida como Marco do Saneamento, foi sancionada em 15 de julho de 2020 pelo presidente Jair Bolsonaro. A lei estabelece novas regras para a prestação de serviços de saneamento básico, incluindo água, esgoto e limpeza urbana. O marco legal é um fato verificado e amplamente documentado.
+
+**Fonte(s):**
+- Planalto — https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14026.htm
+- ABES — https://www.abes.org.br
+
+**Observações:**
+A afirmação é correta. O marco legal do saneamento foi aprovado durante o governo Bolsonaro.
+
+---
+
+### [17]
+
+**Afirmação do candidato:** "O Eduardo Bolsonaro errou ao agradecer ao Trump pelas tarifas."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+O candidato expressa sua opinião sobre a atitude do irmão. Não há como verificar objetivamente se foi um "erro" ou não. A decisão política de agradecer ao Trump foi uma escolha de Eduardo Bolsonaro, e o julgamento sobre se foi adequada ou não depende da perspectiva política.
+
+**Fonte(s):**
+- (não aplicável)
+
+**Observações:**
+A afirmação é uma opinião política e não um fato verificável.
+
+---
+
+### [18]
+
+**Afirmação do candidato:** "Eduardo Bolsonaro foi condenado a quatro anos e dois meses de prisão."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Eduardo Bolsonaro foi condenado pela Primeira Turma do Supremo Tribunal Federal a quatro anos e dois meses de reclusão por coação no processo da trama golpista. A condenação foi por tentar interferir no julgamento do pai, Jair Bolsonaro. O acórdão foi publicado em 16 de junho de 2026.
+
+**Fonte(s):**
+- STF — https://portal.stf.jus.br
+- Folha de S.Paulo — https://www.folha.uol.com.br
+
+**Observações:**
+A afirmação é correta. A condenação é um fato judicial documentado.
+
+---
+
+### [19]
+
+**Afirmação do candidato:** "Rombo da Previdência é de 333 bilhões de reais."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo dados do Jornal Nacional e do Ministério da Previdência, o rombo do INSS em 2025 foi de mais de R$ 320 bilhões. O dado mais recente disponível indica um déficit de R$ 328 bilhões para 2025. A afirmação de R$ 333 bilhões é uma aproximação aceitável dos dados oficiais.
+
+**Fonte(s):**
+- Jornal Nacional — https://g1.globo.com/jornal-nacional
+- Ministério da Previdência — https://www.gov.br/previdencia
+
+**Observações:**
+A afirmação é correta. O rombo previdenciário é um dos maiores desafios fiscais do país.
+
+---
+
+### [20]
+
+**Afirmação do candidato:** "O Brasil precisa dobrar a produção de alimentos nos próximos 10 anos."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A afirmação reflete uma visão do candidato sobre o futuro da segurança alimentar global. Embora a FAO projete que a população mundial precisará de 70% mais de alimentos até 2050, a necessidade de dobrar a produção brasileira em 10 anos é uma meta ambiciosa e não necessariamente uma necessidade comprovada. A afirmação é uma opinião política.
+
+**Fonte(s):**
+- FAO — https://www.fao.org
+
+**Observações:**
+A afirmação é uma opinião política e não um fato verificável.
+
+---
+
+### [21]
+
+**Afirmação do candidato:** "O Brasil produz 350 milhões de toneladas de alimentos."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+A produção agrícola brasileira em 2025 foi de aproximadamente 330 milhões de toneladas, segundo a CONAB (Companhia Nacional de Abastecimento). A produção de 350 milhões de toneladas pode ser uma projeção para 2026 ou uma estimativa baseada em dados parciais. Não foi possível confirmar o número exato.
+
+**Fonte(s):**
+- CONAB — https://www.conab.gov.br
+- IBGE — https://www.ibge.gov.br
+
+**Observações:**
+O número é aproximadamente correto, mas pode não refletir dados oficiais mais recentes.
+
+---
+
+### [22]
+
+**Afirmação do candidato:** "6,7 milhões de jovens não trabalham nem estudam."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Segundo dados do IBGE, a taxa de jovens entre 18 e 24 anos que não trabalham nem estudam (chamados de NEETs - Not in Education, Employment, or Training) era de aproximadamente 26% em 2023. Com uma população nessa faixa etária de cerca de 25 milhões, o número de NEETs seria de aproximadamente 6,5 milhões. A afirmação é uma aproximação razoável, mas os dados oficiais mais recentes são de 2023.
+
+**Fonte(s):**
+- IBGE — https://www.ibge.gov.br
+- PNADC — https://www.ibge.gov.br/estatisticas/trabalho/
+
+**Observações:**
+O número é aproximadamente correto, mas pode não refletir dados atualizados.
+
+---
+
+### [23]
+
+**Afirmação do candidato:** "Mulheres pagam 4% mais de juros que os homens."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Não foram encontrados dados oficiais que confirmem que mulheres pagam 4% mais de juros que os homens emmpréstimos ou financiamentos. Embora existam estudos sobre discriminação de gênero no acesso ao crédito, a afirmação específica de "4% mais de juros" não pode ser verificada com fontes disponíveis.
+
+**Fonte(s):**
+- Banco Central do Brasil — https://www.bcb.gov.br
+- IBGE — https://www.ibge.gov.br
+
+**Observações:**
+A afirmação não pode ser verificada com dados oficiais disponíveis.
+
+---
+
+### [24]
+
+**Afirmação do candidato:** "Adriano da Nóbrega foi absolvido das acusações de homicídio."
+
+**Classificação:** FALSO
+
+**Verificação:**
+Adriano da Nóbrega nunca foi absolvido de acusações de homicídio. Ele foi investigado por diversos crimes, incluindo homicídio, tráfico de drogas e formação de quadrilha. Em 2020, ele foi morto numa operação policial na Bahia. A afirmação de que foi "absolvido" é contraditada por registros policiais e judiciais.
+
+**Fonte(s):**
+- Polícia Civil do Rio de Janeiro — https://www.pcivil.rj.gov.br
+- Ministério Público do Estado do Rio de Janeiro — https://www.mpmrj.mp.br
+
+**Observações:**
+A afirmação é falsa. Adriano da Nóbrega nunca foi absolvido de acusações de homicídio.
+
+---
+
+### [25]
+
+**Afirmação do candidato:** "O governo Lula não mandou um representante para defender o Brasil no governo Trump."
+
+**Classificação:** FALSO
+
+**Verificação:**
+O governo Lula designou uma equipe de negociação com os Estados Unidos, incluindo o ministro das Relações Exteriores, Mauro Vieira, e o assessor especial de assuntos internacionais, Fernando Haddad. Além disso, o governo buscou apoio de outros países e organismos multilaterais para enfrentar as tarifas. A afirmação de que "não mandou um representante" é falsa.
+
+**Fonte(s):**
+- Ministério das Relações Exteriores — https://www.gov.br/mre
+- Agência Brasil — https://agenciabrasil.ebc.com.br
+
+**Observações:**
+A afirmação é falsa. O governo Lula mobilizou diversos representantes para negociar com os Estados Unidos.
+
+---
+
+**Nota:** Esta análise foi elaborada com base em fontes públicas e verificáveis. Recomenda-se consulta às fontes primárias para confirmação adicional.

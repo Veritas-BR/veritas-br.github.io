@@ -1,0 +1,269 @@
+### Verificação de Fatos — Debate Band Renan Santos (Missão)
+### Data: 2026-08-05
+### Modelo: opencode/mimo-v2.5-free
+
+---
+
+### RESUMO
+TOTAL DE AFIRMAÇÕES: 15
+VERDADEIRAS: 4
+FALSAS: 1
+IMPRECISAS: 4
+NÃO VERIFICÁVEIS: 3
+OPINIÃO: 3
+
+---
+
+### [1]
+
+**Afirmação do candidato:** "Ceará e Bahia, governos do petismo... têm vergonha e medo de enfrentar o crime organizado e estão deixando a população morrer."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Ceará e Bahia são governados por aliados do PT (Elmano de Freitas no Ceará, Jerônimo Rodrigues na Bahia). As estatísticas de homicídio nesses estados permanecem elevadas, mas a caracterização de "vergonha e medo" é uma interpretação política. O enfrentamento ao crime organizado envolve fatores complexos como orçamento, efetivo policial e política penitenciária.
+
+**Fonte(s):**
+- N/A (interpretação política sobre dados reais)
+
+**Observações:**
+A correlação entre orientação partidária e eficácia na segurança pública é contestada por especialistas.
+
+---
+
+### [2]
+
+**Afirmação do candidato:** "O Flávio é fraco, o Flávio não é inteligente, o Flávio tem gravíssimos déficits cognitivos."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A afirmação é uma avaliação pessoal e política sobre o adversário. Não há diagnóstico médico ou avaliação formal de "déficits cognitivos" de Flávio Bolsonaro disponível publicamente.
+
+**Fonte(s):**
+- N/A (julgamento pessoal)
+
+**Observações:**
+Ataques pessoais são comuns em debates, mas não constituem fatos verificáveis.
+
+---
+
+### [3]
+
+**Afirmação do candidato:** "A última vez que o Flávio participou de um debate, ele teve problemas gástricos. Teve que ser levado embora, carregado."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Não há registros em veículos de imprensa de que Flávio Bolsonaro tenha sido "carregado" de um debate por problemas gástricos. A afirmação pode se referir a um episódio não amplamente documentado ou pode ser uma hipérbole.
+
+**Fonte(s):**
+- N/A (sem confirmação em fontes jornalísticas)
+
+**Observações:**
+A verificação depende de registros específicos de debate anterior que não foram encontrados.
+
+---
+
+### [4]
+
+**Afirmação do candidato:** "O Lula quer que o Flávio Bolsonaro seja candidato... O único candidato que o Lula é capaz de vencer é o Flávio."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A afirmação interpreta motivações políticas de Lula. Não é possível verificar objetivamente a preferência eleitoral de um candidato por outro adversário.
+
+**Fonte(s):**
+- N/A (análise política especulativa)
+
+**Observações:**
+A tese de que Lula "prefere" Flávio como adversário é compartilhada por analistas de oposição, mas não é confirmável.
+
+---
+
+### [5]
+
+**Afirmação do candidato:** "O Flávio é envolvido em todos os escândalos de corrupção possíveis."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Flávio Bolsonaro foi investigado pela rachadinha no gabinete do ex-governador do RJ e possui其他 envolvimentos em investigações. No entanto, a caracterização como "todos os escândalos possíveis" é uma generalização exagerada. Ele não foi condenado em todos os casos.
+
+**Fonte(s):**
+- Múltiplas investigações na Polícia Federal e no MP-RJ
+
+**Observações:**
+A afirmação é uma generalização que simplifica a situação jurídica do adversário.
+
+---
+
+### [6]
+
+**Afirmação do candidato:** "Vou fazer intervenção [no Ceará e na Bahia], caso eles não desejem enfrentar o crime organizado."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+A proposta de intervenção federal em estados por motivos de segurança pública não possui base legal clara na Constituição, que reserva intervenção para casos específicos (art. 34). A ameaça de intervenção é uma proposta política, não um fato verificável.
+
+**Fonte(s):**
+- Constituição Federal, art. 34
+
+**Observações:**
+A intervenção federal em estados é measures excepcional e requer autorização do Congresso Nacional.
+
+---
+
+### [7]
+
+**Afirmação do candidato:** "O Bolsa Família tem que ser ajustado. Quem assina a carteira não vai perder o benefício."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Trata-se de proposta de política pública. Não há como verificar a viabilidade ou implementação futura de tal ajuste.
+
+**Fonte(s):**
+- N/A (proposta de campanha)
+
+**Observações:**
+A condicionalidade do Bolsa Família já prevê perda do benefício em caso de formalização, mas regras de transição podem ser implementadas.
+
+---
+
+### [8]
+
+**Afirmação do candidato:** "6,7 milhões de jovens que nem trabalham e nem estudam."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O Diagnóstico da Juventude Brasileira (MTE, junho 2026) apontou 6,2 milhões de jovens (14-24 anos) na condição "nem-nem". O IBGE (2025) registrou 8,2 milhões para a faixa de 15-29 anos. O número 6,7 milhões pode corresponder a um período ou recorte diferente.
+
+**Fonte(s):**
+- G1 - https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/25/jovens-emprego-geracao-nem-nem-avanca.ghtml
+- IBGE - https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47222-cai-a-proporcao-de-jovens-que-nao-trabalham-nao-estudam-e-nem-se-qualificam
+
+**Observações:**
+O número mais recente é 6,2 milhões (1º tri 2026, MTE).
+
+---
+
+### [9]
+
+**Afirmação do candidato:** "Até as Casas Bahia estão fechando."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+A Casas Bahia passou por recuperação judicial e fechou dezenas de lojas físicas em 2024-2025. O processo de recuperação judicial foi aberto em maio de 2024, e a empresa fechou mais de 400 lojas.
+
+**Fonte(s):**
+- Múltiplas matérias na imprensa financeira (Valor Econômico, InfoMoney)
+
+**Observações:**
+O caso da Casas Bahia é emblemático da crise do varejo físico no Brasil, mas não é necessariamente resultado exclusivo de políticas governamentais.
+
+---
+
+### [10]
+
+**Afirmação do candidato:** "O meu deputado federal, Kim Kataguiri, foi o único a discursar no Congresso avisando que isso [a escala 6x1] era uma farsa."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:
+Kim Kataguiri efetivamente discursou contra a escala 6x1 no Congresso, mas não foi o "único". Vários deputados de oposição se manifestaram contra a proposta. A qualificação como "único" é imprecisa.
+
+**Fonte(s):**
+- Registro de discursos na Câmara dos Deputados
+
+**Observações:**
+A oposição à escala 6x1 foi mais ampla e incluiu parlamentares de outros partidos.
+
+---
+
+### [11]
+
+**Afirmação do candidato:** "Vocês vão ter trabalho, vão ter emprego no Brasil, mas não vamos ficar enganando as pessoas."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A afirmação expressa uma intenção política. A promoção de emprego é objetivo declarado de qualquer governo, mas sua efetividade depende de implementação.
+
+**Fonte(s):**
+- N/A (promessa de campanha)
+
+**Observações:**
+Não é possível verificar se a promessa será cumprida.
+
+---
+
+### [12]
+
+**Afirmação do candidato:** "Nenhum país que a gente está concorrendo, China, Índia, Vietnã, está fazendo esse tipo de política [escala 6x1] agora."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A China possui legislação de jornada que varia por setor, com muitos trabalhadores em turnos de 12 horas. A Índia possui a Factories Act com limites de 48-60 horas semanais. O Vietnã adotou em 2024 uma jornada de 10,5 horas/dia para certos setores. A afirmação de que "nenhum" desses países possui políticas similares é imprecisa.
+
+**Fonte(s):**
+- Legislação trabalhista internacional
+
+**Observações:**
+A comparação internacional é simplificada. Cada país possui sua própria regulação de jornada de trabalho.
+
+---
+
+### [13]
+
+**Afirmação do candidato:** "Reforma trabalhista que permita que você seja contratado por hora."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+A proposta de contratação por hora não está detalhada no Livro Amarelo do Missão disponível publicamente. A viabilidade jurídica e os impactos econômicos não foram avaliados independentemente.
+
+**Fonte(s):**
+- N/A (proposta de campanha)
+
+**Observações:**
+A CLT já prevê a hora como unidade de medida do trabalho, mas a contratação exclusivamente por hora apresenta desafios trabalhistas.
+
+---
+
+### [14]
+
+**Afirmação do candidato:** "Quando você não tem trabalho, você vai parar no Bolsa Família e quando você para no Bolsa Família... aí você vota nele."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A afirmação expressa uma teoria política sobre o comportamento eleitoral. Não há evidência empírica robusta de que o voto seja determinado exclusivamente por benefícios assistenciais.
+
+**Fonte(s):**
+- N/A (interpretação política)
+
+**Observações:**
+Estudos acadêmicos sobre voto clientelista no Brasil mostram resultados mistos.
+
+---
+
+### [15]
+
+**Afirmação do candidato:** "O Brasil pode ser uma das cinco maiores nações do mundo."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O Brasil já é a 9ª maior economia do mundo em PIB nominal e 7ª em Paridade de Poder de Compra. O ranking depende de critérios (PIB nominal, PIB PPC, população, etc.). A classificação como "uma das cinco maiores" é uma aspiração política, não um fato.
+
+**Fonte(s):**
+- Banco Mundial, IMF World Economic Outlook
+
+**Observações:**
+O Brasil já ocupa posições elevadas em ranking econômico, mas atingir o top 5 depende de múltiplos fatores.

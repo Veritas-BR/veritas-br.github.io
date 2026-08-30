@@ -1,0 +1,10 @@
+{
+  "candidate": "Luiz Inácio Lula da Silva",
+  "party": "PT",
+  "interview_date": "2026-08-27",
+  "transcript_file": "data/transcripts/lula.txt",
+  "analysis_file": "data/analyses/lula-2026.txt",
+  "model_used": "opencode/mimo-v2.5-free",
+  "analysis_date": "2026-08-30",
+  "version": "2.0"
+}

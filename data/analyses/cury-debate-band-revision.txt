@@ -1,0 +1,91 @@
+### Revisão de Fatos — Debate Band Augusto Cury (Avante)
+### Rodada: 2
+### Data: 2026-08-30
+
+---
+
+### [1]
+
+**Afirmação:** "Temos 32 milhões de neurodivergentes."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "neurodivergentes Brasil número total IBGE estimativa 2025 2026 autismo TDAH dislexia" → O Censo 2022 do IBGE registrou 2,4 milhões de brasileiros com diagnóstico de TEA (1,2% da população). O Ministério da Saúde aponta prevalência de 7,6% de TDAH em crianças entre 6 e 17 anos.
+- Consulta 2: "neurodiversidade Brasil estimativa total população" → SERTEP Notícias (13/07/2026) informou que estimativas internacionais sugerem que entre 15% e 20% da população mundial pode ser neurodivergente. No Brasil, essa faixa representaria entre 32 e 43 milhões de pessoas.
+
+**Evidência encontrada:**
+O número de 32 milhões tem respaldo em estimativas internacionais de prevalência de neurodivergência (15-20% da população). No Brasil, com 210 milhões de habitantes, isso representaria entre 31,5 e 42 milhões. Porém, não há dado oficial do IBGE ou do Ministério da Saúde que confirme esse número. O IBGE apenas contabilizou autismo (2,4 milhões no Censo 2022), sem medir TDAH, dislexia e outras condições neurodivergentes.
+
+**Classificação revisada:** RETIFICADO PARA IMPRECISO
+
+**Justificativa:**
+O número de 32 milhões tem base em estimativas internacionais de prevalência de neurodivergência (15-20% da população), o que no Brasil representaria entre 31,5 e 42 milhões de pessoas. No entanto, não há dado oficial brasileiro que confirme esse número. O IBGE apenas contabilizou autismo (2,4 milhões no Censo 2022), sem medir TDAH, dislexia e outras condições neurodivergentes. A afirmação não é verificável com dados oficiais, mas tem alguma base em projeções internacionais.
+
+**Fonte(s) adicional(is):**
+- IBGE — Censo 2022, dados de autismo (divulgados em maio de 2025)
+- SERTEP Notícias, 13/07/2026: "Neurodiversidade no Brasil: dados do IBGE"
+- Canal Autismo, 23/05/2025: "Brasil conhece, pela 1ª vez, seu número oficial de diagnóstico de autismo"
+
+---
+
+### [10]
+
+**Afirmação:** "preparando esta nação para o tsunami da inteligência artificial e da robótica e ninguém fala sobre isso."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "ninguém fala inteligência artificial robótica Brasil propostas políticas 2026" → O governo federal lançou em 2024 a Estratégia Brasileira de Inteligência Artificial (EBIA). O Congresso Nacional discute o PL 2338/2023 sobre IA. O CNJ publicou Resolução 615/2025 sobre IA no Judiciário. Múltiplos candidatos e partidos apresentaram propostas sobre IA.
+- Consulta 2: "Brasil políticas públicas inteligência artificial 2025 2026" → Google Brasil (11/03/2026) publicou sobre iniciativas de IA para serviço público. O SEBRAE utilizou IA para pesquisa de políticas públicas. A Bett Brasil 2026 apresentou soluções de IA e robótica para educação.
+
+**Evidência encontrada:**
+A afirmação de que "ninguém fala sobre isso" é claramente refutada pela evidência. O Brasil já possui: Estratégia Brasileira de IA (EBIA, 2024), Plano Brasileiro de IA (PBIA, 2025), PL 2338/2023 sobre regulação de IA, Resolução CNJ 615/2025, iniciativas do governo com Google Brasil, e múltiplas propostas de candidatos. O tema de IA e robótica é amplamente discutido em fóruns políticos, técnicos e acadêmicos.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+Embora a evidência mostre que o tema de IA e robótica é discutido no Brasil (EBIA, PBIA, PL 2338/2023, Resolução CNJ, propostas de candidatos), a classificação NÃO VERIFICÁVEL se mantém porque a afirmação de que "ninguém fala sobre isso" é uma generalização subjetiva impossível de verificar com precisão. O candidato pode estar se referindo à ausência do tema no debate eleitoral específico, não à inexistência de discussão no país. A classificação reflete a natureza subjetiva da afirmação.
+
+**Fonte(s) adicional(is):**
+- Ministério da Ciência e Tecnologia — Estratégia Brasileira de IA (EBIA), 2024
+- Câmara dos Deputados — PL 2338/2023 sobre IA
+- CNJ — Resolução 615/2025 sobre IA no Judiciário
+- Google Brasil Blog, 11/03/2026: "Inteligência Artificial a favor do Brasil"
+
+---
+
+### [12]
+
+**Afirmação:** "O Brasil tem cura."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "Augusto Cury Brasil tem cura slogan campanha" → A expressão "O Brasil tem cura" é o slogan oficial de campanha de Augusto Cury para a eleição presidencial de 2026. É uma referência à sua carreira como psiquiatra e uma metáfora sobre a possibilidade de superação dos problemas nacionais.
+
+**Evidência encontrada:**
+A afirmação é o slogan de campanha do candidato. Trata-se de uma metáfora política e não de uma afirmação factual verificável. Não há como verificar se um país "tem cura" — a expressão é por natureza aspiracional e subjetiva.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+"O Brasil tem cura" é o slogan de campanha de Augusto Cury e uma metáfora sobre a possibilidade de superação dos problemas nacionais. Não é uma afirmação factual verificável, mas uma promessa política e uma referência à sua carreira como psiquiatra. A classificação NÃO VERIFICÁVEL é a mais adequada para slogan de campanha.
+
+**Fonte(s) adicional(is):**
+- GCMais, 28/08/2026: "Quem é Augusto Cury? Veja biografia, formação, livros e onde nasceu"
+- Terra, 29/08/2026: "Augusto Cury já publicou mais de 70 livros; veja os principais títulos"
+
+---
+
+### RESUMO DA REVISÃO
+
+Total de afirmações revisadas: 3
+Mantidas: 2
+Retificadas: 1
+
+| Afirmação | Original | Revisada | Mudou? |
+|-----------|----------|----------|--------|
+| #[1] | NÃO VERIFICÁVEL | IMPRECISO | Sim |
+| #[10] | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #[12] | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |

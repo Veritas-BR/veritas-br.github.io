@@ -1,0 +1,1127 @@
+# Transcrição: Augusto Cury (Avante) - Globo 2026-08-29
+# Modelo: Whisper large-v3-turbo
+
+[00:00] Olá, boa noite.
+
+[00:13] Boa noite.
+
+[00:20] Essa semana estamos entrevistando os candidatos à presidência da República nas eleições 2026.
+
+[00:22] Foram convidados os seis candidatos mais bem colocados na pesquisa Quest de 14 de agosto.
+
+[00:27] A ordem das entrevistas foi decidida num sorteio com a presença de representantes das campanhas.
+
+[00:34] Hoje nós recebemos aqui no estúdio o candidato Augusto Cury, do Avante.
+
+[00:46] Nós já entrevistamos Romeu Zema, do Novo, Ronaldo Caiado, do PSD, Renan Santos, do Missão, Luiz Inácio Lula da Silva, do PT e Flávio Bolsonaro, do PL.
+
+[00:50] Cada entrevista tem 40 minutos de duração com dois blocos e as considerações finais dos candidatos.
+
+[00:58] Vamos começar então relembrando a trajetória de Augusto Cury.
+
+[01:03] Augusto Cury tem 67 anos.
+
+[01:06] Nasceu em Colina, no interior de São Paulo.
+
+[01:08] É médico, escritor e empresário.
+
+[01:11] Disputa um cargo eletivo pela primeira vez agora, em 2026.
+
+[01:14] Formado pela Faculdade de Medicina de São José do Rio Preto, se especializou em psiquiatria.
+
+[01:21] Dedicou a carreira ao estudo das emoções humanas.
+
+[01:25] Augusto Cury também é dono de uma plataforma de cursos na internet com foco no tema saúde emocional.
+
+[01:32] Se filiou ao Avante em abril e concorre à presidência pelo partido.
+
+[01:36] Tem como candidato a vice Júlio Delgado, também do Avante.
+
+[01:40] Candidato, boa noite. Muito obrigado pela presença do senhor aqui.
+
+[01:46] Boa noite.
+
+[01:47] Boa noite.
+
+[01:47] Tralho, é um privilégio estar com vocês, Renata.
+
+[01:50] Uma grande honra.
+
+[02:02] Eu quero aproveitar para agradecer profundamente o maior pacifista da história, que abalou a mente de Leão Tostoi, que foi um grande escritor russo, que guiou e controlou Gandhi e motivou Martin Luther King para lutar até as últimas consequências pelos direitos civis.
+
+[02:18] Alguém que eu descria, mas que eu estudei profundamente e percebi que nunca alguém tão grande se fez tão pequeno para tornar os pequenos grandes.
+
+[02:22] E esse personagem é Jesus Cristo.
+
+[02:24] Eu agradeço muito pelo fato dele ter me inspirado também.
+
+[02:28] Muito obrigado por estar aqui.
+
+[02:29] Candidato, o tempo da entrevista começa a contar a partir de agora.
+
+[02:33] Essa semana, nós apresentamos a todos os candidatos aqui um tema central para o futuro do Brasil.
+
+[02:39] Eu quero ouvir o senhor também.
+
+[02:41] É o debate sobre as contas do governo.
+
+[02:44] A dívida já ultrapassou 10 trilhões de reais, 82% do PIB.
+
+[02:55] Esse é um dos grandes desafios para o próximo presidente, como conter o crescimento da dívida e equilibrar as contas num patamar, numa trajetória sustentável.
+
+[03:01] Os especialistas são unânimes em dizer que o ajuste precisa ser grande.
+
+[03:11] Um superávit de 150 a 200 bilhões de reais nos próximos 10 anos, algo em torno aí de 2 a 2,5% do PIB.
+
+[03:16] Pergunta ao senhor, para que percentual do PIB o senhor se compromete a trazer essa dívida se eleito?
+
+[03:25] Trala, muito obrigado pela pergunta.
+
+[03:27] De fato, a dívida pública está em níveis estratosféricos.
+
+[03:31] E o governo tem de ser responsável fiscalmente.
+
+[03:36] Porque o rosto...
+
+[03:37] Porque a dívida pública tem o rosto de cada criança e de cada adolescente.
+
+[03:41] Cada criança e adolescente nasce devendo pelo menos 50 mil reais.
+
+[03:45] E nós precisamos de várias estratégias.
+
+[03:51] Número um, nós temos que ter 10 milhões de microempresas financiadas para poder aumentar a massa do pagamento de impostos.
+
+[03:54] Isso melhora a renda.
+
+[03:55] Número dois, temos que fazer uma auditoria muito séria na gestão pública.
+
+[04:06] Número três, nós temos que rever 50 mil cargos comissionados para saber quais são os essenciais e quais são aqueles que devem ser cortados.
+
+[04:11] Talvez 30%.
+
+[04:13] Número quatro, nós precisamos também rever os contratos e combater seriamente a corrupção.
+
+[04:20] Corrupção no Brasil vem e volta, entra governo, sai governo.
+
+[04:23] É um problema muito sério.
+
+[04:35] E também nós precisamos ajustar o Bolsa Família, porque nós precisamos colocar 10 a 15 milhões de pessoas do Bolsa Família tendo a possibilidade de ter uma segunda renda sem perder o benefício.
+
+[04:40] Isso melhoraria também significativamente as contas públicas.
+
+[04:42] E para encerrar, eu taxaria as bets seriamente.
+
+[04:46] Sabe quantas bets pagam de imposto?
+
+[04:53] Pagam 12%, alimento 18% e por incrível que pareça, Luz 30% e 33%.
+
+[05:00] Se nós não taxarmos as bets, e deveríamos taxá-las, pelo menos com 50%, nós vamos ter uma economia muito grande.
+
+[05:06] Talvez 40% a mais em relação aos 12%, 52% seria uma taxação razoável.
+
+[05:16] Agora, tudo isso que o senhor disse, para que percentual do PIB o senhor conseguiria trazer essa dívida?
+
+[05:19] Qual a economia que o senhor conseguiria fazer?
+
+[05:21] Nós conseguiríamos trazer...
+
+[05:21] Já fez essa conta?
+
+[05:23] Tranquilamente.
+
+[05:23] Já consegue botar essa dívida numa trajetória sustentável de novo?
+
+[05:27] A 2% a 3% do PIB, nós precisamos economizar, não tem jeito.
+
+[05:32] Ou nós somos responsáveis fiscalmente, ou nós não conseguimos nem abaixar a taxa Selic.
+
+[05:42] Mas, candidato, essa conta que o senhor falou, reduzir gastos comissionados, o senhor falou de taxação, cortar ministérios, despesas do Palácio,
+
+[05:51] que são os gastos, elas sinalizam uma austeridade, mas estão distantes do tamanho desse ajuste mencionado pelo tralho dos economistas, 200 bilhões de reais.
+
+[06:01] Hoje, a superávit de 11 bilhões de reais, de fato, ficam de fora dessa conta muitas despesas reais, que depois vão cair na dívida pública.
+
+[06:03] São as chamadas exceções.
+
+[06:07] Precatórios, gastos com defesa, saúde, ficam de fora do chamado limite de gastos do arcabouço fiscal.
+
+[06:10] O senhor, se eleito, mudaria alguma regra do arcabouço fiscal?
+
+[06:15] Olha, nós cobramos muitos impostos, entregamos muito poucos.
+
+[06:32] Se nós taxarmos em mais 40% as bets, você sabe, as bets 30 bilhões por mês, no final do ano 360, 400 bilhões, só 40% a mais você vai ter 120 bilhões a mais para o caixa do governo.
+
+[06:48] E se tivermos responsabilidade de gerir de maneira adequada e inteligente toda a máquina pública e não contratássemos mais colaboradores, entrássemos com inteligência artificial e digitalizássemos toda a máquina pública,
+
+[06:54] nós certamente conseguiríamos economizar o suficiente.
+
+[06:58] O senhor fez essa conta já?
+
+[07:01] Já sim, com várias pessoas.
+
+[07:03] E o senhor consegue estimar um valor?
+
+[07:05] Nós conseguimos pelo menos 150, 200 bilhões de reais.
+
+[07:19] E vou dizer uma coisa, é essencial, porque cada 1% da taxa Selic, nós pagamos quase 100 bilhões a mais para rolar a dívida federal.
+
+[07:23] Isso é uma insanidade, é um absurdo.
+
+[07:25] Nós temos que ter responsabilidade fiscal para essa taxa Selic ganhar o mais rápido possível.
+
+[07:31] Candidato, o senhor não mexeria no arcabouço fiscal?
+
+[07:33] Não, o arcabouço fiscal, nós vamos fazer um estudo.
+
+[07:36] Parece que o ICBS pode prejudicar demais as pequenas e microempresas.
+
+[07:43] Eu já conversei com um grande especialista na área, inclusive presidente da associação.
+
+[07:47] Esse estudo ainda não foi feito?
+
+[07:48] Sim, ele tem sido feito.
+
+[07:53] Mas eu não posso prometer para vocês aqui como é que nós vamos fazer, porque se eu me antecipar, já pensou?
+
+[07:56] Há uma reforma fiscal sem precedente.
+
+[08:02] Eu não posso me antecipar, seria ingênuo, seria até eleitoreiro, seria popularista falar de uma mudança.
+
+[08:04] Eu sei que nós temos que fazer.
+
+[08:06] Eu sei que o ICBS vai gerar uma série de problemas para as micros e pequenas empresas.
+
+[08:12] Nós vamos ter que rever isso.
+
+[08:14] Mas eu não quero me adiantar aqui.
+
+[08:15] Aliás, a reforma tributária é um tema que a gente quer muito abordar com o senhor mais para frente.
+
+[08:21] O senhor disse há pouco sobre fazer cortes, enxugar a máquina.
+
+[08:30] E o senhor está prometendo no seu plano de governo fazer uma redução no número de ministérios, entre 8 e 10.
+
+[08:37] Mas o senhor não deixa claro que ministérios seriam esses, quais os critérios, o que vai ser prioridade, como vai cortar.
+
+[08:39] Então, peço ao senhor, por favor, que traga aqui detalhes em relação a isso.
+
+[08:43] Quais são esses ministérios que o senhor pretende eliminar já se for eleito?
+
+[08:56] Eu não queria me adiantar a esse respeito, porque nós vamos ter que fazer uma análise criteriosa, sem fins eleitoreiros, para podermos diminuir a máquina pública.
+
+[09:01] Certamente, de 8 a 10 ministérios serão cortados.
+
+[09:05] Porque nós temos que economizar.
+
+[09:08] Mas por que o senhor chegou a essa conta?
+
+[09:15] Porque eu fiz uma análise com um grupo de pessoas que é possível fundir ministérios e é possível, consequentemente, otimizar os gastos.
+
+[09:19] Por isso que nós chegamos a essa conta.
+
+[09:21] Por exemplo...
+
+[09:21] O senhor fala, por exemplo, em fundir ministérios, mas também em criar outros.
+
+[09:25] O senhor vai criar, se for eleito, o Ministério da Robótica e da Inteligência Artificial.
+
+[09:35] Mas por que criar uma nova estrutura e não incorporar, por exemplo, essas políticas ao Ministério da Ciência e Tecnologia, que já existe, por exemplo?
+
+[09:39] Porque o mundo vai virar de cabeça para baixo em 4 ou 5 anos.
+
+[09:59] Ou vamos ter uma secretaria executiva de robótica e inteligência artificial para usarmos, inclusive, esses dois elementos para neutralizarmos a perda do bônus demográfico que estamos perdendo de maneira cruel.
+
+[10:01] Menos gente nascendo, menos gente trabalhando e muito mais gente aposentando.
+
+[10:17] Se nós não tivermos uma secretaria executiva ou um Ministério da Inteligência Artificial e robótica, o Brasil vai ser atropelado e pode ser que haja dezenas de milhões de desempregos e ninguém fala sobre isso.
+
+[10:19] E nós temos que ter uma economia distribuída, pelo menos...
+
+[10:28] Eu dividiria o BNDES em dois, o Banco da Grande Empresa e o Banco da Micro Empresa, para que nós possamos financiar pelo menos 10 milhões de micro empresas.
+
+[10:35] Caso contrário, advogados, engenheiros, médicos, jornalistas, talvez nem vocês aqui vão estar me entrevistando daqui a 4 ou 5 anos e também trabalhadores das empresas.
+
+[10:50] Agora, candidato, para ficar claro, o senhor pretende criar ou o senhor pretende extinguir Ministério, porque fala em cortar de 8 a 10, mas como a Renata trouxe, também fala na criação de novos Ministérios.
+
+[10:57] Quando o senhor corta Ministério, são servidores públicos, o senhor tem que realocar para outros Ministérios, para outras secretarias.
+
+[10:59] Então, os próprios especialistas dizem que a economia não é muito grande.
+
+[11:04] Então, para entender bem a proposta do senhor, é cortar Ministério ou é criar Ministério?
+
+[11:20] Nós vamos cortar Ministérios, mas nós temos que ou criar uma secretaria executiva, vou repetir de novo, uma secretaria executiva de inteligência artificial e robótica com grande autonomia e, além disso, nós temos que criar o Ministério da Segurança Pública.
+
+[11:33] Até brinquei com o Caiado, se eu criá-lo, ele seria o xerife do Brasil, ele assumiria esse Ministério.
+
+[11:39] Sim, nós temos que cortar, não há dúvida, eu não tenho dúvida disso, mas nós precisamos modernizar a máquina pública.
+
+[11:41] Vocês têm ideia do que pode acontecer em 4 a 5 anos?
+
+[11:53] Você pega o Elon Musk, na sua santa genialidade, ele fala, você trabalha se quiser em 4 ou 5 anos, mas ele, na sua santa ingenuidade, ele não fala, quem vai pagar a conta de dezenas de milhões de desempregados?
+
+[12:06] Nós temos que ter pelo menos 10 mil jovens fazendo doutorado em inteligência artificial, já que não temos recursos para ter uma Antrópica, para ter um chat GPT, um Gemini, nós temos que ter os melhores pilotos, senão nós não vamos desenvolver a produção adequada de medicamentos,
+
+[12:16] nós não vamos desenvolver a agricultura 4.0, nós não vamos ter uma indústria também muito mais produtiva e proativa.
+
+[12:23] O mundo está mudando, trale Renata, me desculpe, o mundo está mudando, esse mundo é completamente novo, talvez, reitero, não sobe pedra, sobe pedra.
+
+[12:27] Então você fala, você vai cortar ou você vai aumentar?
+
+[12:29] Sim, nós vamos cortar, mas em algumas áreas nós temos que aumentar e aumentar de maneira urgente.
+
+[12:39] E o seu plano de governo fala também em avaliar o desempenho dos servidores públicos, mas também não diz como é que isso vai ser feito.
+
+[12:52] Então eu pergunto ao senhor, quem que avaliaria, quais seriam os critérios e se um servidor público não estiver desempenhando bem o papel, a função dele, ele seria demitido, perderia o emprego, enfim, o senhor pode trazer detalhes, por favor?
+
+[12:56] Posso trazer.
+
+[12:56] Bom, nós pagamos os nossos impostos.
+
+[13:03] Se você não fosse um jornalista notável e inteligente, você não estaria aqui, nem a Renata.
+
+[13:10] Como vocês são inteligentes, vocês têm autonomia, são pessoas com alta capacidade, vocês estão aqui.
+
+[13:10] Agora, como é que pode?
+
+[13:18] Aqueles que nós pagamos com os impostos e é uma máquina pública com centenas de milhares de funcionários, eles têm de ter indicador de desempenho, sim.
+
+[13:22] Se não tiver um desempenho adequado, vão ser treinados, eles vão ser equipados.
+
+[13:31] Precisamos ter uma escola.
+
+[13:32] E quais critérios para avaliá-los?
+
+[13:33] O senhor já estabeleceu?
+
+[13:35] O Trale, esses critérios são tão básicos de desempenho.
+
+[13:38] Se a pessoa consegue atender bem, adequadamente, um colaborador.
+
+[13:48] Se ela consegue ter um raciocínio capaz de empenhar o mais rapidamente possível também as suas funções.
+
+[13:49] Se ela consegue trabalhar com inteligência artificial também para otimizar os processos.
+
+[14:02] A avaliação de colaboradores, isso é muito estabelecida em qualquer empresa de pequeno porte ou grande porte.
+
+[14:03] Nós vamos usar critérios sérios.
+
+[14:05] Nós temos um quadro de colaboradores que eu respeito demais.
+
+[14:10] Mas nós precisamos ter uma máquina pública mais eficiente e mais enxuta.
+
+[14:15] Candidato, seu plano não define política para o salário mínimo.
+
+[14:19] Qual é a proposta do senhor?
+
+[14:21] A minha proposta é muito clara.
+
+[14:22] Nós precisamos ter uma classe média pungente.
+
+[14:26] Vamos repor a inflação mais 1% ao ano.
+
+[14:37] E nós esperamos que no final de 4 anos, 48 meses, nós tenhamos, se for juros compostos, talvez 50, 60% de aumento do salário mínimo.
+
+[14:41] E nos próximos 10 anos, 8 a 10 anos, nós temos que sair de 300 dólares.
+
+[14:47] Agora, como manter esse ganho real, estabilizando as contas públicas, controlando a dívida?
+
+[14:55] Sim.
+
+[15:06] Se nós controlarmos as contas públicas e vamos controlar as contas públicas, se nós tivermos uma máquina mais eficiente, mais proativa, mais dinâmica, e se o governo for mais responsável, bem mais responsável do que atualmente,
+
+[15:13] certamente vai haver espaço para você ter pelo menos 1% ao ano a mais do que a inflação.
+
+[15:28] Aí, nós vamos formar uma classe média robusta, porque sem uma classe média robusta, não vai funcionar adequadamente o comércio, não vai ter consumidores, não vai ter pessoas que vão comprar os produtos
+
+[15:31] até que os meios de comunicação propagam.
+
+[15:43] Nós temos que sair dessa condição de classe média, sabe, que não fecha as contas no final do mês, que pessoas, milhões de pessoas fazendo as contas e as contas
+
+[15:46] para poder dar dignidade para a sua família.
+
+[15:49] Candidato.
+
+[15:50] E eles não conseguem.
+
+[15:51] Então, nós vamos ter uma classe média robusta.
+
+[15:54] Eu...
+
+[15:58] Isso é tão caro para mim, porque eu vou te contar uma coisa, só para encerrar, Renata.
+
+[16:00] O dinheiro não garante a felicidade.
+
+[16:06] Por isso até que há muitos miseráveis morando em palácios, mas a falta de dinheiro garante a ansiedade.
+
+[16:09] E há milhões de pessoas que não conseguem ter o mínimo de dignidade neste país.
+
+[16:21] responsabilidade fiscal é cuidar do dinheiro dos brasileiros que precisam de políticas sociais, crédito acessível para poder planejar o futuro.
+
+[16:24] Mas eu quero abordar com o senhor feminicídio.
+
+[16:27] Mais de quatro mulheres morrem todos os dias no Brasil vítimas desse crime.
+
+[16:32] Só no ano passado foram mais de 1.500 mulheres.
+
+[16:40] Numa entrevista recente, o senhor defende usar drones como uma política, parte da política de proteção às mulheres.
+
+[16:42] Que evidência existe de que esse modelo é capaz de evitar os feminicídios?
+
+[16:48] Deixa eu te contar.
+
+[16:49] Sabe quantas mulheres morreram no ano passado?
+
+[16:51] Acabei de dizer para o senhor que quatro mulheres morrem todos os dias.
+
+[16:56] Só no ano passado, mais de 1.500.
+
+[16:58] Foram 1.571 mulheres.
+
+[17:01] E uma importa.
+
+[17:03] Porque cada mulher é um ser humano único e irrepetível.
+
+[17:06] Eu tenho proposto que nós temos que usar uma polícia muito mais rápida e proativa.
+
+[17:12] E uma delas não é tanto apenas o drone.
+
+[17:15] É em destaque um aplicativo.
+
+[17:17] Uma mulher, ela sente ameaçada, violentada.
+
+[17:30] Ela aplica, ela toca o dedo lá no botão de alerta e é gerro referenciado na delegacia mais próxima para que o agente de segurança possa socorrê-la.
+
+[17:33] Isso é uma crueldade.
+
+[17:34] Eu quero saber...
+
+[17:35] Isso é uma crueldade.
+
+[17:37] Mas, candidato, esses drones funcionariam na prática como?
+
+[17:40] Porque são mais de 5.000 cidades brasileiras, mais de 6.000 delegacias.
+
+[17:44] Mas um drone não é caro.
+
+[17:45] Muitas delas não têm nem internet.
+
+[17:46] Não, tudo bem.
+
+[17:47] É verdade.
+
+[17:48] Muitas áreas não têm internet.
+
+[17:49] Mas você já pensou se tivesse um aplicativo com um botão de alerta georreferenciado?
+
+[17:59] E você já pensou se nós usarmos tecnologia que é usada em outros países, onde você vai com o drone, com a sirene de alerta até a casa do predador?
+
+[18:04] E todas as delegacias teriam uma sirene para acionar esses drones?
+
+[18:09] Como funcionaria?
+
+[18:10] Nós somos um dos países mais digitalizados do mundo.
+
+[18:13] Esqueça a questão do drone.
+
+[18:15] Por favor, pense num aplicativo que possa ter uma resposta mais rápida.
+
+[18:19] Mas o senhor perdeu drones e diz que eles seriam acionados pelo aplicativo.
+
+[18:23] Eu gostaria de entender.
+
+[18:25] Todas as delegacias do Brasil teriam esses drones com sirenes?
+
+[18:29] Claro que não.
+
+[18:29] Claro que não, Renata.
+
+[18:30] São as delegacias das cidades maiores mais digitalizadas.
+
+[18:33] Mas o objetivo é proteger as mulheres.
+
+[18:36] É proteger essa uma mulher que eu falei, em 1571.
+
+[18:39] Mas 70% das vítimas de feminicídio, dos crimes, ocorrem em casa.
+
+[18:44] Como é que um drone atuaria nessas...
+
+[18:48] Nessa realidade, nessas situações, dentro de casa?
+
+[18:59] Porque se a Sônia na delegacia, ele sai da delegacia antes do policial e ele faz uma sirene de alerta.
+
+[19:00] E isso pode evitar que o predador que age rapidamente possa matá-la ou agredi-la.
+
+[19:09] Mas esquece a questão do drone.
+
+[19:11] Você está se prendendo num detalhe pequeno.
+
+[19:20] Eu quero mostrar que existe e é possível ter um aplicativo onde as mulheres vão ser protegidas.
+
+[19:35] Porque o fato de elas terem o disco e denúncia, onde elas conversam com uma pessoa que está lá atrás, recebendo a denúncia, há um desânimo, há uma angústia e há uma dificuldade tão grande de falar da sua dor em relação ao predador que muitas mulheres são mortas.
+
+[19:40] Não dá tempo.
+
+[19:47] Mas se tiver um aplicativo, certamente esse botão de alerta faz com que policiais sejam acionados mais rapidamente para socorrer.
+
+[19:48] Esquece a questão de drone, por favor.
+
+[19:51] Vamos nos voltar para a proteção das mulheres.
+
+[19:54] O senhor que prometeu.
+
+[19:55] Mas eu sou muito preocupado.
+
+[20:05] Desde 2002, quando eu escrevi o livro, 2003, A Ditadura da Beleza e a Revolução das Mulheres, eu defendo a causa das mulheres.
+
+[20:06] E vou te falar outros números.
+
+[20:13] O senhor falou sobre o aplicativo, para que ele funcione, e o senhor mesmo reconheceu, precisa ter internet acessível.
+
+[20:15] Claro.
+
+[20:22] Precisa ter sinal nas cidades e muitas regiões do país têm essa dificuldade hoje de ter sinal de internet bom de qualidade e barato.
+
+[20:25] Mas quero falar de saúde pública, que é outro tema muito caro ao brasileiro.
+
+[20:30] Eu sei, mas só para terminar um assunto importante.
+
+[20:32] Se o senhor pudesse ser rápido, só para a gente mandar de assunto, por favor.
+
+[20:40] Você sabia que as mulheres pagam 4% a mais de juros que os homens, embora sejam melhores pagadoras?
+
+[20:42] Sabia disso?
+
+[20:50] Sabia que as mulheres, elas recebem 21% a menos que os homens, embora tenham a mesma qualificação pelos mesmos trabalhos?
+
+[20:52] Então, o problema não é só feminicídio.
+
+[20:54] As mulheres são violentadas nas mais diversas formas.
+
+[20:57] Elas têm de ser protegidas.
+
+[21:02] Há muitos problemas que nós queremos abordar aqui com o senhor e vamos para o próximo dele, que é saúde pública.
+
+[21:04] Candidato, olha só, hoje de cada 4 brasileiros, 3 são atendidos pelo SUS.
+
+[21:09] O senhor defende que 80% das consultas básicas passem a ser feitas através da telemedicina.
+
+[21:16] E pela sua proposta, só os atendimentos mais complexos seriam feitos de forma presencial.
+
+[21:29] Em que estudo ou experiência concreta o senhor se baseia para avaliar que todos esses casos poderiam ser atendidos pela telemedicina?
+
+[21:32] Eu sou médico.
+
+[21:33] Você esqueceu disso?
+
+[21:35] Eu sou médico.
+
+[21:36] Eu vivo a medicina, trabalho com médicos, dou treinamento para médicos.
+
+[21:53] Nós sabemos hoje que a telemedicina, se for robusta, inteligente, com inteligência artificial, com médicos capazes, oferecendo atendimento 24 horas por dia, você pode atender uma criança com diarreia e vômito de madrugada na periferia.
+
+[21:56] Só que a edição primária foram 31 milhões de atendimentos no ano passado, candidato.
+
+[22:01] Então, a telemedicina, nós poderíamos construir a melhor telemedicina do mundo.
+
+[22:06] Esse projeto é revolucionário.
+
+[22:12] Sabe quanto tempo demora uma consulta eletiva com um cardiologista, um reumatologista, um oftalmologista, na rede SUS, que é um sistema excelente.
+
+[22:16] Quem morou já fora como eu, valoriza o SUS, mas ele está afogado.
+
+[22:19] Sabe quanto?
+
+[22:21] Você tem essa estatística?
+
+[22:23] Quanto tempo demora para se ter uma consulta em média com um oftalmologista?
+
+[22:27] 57 dias.
+
+[22:28] Com cardio também.
+
+[22:30] Em Brasília, tem dados que são mais de 100 dias.
+
+[22:32] Agora...
+
+[22:33] Ora, mas espera, então, uma telemedicina poderia resolver 80% dos casos.
+
+[22:46] Excelentes médicos atendendo, 24 horas por dia, provavelmente, ou em condições de atender em meia hora um idoso com infecção pulmonar ou uma criança, como falei, com diarreia e vômito.
+
+[22:59] Nós resolvemos 80% dos casos porque a consulta e a orientação e a medicação saem por via de um aplicativo.
+
+[23:00] Isso seria uma revolução.
+
+[23:03] Eu quero fazer uma das melhores telemedicinas do mundo.
+
+[23:05] Eu sei que é possível, porque eu já investi em telemedicina.
+
+[23:08] Candidatos médicos.
+
+[23:08] Mas não seria uma telemedicina, não seria uma telemedicina privada.
+
+[23:12] Seria uma telemedicina que o próprio governo a construiria.
+
+[23:15] Os médicos especialistas, eles falam, obviamente, sobre a importância de ter a telemedicina.
+
+[23:22] Valorizam a telemedicina, mas também...
+
+[23:24] Inclusive é usada no SUS hoje.
+
+[23:26] Exatamente.
+
+[23:26] Exatamente.
+
+[23:38] Mas também destacam a importância de você ter um médico no acompanhamento do crescimento das crianças, programa de saúde da família, em você atender as populações mais pobres, em você atender aquelas populações em áreas mais distantes.
+
+[23:49] E os próprios especialistas dizem que nenhum país do mundo conseguiu implantar 80% de atendimento por telemedicina.
+
+[23:50] Como fazer isso no Brasil?
+
+[23:54] Vota em mim que você vai...
+
+[23:56] Desculpa a brincadeira.
+
+[23:57] Deixa eu dizer, trale.
+
+[23:59] Trale, é possível, trale.
+
+[24:00] E tem que ser.
+
+[24:01] Senão o nosso SUS vai ser muito injusto.
+
+[24:04] Uma consulta, trale, que eletiva de um especialista demora tanto tempo não é justo.
+
+[24:10] Nós temos condições de transformar o Brasil num país com a melhor telemedicina do mundo.
+
+[24:15] O Conselho Federal...
+
+[24:16] Isso já é aplicado nos Estados Unidos, isso já é aplicado em alguns países da Europa.
+
+[24:21] É possível, com excelentes médicos, porque é injusto uma pessoa...
+
+[24:25] Mas o Conselho Federal de Medicina, que regulamentou os serviços de telemedicina, né?
+
+[24:35] E um dos artigos do Conselho Federal de Medicina afirma que os serviços médicos à distância jamais poderão substituir o compromisso constitucional de garantir a assistência presencial.
+
+[24:49] Ao propor que 80% das consultas básicas do SUS sejam à distância, o senhor não teme de contrariar essa regra do Conselho Federal de Medicina?
+
+[24:52] O Conselho Federal de Medicina precisa ser atualizado.
+
+[24:56] Há uma revolução tecnológica sem precedente.
+
+[25:00] Eu quero dizer que eu respeito o CRM, eu respeito o Conselho Federal também de Medicina.
+
+[25:04] Mas o mundo está mudando de maneira tão rápida que nem os médicos estão acompanhando.
+
+[25:09] Renata, pense comigo.
+
+[25:11] O que você prefere?
+
+[25:13] Ter uma consulta com um excelente médico cardiologista online ou você esperar 50 dias na fila?
+
+[25:19] Nós vivemos numa bolha, Renata.
+
+[25:25] Nós temos condições financeiras, mas as pessoas que estão na periferia, elas precisam ser atendidas e rapidamente.
+
+[25:27] Imagina um idoso, como eu falei, com uma infecção pulmonar e ele não tem condição de locomoção.
+
+[25:35] Então é melhor que faça uma telemedicina, é melhor que nós treinamos, é melhor que nós equipamos do que fazer com que ele demore dezenas de dias para ter uma consulta.
+
+[25:41] Isso é completamente injusto.
+
+[25:43] Eu estou propondo uma revolução para podermos otimizar o SUS, que é espetacular.
+
+[25:50] Mas é injusto às pessoas que não têm condições financeiras não serem atendidas adequadamente.
+
+[25:59] Candidato, o senhor é embaixador de uma empresa de telemedicina e até 2023 o senhor aparecia como sócio dela.
+
+[26:06] Quando o senhor propõe ampliar a telemedicina numa proporção dessa no sistema público de saúde, não representaria um conflito de interesse?
+
+[26:16] Em hipótese alguma, representa que eu já tive experiência aplicando nessa telemedicina, que não tem mais nenhuma relação.
+
+[26:18] Eu sei que é possível.
+
+[26:20] E é possível de maneira barata e é possível de maneira eficiente.
+
+[26:24] Eu sei que é possível.
+
+[26:32] Tem um caso em São José do Rio Preto, uma médica falou, doutor Cury, nós aplicamos aqui com alta eficiência.
+
+[26:33] E inclusive as pessoas saíram muito mais satisfeitas porque você tem tempo para conversar com o paciente, analisá-lo e pedir uma série de exames e a partir daí nós otimizarmos as consultas.
+
+[26:48] Agora, Trale, vai haver desafios?
+
+[26:50] Claro que vai, Trale.
+
+[26:51] Eu não estou propondo aqui uma coisa rápida e impensada.
+
+[26:55] Eu estou propondo uma solução para as pessoas que são pobres.
+
+[26:58] Gente, pelo amor de Deus, eu não estou aqui me colocando como candidato à presidência, como salvador da pátria.
+
+[27:04] Eu estou me colocando aqui porque eu escutei a dor a vida toda.
+
+[27:08] E a dor de um ser humano, desculpa, a dor de um ser humano é o patrimônio mais importante.
+
+[27:13] Ou a dor nos constrói, ou ela nos destrói.
+
+[27:15] Então, o senhor disse que não vê conflito de interesses nesse caso, perguntado pelo Trale.
+
+[27:20] Vamos falar então de educação?
+
+[27:21] Não, eu estou falando que não vejo porque eu tenho experiência.
+
+[27:23] É possível, sim, ter uma medicina revolucionária no país todo para desafogar o SUS.
+
+[27:28] Ele se referiu pelo fato de você ser embaixador desse programa e ser dono da empresa.
+
+[27:30] Não, não sou mais embaixador.
+
+[27:31] Não sou mais embaixador.
+
+[27:32] Eu sou alguém que tem experiência porque eu sou empresário.
+
+[27:35] É que está no site.
+
+[27:36] Então, tem que tirar rapidamente.
+
+[27:37] Está no site dessa empresa.
+
+[27:38] Tire rapidamente.
+
+[27:39] O senhor, como embaixador dela, oferecendo 24 horas por dia de consulta.
+
+[27:49] E você sabia que essa empresa aqui oferecia atendimento gratuito para várias pessoas desvalidas, vulneráveis?
+
+[27:51] Então, vamos passar para a educação.
+
+[27:52] Vamos passar, vamos.
+
+[27:53] Mas olha, isso daí vai ser retirado imediatamente.
+
+[28:02] O senhor propõe adotar metodologias de aprendizado e programas de desenvolvimento emocional que o senhor mesmo criou e comercializa na iniciativa privada.
+
+[28:06] A gente ouviu todos pela educação, que é uma referência no assunto.
+
+[28:09] Eles destacaram que não cabe a um presidente definir um método de ensino.
+
+[28:15] Mas sua avaliação, não haveria aí um outro conflito de interesse?
+
+[28:18] Um presidente indicar um método de ensino que ele mesmo comercializa?
+
+[28:22] Espera um pouquinho.
+
+[28:24] Renata, onde você viu isso?
+
+[28:26] No meu que eu estou propondo o meu programa de saúde emocional.
+
+[28:31] O senhor falou, prometeu em entrevistas recentes, semana passada.
+
+[28:35] Espera um pouquinho.
+
+[28:35] Esse modelo que o senhor comercializa, inclusive está no site.
+
+[28:40] Você está falando de educação.
+
+[28:41] Educação.
+
+[28:42] Educação, eu...
+
+[28:44] A educação tem que ter três bases.
+
+[28:52] O professor tem que ser provocador da arte de perguntar, ele tem que ser desafiador da arte de pensar e tem que ser elogiador da arte de participar.
+
+[28:56] Esse programa eu daria gratuitamente para todas as escolas públicas do Brasil e do mundo, se quiserem.
+
+[29:04] Esse programa o senhor comercializa.
+
+[29:06] Não, não comercializa em escola pública, não.
+
+[29:08] Nesse programa é um programa para a humanidade.
+
+[29:11] Eu vou dizer uma coisa, inclusive.
+
+[29:13] Os testes que nós fizemos, os alunos, eles não querem faltar mais da aula e os professores saem muito mais aliviados.
+
+[29:26] Porque os professores são cozinheiros do conhecimento que preparam o alimento para uma plateia que não tem mais apetite por causa da intoxicação digital.
+
+[29:29] O que eu estou propondo?
+
+[29:42] Que haja música ambiente em sala de aula, que haja oratória, que haja teatro, que o professor deixe de ser um expositor seco e possa se tornar um professor provocador, porque a arte da pergunta é o princípio da sabedoria na filosofia, a arte da crítica é o princípio da sabedoria na psicologia.
+
+[29:45] Eu não estou propondo o meu modelo.
+
+[29:47] Eu estou propondo que os professores saiam dessa condição de expositor seco e frio.
+
+[29:51] Não cabe a um presidente definir um método de ensino.
+
+[29:54] Não cabe a um presidente...
+
+[30:00] Seria necessário, por exemplo, revisar a base nacional curricular, ouvir os especialistas, que são os representantes do Conselho Nacional de Educação.
+
+[30:02] Mas não tem dúvida.
+
+[30:03] Mas não tem.
+
+[30:04] Isso é básico do básico do básico.
+
+[30:15] Aqui está um programa, vamos ouvir, vamos conversar, vamos ver se isso funciona, se é eficiente, se aumenta a cognição, se desenvolve habilidades socioemocionais, como pensar antes de reagir, trabalhar perdas e frustrações.
+
+[30:17] Eu não quero comercializar.
+
+[30:18] Eu já tenho uma situação financeira privilegiada.
+
+[30:21] Eu até falei para a minha esposa, olha, é difícil furar bolha, muito difícil furar bolha.
+
+[30:25] Mas se furar essa bolha, esquece cartão corporativo para suas despesas pessoais.
+
+[30:29] Porque eu também vou esquecer.
+
+[30:31] Eu não estou me candidatando num ambiente que, para mim, é uma dor.
+
+[30:35] Eu não amo o poder, não dependo do poder, não amo mesmo.
+
+[30:42] Estou renunciando à minha tranquilidade, porque, pior do que a ação dos maus, é a omissão dos bons e daqueles que têm que contribuir.
+
+[30:44] Candidato, seu plano de governo propõe criar mais de 10 mil escolas de empreendedorismo.
+
+[30:50] Essa quantidade é maior do que as redes públicas municipais do Rio e de São Paulo.
+
+[30:57] Como é que, em quatro anos, o senhor vai conseguir fazer isso?
+
+[31:00] Equipar, definir local, contratar profissional, botar a escola para funcionar?
+
+[31:06] E quanto é que custaria esse projeto?
+
+[31:08] E, para finalizar, de onde sairia o dinheiro?
+
+[31:10] Escola de empreendedorismo, nós vamos convidar os profissionais para se doarem em cada escola pública, trale.
+
+[31:18] Não é uma escola onde você vai aumentar gastos.
+
+[31:21] É a escola onde você sai da tua zona de conforto, como, por exemplo...
+
+[31:25] Não estou dizendo que você está na sua...
+
+[31:27] Não, mas a escola de empreendedorismo vai funcionar nas escolas já...
+
+[31:30] Nas escolas, claro.
+
+[31:31] As escolas já existentes, o senhor vai usar a rede que já existe?
+
+[31:33] Não, a rede pública.
+
+[31:35] As escolas do ensino fundamental e médio têm que se transformar em escola de empreendedorismo.
+
+[31:40] Mas tem o que tem horário para isso?
+
+[31:42] Dentro da grade curricular, claro.
+
+[31:44] Dentro da grade curricular, inclusive nas comunidades ou favelas.
+
+[31:50] Então, é um curso de empreendedorismo.
+
+[31:51] É um curso de empreendedorismo.
+
+[31:52] Não é uma escola de empreendedorismo.
+
+[31:53] Não, não é uma escola clássica, não.
+
+[31:56] É um curso de empreendedorismo que nós chamamos de escola de empreendedorismo.
+
+[31:59] Está claro no meu programa.
+
+[32:06] Onde as pessoas terão a oportunidade de aprender a fazer curso de cabeleireiro, técnico de informática, técnico de gestão de pessoas, de marketing digital e assim por diante.
+
+[32:10] E quem são essas pessoas que vão participar?
+
+[32:13] Sabe quantos alunos nós temos no ensino médio?
+
+[32:15] Não, quem são os professores que vão dar esses cursos?
+
+[32:30] Esses professores serão treinados da rede pública a partir de cursos online com grandes empreendedores do país que vão doar seu tempo, seu coração para que os nossos alunos de escolas públicas, eles possam pela primeira vez ter sonhos para mudar a sua história de vida.
+
+[32:36] Nós temos sete...
+
+[32:36] A gente vai fazer um pequeno intervalo e voltamos já já com a entrevista, candidato.
+
+[33:00] Estamos de volta para o segundo bloco da entrevista com o candidato à presidência da República, Augusto Cury, do Avante.
+
+[33:07] Candidato, no seu programa de governo, o senhor fala em contratar influenciadores digitais para trabalhar nas embaixadas brasileiras pelo mundo.
+
+[33:20] Seriam ao menos 10 influenciadores digitais em países com até 50 milhões de habitantes e pelo menos 20 influenciadores em países maiores ou estratégicos, o que levaria esse número a centenas ou milhares.
+
+[33:24] Na sua avaliação, o Itamaraty não cumpre atualmente a tarefa de representar e defender...
+
+[33:30] O Itamaraty, por exemplo...
+
+[33:31] Desculpe, permita só terminar a pergunta e eu já lhe passo a palavra.
+
+[33:46] Na sua avaliação, o Itamaraty não cumpre atualmente a tarefa de representar e defender os interesses brasileiros no exterior, por que as embaixadas precisariam contratar influenciadores digitais?
+
+[33:47] Pois não.
+
+[33:48] Eu vou colocar essa questão de uma outra maneira.
+
+[33:58] Nós precisamos transformar colaboradores nas mais diversas embaixadas para vender o Brasil com dignidade.
+
+[34:04] O agricultor é vendido lá fora como se fosse um vilão e nós temos o código florestal mais rígido do mundo.
+
+[34:15] Um chinês, ele emite quatro vezes mais carbono que um brasileiro e um americano sete vezes mais.
+
+[34:16] Isso não é vendido lá fora.
+
+[34:23] Nós temos que vender o país como supermercado do mundo e não como fazenda ou celeiro do mundo apenas.
+
+[34:23] Centro de bioenergia, centro também de produção de conhecimento e de tecnologia.
+
+[34:35] Então, nós precisamos repaginar as embaixadas brasileiras e influenciadores digitais pode ser importante.
+
+[34:36] Agora, não estou dizendo em aumentar custos.
+
+[34:47] Nós, em destaque, deveríamos treinar os embaixadores e também os colaboradores para serem influenciadores para vender melhor o Brasil lá fora, porque o Brasil não é vendido bem lá fora.
+
+[34:48] Mas o Itamaraty tem tradição e o papel de formar os diplomatas brasileiros.
+
+[34:57] Na sua avaliação, o Instituto Rio Branco não tem conseguido entregar isso para precisar contra influenciadores digitais?
+
+[34:58] Não tem entregado.
+
+[35:10] Porque o Itamaraty, veja bem, a Faculdade Rio Branco e o Itamaraty, nós somos peritos em pacificação, mas nós temos que ser peritos em vender o Brasil lá fora de maneira adequada e inteligente.
+
+[35:12] Eu quero dizer o seguinte, olha, eu vim para pacificar esse país.
+
+[35:24] A minha mente é uma mente que é capitalista, meritocracia, um Estado enxuto, responsável fiscalmente, empreendedorismo.
+
+[35:38] Mas o meu coração é um coração social que escuta a dor humana, que dá importância para a dor da mulher, dor de 32 milhões de neurodivergentes, a dor do jovem que perdeu a esperança.
+
+[35:39] 6,7 milhões de jovens não trabalham nem estudam.
+
+[35:42] Trale, a situação é grave.
+
+[35:50] Eu estive na favela da Rocinha hoje e eu falei que em cada favela, em cada comunidade vai ter uma agência do Banco de Empreendedor e também uma escola de empreendedor.
+
+[36:05] Escola de Empreendedor, não é que você contratar mais pessoas, só para entrar naquela seara, mas eu quero que haja um grupo de voluntariados, um mutirão de pessoas da iniciativa privada que tenham um caso de amor com aqueles que moram nas comunidades e também nas escolas
+
+[36:10] públicas.
+
+[36:15] Candidato, o senhor disse que há essa necessidade na visão do senhor de ter influenciadores para vender melhor o Brasil.
+
+[36:18] Agora, a diplomacia profissional brasileira tem desafios tremendos pela frente.
+
+[36:31] Cenário de guerra, tarifa, muita incerteza, muita instabilidade, Estados Unidos e China disputando cada vez mais espaço no mundo.
+
+[36:40] É geopolítica, é tecnologia, é influência econômica, pressão sobre países como o Brasil aumentando cada vez mais.
+
+[36:46] Então, eu pergunto ao senhor o seguinte, como é que o Brasil deve se posicionar estrategicamente nessa relação com esses dois países, Estados Unidos e China?
+
+[36:52] Uma relação pacífica.
+
+[36:53] Isso é uma tarefa de influenciador ou de diplomata profissional?
+
+[36:57] Não, o que é isso?
+
+[36:57] Diplomata profissional.
+
+[36:58] Estou falando uma coisa, é você vender.
+
+[37:05] Hoje o mundo é digital, vocês sabem disso, a rede, vocês usam o digital para vender também, a rede Globo.
+
+[37:06] Nós temos que usar o digital para vender o país de maneira adequada.
+
+[37:13] Agora, nas tarefas mais importantes para a pacificação, tem que ser diplomatas do mais alto nível.
+
+[37:19] E eu sou um pacificador, eu tenho livros escritos na área de solução pacífica de conflitos com grandes juristas.
+
+[37:20] Então, não vamos confundir as coisas.
+
+[37:29] E outra coisa, muito importante, nós não conseguimos vender o país de maneira adequada porque é uma guerra interminável de ego aqui.
+
+[37:31] Você não consegue formar um coração só com a direita ou só com a esquerda.
+
+[37:37] Você tem de ter os dois.
+
+[37:46] E eu quero pacificar esse país para terminar essa guerra da polarização que adoeceu a nação brasileira e está adoecendo o mundo todo.
+
+[37:49] E também quero dizer uma coisa.
+
+[37:51] Nós temos que dobrar a produção de alimentos do Brasil nos próximos 10 anos.
+
+[38:03] Nós produzimos 350 milhões de toneladas, precisamos produzir 700 milhões de toneladas, porque se a FAO estiver correta, que é o órgão da ONU, vai haver fome nos próximos 25 anos.
+
+[38:04] Porque vamos precisar de 70% a mais de alimentos.
+
+[38:07] E como é que nós vamos fazer isso?
+
+[38:12] Como é que nós vamos vender o Brasil lá fora, não apenas como grãos, mas como centro de proteína animal?
+
+[38:14] Se nós não pararmos com essa guerra interminável.
+
+[38:18] Pois não.
+
+[38:21] O senhor não falou de assistência especificamente da China e dos Estados Unidos, mas eu quero falar de um assunto muito importante, que é o envelhecimento da população brasileira.
+
+[38:35] Agora, em março de 2026, o senhor divulgou um vídeo intitulado Carta Aberta à Sociedade Brasileira, em que o senhor afirma que o sistema previdenciário vai sofrer fortíssima pressão, sem garantia, para as aposentadorias das próximas décadas.
+
+[38:40] É um tema relevante, mas que acabou não entrando no seu programa de governo.
+
+[38:48] Quero saber por quê e quero saber do senhor se o senhor é a favor de uma nova reforma da Previdência.
+
+[38:48] Bom, nós temos um problema previdenciário gravíssimo.
+
+[38:51] Por exemplo, 6,5 milhões de pessoas aposentadas por contribuição.
+
+[38:58] 3,5 milhões aposentadas por invalidez.
+
+[39:02] Sabiam disso?
+
+[39:03] E 13 milhões por idade.
+
+[39:06] Nós perdemos o bônus demográfico.
+
+[39:08] Isso é muito grave.
+
+[39:13] O bônus demográfico, só para explicar para vocês, é uma janela muito rara, onde você tem mais trabalhadores na ativa, menos crianças e menos gente aposentada.
+
+[39:18] E como é que o senhor vai enfrentar essa questão?
+
+[39:24] Nós temos que melhorar a produtividade de todas as empresas usando inteligência artificial ou robótica.
+
+[39:25] Isso é o primeiro lugar.
+
+[39:26] Nós precisamos dobrar a produção de alimentos.
+
+[39:29] Nós temos que financiar 10 milhões de microempresas no Brasil.
+
+[39:35] É, mas é preciso pensar no curto prazo, porque as contas da Previdência hoje têm uma diferença de 340 bilhões de reais.
+
+[39:38] Eu sei que tem.
+
+[39:39] Entre o que o sistema arrecada e o que ele precisa pagar para as aposentadorias.
+
+[39:43] Como é que o senhor vai enfrentar essa questão nos próximos quatro anos?
+
+[39:46] Os números são semelhantes.
+
+[39:48] Eu tenho 333 bilhões de reais.
+
+[39:50] É um rombo muito grande.
+
+[39:56] Nós vamos ter que aumentar a produtividade das empresas de qualquer maneira, porque se não aumentarmos a produtividade, não há maneira de você suportar a Previdência.
+
+[40:06] Você vai ser obrigado a fazer uma nova Previdência e penalizar as pessoas que estão em face de aposentar?
+
+[40:07] Então, ser presidente, você é a favor de uma nova reforma da Previdência?
+
+[40:09] Não sou, mas eu não sou a favor ainda de uma nova reforma, em hipótese alguma.
+
+[40:28] Mas sou a favor de aumentar dramaticamente a produtividade usando inteligência artificial e robótica e também preparando as empresas para serem 4.0 e também estimulando o empreendedorismo a um nível jamais feito.
+
+[40:29] Eu dividiria o BNDES em duas partes, o Banco da Grande Empresa e o Banco da Micro Empresa.
+
+[40:38] Mas inteligência artificial e robótica não são suficientes para enfrentar o problema e envelhecimento da população?
+
+[40:39] Não, não são mesmo.
+
+[40:40] Não são mesmo.
+
+[40:41] Eu sei que não são.
+
+[40:41] Candidato.
+
+[40:42] Mas é um começo e tem que ser rápido.
+
+[40:50] E nós temos que ter pelo menos 10 milhões de microempresas para nos prepararmos para aumentar o volume de pessoas que pagam a sua parte para a Previdência.
+
+[40:59] E, além disso, o Bolsa Família, para mim, é um projeto muito importante.
+
+[41:08] E nós temos condições de colocar mais 10 ou 15 milhões de pessoas que não estão na atividade e se elas...
+
+[41:09] Faltam dois minutos só.
+
+[41:11] Eu queria...
+
+[41:13] Peço desculpas.
+
+[41:14] Peço desculpas aqui ao senhor Raphim.
+
+[41:22] Quem assinar a carteira não vai perder o benefício e quem tiver uma MEI também não vai perder o benefício.
+
+[41:23] Nós vamos melhorar a arrecadação como nunca da Previdência.
+
+[41:31] É só para cumprir a palavra de que a gente abordaria a reforma tributária com o senhor, como a gente prometeu no primeiro bloco.
+
+[41:34] Seu programa fala em avaliar impactos dela sobre os diferentes setores da economia.
+
+[41:38] reforma que foi aprovada no Congresso em 2023, 30 anos de debate, já está sendo implementada.
+
+[41:50] Confederação Nacional da Indústria defende a reforma como uma maneira de simplificar impostos, reduzir custos, aumentar a produtividade.
+
+[41:53] que ajustes seriam necessários na avaliação do senhor?
+
+[41:56] Olha, a reforma...
+
+[41:57] O senhor tem um minuto.
+
+[41:58] A reforma tributária é um ecossistema muito complexo.
+
+[42:03] Conversei com vários tributaristas e com vários contadores do mais alto nível.
+
+[42:08] Nem eles sabem adequadamente as consequências.
+
+[42:11] Uma coisa parece que está clara.
+
+[42:26] De acordo com a Associação Comercial, inclusive, comecei muito com o Cotai, desse respeito, e um time deles, o IBS, que vai unir o ICMS e o ISS, vai retirar na hora o pagamento do imposto do comerciante.
+
+[42:38] Isso pode dificultar demais o gerenciamento de caixa das pequenas e micro empresas e pode ser um desastre sem precedente.
+
+[42:39] Nós vamos ter que avaliar.
+
+[42:41] Eu estou conversando com vários tributaristas e vamos avaliar.
+
+[42:48] Mas só para te dar uma ideia, ele sei que ele vai ser escalonado, mas pode trazer consequências severas.
+
+[42:53] O senhor tem um minuto para as suas considerações finais, para se despedir do eleitor ao vivo agora.
+
+[42:56] Muito obrigado por estar aqui com vocês.
+
+[43:04] Bom, eu coloquei meu nome como candidato à presidência da República, sem depender do poder, sem amar o poder, sem depender, inclusive, do prestígio e do dinheiro do poder.
+
+[43:07] Para mim é servir, é me doar.
+
+[43:16] Para mim, cada um de vocês que estão aí me vendo e me ouvindo, não é mais um número de eleitor ou um número de cartão de crédito, mas um ser humano único, irrepetível e insubstitível.
+
+[43:23] Nós temos que ter uma mente, o melhor da direita, e nossa mente o melhor da esquerda no nosso coração.
+
+[43:28] Temos que ter uma mente capitalista e um coração social para cuidar das dores das pessoas.
+
+[43:33] Eu não me curvaria diante de reis e nem de celebridades, mas me curvo humildemente diante de vocês.
+
+[43:41] E quero dizer claramente, o pior não é a ação dos maus e dos corruptos, mas é a omissão daqueles que têm a que contribuir e se calam.
+
+[43:46] Eu não me calei.
+
+[43:52] Eu saí de cima do muro, estou destruindo esse muro para pegar os tijolos e construir pontes, porque venderam uma mentira para nós,
+
+[43:54] que o mundo tem que estar dividido em dois barcos, esquerda e direita.
+
+[44:04] Na verdade, o líder deste século tem que ser um líder que tem, reitero, o melhor da direita e o melhor da esquerda na sua mesma personalidade.
+
+[44:08] Caso contrário, nós não temos esperança nesse mundo altamente digitalizado e consumista.
+
+[44:14] Candidato, muito obrigado pela presença do senhor aqui.
+
+[44:17] Obrigada, candidato. Boa noite.
+
+[44:19] Uma grande honra.
+
+[44:25] E assim nós encerramos essa série de entrevistas de primeiro turno com os seis candidatos mais bem colocados na disputa pela presidência da República.
+
+[44:30] É o jornalismo da Globo na cobertura especial das eleições 2026.
+
+[44:35] Uma boa noite para você.
+
+[44:36] Boa noite e muito obrigado.
+
+[44:38] Boa noite.
+

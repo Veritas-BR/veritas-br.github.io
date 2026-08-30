@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Veritas BR 2026 — Contra fatos, não existem argumentos</title>
+  <meta name="description" content="Verificação de fatos dos candidatos à Presidência da República nas eleições de 2026 — por IA">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+            mono: ['JetBrains Mono', 'ui-monospace', 'monospace'],
+          },
+          colors: {
+            border: 'hsl(var(--border))',
+            input: 'hsl(var(--input))',
+            ring: 'hsl(var(--ring))',
+            background: 'hsl(var(--background))',
+            foreground: 'hsl(var(--foreground))',
+            primary: { DEFAULT: 'hsl(var(--primary))', foreground: 'hsl(var(--primary-foreground))' },
+            secondary: { DEFAULT: 'hsl(var(--secondary))', foreground: 'hsl(var(--secondary-foreground))' },
+            muted: { DEFAULT: 'hsl(var(--muted))', foreground: 'hsl(var(--muted-foreground))' },
+            accent: { DEFAULT: 'hsl(var(--accent))', foreground: 'hsl(var(--accent-foreground))' },
+            card: { DEFAULT: 'hsl(var(--card))', foreground: 'hsl(var(--card-foreground))' },
+          },
+          borderRadius: {
+            lg: 'var(--radius)',
+            md: 'calc(var(--radius) - 2px)',
+            sm: 'calc(var(--radius) - 4px)',
+          },
+        }
+      }
+    }
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+  <script src="https://cdn.jsdelivr.net/npm/html-to-image@1.11.11/dist/html-to-image.js"></script>
+</head>
+<body class="min-h-screen bg-background font-sans antialiased">
+
+  <!-- Header -->
+  <header class="sticky top-0 z-50 w-full border-b border-border bg-background/80 backdrop-blur-md">
+    <div class="mx-auto flex h-14 max-w-5xl items-center justify-between px-4">
+      <a href="#/" class="flex items-center gap-2 font-semibold text-foreground hover:opacity-80 transition-opacity">
+        <svg class="h-5 w-5 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z"/>
+          <path d="m9 12 2 2 4-4"/>
+        </svg>
+        <span>Veritas BR</span>
+      </a>
+      <nav class="hidden md:flex items-center gap-1">
+        <a href="#/" class="nav-link px-3 py-1.5 text-sm font-medium text-muted-foreground hover:text-foreground rounded-md hover:bg-accent transition-colors" data-route="home">Início</a>
+        <a href="#/busca" class="nav-link px-3 py-1.5 text-sm font-medium text-muted-foreground hover:text-foreground rounded-md hover:bg-accent transition-colors" data-route="search">Buscar</a>
+        <a href="#/estatisticas" class="nav-link px-3 py-1.5 text-sm font-medium text-muted-foreground hover:text-foreground rounded-md hover:bg-accent transition-colors" data-route="stats">Estatísticas</a>
+        <a href="#/metodologia" class="nav-link px-3 py-1.5 text-sm font-medium text-muted-foreground hover:text-foreground rounded-md hover:bg-accent transition-colors" data-route="methodology">Metodologia</a>
+        <a href="#/sobre" class="nav-link px-3 py-1.5 text-sm font-medium text-muted-foreground hover:text-foreground rounded-md hover:bg-accent transition-colors" data-route="about">Sobre</a>
+        <a href="#/dados" class="nav-link px-3 py-1.5 text-sm font-medium text-muted-foreground hover:text-foreground rounded-md hover:bg-accent transition-colors" data-route="downloads">Dados</a>
+        <button id="theme-toggle" class="ml-2 inline-flex items-center justify-center rounded-md p-2 text-muted-foreground hover:text-foreground hover:bg-accent transition-colors" aria-label="Alternar tema">
+          <svg class="h-5 w-5 rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9z"/></svg>
+          <svg class="absolute h-5 w-5 rotate-90 scale-0 transition-all dark:rotate-0 dark:scale-100" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9z"/></svg>
+        </button>
+      </nav>
+      <div class="flex md:hidden items-center gap-2">
+        <button id="theme-toggle-mobile" class="inline-flex items-center justify-center rounded-md p-2 text-muted-foreground hover:text-foreground hover:bg-accent transition-colors" aria-label="Alternar tema">
+          <svg class="h-5 w-5 rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9z"/></svg>
+          <svg class="absolute h-5 w-5 rotate-90 scale-0 transition-all dark:rotate-0 dark:scale-100" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9z"/></svg>
+        </button>
+        <button id="mobile-menu-btn" class="inline-flex items-center justify-center rounded-md p-2 text-muted-foreground hover:text-foreground hover:bg-accent transition-colors" aria-label="Abrir menu">
+          <svg class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="4" y1="6" x2="20" y2="6"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="18" x2="20" y2="18"/></svg>
+        </button>
+      </div>
+    </div>
+    <!-- Mobile drawer -->
+    <div id="mobile-menu" class="md:hidden border-t border-border bg-background/95 backdrop-blur-md">
+      <nav class="mx-auto max-w-5xl px-4 py-3 space-y-1">
+        <a href="#/" class="mobile-nav-link block px-3 py-2 text-sm font-medium rounded-md transition-colors" data-route="home">Início</a>
+        <a href="#/busca" class="mobile-nav-link block px-3 py-2 text-sm font-medium rounded-md transition-colors" data-route="search">Buscar</a>
+        <a href="#/estatisticas" class="mobile-nav-link block px-3 py-2 text-sm font-medium rounded-md transition-colors" data-route="stats">Estatísticas</a>
+        <a href="#/metodologia" class="mobile-nav-link block px-3 py-2 text-sm font-medium rounded-md transition-colors" data-route="methodology">Metodologia</a>
+        <a href="#/sobre" class="mobile-nav-link block px-3 py-2 text-sm font-medium rounded-md transition-colors" data-route="about">Sobre</a>
+        <a href="#/dados" class="mobile-nav-link block px-3 py-2 text-sm font-medium rounded-md transition-colors" data-route="downloads">Dados</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Main content -->
+  <main id="app" class="mx-auto max-w-5xl px-4 py-8">
+    <!-- Content rendered by JS -->
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-border bg-muted/30">
+    <div class="mx-auto max-w-5xl px-4 py-8">
+      <div class="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+        <div class="text-sm text-muted-foreground">
+          <p class="font-medium text-foreground">Veritas BR 2026</p>
+          <p class="mt-1">Contra fatos, não existem argumentos</p>
+        </div>
+        <div class="text-xs text-muted-foreground">
+          <p>Análise automatizada com IA — verificável e reproduzível</p>
+          <p class="mt-1">Código: MIT · Dados: CC0 (Domínio Público)</p>
+        </div>
+      </div>
+      <div class="mt-6 border-t border-border pt-6">
+        <h3 class="text-sm font-semibold text-foreground mb-3" data-i18n="legal">Aviso Legal</h3>
+        <div class="text-xs text-muted-foreground leading-relaxed space-y-3">
+          <p data-i18n-desc="legal">Projeto independente de <em>fact-checking</em> por IA das entrevistas dos presidenciáveis 2026. Verificações 100% automatizadas, sem revisão humana. Dados abertos e verificáveis no GitHub.</p>
+          <p>Resultados podem conter imprecisões. Consulte sempre as fontes originais.</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/charts.js"></script>
+  <script>
+    (function(){
+      var isEn = /^en/i.test(navigator.language);
+      if(isEn){
+        var t=document.querySelector('[data-i18n="legal"]');
+        if(t) t.textContent='Legal Notice';
+        var d=document.querySelector('[data-i18n-desc="legal"]');
+        if(d) d.innerHTML='Independent AI <em>fact-checking</em> of 2026 presidential candidate interviews. 100% automated — no human review. Open-source, verifiable data on GitHub.';
+      }
+    })();
+  </script>
+  <script src="js/app.js"></script>
+</body>
+</html>

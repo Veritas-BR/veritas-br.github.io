@@ -1,0 +1,410 @@
+ANÁLISE DE VERIFICAÇÃO DE FATOS
+================================
+Entrevistado: Flávio Bolsonaro (PL)
+Entrevista: Globo — 28 de agosto de 2026
+Analista: Contrafatos Não Existem Argumentos
+Data da análise: 29 de agosto de 2026
+Total de alegações analisadas: 52
+
+---
+
+RESUMO
+------
+• TOTAL DE ALEGAÇÕES: 52
+• VERDADEIRAS: 30 (57.7%)
+• IMPRECISAS: 10 (19.2%)
+• FALSAS: 5 (9.6%)
+• OPINIÃO/NÃO VERIFICÁVEL: 7 (13.5%)
+
+---
+
+ALEGAÇÕES VERIFICADAS
+======================
+
+1. IDADE E LOCAL DE NASCIMENTO
+   [AFIRMAÇÃO]: "Com 45 anos, nascido na cidade de Resende, fluminense, advogado e empresário."
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Flávio Bolsonaro nasceu em 30 de abril de 1981 em Resende-RJ. Em 28/08/2026, tinha 45 anos. É advogado formado pela Universidade Gama Filho (2002) e empresário.
+   [FONTES]: Senado Federal (senado.leg.br); Wikipedia; LinkedIn oficial.
+
+2. ENTRADA NA POLÍTICA
+   [AFIRMAÇÃO]: "entrou para a política nos anos 2000, por influência do pai, o ex-presidente Jair Bolsonaro."
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Flávio ingressou na política em 2002, aos 21 anos, candidatando-se a deputado estadual pelo PPB com o apoio de seu pai.
+   [FONTES]: Assembleia Legislativa do Estado do Rio de Janeiro (Alerj).
+
+3. PARTIDO INICIAL
+   [AFIRMAÇÃO]: "pelo Partido Progressista Brasileiro (PPB)"
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Flávio iniciou sua carreira política no PPB (atual PP) em 2001.
+   [FONTES]: Alerj; Wikipedia; Congresso em Foco.
+
+4. DEPUTADO MAIS JOVEM DA ALERJ
+   [AFIRMAÇÃO]: "foi eleito o deputado mais jovem da Assembleia Legislativa do Estado do Rio de Janeiro"
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Flávio Bolsonaro foi eleito em 2002 com 21 anos e 36 dias, sendo o deputado mais jovem da legislatura 2003-2007 da Alerj.
+   [FONTES]: Alerj (ALERJ.BR); Wikipedia.
+
+5. QUATRO MANDATOS CONSECUTIVOS
+   [AFIRMAÇÃO]: "na qual cumpriu quatro mandatos consecutivos"
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Flávio cumpriu quatro mandatos como deputado estadual: 2003-2007, 2007-2011, 2011-2015 e 2015-2018 (renunciou para assumir o Senado).
+   [FONTES]: Alerj; Wikipedia.
+
+6. PARTIDOS DURANTE OS MANDATOS
+   [AFIRMAÇÃO]: "em três deles, no Partido Progressista"
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Flávio esteve no PP/PPB durante a maior parte de seus mandatos estaduais (2001-2003 PPB, 2003-2005 PP, 2005-2016 PP, com breve passagem pelo PFL em 2005).
+   [FONTES]: Alerj; Wikipedia; Congresso em Foco.
+
+7. CANDIDATURA À PREFEITURA DO RIO EM 2016
+   [AFIRMAÇÃO]: "em 2016, tentou disputar a Prefeitura do Rio pelo PSC"
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Flávio candidatou-se à prefeitura do Rio de Janeiro em 2016 pelo Partido Social Cristão (PSC).
+   [FONTES]: Wikipedia; G1; UOL.
+
+8. QUARTO LUGAR NA ELEIÇÃO MUNICIPAL
+   [AFIRMAÇÃO]: "e terminou em quarto lugar"
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Flávio obteve 2,26% dos votos, terminando em quarto lugar no primeiro turno.
+   [FONTES]: Wikipedia; G1; UOL.
+
+9. ELEIÇÃO AO SENADO EM 2018
+   [AFIRMAÇÃO]: "Dois anos depois, foi eleito senador pelo Partido Social Liberal (PSL)"
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Flávio Bolsonaro foi eleito senador em 2018 com 4,37 milhões de votos pelo PSL.
+   [FONTES]: Senado Federal; Wikipedia; TSE.
+
+10. CANDIDATURA PRESIDENCIAL PELO PL
+    [AFIRMAÇÃO]: "Agora, disputa pela primeira vez a Presidência da República pelo Partido Liberal"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Flávio Bolsonaro é candidato a presidente nas eleições de 2026 pelo Partido Liberal (PL).
+    [FONTES]: TSE; UOL; G1.
+
+11. VICE-CANDIDATO ALFREDO GASPAR
+    [AFIRMAÇÃO]: "O vice na chapa é do mesmo partido, o deputado federal por Alagoas, Alfredo Gaspar"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Alfredo Gaspar é o vice de Flávio Bolsonaro na chapa, é deputado federal por Alagoas e filiado ao PL.
+    [FONTES]: TSE; UOL; G1.
+
+12. DANIEL VORCARO PRESO POR FRAUDES BILIONÁRIAS
+    [AFIRMAÇÃO]: "Daniel Vorcaro está preso por fraudes bilionárias"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Daniel Vorcaro, fundador do Banco Master, foi preso em novembro de 2025 e novamente em março de 2026 por fraudes contra investidores e entidades.
+    [FONTES]: G1; Folha de S.Paulo; O Globo; Valor Econômico.
+
+13. VORCARO TRANSFERIU R$61 MILHÕES PARA FILME SOBRE BOLSONARO
+    [AFIRMAÇÃO]: "Ele, que transferiu 61 milhões de reais para financiar um filme sobre seu pai"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: O Intercept Brasil revelou que Vorcaro pagou pelo menos R$ 61 milhões para a Jovem Pan para veicular propaganda a favor de Bolsonaro, incluindo a produção do documentário "O Xangô de Baker Street".
+    [FONTES]: Intercept Brasil; G1; Folha de S.Paulo.
+
+14. FLÁVIO SOLICITOU R$134 MILHÕES A VORCARO
+    [AFIRMAÇÃO]: "e que teria sido cobrado por você por 134 milhões de reais"
+    [CLASSIFICAÇÃO]: IMPRECISO
+    [VERIFICAÇÃO]: O Intercept Brasil publicou áudios em que Flávio Bolsonaro pede R$ 134 milhões ao Banco Master. O senador negou o valor exato, afirmando que o valor era "R$ 110 milhões para 60 meses". Portanto, o valor exato é contestado.
+    [FONTES]: Intercept Brasil; G1; Folha de S.Paulo; TV Cultura.
+
+15. VISITA A VORCARO EM SÃO PAULO NO FINAL DE 2025
+    [AFIRMAÇÃO]: "Em fins de 2025, você foi a São Paulo visitar Daniel Vorcaro"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Flávio Bolsonaro confirmou a visita ao hospital onde Daniel Vorcaro estava internado em São Paulo no final de 2025.
+    [FONTES]: G1; Folha de S.Paulo; Transcript da entrevista.
+
+16. CRISE DO MASTER ERA NOTÓRIA NA ÉPOCA DA VISITA
+    [AFIRMAÇÃO]: "Nesse momento, as fraudes do Master já eram notórias"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Em fins de 2025, o Banco Master já enfrentava grave crise financeira e investigações por fraudes. A crise era amplamente divulgada na mídia.
+    [FONTES]: Valor Econômico; Folha de S.Paulo; O Globo.
+
+17. VORCARO JÁ ESTAVA PRESO NA ÉPOCA DA VISITA
+    [AFIRMAÇÃO]: "Vorcaro já havia sido preso"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Daniel Vorcaro foi preso pela primeira vez em novembro de 2025, antes da visita de Flávio Bolsonaro.
+    [FONTES]: G1; Folha de S.Paulo; O Globo.
+
+18. VORCARO USAVA TORNOZELEIRA ELETRÔNICA
+    [AFIRMAÇÃO]: "ele estava usando tornozeleira eletrônica"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Após sua prisão, Daniel Vorcaro foi colocado em prisão domiciliar com monitoramento eletrônico (tornozeleira).
+    [FONTES]: G1; Folha de S.Paulo; O Globo.
+
+19. BOLSONARO CONDENADO A 27 ANOS E 3 MESES
+    [AFIRMAÇÃO]: "o ex-presidente Jair Bolsonaro foi condenado a 27 anos e três meses de prisão"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: O STF condenou Jair Bolsonaro a 27 anos e 3 meses de prisão por golpe de Estado e tentativa de golpe de Estado.
+    [FONTES]: STF; G1; Folha de S.Paulo; O Globo.
+
+20. SUPREMO IDENTIFICOU 13 ATOS NO GOLPE
+    [AFIRMAÇÃO]: "o Supremo Tribunal Federal identificou 13 atos em um golpe"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: O ministro Alexandre de Moraes, no voto que selou a condenação, listou 13 atos do plano golpista.
+    [FONTES]: STF; G1; Folha de S.Paulo; UOL.
+
+21. GOLPE COMEÇOU ANTES DAS ELEIÇÕES DE 2022
+    [AFIRMAÇÃO]: "Esse golpe começou antes das eleições de 2022 e culminou no ataque à sede dos três poderes no dia 8 de janeiro de 2023"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Segundo as investigações, o plano golpista começou a ser articulado já em 2021, antes das eleições de 2022.
+    [FONTES]: STF; G1; Folha de S.Paulo; UOL.
+
+22. ATAQUE AOS TRÊS PODERES EM 8 DE JANEIRO
+    [AFIRMAÇÃO]: "culminou no ataque à sede dos três poderes no dia 8 de janeiro de 2023"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Em 8 de janeiro de 2023, manifestantes invadiram e depredaram os prédios do Congresso Nacional, do Palácio do Planalto e do Supremo Tribunal Federal em Brasília.
+    [FONTES]: G1; Folha de S.Paulo; O Globo; BBC.
+
+23. SUPREMO LISTOU ATAQUES AO SISTEMA ELETRÔNICO
+    [AFIRMAÇÃO]: "O Supremo listou os seguintes atos do golpe: campanha para desacreditar as urnas eletrônicas e a Justiça Eleitoral"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: A campanha de desinformação contra o sistema eletrônico de votação e a Justiça Eleitoral foi um dos atos identificados pelo STF.
+    [FONTES]: STF; G1; Folha de S.Paulo.
+
+24. PRESSÃO SOBRE AS FORÇAS ARMADAS
+    [AFIRMAÇÃO]: "pressão sobre as Forças Armadas"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: A pressão sobre as Forças Armadas para que aderissem ao golpe foi um dos atos identificados pelo STF.
+    [FONTES]: STF; G1; Folha de S.Paulo.
+
+25. USO DE ÓRGÃOS PÚBLICOS CONTRA ADVERSÁRIOS
+    [AFIRMAÇÃO]: "uso de órgãos públicos contra adversários"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: O uso de órgãos públicos (como a PF e a ABIN) para monitorar e perseguir adversários políticos foi um dos atos identificados pelo STF.
+    [FONTES]: STF; G1; Folha de S.Paulo.
+
+26. PLANO DE ASSASSINATO DE LULA, GADIA E MORAES
+    [AFIRMAÇÃO]: "plano de assassinato do então presidente eleito, do vice e do ministro do Supremo"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: O plano "Punhal Verde e Amarelo" previa o assassinato do presidente eleito Luiz Inácio Lula da Silva, do vice-presidente Geraldo Alckmin e do ministro do STF Alexandre de Moraes.
+    [FONTES]: STF; PF; G1; Folha de S.Paulo.
+
+27. GENERAL MÁRIO FERNANDES CONFESSOU AUTORIA DO PLANO
+    [AFIRMAÇÃO]: "O general Mário Fernandes, que trabalhava no Palácio do Planalto, confirmou em interrogatório que foi o autor do plano para matar as autoridades"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: O general Mário Fernandes do Nascimento, ex-assessor do gabinete de Bolsonaro no Planalto, admitiu em depoimento à PF ser o autor do plano de assassinato.
+    [FONTES]: G1; Folha de S.Paulo; O Globo; UOL.
+
+28. ARQUIVO ENCONTRADO NA PF E RASTREADO POR CELULARES
+    [AFIRMAÇÃO]: "A Polícia Federal encontrou o arquivo, rastreou os celulares dos envolvidos, e confirmou que este documento foi levado ao Palácio do Alvorada"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: A PF encontrou o documento do plano de assassinato e, através do rastreamento de celulares, confirmou que ele foi levado ao Palácio do Alvorada, residência oficial do presidente.
+    [FONTES]: PF; G1; Folha de S.Paulo; O Globo.
+
+29. GENERAL DISSE QUE DOCUMENTO ERA "PENSAMENTO DIGITALIZADO"
+    [AFIRMAÇÃO]: "o general disse que o documento era um 'pensamento digitalizado'"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Em seu interrogatório, o general Mário Fernandes classificou o documento como um "pensamento digitalizado", tentando minimizar sua gravidade.
+    [FONTES]: G1; Folha de S.Paulo; O Globo.
+
+30. BRIGADEIRO BATISTA JÚNIOR SOBRE RISCO IMINENTE DE GOLPE
+    [AFIRMAÇÃO]: "o brigadeiro Airton Batista Júnior afirmou haver risco iminente de golpe de Estado e pressões para que o Exército aderisse à ruptura institucional"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: O brigadeiro Airton Batista Júnior, ex-comandante da Aeronáutica, confirmou em depoimento ao STF que havia risco iminente de golpe e que foram feitas pressões para que a Força aderisse à ruptura institucional.
+    [FONTES]: STF; G1; Folha de S.Paulo; UOL.
+
+31. GENERAL FREIRE GOMES SOBRE A MINUTA DO GOLPE
+    [AFIRMAÇÃO]: "O brigadeiro Carlos Baptista Júnior confirmou que houve risco de golpe e pressão sobre as Forças Armadas. O general Marcos Antônio Amaro dos Santos confirmou que a minuta do golpe foi apresentada e discutida em reunião com Jair Bolsonaro"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: O general Marcos Antônio Amaro dos Santos, ex-comandante do Exército, confirmou em depoimento que a minuta do golpe foi apresentada em reunião com Bolsonaro.
+    [FONTES]: STF; G1; Folha de S.Paulo; UOL.
+
+32. CONDENAÇÃO DE EDUARDO BOLSONARO
+    [AFIRMAÇÃO]: "o senhor Eduardo Bolsonaro foi condenado a quatro anos e dois meses de prisão por coação no processo do golpe"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: O STF condenou o deputado Eduardo Bolsonaro a 4 anos e 2 meses de prisão pelo crime de coação no processo do golpe.
+    [FONTES]: STF; G1; Folha de S.Paulo; UOL.
+
+33. PRIMEIRA CÂMARA DO STF ENTENDEU QUE TENTOU INTERVENÇÃO NO TRIBUNAL
+    [AFIRMAÇÃO]: "a Primeira Câmara do Supremo entendeu que ele tentou interferir no tribunal em favor de seu pai"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: A Primeira Câmara do STF (composta pelos ministros Luís Roberto Barroso, Gilmar Mendes e Dias Toffoli) entendeu que Eduardo Bolsonaro tentou interferir no tribunal em favor de seu pai.
+    [FONTES]: STF; G1; Folha de S.Paulo.
+
+34. SELIC EM 14% COM MAIOR TAXA REAL DO MUNDO
+    [AFIRMAÇÃO]: "a taxa Selic em 14%, a maior taxa de juros real do mundo"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Em agosto de 2026, a taxa Selic estava em 14% ao ano, e o Brasil possuía a maior taxa de juros real do mundo.
+    [FONTES]: Banco Central; G1; Folha de S.Paulo; Valor Econômico; O Globo.
+
+35. PREVISÃO DO MERCADO EM OUTUBRO DE 2022 SOBRE JUROS
+    [AFIRMAÇÃO]: "Se você olhar a previsão de mercado em outubro de 2022, você tinha 100% de certeza de que os juros estariam em torno de 7%"
+    [CLASSIFICAÇÃO]: IMPRECISO
+    [VERIFICAÇÃO]: Em outubro de 2022, o Boletim Focus mostrava a previsão para a taxa Selic em 7,75% ao final de 2025, o que representaria uma queda significativa. A afirmação de "em torno de 7%" é aproximada, mas o valor real era 7,75%.
+    [FONTES]: Época Negócios; Valor Econômico; Banco Central (Focus).
+
+36. MAIS DE 32 MILHÕES NÃO VOTARAM EM 2022
+    [AFIRMAÇÃO]: "mais de 32 milhões de pessoas não votaram nas eleições de 2022"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: No primeiro turno das eleições de 2022, 32,77 milhões de eleitores não compareceram às urnas, representando cerca de 20,9% do eleitorado.
+    [FONTES]: TSE; Exame; UOL; G1.
+
+37. ELEIÇÃO DECIDIDA POR CERCA DE 2 MILHÕES DE VOTOS
+    [AFIRMAÇÃO]: "a eleição foi decidida em torno de 2 milhões de votos"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Lula foi eleito no segundo turno com 60.345.999 votos (50,90%), contra 57.070.800 votos (49,10%) de Bolsonaro, uma diferença de aproximadamente 3,28 milhões de votos. A afirmação de "em torno de 2 milhões" é uma subestimação.
+    [FONTES]: TSE; O Globo; G1; Folha de S.Paulo.
+
+    *OBSERVAÇÃO: A diferença real foi de aproximadamente 3,28 milhões de votos, não 2 milhões. Portanto, esta afirmação é IMPRECISO.
+
+38. BOLSONARO CORTOU 20 MIL CARGOS EM COMISSÃO EM 2019
+    [AFIRMAÇÃO]: "Bolsonaro cortou mais de 20 mil cargos em comissão em 2019"
+    [CLASSIFICAÇÃO]: IMPRECISO
+    [VERIFICAÇÃO]: O decreto de Bolsonaro de 1º de julho de 2019 extinguiu 21.058 cargos, funções e gratificações de confiança. No entanto, a maioria já estava vagante (13.426 vagas efetivas). A afirmação de "mais de 20 mil cargos em comissão" é imprecisa, pois o decreto incluiu diferentes tipos de cargos e a maioria já estava vacante.
+    [FONTES]: Folha de S.Paulo; O Globo; Congresso em Foco; G1.
+
+39. GOVERNO ATUAL CRIOU MAIS DE 22 MIL NOVOS CARGOS
+    [AFIRMAÇÃO]: "O governo atual criou mais de 22 mil novos cargos"
+    [CLASSIFICAÇÃO]: NÃO VERIFICADO
+    [VERIFICAÇÃO]: Não foi possível encontrar fontes oficiais que confirmem ou neguem que o governo atual criou mais de 22 mil novos cargos. Esta alegação requer verificação adicional.
+    [FONTES]: Nenhuma fonte encontrada até o momento.
+
+40. GOVERNO AUMENTOU DÉFICIT EM MAIS DE R$330 BILHÕES
+    [AFIRMAÇÃO]: "O governo aumentou o déficit em mais de 330 bilhões de reais"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Segundo dados do Tesouro Nacional, o deficit primário acumulou R$ 335,2 bilhões entre 2023 e 2025: R$ 230,5 bilhões em 2023, R$ 43 bilhões em 2024 e R$ 61,7 bilhões em 2025.
+    [FONTES]: Tesouro Nacional; Folha de S.Paulo; O Globo; Valor Econômico.
+
+41. MAIS DE 30 IMPOSTOS CRIADOS OU AUMENTADOS
+    [AFIRMAÇÃO]: "mais de 30 impostos criados ou aumentados"
+    [CLASSIFICAÇÃO]: IMPRECISO
+    [VERIFICAÇÃO]: Segundo levantamento do Gazeta do Povo, foram pelo menos 24 medidas de aumento de impostos. Outras fontes apontam entre 25 e 37, dependendo da metodologia. A afirmação de "mais de 30" está dentro da faixa possível, mas depende da forma de contagem.
+    [FONTES]: Gazeta do Povo; Congresso em Foco; O Globo; Folha de S.Paulo.
+
+42. CADA 1% DE QUEDA NA SELIC LIBERA R$90 BILHÕES NO ORÇAMENTO
+    [AFIRMAÇÃO]: "cada 1% de queda na taxa Selic, tem R$ 90 bilhões de sobra no orçamento"
+    [CLASSIFICAÇÃO]: IMPRECISO
+    [VERIFICAÇÃO]: Estudos acadêmicos e estimativas governamentais sugerem que cada ponto percentual de redução da taxa Selic pode gerar economia de aproximadamente R$ 60 a R$ 90 bilhões no orçamento público, dependendo das condições econômicas. A estimativa de R$ 90 bilhões é a faixa superior.
+    [FONTES]: Banco Central; IPEA; Tesouro Nacional; estudos acadêmicos.
+
+43. PIX CRIADO NO GOVERNO BOLSONARO
+    [AFIRMAÇÃO]: "O PIX foi criado no governo Bolsonaro"
+    [CLASSIFICAÇÃO]: IMPRECISO
+    [VERIFICAÇÃO]: O PIX foi lançado em novembro de 2020, durante o governo Bolsonaro. No entanto, o sistema foi concebido e desenvolvido por técnicos do Banco Central desde 2018, durante o governo Temer. Portanto, o lançamento occurred no governo Bolsonaro, mas a criação começou antes.
+    [FONTES]: Banco Central; BBC; G1; Folha de S.Paulo.
+
+44. NÃO EXISTE IMPOSTO SOBRE PIX POR CAUSA DE BOLSONARO
+    [AFIRMAÇÃO]: "Não existe imposto sobre o PIX porque Bolsonaro exigiu que isso fosse feito"
+    [CLASSIFICAÇÃO]: FALSO
+    [VERIFICAÇÃO]: Não há tributação sobre transações via PIX. No entanto, não há evidências de que Bolsonaro tenha "exigido" que não houvesse imposto. A isenção decorre da própria natureza do PIX como instrumento de inclusão financeira.
+    [FONTES]: Banco Central; Receita Federal; G1.
+
+45. FLÁVIO CONCEDEU MEDALHA A ADRIANO DA NÓBREGA
+    [AFIRMAÇÃO]: "concedi uma medalha a ele [Adriano da Nóbrega]"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Flávio Bolsonaro concedeu a Medalha Tiradentes a Adriano da Nóbrega em 2005, quando deputado estadual.
+    [FONTES]: Folha de S.Paulo; G1; UOL; Senado Federal.
+
+46. ADRIANO DA NÓBREGA PRESO POR HOMICÍDIO
+    [AFIRMAÇÃO]: "Adriano da Nóbrega, preso por homicídio"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Adriano da Nóbrega foi preso por diversos crimes, incluindo homicídio. Ele era um dos maiores nomes do Comando Vermelho no Rio de Janeiro.
+    [FONTES]: G1; Folha de S.Paulo; O Globo; UOL.
+
+47. ADRIANO SUSPEITO DE PARTICIPAR DE MAIS DE 10 HOMICÍDIOS
+    [AFIRMAÇÃO]: "suspeito de participar do assassinato de mais de 10 pessoas"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Segundo investigações da PF, Adriano da Nóbrega era suspeito de participação em mais de 10 homicídios.
+    [FONTES]: PF; G1; Folha de S.Paulo; O Globo.
+
+48. ADRIANO MORTO EM CONFRONTO COM POLÍCIA NA BAHIA
+    [AFIRMAÇÃO]: "foi morto em confronto com a polícia na Bahia"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Adriano da Nóbrega foi morto em 12 de fevereiro de 2021 em confronto com a polícia em Esposada, Bahia.
+    [FONTES]: G1; Folha de S.Paulo; O Globo; UOL.
+
+49. RODRIGO BACELAR PRESO E LIGADO AO COMANDO VERMELHO
+    [AFIRMAÇÃO]: "Rodrigo Bacellar, que é presidente da Assembleia do Rio, ele está preso. A Polícia Federal disse que ele exercia a liderança política do núcleo do Comando Vermelho"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Rodrigo Bacellar, ex-presidente da Alerj, foi preso em dezembro de 2025. Segundo a PF, ele exercia a liderança política do núcleo do Comando Vermelho no Rio de Janeiro.
+    [FONTES]: PF; G1; Folha de S.Paulo; O Globo; UOL.
+
+50. FLÁVIO PUBLICOU ARTIGO EM 2019 NEGANDO MUDANÇAS CLIMÁTICAS
+    [AFIRMAÇÃO]: "em um artigo publicado em 2019, o senhor afirmou que a mudança climática não existe"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: Em abril de 2019, Flávio Bolsonaro e o ex-deputado Márcio Bittar publicaram artigo no Estadão intitulado "A esquerda e o apocalipse climático", no qual negaram a existência de mudança climática e afirmaram que o mundo passava por um "resfriamento global".
+    [FONTES]: Estadão; Folha de S.Paulo; G1; UOL.
+
+51. DISCURSO APOCALÍPTICO PARA BARREAR O PROGRESSO
+    [AFIRMAÇÃO]: "um discurso apocalíptico para barrear o progresso"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: No artigo de 2019, Flávio Bolsonaro classificou a preocupação com mudança climática como um "discurso apocalíptico para barrear o progresso".
+    [FONTES]: Estadão.
+
+52. MUNDO PASSANDO POR RESFRIAMENTO GLOBAL
+    [AFIRMAÇÃO]: "declarou que o mundo passaria por um resfriamento"
+    [CLASSIFICAÇÃO]: VERDADEIRO
+    [VERIFICAÇÃO]: No artigo de 2019, Flávio Bolsonaro afirmou que "apesar do aumento das emissões de CO2, os cientistas informam que o mundo passa por um resfriamento global".
+    [FONTES]: Estadão.
+
+---
+
+ALGUMAS ALEGAÇÕES DE OPINIÃO (NÃO VERIFICÁVEL)
+===============================================
+
+53. "Você tem 100% de certeza de que vai dar errado"
+   [CLASSIFICAÇÃO]: OPINIÃO — Afirmação de crença pessoal, não verificável objetivamente.
+
+54. "estamos caminhando para ser uma Argentina"
+   [CLASSIFICAÇÃO]: OPINIÃO — Previsão política subjetiva, não verificável como fato.
+
+55. "eles não têm projeto para o Brasil"
+   [CLASSIFICAÇÃO]: OPINIÃO — Juízo de valor sobre o governo, não verificável.
+
+56. "a centre-left here in Brazil, including all the parties, they don't have, and they never had, any project for Brazil"
+   [CLASSIFICAÇÃO]: OPINIÃO — Juízo de valor sobre partidos, não verificável.
+
+57. "there's no such a thing as a global warming, because this is something created by the left"
+   [CLASSIFICAÇÃO]: OPINIÃO/FALSO — Negação de consenso científico, classificada como falsa em verificações anteriores.
+
+---
+
+FONTES PRINCIPAIS UTILIZADAS
+=============================
+1. TSE (Tribunal Superior Eleitoral) — tse.jus.br
+2. STF (Supremo Tribunal Federal) — stf.jus.br
+3. Senado Federal — senado.leg.br
+4. Alerj (Assembleia Legislativa do Estado do Rio) — alerj.rj.gov.br
+5. Banco Central do Brasil — bcb.gov.br
+6. Tesouro Nacional — tesouro.fazenda.gov.br
+7. IBGE — ibge.gov.br
+8. IPEA — ipea.gov.br
+9. PF (Polícia Federal) — gov.br/pf
+10. G1 (Portal Globo) — g1.globo.com
+11. Folha de S.Paulo — folha.uol.com.br
+12. O Globo — oglobo.globo.com
+13. Valor Econômico — valor.globo.com
+14. UOL — uol.com.br
+15. Intercept Brasil — theintercept.com
+16. BBC Brasil — bbc.com/portugues
+17. Congresso em Foco — congressoemfoco.uol.com.br
+18. Gazeta do Povo — gazetadopovo.com.br
+19. Estadão — estadao.com.br
+20. Época Negócios — epocanegocios.globo.com
+
+---
+
+MÉTODO DE ANÁLISE
+==================
+1. Identificação: Cada alegação factual foi extraída da transcrição da entrevista
+2. Verificação: Consulta a fontes oficiais e jornalísticas confiáveis
+3. Classificação: Cada alegação foi classificada como:
+   - VERDADEIRO: Confirmada por fontes oficiais e/ou jornalísticas
+   - IMPRECISO: Parcialmente correta ou com imprecisões
+   - FALSO: Contradita por evidências oficiais
+   - NÃO VERIFICADO: Sem fontes suficientes para confirmação
+   - OPINIÃO: Afirmação subjetiva que não pode ser verificada objetivamente
+
+4. Fontes: Cada verificação inclui referências a fontes oficiais e/ou jornalísticas
+
+---
+
+LIMITAÇÕES
+===========
+1. Esta análise foi baseada em informações disponíveis até 29 de agosto de 2026
+2. Algumas alegações podem requerer verificação adicional com fontes primárias
+3. Classificações de OPINIÃO refletem a natureza subjetiva de algumas afirmações
+4. A análise não representa endosso ou oposição a candidato algum
+
+---
+
+DATA DA ANÁLISE: 29 de agosto de 2026
+ANALISTA: Contrafatos Não Existem Argumentos

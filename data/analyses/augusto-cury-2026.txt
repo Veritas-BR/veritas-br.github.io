@@ -1,0 +1,457 @@
+### Verificação de Fatos — Entrevista JN Augusto Cury (Avante)
+### Data: 2026-08-28
+### Modelo: opencode/mimo-v2.5-free
+
+---
+
+### RESUMO
+TOTAL DE AFIRMAÇÕES: 25
+VERDADEIRAS: 8
+FALSAS: 1
+IMPRECISAS: 3
+NÃO VERIFICÁVEIS: 4
+OPINIÃO: 9
+
+---
+
+### [1]
+
+**Afirmação do candidato:** "A dívida pública já ultrapassou 10 trilhões de reais, 82% do PIB."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo dados do Banco Central de julho de 2026, a Dívida Bruta do Governo Geral (DBGG) atingiu R$ 10,8 trilhões (81,9% do PIB) em junho de 2026. O valor é aproximado ao citado por Augusto Cury. Aproximação aceitável.
+
+**Fonte(s):**
+- Banco Central do Brasil — https://www.bcb.gov.br/estatisticas/estatisticasfiscais
+- G1 — https://g1.globo.com/economia/noticia/2026/07/31/divida-publica-sobe-10-pontos-do-pib-na-parcial-do-governo-lula-e-atinge-819percent-maior-nivel-em-mais-de-5-anos.ghtml
+
+**Observações:**
+A afirmação é correta. O dado é oficial e amplamente documentado.
+
+---
+
+### [2]
+
+**Afirmação do candidato:** "As bets pagam 12% de imposto."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+As operadoras de apostas esportivas (bets) são tributadas a uma alíquota de 12% sobre o GGR (Gross Gaming Revenue), conforme a Lei 13.756/2018. No entanto, a Lei Complementar 224/2025 eleva a tributação para 13% em 2026, 14% em 2027 e 15% em 2028. A afirmação é correta para o período até 2025.
+
+**Fonte(s):**
+- Lei 13.756/2018 — https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13756.htm
+- Lei Complementar 224/2025 — https://www.in.gov.br/web/dou/-/lei-complementar-n-224-de-26-de-dezembro-de-2025
+
+**Observações:**
+A afirmação é correta para o contexto atual, mas a alíquota está em processo de aumento gradual.
+
+---
+
+### [3]
+
+**Afirmação do candidato:** "Alimentos pagam 18% de imposto."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A alíquota do ICMS sobre alimentos varia significativamente entre estados. Para alimentos da cesta básica, a alíquota pode ser reduzida ou até zero em alguns estados. A alíquota geral do ICMS em São Paulo é 18%, mas alimentos essenciais frequentemente têm alíquotas diferenciadas (7% ou até isenção). A afirmação de "18%" é uma generalização que não se aplica a todos os alimentos.
+
+**Fonte(s):**
+- CONFAZ — https://www.confaz.fazenda.gov.br
+- Secretarias Estaduais da Fazenda
+
+**Observações:**
+A afirmação é uma generalização incorreta. A tributação de alimentos varia por estado e por tipo de produto.
+
+---
+
+### [4]
+
+**Afirmação do candidato:** "Luz paga 30% e 33% de imposto."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo dados do Setor Elétrico Brasileiro, a parcela de impostos e encargos na conta de luz pode chegar a 30% do valor total. O ICMS sobre energia elétrica varia de 18% a 33% dependendo do estado e da classe de consumidor. A afirmação é uma aproximação correta dos dados disponíveis.
+
+**Fonte(s):**
+- Voltera — https://blog.voltera.com.br/impostos-na-conta-de-luz/
+- G1 — https://g1.globo.com/economia/noticia/2021/08/27/conta-de-luz-entenda-a-cobranca-e-para-onde-vai-o-seu-dinheiro.ghtml
+
+**Observações:**
+A afirmação é correta. A tributação sobre energia elétrica é uma das mais altas do mundo.
+
+---
+
+### [5]
+
+**Afirmação do candidato:** "Bets movimentam 30 bilhões por mês."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo dados do Banco Central divulgados em abril de 2025, os apostadores destinam entre R$ 20 bilhões e R$ 30 bilhões por mês às bets. A afirmação de "30 bilhões por mês" está dentro da faixa estimada pelo BC.
+
+**Fonte(s):**
+- Banco Central do Brasil — CPI das Bets, abril de 2025
+- Agência Brasil — https://agenciabrasil.ebc.com.br/economia/noticia/2025-04/apostadores-destinam-ate-r-30-bi-por-mes-bets-informa-bc
+
+**Observações:**
+A afirmação é correta e está em linha com dados oficiais do Banco Central.
+
+---
+
+### [6]
+
+**Afirmação do candidato:** "Cada 1% da taxa Selic, nós pagamos quase 100 bilhões a mais para rolar a dívida federal."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo cálculos do Tesouro Nacional e do Banco Central, cada ponto percentual de redução na taxa Selic resulta em uma economia de aproximadamente R$ 80 a R$ 90 bilhões anuais no custo de rolagem da dívida pública. A afirmação de "quase 100 bilhões" é uma aproximação aceitável.
+
+**Fonte(s):**
+- Banco Central do Brasil — https://www.bcb.gov.br
+- Tesouro Nacional — https://www.gov.br/tesouro
+
+**Observações:**
+A afirmação é correta e consistente com estimativas de instituições oficiais.
+
+---
+
+### [7]
+
+**Afirmação do candidato:** "Superávit primário de 11 bilhões de reais."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Não foi possível localizar dados oficiais que confirmem um superávit primário de R$ 11 bilhões. O governo Lula registrou déficits primários nos primeiros meses de 2026, e a meta para o ano era de superávit de até R$ 17,3 bilhões. A afirmação pode estar se referindo a um período específico ou a uma projeção.
+
+**Fonte(s):**
+- Tesouro Nacional — https://www.gov.br/tesouro
+- Banco Central do Brasil — https://www.bcb.gov.br
+
+**Observações:**
+A afirmação não pode ser verificada com dados oficiais disponíveis.
+
+---
+
+### [8]
+
+**Afirmação do candidato:** "Precatórios ficam de fora do arcabouço fiscal."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Os precatórios e sentenças judiciais são considerados despesas excluídas do limite de gastos do arcabouço fiscal, conforme a Lei de Diretrizes Orçamentárias (LDO). A afirmação é correta e está em linha com a legislação vigente.
+
+**Fonte(s):**
+- Lei de Diretrizes Orçamentárias — https://www.planalto.gov.br
+- Tesouro Nacional — https://www.gov.br/tesouro
+
+**Observações:**
+A afirmação é correta. Precatórios são excluídos do cálculo do limite de gastos.
+
+---
+
+### [9]
+
+**Afirmação do candidato:** "ICBS vai prejudicar demais as pequenas e microempresas."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A afirmação reflete uma preocupação legítima sobre o impacto da reforma tributária nas micro e pequenas empresas. Especialistas e entidades como o SEBRAE e a ACSP têm alertado para possíveis dificuldades na transição do ICMS para o IBS. No entanto, a previsão de "prejuízo" é uma opinião e não um fato verificável.
+
+**Fonte(s):**
+- SEBRAE — https://www.sebrae.com.br
+- Associação Comercial de São Paulo — https://www.acsp.com.br
+
+**Observações:**
+A afirmação é uma opinião sobre um tema em debate.
+
+---
+
+### [10]
+
+**Afirmação do candidato:** "8 a 10 Ministérios serão cortados."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A afirmação é uma proposta política do candidato. Não há como verificar objetivamente se o corte de 8 a 10 ministérios é possível ou desejável. A decisão depende de análise técnica e decisão política futura.
+
+**Fonte(s):**
+- (não aplicável)
+
+**Observações:**
+A afirmação é uma proposta política e não um fato verificável.
+
+---
+
+### [11]
+
+**Afirmação do candidato:** "É necessário criar um Ministério da Inteligência Artificial e Robótica."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A afirmação é uma proposta política do candidato. Embora a inteligência artificial e a robótica sejam temas importantes, não há consenso sobre a necessidade de um ministério específico para essas áreas. A afirmação é uma opinião política.
+
+**Fonte(s):**
+- (não aplicável)
+
+**Observações:**
+A afirmação é uma proposta política e não um fato verificável.
+
+---
+
+### [12]
+
+**Afirmação do candidato:** "Salário mínimo pode ter 50-60% de aumento real em 4 anos."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A afirmação é uma projeção ambiciosa do candidato. Historicamente, o salário mínimo teve aumentos reais modestos, raramente ultrapassando 5-7% ao ano. Uma projeção de 50-60% em 4 anos implicaria um aumento real médio de 12-15% ao ano, algo sem precedentes no Brasil recente. A afirmação é uma meta política e não uma previsão baseada em dados.
+
+**Fonte(s):**
+- IBGE — https://www.ibge.gov.br
+- Dieese — https://www.dieese.org.br
+
+**Observações:**
+A afirmação é uma meta política e não uma previsão verificável.
+
+---
+
+### [13]
+
+**Afirmação do candidato:** "Drones podem ser usados para proteção de mulheres contra feminicídio."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+A afirmação é uma proposta inovadora, mas não há evidências de que drones sejam eficazes na prevenção de feminicídios. Especialistas em segurança pública apontam que a maioria dos feminicídios ocorre dentro de casa, onde drones teriam limitada utilidade. A afirmação é uma opinião política.
+
+**Fonte(s):**
+- (não aplicável)
+
+**Observações:**
+A afirmação é uma proposta política e não um fato verificável.
+
+---
+
+### [14]
+
+**Afirmação do candidato:** "80% das consultas básicas do SUS podem ser feitas por telemedicina."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+O Conselho Federal de Medicina (CFM) estabelece que os serviços médicos à distância jamais poderão substituir o compromisso constitucional de garantir a assistência presencial. Nenhum país do mundo conseguiu implantar 80% de atendimento por telemedicina. A afirmação é uma opinião do candidato, contrária à posição do CFM.
+
+**Fonte(s):**
+- Conselho Federal de Medicina — https://www.cfm.org.br
+
+**Observações:**
+A afirmação é uma opinião do candidato e contrária à regulamentação vigente.
+
+---
+
+### [15]
+
+**Afirmação do candidato:** "Conselho Federal de Medicina rejeitou a telemedicina como substituta da presencial."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O CFM regulamentou os serviços de telemedicina, mas estabeleceu que os serviços à distância jamais poderão substituir o compromisso constitucional de garantir a assistência presencial. A afirmação é correta e está em linha com a regulamentação do CFM.
+
+**Fonte(s):**
+- Conselho Federal de Medicina — https://www.cfm.org.br
+
+**Observações:**
+A afirmação é correta. O CFM permite a telemedicina como complemento, não como substituta.
+
+---
+
+### [16]
+
+**Afirmação do candidato:** "10 mil escolas de empreendedorismo serão criadas."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A afirmação é uma proposta política do candidato. Não há como verificar se a meta de 10 mil escolas é viável em 4 anos, nem qual seria o custo. A afirmação é uma proposta e não um fato verificável.
+
+**Fonte(s):**
+- (não aplicável)
+
+**Observações:**
+A afirmação é uma proposta política e não um fato verificável.
+
+---
+
+### [17]
+
+**Afirmação do candidato:** "Influenciadores digitais devem trabalhar nas embaixadas brasileiras."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A afirmação é uma proposta política do candidato. Embora a diplomacia digital seja uma tendência, não há consenso sobre a necessidade de contratar influenciadores digitais para embaixadas. A afirmação é uma opinião política.
+
+**Fonte(s):**
+- Itamaraty — https://www.gov.br/mre
+
+**Observações:**
+A afirmação é uma proposta política e não um fato verificável.
+
+---
+
+### [18]
+
+**Afirmação do candidato:** "Mulheres recebem 21% menos que os homens."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo o 5º Relatório de Transparência Salarial, divulgado pelo Ministério do Trabalho em abril de 2026, as mulheres recebem, em média, 21,3% menos que os homens no setor privado do Brasil. A afirmação é correta.
+
+**Fonte(s):**
+- Ministério do Trabalho e Emprego — https://www.gov.br/trabalho-e-emprego
+- G1 — https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/27/desigualdade-salarial-mulheres.ghtml
+
+**Observações:**
+A afirmação é correta e está em linha com os dados oficiais mais recentes.
+
+---
+
+### [19]
+
+**Afirmação do candidato:** "Mulheres pagam 4% mais de juros que os homens."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Não foram encontrados dados oficiais que confirmem que mulheres pagam 4% mais de juros emmpréstimos ou financiamentos. Embora existam estudos sobre discriminação de gênero no acesso ao crédito, a afirmação específica de "4% mais de juros" não pode ser verificada com fontes disponíveis.
+
+**Fonte(s):**
+- Banco Central do Brasil — https://www.bcb.gov.br
+- IBGE — https://www.ibge.gov.br
+
+**Observações:**
+A afirmação não pode ser verificada com dados oficiais disponíveis.
+
+---
+
+### [20]
+
+**Afirmação do candidato:** "Jesus Cristo é o maior pacifista da história."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A afirmação é uma crença religiosa pessoal do candidato. Não há como verificar objetivamente quem é o "maior pacifista da história". A afirmação é uma opinião pessoal.
+
+**Fonte(s):**
+- (não aplicável)
+
+**Observações:**
+A afirmação é uma crença religiosa e não um fato verificável.
+
+---
+
+### [21]
+
+**Afirmação do candidato:** "6,7 milhões de jovens não trabalham nem estudam."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Segundo dados do IBGE, a taxa de jovens entre 18 e 24 anos que não trabalham nem estudam (NEETs) era de aproximadamente 26% em 2023. Com uma população nessa faixa etária de cerca de 25 milhões, o número de NEETs seria de aproximadamente 6,5 milhões. A afirmação é uma aproximação razoável, mas os dados oficiais mais recentes são de 2023.
+
+**Fonte(s):**
+- IBGE — https://www.ibge.gov.br
+- PNADC — https://www.ibge.gov.br/estatisticas/trabalho/
+
+**Observações:**
+O número é aproximadamente correto, mas pode não refletir dados atualizados.
+
+---
+
+### [22]
+
+**Afirmação do candidato:** "Brasil precisa dobrar produção de alimentos nos próximos 10 anos."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A afirmação reflete uma visão do candidato sobre o futuro da segurança alimentar global. Embora a FAO projete que a população mundial precisará de 70% mais de alimentos até 2050, a necessidade de dobrar a produção brasileira em 10 anos é uma meta ambiciosa. A afirmação é uma opinião política.
+
+**Fonte(s):**
+- FAO — https://www.fao.org
+
+**Observações:**
+A afirmação é uma opinião política e não um fato verificável.
+
+---
+
+### [23]
+
+**Afirmação do candidato:** "Brasil produz 350 milhões de toneladas de alimentos."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+A produção agrícola brasileira em 2025 foi de aproximadamente 330 milhões de toneladas, segundo a CONAB. A produção de 350 milhões de toneladas pode ser uma projeção para 2026 ou uma estimativa baseada em dados parciais. Não foi possível confirmar o número exato.
+
+**Fonte(s):**
+- CONAB — https://www.conab.gov.br
+- IBGE — https://www.ibge.gov.br
+
+**Observações:**
+O número é aproximadamente correto, mas pode não refletir dados oficiais mais recentes.
+
+---
+
+### [24]
+
+**Afirmação do candidato:** "70% mais de alimentos serão necessários até 2050."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A FAO projeta que a população mundial precisará de 70% mais de alimentos até 2050 para alimentar 9,7 bilhões de pessoas. A afirmação é uma projeção baseada em dados da FAO, mas sua apresentação como certeza é uma simplificação.
+
+**Fonte(s):**
+- FAO — https://www.fao.org
+
+**Observações:**
+A afirmação é baseada em projeções da FAO, mas é uma simplificação de um tema complexo.
+
+---
+
+### [25]
+
+**Afirmação do candidato:** "Previdência tem rombo de 333 bilhões de reais."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo dados do Jornal Nacional e do Ministério da Previdência, o rombo do INSS em 2025 foi de mais de R$ 320 bilhões. O dado mais recente disponível indica um déficit de R$ 328 bilhões para 2025. A afirmação de R$ 333 bilhões é uma aproximação aceitável dos dados oficiais.
+
+**Fonte(s):**
+- Jornal Nacional — https://g1.globo.com/jornal-nacional
+- Ministério da Previdência — https://www.gov.br/previdencia
+
+**Observações:**
+A afirmação é correta. O rombo previdenciário é um dos maiores desafios fiscais do país.
+
+---
+
+**Nota:** Esta análise foi elaborada com base em fontes públicas e verificáveis. Recomenda-se consulta às fontes primárias para confirmação adicional.

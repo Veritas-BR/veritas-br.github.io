@@ -1,0 +1,236 @@
+# Revisão de Fatos — Romeu Zema (Novo) — Entrevista JN
+## Rodada 2 de Verificação
+### Data: 30/08/2026
+
+---
+
+## Afirmações Revisadas
+
+---
+
+### 1
+
+**Afirmação:** "A dívida de Minas representava 192% da receita corrente líquida quando eu assumi. Quando eu saí, era cerca de 160."
+
+**Classificação original:** FALSO
+
+**Busca realizada:**
+- Consulta 1: "Dívida Consolidada Líquida Minas Gerais 2018 2019 ALMG receita corrente líquida Zema 192%" → Encontrado relatório da SEF/MG de 2019 com gráfico mostrando DCL/RCL entre 186-190% no biênio 2017-2019; também encontrado artigo do Rondonia Direto afirmando que a dívida líquida em dez/2018 era de R$ 106,5 bilhões (189,03% da RCL).
+- Consulta 2: "Zema discurso posse 2019 Minas Gerais dívida receita corrente líquida" → Encontrado discurso oficial de Zema na ALMG em 01/02/2019 mencionando endividamento total de R$ 114 bilhões, mas sem citar percentual da RCL.
+- Consulta 3: "novo.org.br dívida Minas Gerais governo Zema R$ 105 bilhões União" → Partido Novo afirma que dívida com a União era de R$ 105 bilhões quando Zema assumiu.
+
+**Evidência encontrada:**
+O dado de 189,03% da RCL em dezembro de 2018 (publicado pelo Rondonia Direto com base em dados oficiais) é muito próximo do alegado por Zema (192%). O relatório da SEF/MG de 2019 confirma que a DCL/RCL permaneceu abaixo de 190% entre 2017 e 2019. A classificação original de FALSO baseava-se em dados da ALMG que indicavam 98% em 2018, mas esses dados parecem referir-se a uma métrica diferente (possivelmente apenas a dívida com a União em relação à RCL, excluindo outros componentes da DCL). A afirmação de Zema (~192%) está alinhada com os dados de DCL total/RCL de 189% para dez/2018. Quanto ao valor ao sair, a DCL/RCL atingiu 167,46% em 2025 segundo a ALMG, não "cerca de 160%", mas a direção da queda é confirmada pelo próprio partido Novo.
+
+**Classificação revisada:** RETIFICADO PARA IMPRECISO
+
+**Justificativa:**
+A classificação original de FALSO foi baseada em dados que pareciam contraditórios, mas novas evidências mostram que o percentual de entrada (~189-192%) é factualmente sustentável com base nos dados do Tesouro/SEF. O erro principal está no valor de saída: a DCL/RCL em 2025 foi de 167,46%, não "cerca de 160%". Além disso, a queda deve ser contextualizada pelo crescimento absoluto da dívida de R$ 114 bi para R$ 201 bi. A afirmação contém elementos verdadeiros (queda relativa da DCL/RCL) mas é imprecisa no valor de saída e omite o crescimento do endividamento absoluto.
+
+**Fonte(s) adicional(is):**
+- Rondonia Direto - https://rondoniadireto.com/noticias/geral/entrevista-romeu-zema-globo/
+- SEF/MG - Relatório de Sustentabilidade do Endividamento 2019 - https://www.fazenda.mg.gov.br/export/sites/fazenda/tesouro-estadual/divida-publica/relatorio-anual-de-sustentabilidade-do-endividamento/2019/Sustentabilidade-Divida.pdf
+- ALMG - https://www.almg.gov.br/comunicacao/noticias/arquivos/Divida-do-Estado-aumenta-mas-comprometimento-da-receita-diminui/
+
+---
+
+### 2
+
+**Afirmação:** "Eu paguei 23 bilhões de reais para aposentado, que não recebia aposentadoria."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "Zema pagou 23 bilhões atrasados previdenciários aposentados Minas Gerais" → Encontrada matéria do O Globo reproduzindo declaração de Zema na TV Globo (24/08/2026) repetindo o valor de R$ 23 bilhões. Não há fonte independente que confirme o valor.
+- Consulta 2: "novo.org.br dívida Minas Gerais pendências servidores aposentados R$ 35 bilhões" → Partido Novo menciona "pendência de R$ 6-7 bilhões com servidores estaduais em 13º, férias e salários atrasados" como parte de um passivo total de R$ 35 bilhões, mas não especifica R$ 23 bilhões para aposentados.
+- Consulta 3: "Sinfazfisco-MG Zema pagou dívida previdenciária atrasados" → Sindicato dos Auditores Fiscais não confirma o valor de R$ 23 bilhões para aposentados.
+
+**Evidência encontrada:**
+O único registro encontrado é a própria declaração de Zema na entrevista da TV Globo (24/08/2026), que é a mesma fonte da afirmação original. Não há documents oficiais, relatórios de gestão fiscal ou auditorias que confirmem que R$ 23 bilhões foram pagos especificamente a aposentados que não recebiam aposentadoria. O partido Novo menciona pendências com servidores na faixa de R$ 6-7 bilhões, mas não chega a R$ 23 bilhões. A informação permanece não verificável.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+Apesar de múltiplas buscas, não foi encontrada fonte oficial ou independente que confirme o pagamento de R$ 23 bilhões especificamente a aposentados que não recebiam aposentadoria. O único registro é a própria declaração do candidato. O dado não pode ser verificado sem acesso aos registros de pagamento do IPSEMG/FFP-MG.
+
+**Fonte(s) adicional(is):**
+- O Globo (entrevista JN) - https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/24/zema-na-tv-globo-candidato-diz-que-divida-de-mg-foi-toda-feita-no-passado-e-cita-juros-de-agiota-do-governo-federal.ghtml
+- Novo.org.br - https://novo.org.br/noticias/por-que-divida-minas-gerais-aumentou-governo-zema/
+
+---
+
+### 3
+
+**Afirmação:** "Eu paguei 13 bilhões para o governo federal, funcionários públicos."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "Zema pagou 13 bilhões governo federal servidores públicos Minas Gerais" → Encontrada matéria do O Globo reproduzindo declaração de Zema na TV Globo. Não há confirmação independente.
+- Consulta 2: "Sinfazfisco-MG Zema pagou dívida governo federal Minas Gerais" → Sindicato afirma que Zema pagou R$ 10,22 bilhões ao governo federal entre 2019 e maio de 2025, mas que o governo federal honrou garantias de R$ 17,09 bilhões que Minas não quitou.
+- Consulta 3: "PROPAG Minas Gerais acordo União dívida federal" → Partido Novo confirma acordo PROPAG para dívida de R$ 165-180 bilhões com a União.
+
+**Evidência encontrada:**
+O dado de R$ 13 bilhões é citado por Zema na TV Globo (fonte primária). O Sinfazfisco-MG publicou análise mostrando que Minas pagou R$ 10,22 bilhões ao governo federal entre 2019 e maio de 2025, mas que o governo federal também honrou garantias de R$ 17,09 bilhões que o estado não quitou. O partido Novo menciona dívida de R$ 105 bilhões com a União quando Zema assumiu. O valor específico de R$ 13 bilhões "para funcionários públicos" não é confirmado por nenhuma fonte independente. É possível que se refira a parcela da dívida com a União relacionada a obrigações previdenciárias de servidores, mas isso não pode ser verificado.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+O valor de R$ 13 bilhões citado por Zema não é confirmado por fontes oficiais independentes. O Sinfazfisco-MG aponta valor diferente (R$ 10,22 bilhões pagos ao governo federal no total). A especificação "funcionários públicos" não é detalhada em nenhuma fonte verificável. A informação permanece não verificável sem acesso aos registros de pagamento específicos.
+
+**Fonte(s) adicional(is):**
+- Sinfazfisco-MG - https://sinfazfiscomg.org.br/conteudo/3936/zema-de-fato-alem-de-nada-pagar-da-divida-publica-recebeu-quase-r-7-0-bilhoes-da-uniao
+- O Globo (entrevista JN) - https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/24/zema-na-tv-globo-candidato-diz-que-divida-de-mg-foi-toda-feita-no-passado-e-cita-juros-de-agiota-do-governo-federal.ghtml
+
+---
+
+### 14
+
+**Afirmação:** "Na minha vida, eu criei 5 mil empregos na empresa, como governador, 1 milhão de empregos."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "Zema criou 1 milhão empregos governador Minas Gerais CAGED IBGE" → Encontrados múltiplos veículos (Novo.org.br, Agência MG, O Tempo, Diário do Comércio) confirmando marca de 1 milhão de empregos formais desde 2019, segundo Novo CAGED.
+- Consulta 2: "Grupo Zema Lojas Zema 5 mil funcionários" → Suno confirma que Grupo Zema emprega mais de 5 mil pessoas.
+- Consulta 3: "Agência MG CAGED 1 milhão empregos Minas 2025" → Agência MG (fonte oficial do governo) confirma: "Minas Gerais alcançou a marca de 1 milhão de empregos formais criados desde janeiro de 2019. Segundo dados do Novo Caged, divulgados em 4 de agosto, o estado acumulou 1.024.785 postos de trabalho com carteira assinada nos últimos seis anos e meio."
+
+**Evidência encontrada:**
+A marca de 1 milhão de empregos formais foi confirmada por múltiplas fontes incluindo a Agência MG (fonte oficial do governo), Novo CAGED, e veículos como O Tempo e Diário do Comércio. O dado se refere a empregos com carteira assinada criados em Minas Gerais desde janeiro de 2019. Minas e São Paulo foram os únicos estados a atingir essa marca. O dado de 5 mil empregos na empresa familiar é confirmado pelo Grupo Zema. No entanto, a atribuição exclusiva da criação de empregos ao governador é questionável, pois a geração de empregos depende de fatores macroeconômicos. O dado factual (1 milhão de empregos formais) é confirmado, mas a autoria atribuída ao governador é contestável.
+
+**Classificação revisada:** RETIFICADO PARA VERDADEIRO (com ressalva)
+
+**Justificativa:**
+O dado numérico de 1 milhão de empregos formais criados em Minas desde 2019 é confirmado por fontes oficiais (Novo CAGED, Agência MG) e múltiplos veículos de comunicação. O dado de 5 mil empregos na empresa familiar é confirmado. A classificação original de NÃO VERIFICÁVEL não se sustenta diante da disponibilidade de dados oficiais do CAGED. A ressalva sobre a autoria da criação de empregos (que depende de fatores além do governador) já estava presente na análise original como observação.
+
+**Fonte(s) adicional(is):**
+- Agência MG - https://agenciamg.com.br/2025/08/04/geracao-de-empregos-em-minas-gerais/
+- Novo.org.br - https://novo.org.br/noticias/1-milhao-empregos-minas-governo-zema-mateus-simoes/
+- Suno - https://www.suno.com.br/tudo-sobre/romeu-zema
+
+---
+
+### 16
+
+**Afirmação:** "300 mil aposentados não recebiam aposentadoria em Minas."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "300 mil aposentados não recebiam aposentadoria Minas Gerais regime próprio previdência" → Não encontrado dado específico de 300 mil aposentados sem pagamento. Encontrados dados sobre crise previdenciária de MG e deficit de R$ 17-19 bilhões.
+- Consulta 2: "IPSEMG atrasados pagamento aposentados Minas Gerais" → Encontrados dados sobre censo do IPSEMG com 27,6 mil aposentados que não responderam e risco de suspensão de pagamentos, mas não 300 mil.
+- Consulta 3: "Fórum Bradesco previdência Minas Gerais deficit atrasados" → Dados mostram deficit previdenciário, mas não número específico de aposentados sem pagamento.
+
+**Evidência encontrada:**
+Não foram encontradas fontes oficiais que confirmem que 300 mil aposentados não recebiam aposentadoria em Minas Gerais. O dado mais próximo encontrado é de 27,6 mil aposentados e pensionistas que não responderam ao censo do IPSEMG e estavam em risco de ter pagamentos suspensos (Gazeta de Varginha). A crise previdenciária de MG é documentada com déficits de R$ 17-19 bilhões, mas o número específico de 300 mil aposentados sem pagamento não foi verificado. A afirmação pode ser uma extrapolação ou referir-se a um período específico não documentado publicamente.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+Apesar de múltiplas buscas, o número de 300 mil aposentados sem pagamento não foi confirmado por nenhuma fonte oficial ou independente. A crise previdenciária de MG é real e documentada, mas o dado específico não pode ser verificado. O número encontrado de 27,6 mil (censo IPSEMG) é significativamente menor que 300 mil.
+
+**Fonte(s) adicional(is):**
+- Gazeta de Varginha - https://www.gazetadodevarginha.com.br/post/quase-30-mil-aposentados-e-pensionistas-de-minas-podem-ter-pagamentos-suspensos-saiba-como-regulari
+- Portal do Servidor MG - https://www.portaldoservidor.mg.gov.br/aposentadoria-dae
+
+---
+
+### 19
+
+**Afirmação:** "60 milhões de brasileiros vivem em área controlada por facções e crimes organizados."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "60 milhões brasileiros vivem áreas controladas facções crimes organizados Brasil" → Encontrados dados de múltiplas fontes: Datafolha/out/2025: 28,5 milhões (19%); Cambridge/Latinobarómetro 2020: 50 milhões (24%); Gazeta do Povo: "até 61 milhões"; Datafolha/mai/2026: 68 milhões (41%).
+- Consulta 2: "Datafolha facções milícias 2025 2026 pesquisa brasileiros" → Pesquisa Datafolha/FBSP de outubro de 2025: 19% da população (28,5 milhões). Pesquisa de maio de 2026: 41% (68 milhões).
+- Consulta 3: "Cambridge University Press governança criminal Brasil 50 milhões" → Estudo acadêmico confirma 50 milhões de brasileiros sob governança criminal (24% da população).
+
+**Evidência encontrada:**
+Os dados variam significativamente conforme a metodologia e o período:
+- Pesquisa Datafolha/FBSP (out/2025): 28,5 milhões (19%) vivem em áreas com presença de facções/milícias
+- Estudo Cambridge/Latinobarómetro 2020: 50 milhões (24%) sob governança criminal
+- Pesquisa Datafolha/FBSP (mai/2026): 68 milhões (41%) vivem em áreas com facções/milícias
+- Gazeta do Povo menciona "até 61 milhões"
+O dado de 60 milhões citado por Zema está dentro da faixa reportada por diferentes fontes. A classificação original de NÃO VERIFICÁVEL era adequada dado que não havia consenso em uma fonte específica, mas novos dados do Datafolha (mai/2026) e do estudo Cambridge sustentam que a ordem de grandeza está correta.
+
+**Classificação revisada:** RETIFICADO PARA IMPRECISO
+
+**Justificativa:**
+O dado de 60 milhões não é um número oficial preciso, mas está dentro da faixa reportada por pesquisas de renome (Datafolha, Cambridge). A pesquisa Datafolha de maio de 2026 apontou 68 milhões (41%), enquanto a de outubro de 2025 apontou 28,5 milhões (19%). O número varia conforme a metodologia (percepção vs. dados objetivos de território) e o período. A afirmação é aproximadamente sustentável, mas imprecisa quanto à fonte e ao período de referência.
+
+**Fonte(s) adicional(is):**
+- Folha de S.Paulo / Datafolha (out/2025) - https://veja.abril.com.br/brasil/quase-um-quinto-dos-brasileiros-vive-em-areas-com-milicias-e-faccoes/
+- Datafolha/FBSP (mai/2026) - https://www.ocafezinho.com/2026/05/11/faccoes-e-milicias-dominam-territorios-de-68-milhoes-de-brasileiros
+- Cambridge University Press / Jornal USP - https://jornal.usp.br/campus-ribeirao-preto/50-milhoes-de-brasileiros-vivem-em-areas-dominadas-por-faccoes-criminosas
+- Gazeta do Povo - https://www.gazetadopovo.com.br/brasil/brasileiros-vivem-sob-dominio-do-crime-faccoes-criminosas/
+
+---
+
+### 20
+
+**Afirmação:** "A taxa de juros cai para 6%."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "Zema taxa juros 6% governo promessa campanha 2026" → A afirmação é uma projeção/meta de campanha, não um fato verificável. Zema projeta que com "um governo sério" os juros cairiam de 14% para 6%.
+- Consulta 2: "Banco Central Copom agosto 2026 taxa Selic" → Copom reduziu Selic para 14% em agosto de 2026. Não há projeção oficial para 6%.
+- Consulta 3: "projeção juros 6% Brasil economistas 2026" → Não há consenso de que a meta de 6% seja alcançável no curto prazo.
+
+**Evidência encontrada:**
+A afirmação continua sendo uma projeção política/campanha, não um fato verificável. A taxa Selic está em 14% (agosto/2026). A meta de 6% depende de múltiplos fatores (política monetária, inflação, credibilidade fiscal, cenário internacional). Não há evidência de que essa meta seja alcançável ou não, pois depende de decisões futuras do Copom. A classificação original de NÃO VERIFICÁVEL era adequada.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+A afirmação é uma meta/projeção de campanha, não um fato verificável. A queda da taxa de juros para 6% depende de fatores que ainda não se concretizaram. Não é possível classificar como verdadeiro ou falso algo que é uma promessa política sobre o futuro.
+
+**Fonte(s) adicional(is):**
+- Banco Central do Brasil - https://www.bcb.gov.br/controleinflacao/historicotaxasjuros
+- Estadão - https://www.estadao.com.br/economia/copom-agosto-2026-selic-juros/
+
+---
+
+### 22
+
+**Afirmação:** "Fui o único candidato que esteve lá [El Salvador] em maio do ano passado."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "Zema único candidato visitou El Salvador maio 2025 presidenciáveis" → Encontrada confirmação de que Zema visitou El Salvador em maio de 2025 (Agência MG, G1). A Gazeta confirmou a viagem em 08/11/2025. A matéria do Brasil 247 detalhou custos da viagem (R$ 197 mil).
+- Consulta 2: "outros candidatos presidenciários visitaram El Salvador 2025" → Não encontrados registros de que outros presidenciáveis tenham visitado El Salvador em maio de 2025. Caiado, Flávio Bolsonaro e outros não têm registros de visita ao país no mesmo período.
+- Consulta 3: "Agência Minas viagem Zema El Salvador maio 2025" → Agência Minas (fonte oficial) confirma: "Governo de Minas vai a El Salvador para intercâmbio de boas práticas da segurança pública" em maio de 2025.
+
+**Evidência encontrada:**
+A viagem de Zema a El Salvador em maio de 2025 é confirmada por múltiplas fontes (Agência MG, G1, Gazeta, Brasil 247). Não foram encontrados registros de que outros candidatos presidenciáveis tenham visitado El Salvador em maio de 2025. No entanto, a afirmação de ser o "único candidato" a visitar o país é difícil de verificar completamente, pois não há banco de dados centralizado de viagens internacionais de todos os presidenciáveis. É provável que a afirmação seja correta para o período específico (maio/2025), mas não pode ser confirmada com certeza absoluta.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+Embora a viagem de Zema a El Salvador em maio de 2025 seja confirmada e não haja registros de outros candidatos no mesmo período, a afirmação de ser o "único candidato" a visitar o país não pode ser verificada completamente sem acesso a registros de viagens de todos os presidenciáveis. A classificação original é mantida pela impossibilidade de verificação absoluta.
+
+**Fonte(s) adicional(is):**
+- Agência MG - https://www.agenciaminas.mg.gov.br/noticia/governo-de-minas-vai-a-el-salvador-para-intercambio-de-boas-praticas-da-seguranca-publica
+- G1 - https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/05/25/zema-defende-modelo-de-el-salvador-com-encarceramento-em-massa-contra-o-crime.ghtml
+- Brasil 247 - https://www.brasil247.com/sudeste/viagem-de-zema-a-el-salvador-custou-r-197-mil-e-teve-foco-em-marketing-nao-em-seguranca
+
+---
+
+## RESUMO DA REVISÃO
+
+Total de afirmações revisadas: 8
+Mantidas: 4
+Retificadas: 4
+
+| Afirmação | Original | Revisada | Mudou? |
+|-----------|----------|----------|--------|
+| #1 | FALSO | IMPRECISO | Sim |
+| #2 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #3 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #14 | NÃO VERIFICÁVEL | VERDADEIRO (com ressalva) | Sim |
+| #16 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #19 | NÃO VERIFICÁVEL | IMPRECISO | Sim |
+| #20 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #22 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |

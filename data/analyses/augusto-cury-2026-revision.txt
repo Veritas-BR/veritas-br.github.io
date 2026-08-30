@@ -1,0 +1,241 @@
+### Revisão de Fatos — Rodada 2 — Entrevista JN Augusto Cury (Avante)
+### Data da revisão: 30/08/2026
+### Modelo: opencode/mimo-v2.5-free
+
+---
+
+### 2
+
+**Afirmação:** "Nós temos que ter 10 milhões de microempresas financiadas"
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "10 milhões microempresas financiadas proposta governo Brasil 2026" → Sem resultados relevantes; proposta não encontrada em fontes oficiais
+- Consulta 2: "Augusto Cury proposta microempresas financiamento campanha eleitoral" → Sem resultados que confirmem o compromisso como fato verificável
+
+**Evidência encontrada:**
+A afirmação é uma proposta de campanha (financiar 10 milhões de microempresas), não um fato verificável. Não há como verificar o cumprimento de uma promessa futura.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+Trata-se de proposta de governo, não de fato verificável. A classificação original está correta.
+
+**Fonte(s) adicional(is):**
+- Não aplicável (proposta de campanha)
+
+---
+
+### 3
+
+**Afirmação:** "Rever 50 mil cargos comissionados"
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "cargos comissionados governo federal 2026 Portal Transparência total número" → Portal da Transparência: 110.653 cargos comissionados existentes; Portal de Prefeitura (18/12/2025): governo Lula criou 4,4 mil cargos, total chega a 50,7 mil funções de confiança
+- Consulta 2: "total cargos comissão governo federal 2026 dados SIAPE" → Portal Transparência Brasil: 110.653 cargos comissionados; 93,6% ocupados por servidores de carreira
+
+**Evidência encontrada:**
+O número total de cargos em comissão no governo federal é de aproximadamente 110.653 (segundo dados do Portal da Transparência/SIAPE). A proposta de "rever 50 mil cargos comissionados" é verificável quanto ao número atual de cargos (que é maior do que 50 mil), mas a proposta em si de "rever" é uma ação futura que não pode ser verificada.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+Embora o número atual de cargos comissionados seja verificável (aproximadamente 110 mil), a proposta de "rever" 50 mil desses cargos é uma ação futura que não pode ser verificada como fato consumado.
+
+**Fonte(s) adicional(is):**
+- Portal da Transparência do Governo Federal - https://portaldatransparencia.gov.br/servidores
+- Portal de Prefeitura - "Governo Lula cria mais de 4,4 mil cargos comissionados desde 2023" (18/12/2025)
+- Portal Transparência Brasil - "Servidores Públicos Federais — Painel Geral 2014–2026"
+
+---
+
+### 7
+
+**Afirmação:** "Nós conseguimos pelo menos 150, 200 bilhões de reais" [de economia]
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "economia 150 200 bilhões governo Augusto Cury proposta corte gastos" → Sem resultados que confirmem a estimativa como fato verificável
+- Consulta 2: "proposta governo economia despesas públicas 2026" → Não aplicável a propostas futuras
+
+**Evidência encontrada:**
+Trata-se de estimativa do candidato sobre economia futura que depende de múltiplas variáveis (cortes de gastos, aumento de receita, eficiência administrativa). Não há como verificar estimativas hipotéticas de propostas de governo.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+Estimativa de proposta de governo, não fato verificável. A classificação original está correta.
+
+**Fonte(s) adicional(is):**
+- Não aplicável (estimativa de proposta de governo)
+
+---
+
+### 13
+
+**Afirmação:** "Nós vamos precisar de 70% a mais de alimentos" [nos próximos 25 anos]
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "FAO projeção 70% mais alimentos demanda 2050 segurança alimentar produção" → ONU Brasil (04/12/2013): "Mundo precisará produzir 70% mais alimentos até 2050, calcula ONU"; FAO (2009): estimativa de 70% de aumento
+- Consulta 2: "ONU FAO 70% produção alimentos 2050 projeção" → Terra.com.br (23/09/2009): "FAO: produção alimentar mundial precisa crescer 70% até 2050"; ASBRAN: FAO revisou para 60% em 2012
+
+**Evidência encontrada:**
+A estimativa de que o mundo precisará produzir 70% mais alimentos até 2050 é uma projeção da ONU/FAO divulgada em 2009. O site das Nações Unidas no Brasil (brasil.un.org) confirmou em 04/12/2013: "Mundo precisará produzir 70% mais alimentos até 2050, calcula ONU". No entanto, em 2012, o diretor-geral da FAO, José Graziano da Silva, revisou a estimativa para 60%, considerando mudanças nas projeções demográficas e de renda. A projeção mais recente da FAO (SOLAW 2025) aponta necessidade de 50% mais alimentos até 2050.
+
+**Classificação revisada:** RETIFICADO PARA VERDADEIRO
+
+**Justificativa:**
+A estimativa de 70% mais alimentos até 2050 é uma projeção oficial da ONU/FAO, amplamente divulgada e citada. Embora a FAO tenha revisado a estimativa para 60% em 2012 e para 50% em 2025, a afirmação do candidato reflete uma projeção real da organização. A afirmação é essencialmente correta quanto à existência da projeção.
+
+**Fonte(s) adicional(is):**
+- Nações Unidas Brasil - "Mundo precisará produzir 70% mais alimentos até 2050, calcula ONU" (04/12/2013) - https://brasil.un.org/pt-br/64466-mundo-precisara-produzir-70-mais-alimentos-ate-2050-calcula-onu
+- FAO - "How to Feed the World in 2050" (2009) - https://www.fao.org/fileadmin/templates/wsfs/docs/expert_paper/How_to_Feed_the_World_in_2050.pdf
+- Terra.com.br - "FAO: produção alimentar mundial precisa crescer 70% até 2050" (23/09/2009)
+- Canal Rural - "FAO: Brasil já superou meta global de produção de alimentos para 2050" (30/07/2026): confirma que a meta era 70%
+
+---
+
+### 18
+
+**Afirmação:** "A edição primária foram 31 milhões de atendimentos no ano passado" [atenção básica no SUS]
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "atendimento primário SUS atenção básica 31 milhões 2025 dados Ministério Saúde" → O Globo (16/03/2025): 5,7 milhões de pessoas aguardavam consulta em janeiro
+- Consulta 2: "atenção básica SUS total atendimentos 2024 2025 dados RNDS" → Não foram encontrados dados consolidados que confirmem 31 milhões para "edição primária"
+
+**Evidência encontrada:**
+O número de atendimentos totais na atenção básica do SUS é da ordem de centenas de milhões por ano. O valor de 31 milhões parece referir-se a um componente específico ou a uma definição particular de "edição primária" que não foi encontrada nas fontes consultadas. Os dados consolidados de atenção básica do SUS não confirmam nem refutam o valor de 31 milhões para o contexto específico mencionado.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+O dado não pôde ser verificado com precisão. A terminologia "edição primária" não corresponde a categorias padrão de atendimento do SUS, e o número de atendimentos totais na atenção básica é muito superior a 31 milhões.
+
+**Fonte(s) adicional(is):**
+- O Globo - "Entre a fila do SUS e a vida: espera para consultas bate recorde" (16/03/2025) - https://oglobo.globo.com/saude/especial/entre-a-fila-do-sus-e-a-vida-espera-para-consultas-bate-recorde.ghtml
+- Ministério da Saúde - Dados consolidados de atenção básica
+
+---
+
+### 19
+
+**Afirmação:** "Uma consulta eletiva com um cardiologista, um reumatologista, um oftalmologista, na rede SUS... Sabe quanto tempo demora? 57 dias"
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "lista espera SUS consulta eletiva especialista 57 dias tempo médio nacional 2025 2026" → O Globo (16/03/2025): "espera para consultas bate recorde e dura em média 57 dias"; ConecteSUS.org: "espera para consultas bate recorde e dura em média 57 dias"
+- Consulta 2: "tempo médio espera SUS consulta especialista 2024 57 dias dados Sisreg" → O Globo (24/03/2025): "tempo médio da fila do SUS alcançou patamar histórico em 2024, com média de 57 dias"
+
+**Evidência encontrada:**
+O dado de 57 dias como tempo médio de espera para consultas especializadas no SUS foi confirmado por investigação do jornal O Globo com dados do Ministério da Saúde obtidos via Lei de Acesso à Informação. O levantamento mostrou que, em 2024, pacientes precisaram aguardar, em média, 57 dias para consultas especializadas na rede pública. Este é o maior tempo médio da série histórica iniciada em 2009. O dado de "57 dias" citado pelo candidato é confirmado por dados oficiais.
+
+**Classificação revisada:** RETIFICADO PARA VERDADEIRO
+
+**Justificativa:**
+O dado de 57 dias como tempo médio nacional de espera para consultas eletivas com especialistas no SUS foi confirmado por investigação jornalística com base em dados oficiais do Ministério da Saúde (obtidos via LAI). O levantamento do O Globo, publicado em março de 2025, mostrou que este é o maior tempo médio da série histórica desde 2009.
+
+**Fonte(s) adicional(is):**
+- O Globo - "Entre a fila do SUS e a vida: espera para consultas bate recorde e dura em média 57 dias" (16/03/2025) - https://oglobo.globo.com/saude/especial/entre-a-fila-do-sus-e-a-vida-espera-para-consultas-bate-recorde.ghtml
+- ConecteSUS.org - "Espera para consultas bate recorde e dura em média 57 dias"
+- O Globo - "Ferramenta exclusiva revela que espera para consultas pode levar dois anos" (24/03/2025)
+
+---
+
+### 20
+
+**Afirmação:** "Em Brasília, tem dados que são mais de 100 dias" [para consulta eletiva]
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "lista espera SUS Brasília consulta eletiva especialista mais 100 dias tempo" → O Globo (16/03/2025): ferramenta permite consultar tempo por estado; RS: espera de 7 anos; GO: dados variam
+- Consulta 2: "tempo espera consulta especialista Distrito Federal SUS 2024 2025" → O Globo mostrou que tempos variam enormemente por estado e especialidade
+
+**Evidência encontrada:**
+Os dados do O Globo (16/03/2025) mostram que o tempo de espera varia significativamente por estado e por especialidade. Embora a média nacional seja de 57 dias, há estados e especialidades com espera muito superior. No Rio Grande do Sul, por exemplo, a espera para tratamento bariátrico é de 832 dias, e para urologista é de 441 dias. Para Brasília especificamente, não foram encontrados dados que confirmem "mais de 100 dias" como média, mas é plausível para algumas especialidades.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+Embora seja plausível que algumas especialidades em Brasília tenham espera superior a 100 dias (dado que a média nacional é 57 dias e há variações enormes), o dado específico não foi confirmado para Brasília. A afirmação é plausível, mas não verificada com precisão.
+
+**Fonte(s) adicional(is):**
+- O Globo - "Entre a fila do SUS e a vida: espera para consultas bate recorde" (16/03/2025)
+- G1 - "Filas no SUS têm espera de até 7 anos por consulta no RS" (04/11/2025): mostra variação por estado
+
+---
+
+### 21
+
+**Afirmação:** "Nenhum país do mundo conseguiu implantar 80% de atendimento por telemedicina"
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "atendimento telemedicina 80% país mundo nenhum estatística internacional comparação" → CNN Brasil (09/05/2023): "telemedicina pode resolver mais de 80% dos atendimentos médicos remotamente"
+- Consulta 2: "telemedicina Reino Unido Canadá percentual atendimentos 2024 2025" → Telemedicina Morsch: Reino Unido 20% antes da pandemia; Canadá 77% em Ontário durante pandemia
+
+**Evidência encontrada:**
+Não foi encontrado nenhum país que atinja 80% de atendimento por telemedicina como modelo permanente. No Reino Unido, antes da pandemia, apenas 20% dos atendimentos eram por telemedicina. No Canadá, durante a pandemia, Ontário atingiu 77% de consultas ambulatoriais por videoconferência, mas foi temporário. Um artigo da CNN Brasil (09/05/2023) afirma que "a telemedicina pode resolver mais de 80% dos atendimentos médicos remotamente", mas isso se refere ao potencial clínico, não à implantação efetiva. Não há evidência de que qualquer país tenha implantado 80% permanente de atendimento por telemedicina.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+A afirmação é uma generalização de difícil verificação. Não foi encontrada evidência de que algum país tenha atingido 80% permanente de atendimento por telemedicina. No entanto, também não foi possível provar categoricamente que "nenhum país" conseguiu, pois a definição de "implantar 80%" pode variar.
+
+**Fonte(s) adicional(is):**
+- CNN Brasil - "Os avanços da telemedicina no País e os impactos no sistema de saúde" (09/05/2023) - https://www.cnnbrasil.com.br/forum-opiniao/os-avancos-da-telemedicina-no-pais-e-os-impactos-no-sistema-de-saude-e-educacao/
+- Telemedicina Morsch - "Telemedicina em outros países" (06/11/2024) - https://telemedicinamorsch.com.br/blog/telemedicina-em-outros-paises
+- SigOsft - "Estatísticas de Telemedicina 2025" - https://sigosoft.com/pt/blog/A-grande-lista-com-100-estatisticas-sobre-telemedicina/
+
+---
+
+### 25
+
+**Afirmação:** "Nós vamos criar o Ministério da Segurança Pública"
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "Ministério Segurança Pública criação proposta governo Brasil 2026" → Sem resultados que confirmem implementação
+- Consulta 2: "Augusto Cury proposta Ministério Segurança Pública" → Sem resultados de implementação confirmada
+
+**Evidência encontrada:**
+Trata-se de uma proposta de campanha (criação de Ministério da Segurança Pública). Não há como verificar a implementação de uma proposta futura. Não foram encontradas notícias sobre a efetiva criação desse ministério.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+Proposta de governo, não fato verificável. A classificação original está correta.
+
+**Fonte(s) adicional(is):**
+- Não aplicável (proposta de governo)
+
+---
+
+### RESUMO DA REVISÃO
+
+Total de afirmações revisadas: 9
+Mantidas: 6
+Retificadas: 3
+
+| Afirmação | Original | Revisada | Mudou? |
+|-----------|----------|----------|--------|
+| #2 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #3 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #7 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #13 | NÃO VERIFICÁVEL | VERDADEIRO | Sim |
+| #18 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #19 | NÃO VERIFICÁVEL | VERDADEIRO | Sim |
+| #20 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #21 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #25 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |

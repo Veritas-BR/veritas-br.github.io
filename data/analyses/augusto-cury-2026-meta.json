@@ -1,0 +1,10 @@
+{
+  "candidate": "Augusto Cury",
+  "party": "Avante",
+  "interview_date": "2026-08-29",
+  "transcript_file": "data/transcripts/augusto-cury.txt",
+  "analysis_file": "data/analyses/augusto-cury-2026.txt",
+  "model_used": "opencode/mimo-v2.5-free",
+  "analysis_date": "2026-08-30",
+  "version": "2.0"
+}

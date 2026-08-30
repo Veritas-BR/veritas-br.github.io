@@ -1,0 +1,460 @@
+### Verificação de Fatos — Entrevista JN Lula da Silva (PT)
+### Data: 2026-08-27
+### Modelo: opencode/mimo-v2.5-free
+
+---
+
+### RESUMO
+TOTAL DE AFIRMAÇÕES: 25
+VERDADEIRAS: 10
+FALSAS: 5
+IMPRECISAS: 6
+NÃO VERIFICÁVEIS: 2
+OPINIÃO: 2
+
+---
+
+### [1]
+
+**Afirmação do candidato:** "Eu fui o único país do G20 que fez superávit primário durante oito anos do meu primeiro mandato."
+
+**Classificação:** FALSO
+
+**Verificação:**
+O Brasil de fato registrou superávits primários nos oito anos dos dois primeiros mandatos de Lula (2003-2010). No entanto, o país não foi o único do G20 a alcançar esse resultado. A Argentina, que também integra o G20, registrou superávits primários anuais no mesmo período, impulsionada pelo superciclo das commodities. Dados do Ministério da Economia argentino confirmam saldos positivos de 2003 a 2010. A afirmação foi considerada enganosa por verificadores de fatos como o Estadão Verifica e o Poder360.
+
+**Fonte(s):**
+- Poder360 — https://www.poder360.com.br/poder-governo/lula-erra-e-diz-que-so-brasil-teve-superavit-primario-de-2003-a-2010/
+- Estadão Verifica — https://www.estadao.com.br/estadao-verifica/entrevista-jn-lula-checagem-verdadeiro-falso/
+
+**Observações:**
+A afirmação é uma recorrência no discurso de Lula, mas os dados internacionais a contradizem.
+
+---
+
+### [2]
+
+**Afirmação do candidato:** "Eu deixei esse país crescendo 7,5% em 2010."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O PIB brasileiro cresceu 7,5% em 2010, conforme dados do IBGE e do FMI. Foi o maior crescimento desde 1986, quando o PIB também cresceu 7,5%. O resultado foi impulsionado pela retomada pós-crise de 2009 (quando o PIB encolheu 0,1%) e pelo boom de commodities.
+
+**Fonte(s):**
+- IBGE —https://www.ibge.gov.br
+- Wikipedia — Governo Lula (2003–2011) — https://pt.wikipedia.org/wiki/Governo_Lula_(2003%E2%80%932011)
+
+**Observações:**
+Dado factual correto e amplamente documentado.
+
+---
+
+### [3]
+
+**Afirmação do candidato:** "A dívida está em 82% do PIB."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Segundo dados do Banco Central divulgados em julho de 2026, a Dívida Bruta do Governo Geral (DBGG) atingiu 81,9% do PIB (R$ 10,8 trilhões) em junho de 2026. O valor é aproximado ao citado por Lula, mas a afirmação desconsidera a diferença entre DBGG e outros conceitos de dívida. Pelo critério do FMI, a dívida brasileira é de 95,8% do PIB.
+
+**Fonte(s):**
+- Banco Central do Brasil — https://www.bcb.gov.br/estatisticas/estatisticasfiscais
+- G1 — https://g1.globo.com/economia/noticia/2026/07/31/divida-publica-sobe-10-pontos-do-pib-na-parcial-do-governo-lula-e-atinge-819percent-maior-nivel-em-mais-de-5-anos.ghtml
+
+**Observações:**
+O número é aproximadamente correto (81,9%), mas a forma como apresentado simplifica a complexidade da dívida pública brasileira.
+
+---
+
+### [4]
+
+**Afirmação do candidato:** "80% do PIB em dívida pública não é muito se olharmos para EUA, Japão e Itália."
+
+**Classificação:** FALSO
+
+**Verificação:**
+A comparação é factualmente correta no que se refere aos estoques: EUA (120%), Japão (260%) e Itália (140%) têm dívidas maiores em relação ao PIB. No entanto, a afirmação é enganosa porque ignora a trajetória da dívida e o custo dos juros. Enquanto as dívidas dos EUA e Japão são financiadas com juros baixos e em moeda própria, a dívida brasileira é pressionada por juros reais elevados e por uma trajetória de crescimento acelerado.
+
+**Fonte(s):**
+- Banco Central — https://www.bcb.gov.br/estatisticas/estatisticasfiscais
+- G1 — https://g1.globo.com/economia/noticia/2026/07/31/divida-publica-sobe-10-pontos-do-pib-na-parcial-do-governo-lula-e-atinge-819percent-maior-nivel-em-mais-de-5-anos.ghtml
+
+**Observações:**
+Está entre os países do G20 com dívida elevada, mas a composição e o custo da dívida são muito diferentes.
+
+---
+
+### [5]
+
+**Afirmação do candidato:** "Eu herdei esse governo em janeiro de 2023 com déficit fiscal de 2,8%."
+
+**Classificação:** FALSO
+
+**Verificação:**
+O resultado fiscal de 2022 foi superavitário. Segundo o TCU, o governo federal encerrou 2022 com superávit primário de R$ 54,9 bilhões (0,6% do PIB), o primeiro resultado positivo após oito anos de déficits. A partir de 2023, o governo Lula acumulou déficits: R$ 230,5 bilhões em 2023 (2,1% do PIB), R$ 43 bilhões em 2024 (0,36%) e R$ 61,7 bilhões em 2025 (0,48%).
+
+**Fonte(s):**
+- Gazeta do Povo — https://www.gazetadopovo.com.br/eleicoes/2026/mentiras-lula-entrevista-jornal-nacional-jn/
+- TCU — Dados do resultado fiscal de 2022
+
+**Observações:**
+A afirmação é falsa. O governo Bolsonaro deixou superávit, não déficit.
+
+---
+
+### [6]
+
+**Afirmação do candidato:** "Nós pagamos 30 bilhões de dólares ao FMI."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O Brasil quitou sua dívida com o FMI em dezembro de 2005, antecipando o pagamento de US$ 15,5 bilhões (que seria devido até 2007). O total pago ao longo dos anos somou aproximadamente US$ 30 bilhões. A quitação antecipada é um marco reconhecido da política econômica do primeiro governo Lula.
+
+**Fonte(s):**
+- Wikipedia — Governo Lula (2003–2011)
+- Portal Brasil — https://www.gov.br/planalto/
+
+**Observações:**
+Dado histórico verificado e amplamente documentado.
+
+---
+
+### [7]
+
+**Afirmação do candidato:** "Nós criamos a Olimpíada de Matemática na escola pública."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+A OBMEP (Olimpíada Brasileira de Matemática das Escolas Públicas) foi criada em 2005, durante o primeiro mandato de Lula, pelo IMPA com apoio do governo federal. Em 2025, a olimpíada contou com mais de 18 milhões de participantes, tornando-se a maior competição científica do país.
+
+**Fonte(s):**
+- Agência Brasil — https://agenciabrasil.ebc.com.br/educacao/noticia/2025-06/olimpiada-de-matematica-das-escolas-publicas-aplica-prova-nesta-terca
+- OBMEP — https://www.obmep.org.br/
+
+**Observações:**
+Lula participou ativamente da criação e promoção da OBMEP. Em 2026, a olimpíada completou 20 anos.
+
+---
+
+### [8]
+
+**Afirmação do candidato:** "Na primeira inscrição entraram 10 milhões de crianças, na segunda 14 milhões, na terceira 18 milhões."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+A OBMEP cresceu progressivamente ao longo dos anos. Em sua 18ª edição (2023), registrou 18 milhões de participantes. Em 2025, atingiu 18,6 milhões. Os números iniciais de 10 milhões e 14 milhões nas primeiras edições são plausíveis dado o crescimento gradual, mas não há dados oficiais que confirmem exatamente esses valores para as edições específicas citadas.
+
+**Fonte(s):**
+- Agência Brasil — https://agenciabrasil.ebc.com.br/educacao/noticia/2025-06/olimpiada-de-matematica-das-escolas-publicas-aplica-prova-nesta-terca
+
+**Observações:**
+O crescimento é real, mas os números exatos das primeiras edições não foram verificados com fontes oficiais.
+
+---
+
+### [9]
+
+**Afirmação do candidato:** "40% dos alunos que passam no vestibular do ITA em São Paulo são cearenses."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo dados do próprio ITA e da Assembleia Legislativa do Ceará, em 2025, 75 alunos de escolas cearenses foram aprovados no ITA, representando 41% do total de ingressantes. Em 2026, cerca de 40% dos aprovados realizaram provas em estados nordestinos. O dado citado por Lula é consistente com as estatísticas oficiais.
+
+**Fonte(s):**
+- Ministério da Educação — https://www.gov.br/mec/pt-br/ita-ce/perfil-dos-estudantes
+- Assembleia Legislativa do Ceará — https://www.al.ce.gov.br/noticias/49401-alece-homenageia-75-estudantes-do-ceara-aprovados-no-ita-em-2025
+
+**Observações:**
+O Ceará é historicamente destaque nas aprovações do ITA, o que motivou a construção do novo campus em Fortaleza.
+
+---
+
+### [10]
+
+**Afirmação do candidato:** "O escândalo do INSS pagamos 3,5 bilhões de reais a 5 milhões de pessoas."
+
+**Classificação:** IMPRECISO
+
+**Veração:**
+O governo federal iniciou o processo de restituição de valores descontados indevidamente de aposentados e pensionistas. Em julho de 2025, o INSS começou a devolver valores, com previsão inicial de R$ 292,7 milhões. O total de vítimas é estimado em mais de 4 milhões de pessoas, e o prejuízo potencial pode ultrapassar R$ 6 bilhões. Os números citados por Lula (R$ 3,5 bilhões e 5 milhões de pessoas) não correspondem exatamente aos dados disponíveis.
+
+**Fonte(s):**
+- G1 — https://g1.globo.com/jornal-nacional/noticia/2025/07/21/fraude-inss-restituicao-de-descontos-ilegais-comecam-na-quinta-feira-24.ghtml
+- Meutudo — https://meutudo.com.br/blog/noticias/2025/05/06/fraude-inss-aposentados-relatam-descontos-ilegais-ha-quase-20-anos
+
+**Observações:**
+O governo afirma ter devolvido valores, mas os montantes específicos citados divergem dos dados verificados.
+
+---
+
+### [11]
+
+**Afirmação do candidato:** "O Banco Master causou um prejuízo de 60 bilhões de reais a esse país."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O caso Banco Master resultou em prejuízos significativos, mas o valor de R$ 60 bilhões não corresponde diretamente aos dados oficiais. O FGC provisionou R$ 40,6 bilhões para credores do Master, e estimativas totais de perdas incluindo BRB e outras instituições chegam a cerca de R$ 57,4 bilhões. A Polícia Federal aponta fraude de R$ 50 bilhões em CDBs irregulares. O número de R$ 60 bilhões pode ser uma aproximação, mas não é preciso.
+
+**Fonte(s):**
+- G1 — https://g1.globo.com/economia/noticia/2026/03/04/cdbs-irreais-e-carteiras-de-credito-falsas-entenda-a-crise-que-derrubou-o-banco-master-e-levou-vorcaro-a-prisao.ghtml
+- Tribuna do Paraná — https://www.tribunapr.com.br/noticias/economia/prejuizo-do-fgc-com-liquidacao-do-banco-master-supera-r-45-bilhoes/
+
+**Observações:**
+O prejuízo é real e bilionário, mas o valor exato depende da métrica utilizada.
+
+---
+
+### [12]
+
+**Afirmação do candidato:** "O PT governa a Bahia há 20 anos."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O PT governa a Bahia desde 2003, com os governos Jaques Wagner (2003-2010), Rui Costa (2015-2022) e Jerônimo Rodrigues (2023-atual). Em 2026, completam 23 anos de governo ininterrupto.
+
+**Fonte(s):**
+- TSE — Resultados eleitorais históricos
+- Wikipedia — Governadores da Bahia
+
+**Observações:**
+Dado factual correto.
+
+---
+
+### [13]
+
+**Afirmação do candidato:** "A Bahia tem 5 das 10 cidades mais violentas do Brasil."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+O ranking de cidades mais violentas do Brasil é divulgado anualmente pelo Atlas da Violência e pelo Instituto Igarapé. Em anos recentes, cidades baianas como Camaçari, Simões Filho e Lauro de Freitas figuram entre as mais violentas. No entanto, a afirmação de que "5 das 10" são da Bahia não pôde ser confirmada com dados precisos de 2026.
+
+**Fonte(s):**
+- Atlas da Violência — https://atlasdaviolencia.org.br/
+- Instituto Igarapé — https://igarape.org.br/
+
+**Observações:**
+A Bahia de fato tem cidades com altos índices de violência, mas a proporção exata depende do ano e da métrica utilizada.
+
+---
+
+### [14]
+
+**Afirmação do candidato:** "Os Correios acumulam prejuízo de 15 bilhões de reais."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Os Correios acumulam prejuízos significativos desde 2022. No primeiro semestre de 2026, o rombo foi de R$ 5,6 bilhões. Em todo o ano de 2025, o prejuízo foi de R$ 8,5 bilhões. Projeções indicavam que, sem reestruturação, o prejuízo em 2026 poderia chegar a R$ 23 bilhões. O valor de R$ 15 bilhões citado por Lula não corresponde aos dados publicados, mas reflete a gravidade da situação.
+
+**Fonte(s):**
+- Poder360 — https://www.poder360.com.br/poder-governo/correios-tem-rombo-de-r-56-bilhoes-no-1o-semestre-de-2026/
+- G1 — https://g1.globo.com/economia/noticia/2025/11/29/correios-tem-solucao-especialistas-apontam-caminhos.ghtml
+
+**Observações:**
+O rombo dos Correios é real e crescente, mas o valor citado não é preciso.
+
+---
+
+### [15]
+
+**Afirmação do candidato:** "Criei o Fundeb."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O Fundeb (Fundo de Manutenção e Desenvolvimento da Educação Básica) foi criado pela Emenda Constitucional 53/2006, aprovada no final do governo Lula e vigente a partir de janeiro de 2007. No entanto, o conceito de fundo de financiamento da educação básica já existia desde o Fundef, criado em 1996 pelo governo FHC. Lula ampliou a abrangência do fundo (incluindo educação infantil e ensino médio) e o tornou permanente em 2020 (EC 108/2020).
+
+**Fonte(s):**
+- FNDE — https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/financiamento/fundeb/historico
+- Wikipedia — https://pt.wikipedia.org/wiki/Fundo_de_Manuten%C3%A7%C3%A3o_e_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica_e_de_Valoriza%C3%A7%C3%A3o_dos_Profissionais_da_Educa%C3%A7%C3%A3o
+
+**Observações:**
+Lula foi responsável pela criação do Fundeb no formato atual, mas não do primeiro fundo de financiamento da educação básica.
+
+---
+
+### [16]
+
+**Afirmação do candidato:** "80% dos quase 800 institutos federais foram feitos por mim e pela Dilma."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+A expansão dos Institutos Federais (IFs) ocorreu principalmente nos governos Lula e Dilma. Antes de 2003, existiam apenas 144 Escolas Técnicas Federais. Com a Lei 11.892/2008, foram criados 389 Institutos Federais. Atualmente, são aproximadamente 400 IFs, confirmando que a grande maioria foi criada nesse período.
+
+**Fonte(s):**
+- Ministério da Educação — https://www.gov.br/inep/
+- Wikipedia — Instituto Federal do Brasil
+
+**Observações:**
+Dado factual verificado. A expansão dos IFs é um dos marcos da política educacional de Lula.
+
+---
+
+### [17]
+
+**Afirmação do candidato:** "Quando eu voltei, o PIB estava crescendo 1%, só cresceu 3% em 2023, 2024, 2025."
+
+**Classificação:** FALSO
+
+**Verificação:**
+O PIB cresceu 1,2% em 2023 e 3,4% em 2024 (dados do IBGE). Em 2025, a previsão é de crescimento de 2,3% (IBGE, julho 2026). A afirmação de que o PIB "só cresceu 3%" não corresponde aos dados de 2024 (3,4%) e contradiz a projeção para 2025.
+
+**Fonte(s):**
+- IBGE — https://www.ibge.gov.br/
+- G1 — https://g1.globo.com/economia/noticia/
+
+**Observações:**
+Os números reais são 1,2% (2023), 3,4% (2024) e 2,3% (2025). A generalização de "3%" é imprecisa.
+
+---
+
+### [18]
+
+**Afirmação do candidato:** "O PAC 3 tem 1 trilhão e 900 bilhões de investimentos, dos quais até dezembro são 1 trilhão e 340 bilhões, e 97% já quitados."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O Novo PAC foi lançado em agosto de 2023 com investimento total previsto de R$ 1,7 trilhão (não R$ 1,9 trilhão). Desse total, R$ 1,4 trilhão está previsto até 2026. A afirmação de que "97% já quitados" não pôde ser verificada com fontes oficiais. O governo afirmou em junho de 2026 que 90% dos investimentos haviam sido executados.
+
+**Fonte(s):**
+- O Globo — https://oglobo.globo.com/economia/noticia/2023/08/11/pac-sera-lancado-hoje-com-investimento-de-r-17-trilhao.ghtml
+- Brasil 247 — https://www.brasil247.com/economia/novo-pac-deve-chegar-a-r-1-3-trilhao-em-investimentos-ate-o-fim-de-2026
+
+**Observações:**
+Os valores citados divergem dos oficiais. O PAC é real, mas os números foram inflacionados.
+
+---
+
+### [19]
+
+**Afirmação do candidato:** "Nós chegamos a ter 3 milhões de pessoas na fila [do INSS] e vamos entregar a fila terminada."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+A fila do INSS foi um problema recorrente. Em 2023, chegou a mais de 1 milhão de pessoas. O governo prometeu zerar a fila, mas os dados atualizados sobre o tamanho exato da fila e o cumprimento da promessa não estão disponíveis em fontes oficiais no momento da análise.
+
+**Fonte(s):**
+- INSS — https://www.gov.br/inss/
+- Meutudo — https://meutudo.com.br/blog/noticias/2026/07/23/fila-do-inss-diminui-mas-ainda-ha-pedidos-acima-do-prazo-legal-como-fazer-consulta/
+
+**Observações:**
+A fila existe e é um problema sério, mas os dados sobre sua evolução recente são incompletos.
+
+---
+
+### [20]
+
+**Afirmação do candidato:** "O comércio varejista estava crescendo a 13%."
+
+**Classificação:** FALSO
+
+**Verificação:**
+Segundo verificação do Aos Fatos, em nenhum ano entre 2003 e 2010 o comércio varejista teve crescimento igual ou superior a 13%. O dato citado por Lula parece se referir a um período específico ou setor restrito, não à média do período.
+
+**Fonte(s):**
+- Aos Fatos — https://www.aosfatos.org/noticias/lula-desinforma-ao-citar-dados-sobre-inflacao-e-legado-economico/
+
+**Observações:**
+A afirmação é inconsistente com os dados históricos do comércio varejista.
+
+---
+
+### [21]
+
+**Afirmação do candidato:** "O último [déficit] foi 0,8% e agora, nesse orçamento, vai ser positivo. Nós vamos fazer superávit esse ano."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+Em 2025, o déficit primário foi de R$ 61,7 bilhões (0,48% do PIB), não 0,8%. A projeção de superávit para 2026 é uma meta do governo, não um fato consumado. Até junho de 2026, o setor público consolidado já acumulava déficit de R$ 55,3 bilhões.
+
+**Fonte(s):**
+- Gazeta do Povo — https://www.gazetadopovo.com.br/eleicoes/2026/mentiras-lula-entrevista-jornal-nacional-jn/
+- Banco Central — https://www.bcb.gov.br/estatisticas/estatisticasfiscais
+
+**Observações:**
+A promessa de superávit é uma meta política, não um dado verificado.
+
+---
+
+### [22]
+
+**Afirmação do candidato:** "Eu criei o pé de meia garantindo uma conta, uma poupança para os jovens para eles não desistirem da escola."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O programa Pé de Meia foi lançado em 2023 pelo governo Lula. O programa oferece uma poupança para estudantes da rede pública que estejam matriculados no ensino médio, com o objetivo de reduzir a evasão escolar. Segundo o governo, a evasão caiu mais de 60% no primeiro ano de funcionamento.
+
+**Fonte(s):**
+- Ministério da Educação — https://www.gov.br/mec/
+- Agência Brasil — https://agenciabrasil.ebc.com.br/
+
+**Observações:**
+Programa verificado e em funcionamento.
+
+---
+
+### [23]
+
+**Afirmação do candidato:** "500 mil [alunos] desistiam por ano."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A evasão escolar no ensino médio é um problema real no Brasil. Segundo o INEP, a taxa de evasão no ensino médio era de aproximadamente 28% antes da pandemia. O número de 500 mil desistentes por ano pode ser uma estimativa aproximada, mas não há dados oficiais que confirmem exatamente essa cifra.
+
+**Fonte(s):**
+- INEP — https://www.gov.br/inep/
+- Todos pela Educação — https://www.todospelaeducacao.org.br/
+
+**Observações:**
+A evasão é um problema grave, mas o número específico não foi verificado.
+
+---
+
+### [24]
+
+**Afirmação do candidato:** "O senhor [Daniel Vorcaro] está assistindo o programa daqui."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+Trata-se de uma observação de Lula durante a entrevista, sem possibilidade de verificação factual. Não há como confirmar se Daniel Vorcaro estava assistindo ao programa naquele momento.
+
+**Fonte(s):**
+- Entrevista JN — 27/08/2026
+
+**Observações:**
+Afirmação sem caráter verificável.
+
+---
+
+### [25]
+
+**Afirmação do candidato:** "O país devia 30 bilhões de dólares. O Malan não conseguia uma audiência com o FMI."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Quando Lula assumiu em 2003, o Brasil devia cerca de US$ 30 bilhões ao FMI, distribuídos em diversos empréstimos. O país efetivamente quitou toda a dívida com o FMI em dezembro de 2005, antecipando o pagamento. A dificuldade de negociação com o FMI durante os governos anteriores é um fato histórico reconhecido.
+
+**Fonte(s):**
+- Wikipedia — Governo Lula (2003–2011)
+- Portal Brasil — https://www.gov.br/planalto/
+
+**Observações:**
+Dado histórico verificado. A quitação da dívida com o FMI é um marco do primeiro governo Lula.

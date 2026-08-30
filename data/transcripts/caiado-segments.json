@@ -1,0 +1,4520 @@
+[
+  {
+    "id": 0,
+    "start": 0.0,
+    "end": 14.1,
+    "text": " Olá, boa noite."
+  },
+  {
+    "id": 1,
+    "start": 14.32,
+    "end": 14.86,
+    "text": " Boa noite."
+  },
+  {
+    "id": 2,
+    "start": 15.48,
+    "end": 20.86,
+    "text": " Nós estamos entrevistando esta semana os candidatos à presidência da República nas eleições"
+  },
+  {
+    "id": 3,
+    "start": 20.86,
+    "end": 21.88,
+    "text": " 2026."
+  },
+  {
+    "id": 4,
+    "start": 22.64,
+    "end": 28.68,
+    "text": " Foram convidados os seis candidatos mais bem colocados na pesquisa Quest de 14 de agosto."
+  },
+  {
+    "id": 5,
+    "start": 28.68,
+    "end": 35.98,
+    "text": " A ordem das entrevistas foi decidida num sorteio com a presença de representantes das campanhas."
+  },
+  {
+    "id": 6,
+    "start": 36.22,
+    "end": 40.88,
+    "text": " Hoje nós recebemos aqui no estúdio o candidato Ronaldo Caiado, do PSD."
+  },
+  {
+    "id": 7,
+    "start": 41.519999999999996,
+    "end": 44.08,
+    "text": " Amanhã será a vez de Renan Santos, do Missão."
+  },
+  {
+    "id": 8,
+    "start": 44.480000000000004,
+    "end": 47.379999999999995,
+    "text": " Na quinta-feira, Luiz Inácio Lula da Silva, do PT."
+  },
+  {
+    "id": 9,
+    "start": 47.94,
+    "end": 50.34,
+    "text": " Na sexta, Flávio Bolsonaro, do PL."
+  },
+  {
+    "id": 10,
+    "start": 50.6,
+    "end": 52.82,
+    "text": " E no sábado, Augusto Cury, do Avante."
+  },
+  {
+    "id": 11,
+    "start": 53.16,
+    "end": 55.78,
+    "text": " Nós entrevistamos ontem Romeu Zema, do Novo."
+  },
+  {
+    "id": 12,
+    "start": 55.78,
+    "end": 63.34,
+    "text": " Cada entrevista vai ter 40 minutos de duração com dois blocos e as considerações finais dos candidatos."
+  },
+  {
+    "id": 13,
+    "start": 64.0,
+    "end": 68.86,
+    "text": " Vamos começar então relembrando a trajetória política de Ronaldo Caiado."
+  },
+  {
+    "id": 14,
+    "start": 69.52,
+    "end": 72.14,
+    "text": " Ronaldo Caiado tem 76 anos."
+  },
+  {
+    "id": 15,
+    "start": 72.54,
+    "end": 73.98,
+    "text": " Nasceu em Anápolis, Goiás."
+  },
+  {
+    "id": 16,
+    "start": 74.52000000000001,
+    "end": 75.98,
+    "text": " É médico e produtor rural."
+  },
+  {
+    "id": 17,
+    "start": 76.58,
+    "end": 82.96000000000001,
+    "text": " Ele entrou na política na década de 80, como um dos fundadores da União Democrática Ruralista, a UDR."
+  },
+  {
+    "id": 18,
+    "start": 82.96,
+    "end": 89.16,
+    "text": " Disputou a presidência pela primeira vez em 1989 e ficou em décimo lugar."
+  },
+  {
+    "id": 19,
+    "start": 89.88,
+    "end": 93.74,
+    "text": " Dois anos depois, assumiu o primeiro mandato de deputado federal por Goiás."
+  },
+  {
+    "id": 20,
+    "start": 94.33999999999999,
+    "end": 95.83999999999999,
+    "text": " Foi deputado cinco vezes."
+  },
+  {
+    "id": 21,
+    "start": 96.28,
+    "end": 97.24,
+    "text": " Depois, senador."
+  },
+  {
+    "id": 22,
+    "start": 97.88,
+    "end": 101.39999999999999,
+    "text": " E em seguida, governou Goiás por sete anos e três meses."
+  },
+  {
+    "id": 23,
+    "start": 102.22,
+    "end": 104.89999999999999,
+    "text": " Agora volta a disputar a presidência da República."
+  },
+  {
+    "id": 24,
+    "start": 105.24,
+    "end": 108.03999999999999,
+    "text": " Ronaldo Caiado é candidato pelo PSD."
+  },
+  {
+    "id": 25,
+    "start": 108.63999999999999,
+    "end": 112.3,
+    "text": " E tem como vice o presidente do partido, Gilberto Kassab."
+  },
+  {
+    "id": 26,
+    "start": 112.96,
+    "end": 116.32,
+    "text": " Candidato, boa noite."
+  },
+  {
+    "id": 27,
+    "start": 116.69999999999999,
+    "end": 118.66,
+    "text": " Muito obrigado pela presença do senhor."
+  },
+  {
+    "id": 28,
+    "start": 118.8,
+    "end": 119.8,
+    "text": " Boa noite, candidato."
+  },
+  {
+    "id": 29,
+    "start": 120.05999999999999,
+    "end": 123.8,
+    "text": " Candidato, o tempo da entrevista começa a valer a partir de agora."
+  },
+  {
+    "id": 30,
+    "start": 124.61999999999999,
+    "end": 126.46,
+    "text": " Boa noite, Renata Vasconcelos."
+  },
+  {
+    "id": 31,
+    "start": 126.6,
+    "end": 127.82,
+    "text": " Boa noite, César Tral."
+  },
+  {
+    "id": 32,
+    "start": 127.82,
+    "end": 132.01999999999998,
+    "text": " Agradecer aqui toda a direção da TV Globo."
+  },
+  {
+    "id": 33,
+    "start": 132.01999999999998,
+    "end": 139.48,
+    "text": " Bom momento importante de uma eleição tão curta e de uma relevância ímpar para o futuro deste país,"
+  },
+  {
+    "id": 34,
+    "start": 140.06,
+    "end": 145.98,
+    "text": " onde aqui nós poderemos falar a milhões e milhões de brasileiros, e muitos deles não me conhecem."
+  },
+  {
+    "id": 35,
+    "start": 146.51999999999998,
+    "end": 150.78,
+    "text": " Será a primeira oportunidade de saber realmente o que a gente pensa e o que a gente tem a propor"
+  },
+  {
+    "id": 36,
+    "start": 150.78,
+    "end": 154.9,
+    "text": " numa hora tão importante da história política nacional."
+  },
+  {
+    "id": 37,
+    "start": 155.18,
+    "end": 166.0,
+    "text": " Candidato, o senhor diz que se eleito, o seu primeiro ato de governo vai ser anistiar os condenados pelos atos golpistas do 8 de janeiro de 2023."
+  },
+  {
+    "id": 38,
+    "start": 167.22,
+    "end": 172.98,
+    "text": " Eu quero entender o alcance dessa sua proposta que teria que passar pelo Congresso Nacional."
+  },
+  {
+    "id": 39,
+    "start": 173.82,
+    "end": 177.22,
+    "text": " Quem exatamente o senhor pretende anistiar?"
+  },
+  {
+    "id": 40,
+    "start": 177.22,
+    "end": 187.16,
+    "text": " A aqueles que invadiram e depredaram as sedes dos três poderes, os financiadores da tentativa do golpe, os incitadores,"
+  },
+  {
+    "id": 41,
+    "start": 188.26,
+    "end": 195.4,
+    "text": " o ex-presidente Jair Bolsonaro, militares e autoridades que foram condenados pelo STF ou todos eles?"
+  },
+  {
+    "id": 42,
+    "start": 196.8,
+    "end": 202.28,
+    "text": " Bom, primeiro, tenho essa responsabilidade, sim."
+  },
+  {
+    "id": 43,
+    "start": 202.28,
+    "end": 208.22,
+    "text": " Eu tenho uma formação, eu sou um democrata na essência."
+  },
+  {
+    "id": 44,
+    "start": 209.6,
+    "end": 214.16,
+    "text": " Eu sou um homem que jamais transigi das regras da democracia."
+  },
+  {
+    "id": 45,
+    "start": 214.64,
+    "end": 219.22,
+    "text": " Sou um homem que já ganhei eleições, já perdi eleições, nunca contestei resultados,"
+  },
+  {
+    "id": 46,
+    "start": 220.52,
+    "end": 224.46,
+    "text": " fui um parlamentar que sempre respeitei o resultado do painel."
+  },
+  {
+    "id": 47,
+    "start": 224.46,
+    "end": 234.10000000000002,
+    "text": " Então, eu sou uma pessoa que também posso lhe dizer que o traço do brasileiro, César Tralho,"
+  },
+  {
+    "id": 48,
+    "start": 234.28,
+    "end": 241.38,
+    "text": " ele não é de construir o ódio, ele não é de construir esse processo de revanche eterno."
+  },
+  {
+    "id": 49,
+    "start": 241.58,
+    "end": 243.08,
+    "text": " Isso é histórico no Brasil."
+  },
+  {
+    "id": 50,
+    "start": 243.60000000000002,
+    "end": 246.4,
+    "text": " Desde império, você tem anistia."
+  },
+  {
+    "id": 51,
+    "start": 246.4,
+    "end": 253.6,
+    "text": " Você depois teve momentos importantes onde Juscelino Kubitschek também sofreu realmente uma tentativa de golpe,"
+  },
+  {
+    "id": 52,
+    "start": 254.3,
+    "end": 256.8,
+    "text": " propôs ali uma anistia e foi trabalhar."
+  },
+  {
+    "id": 53,
+    "start": 257.6,
+    "end": 263.12,
+    "text": " O que eu quero dizer neste momento é que nós precisamos de acabar com essa polarização."
+  },
+  {
+    "id": 54,
+    "start": 263.54,
+    "end": 265.66,
+    "text": " Nós temos que pacificar o país."
+  },
+  {
+    "id": 55,
+    "start": 266.42,
+    "end": 268.54,
+    "text": " Ninguém aguenta mais essa situação."
+  },
+  {
+    "id": 56,
+    "start": 269.22,
+    "end": 274.64,
+    "text": " Este clima está criando, como sempre, esse processo de um contra o outro."
+  },
+  {
+    "id": 57,
+    "start": 274.64,
+    "end": 279.09999999999997,
+    "text": " O brasileiro, na última eleição, 38 milhões não foram às urnas."
+  },
+  {
+    "id": 58,
+    "start": 279.91999999999996,
+    "end": 285.91999999999996,
+    "text": " Então, neste momento, eu posso lhe garantir que encaminharei sim ao Congresso Nacional"
+  },
+  {
+    "id": 59,
+    "start": 285.91999999999996,
+    "end": 294.53999999999996,
+    "text": " um projeto para que haja uma anistia geral, ampla, da mesma maneira que, de uma forma especial,"
+  },
+  {
+    "id": 60,
+    "start": 295.47999999999996,
+    "end": 299.34,
+    "text": " o Supremo também concedeu ao ex-presidente Lula."
+  },
+  {
+    "id": 61,
+    "start": 299.34,
+    "end": 304.2,
+    "text": " Ele foi condenado em todas as instâncias."
+  },
+  {
+    "id": 62,
+    "start": 305.61999999999995,
+    "end": 313.97999999999996,
+    "text": " Gente, eu via na Globo, era um propinoduto, todos os dias, durante quatro anos,"
+  },
+  {
+    "id": 63,
+    "start": 314.56,
+    "end": 319.46,
+    "text": " saindo dinheiro, dinheiro, dinheiro, corrupção, corrupção, corrupção."
+  },
+  {
+    "id": 64,
+    "start": 319.9,
+    "end": 322.2,
+    "text": " O povo brasileiro já não aguentava mais aquilo."
+  },
+  {
+    "id": 65,
+    "start": 322.55999999999995,
+    "end": 326.44,
+    "text": " Todo mundo eufórico porque estava tendo um combate à corrupção no Brasil."
+  },
+  {
+    "id": 66,
+    "start": 326.44,
+    "end": 334.2,
+    "text": " E, de repente, o Supremo diz, olha, o fórum não foi correto, não poderia ser lá no Paraná."
+  },
+  {
+    "id": 67,
+    "start": 334.3,
+    "end": 334.88,
+    "text": " Mas, candidato..."
+  },
+  {
+    "id": 68,
+    "start": 334.88,
+    "end": 339.2,
+    "text": " E, de repente, só terminando, e, de repente, ele foi anistiado."
+  },
+  {
+    "id": 69,
+    "start": 339.62,
+    "end": 346.98,
+    "text": " Quer dizer, uma atitude que o Supremo o anistiou para que ele voltasse até para disputar a eleição."
+  },
+  {
+    "id": 70,
+    "start": 347.1,
+    "end": 348.3,
+    "text": " Mas, candidato, sobre esses..."
+  },
+  {
+    "id": 71,
+    "start": 348.3,
+    "end": 353.52000000000004,
+    "text": " O que é importante é que a gente possa concluir o raciocínio é que, neste momento,"
+  },
+  {
+    "id": 72,
+    "start": 353.90000000000003,
+    "end": 358.16,
+    "text": " a medida minha de anistia tem um objetivo, é pacificar o Brasil."
+  },
+  {
+    "id": 73,
+    "start": 358.28000000000003,
+    "end": 359.66,
+    "text": " A partir dali, não se discute mais..."
+  },
+  {
+    "id": 74,
+    "start": 359.66,
+    "end": 361.86,
+    "text": " O senhor, então, vai mandar para o Congresso Nacional..."
+  },
+  {
+    "id": 75,
+    "start": 361.86,
+    "end": 362.56,
+    "text": " Sem dúvida nenhuma."
+  },
+  {
+    "id": 76,
+    "start": 362.56,
+    "end": 365.08000000000004,
+    "text": " ... um projeto de anistia irrestrita para todos..."
+  },
+  {
+    "id": 77,
+    "start": 365.08000000000004,
+    "end": 366.26,
+    "text": " Ampla e geral..."
+  },
+  {
+    "id": 78,
+    "start": 366.26,
+    "end": 367.68,
+    "text": " ... os que eu acabei de citar aqui."
+  },
+  {
+    "id": 79,
+    "start": 367.92,
+    "end": 368.36,
+    "text": " A todos."
+  },
+  {
+    "id": 80,
+    "start": 368.48,
+    "end": 369.78000000000003,
+    "text": " Ampla e geral e irrestrita."
+  },
+  {
+    "id": 81,
+    "start": 369.78,
+    "end": 373.79999999999995,
+    "text": " E elas não se referem a, propriamente, o ódio, como o senhor falou."
+  },
+  {
+    "id": 82,
+    "start": 374.03999999999996,
+    "end": 379.38,
+    "text": " Sobre a gravidade do que aconteceu no Brasil, o ex-comandante da Aeronáutica, o Brigadeiro"
+  },
+  {
+    "id": 83,
+    "start": 379.38,
+    "end": 385.84,
+    "text": " Batista Júnior, afirmou que houve risco iminente de golpe de Estado e pressões para que militares"
+  },
+  {
+    "id": 84,
+    "start": 385.84,
+    "end": 387.55999999999995,
+    "text": " aderissem a uma ruptura institucional."
+  },
+  {
+    "id": 85,
+    "start": 387.67999999999995,
+    "end": 392.67999999999995,
+    "text": " Ele confirmou que houve reuniões no Palácio da Alvorada, no Ministério da Defesa, para discutir"
+  },
+  {
+    "id": 86,
+    "start": 392.67999999999995,
+    "end": 393.71999999999997,
+    "text": " medidas de exceção."
+  },
+  {
+    "id": 87,
+    "start": 393.72,
+    "end": 399.54,
+    "text": " No depoimento que deu ao Supremo Tribunal Federal, o então comandante do Exército,"
+  },
+  {
+    "id": 88,
+    "start": 399.70000000000005,
+    "end": 403.42,
+    "text": " Freire Gomes, fez um seguinte relato sobre uma reunião que ele teve com o ex-presidente"
+  },
+  {
+    "id": 89,
+    "start": 403.42,
+    "end": 403.88000000000005,
+    "text": " Bolsonaro."
+  },
+  {
+    "id": 90,
+    "start": 403.98,
+    "end": 405.66,
+    "text": " Eu vou pedir licença para ler aspas dele."
+  },
+  {
+    "id": 91,
+    "start": 406.18,
+    "end": 407.40000000000003,
+    "text": " Eu alertei o presidente."
+  },
+  {
+    "id": 92,
+    "start": 408.04,
+    "end": 408.24,
+    "text": " Sim."
+  },
+  {
+    "id": 93,
+    "start": 408.8,
+    "end": 413.66,
+    "text": " E se ele saísse dos aspectos jurídicos, além de ele não poder contar com o nosso apoio,"
+  },
+  {
+    "id": 94,
+    "start": 413.98,
+    "end": 416.04,
+    "text": " ele poderia ser enquadrado juridicamente."
+  },
+  {
+    "id": 95,
+    "start": 416.56,
+    "end": 421.36,
+    "text": " Então, pergunto ao senhor, candidato, que avaliação o senhor faz hoje de todos esses"
+  },
+  {
+    "id": 96,
+    "start": 421.36,
+    "end": 424.48,
+    "text": " relatos dos comandantes da aeronáutica e do Exército."
+  },
+  {
+    "id": 97,
+    "start": 424.48,
+    "end": 433.28000000000003,
+    "text": " Os mesmos que Juscelino Kubitschek fez agora, há 50 anos atrás, no dia 22 agora, da morte"
+  },
+  {
+    "id": 98,
+    "start": 433.28000000000003,
+    "end": 434.54,
+    "text": " de Juscelino Kubitschek."
+  },
+  {
+    "id": 99,
+    "start": 435.36,
+    "end": 436.90000000000003,
+    "text": " O que eu quero é governar."
+  },
+  {
+    "id": 100,
+    "start": 437.98,
+    "end": 440.42,
+    "text": " Ninguém aguenta mais essa polarização."
+  },
+  {
+    "id": 101,
+    "start": 440.54,
+    "end": 445.48,
+    "text": " Parte daqueles anistiados por Juscelino Kubitschek, oito anos depois, ajudaram a promover o golpe"
+  },
+  {
+    "id": 102,
+    "start": 445.48,
+    "end": 446.06,
+    "text": " de 64."
+  },
+  {
+    "id": 103,
+    "start": 446.06,
+    "end": 453.22,
+    "text": " Tentativa de Jacaré Acanga, a aeronáutica brasileira rebelou, tentou derrubar Juscelino"
+  },
+  {
+    "id": 104,
+    "start": 453.22,
+    "end": 454.0,
+    "text": " Kubitschek."
+  },
+  {
+    "id": 105,
+    "start": 454.18,
+    "end": 456.06,
+    "text": " E eu disse, olha, deixa eu trabalhar."
+  },
+  {
+    "id": 106,
+    "start": 457.02,
+    "end": 458.08,
+    "text": " É um estadista."
+  },
+  {
+    "id": 107,
+    "start": 458.18,
+    "end": 459.52,
+    "text": " Deixa eu pensar no Brasil."
+  },
+  {
+    "id": 108,
+    "start": 460.18,
+    "end": 467.98,
+    "text": " Então, veja bem no momento que eu estou aqui, Renata, com o Brasil todo dominado pelas"
+  },
+  {
+    "id": 109,
+    "start": 467.98,
+    "end": 469.12,
+    "text": " facções criminosas."
+  },
+  {
+    "id": 110,
+    "start": 469.12,
+    "end": 471.84000000000003,
+    "text": " O Brasil todo endividado."
+  },
+  {
+    "id": 111,
+    "start": 472.8,
+    "end": 478.06,
+    "text": " O Brasil todo sem perspectiva sequer de orçamento para o ano que vem."
+  },
+  {
+    "id": 112,
+    "start": 479.14,
+    "end": 482.34000000000003,
+    "text": " Porque nós não precisamos de presidente o ano que vem, do jeito que está aí com o"
+  },
+  {
+    "id": 113,
+    "start": 482.34000000000003,
+    "end": 482.56,
+    "text": " Lula."
+  },
+  {
+    "id": 114,
+    "start": 483.08,
+    "end": 484.7,
+    "text": " Porque já é só despesa."
+  },
+  {
+    "id": 115,
+    "start": 485.0,
+    "end": 485.94,
+    "text": " Simplesmente vai pagar."
+  },
+  {
+    "id": 116,
+    "start": 486.3,
+    "end": 487.26,
+    "text": " Não tem nada a investir."
+  },
+  {
+    "id": 117,
+    "start": 488.06,
+    "end": 490.14,
+    "text": " Esse é o colapso do Brasil."
+  },
+  {
+    "id": 118,
+    "start": 490.8,
+    "end": 491.76,
+    "text": " Eu estou vendo aqui."
+  },
+  {
+    "id": 119,
+    "start": 491.76,
+    "end": 498.34,
+    "text": " É milícia, é faccionado, ocupando o território brasileiro, pessoas na fila da saúde, pessoas"
+  },
+  {
+    "id": 120,
+    "start": 498.34,
+    "end": 503.8,
+    "text": " com a educação de péssima qualidade, emprego, cidadão trabalha, vai para o trabalho 24 horas"
+  },
+  {
+    "id": 121,
+    "start": 503.8,
+    "end": 507.82,
+    "text": " por dia, chega no fim do mês e não consegue pagar o salário dele, não consegue pagar as"
+  },
+  {
+    "id": 122,
+    "start": 507.82,
+    "end": 508.56,
+    "text": " contas dele."
+  },
+  {
+    "id": 123,
+    "start": 509.2,
+    "end": 512.84,
+    "text": " De repente, 80% da população está aí tomada de dívida."
+  },
+  {
+    "id": 124,
+    "start": 513.28,
+    "end": 516.76,
+    "text": " O cidadão desesperado, o jovem indo para o narcotráfico."
+  },
+  {
+    "id": 125,
+    "start": 516.76,
+    "end": 523.64,
+    "text": " E, de repente, aquilo que eu quero é pacificar o Brasil, ir para o debate de conteúdo."
+  },
+  {
+    "id": 126,
+    "start": 523.76,
+    "end": 526.6,
+    "text": " Nós temos que fazer uma reunião aqui, debater conteúdo."
+  },
+  {
+    "id": 127,
+    "start": 526.78,
+    "end": 531.18,
+    "text": " Olha, vamos debater a educação brasileira, vamos debater a segurança no Brasil."
+  },
+  {
+    "id": 128,
+    "start": 531.34,
+    "end": 534.92,
+    "text": " Porque este assunto é uma prerrogativa do presidente."
+  },
+  {
+    "id": 129,
+    "start": 535.16,
+    "end": 536.74,
+    "text": " Eu encaminharei ao Congresso."
+  },
+  {
+    "id": 130,
+    "start": 537.16,
+    "end": 539.7,
+    "text": " O Congresso vai deliberar sobre o assunto."
+  },
+  {
+    "id": 131,
+    "start": 539.8199999999999,
+    "end": 541.46,
+    "text": " Então, estou cumprindo as regras."
+  },
+  {
+    "id": 132,
+    "start": 541.86,
+    "end": 546.14,
+    "text": " E, modéstia a par, fui parlamentar durante seis mandatos."
+  },
+  {
+    "id": 133,
+    "start": 546.14,
+    "end": 547.1999999999999,
+    "text": " Sobre todos esses..."
+  },
+  {
+    "id": 134,
+    "start": 547.1999999999999,
+    "end": 548.24,
+    "text": " Conheço o regimento."
+  },
+  {
+    "id": 135,
+    "start": 548.3,
+    "end": 552.06,
+    "text": " Candidato, sobre todos esses assuntos, a gente vai tratar ainda aqui com o senhor."
+  },
+  {
+    "id": 136,
+    "start": 552.16,
+    "end": 554.36,
+    "text": " Só para fechar esse tema da anistia, por favor."
+  },
+  {
+    "id": 137,
+    "start": 555.62,
+    "end": 561.74,
+    "text": " Durante o depoimento no Supremo, o general Mário Fernandes, ele confirmou a autoria daquele"
+  },
+  {
+    "id": 138,
+    "start": 561.74,
+    "end": 563.48,
+    "text": " plano Punhal Verde Amarelo."
+  },
+  {
+    "id": 139,
+    "start": 564.06,
+    "end": 570.48,
+    "text": " Plano que previu o assassinato do presidente eleito Lula, do vice-geral do Alckmin e também"
+  },
+  {
+    "id": 140,
+    "start": 570.48,
+    "end": 572.8199999999999,
+    "text": " do ministro do Supremo, Alexandre de Moraes."
+  },
+  {
+    "id": 141,
+    "start": 572.82,
+    "end": 579.34,
+    "text": " Diante desses depoimentos do general, dos ex-comandantes, que a Renata citou há pouco"
+  },
+  {
+    "id": 142,
+    "start": 579.34,
+    "end": 580.1400000000001,
+    "text": " aqui para o senhor."
+  },
+  {
+    "id": 143,
+    "start": 581.0400000000001,
+    "end": 585.3000000000001,
+    "text": " Qual a avaliação do senhor em relação aos efeitos de uma anistia?"
+  },
+  {
+    "id": 144,
+    "start": 585.5400000000001,
+    "end": 587.9200000000001,
+    "text": " Que efeitos uma anistia teria?"
+  },
+  {
+    "id": 145,
+    "start": 588.72,
+    "end": 595.46,
+    "text": " Da mesma maneira que durante quatro anos eu assisti na tela do Jornal Nacional aquele propinoduto,"
+  },
+  {
+    "id": 146,
+    "start": 595.46,
+    "end": 602.58,
+    "text": " saindo todo o dinheiro e o Estado brasileiro sendo assaltado no governo do Lula."
+  },
+  {
+    "id": 147,
+    "start": 603.26,
+    "end": 605.98,
+    "text": " Quatro anos a Petrobras assaltada."
+  },
+  {
+    "id": 148,
+    "start": 606.5400000000001,
+    "end": 608.7,
+    "text": " Era mensalão, era petrolão."
+  },
+  {
+    "id": 149,
+    "start": 609.12,
+    "end": 615.14,
+    "text": " Era todo o tipo que nós víamos aqui destruindo a economia do país, roubando o dinheiro que"
+  },
+  {
+    "id": 150,
+    "start": 615.14,
+    "end": 620.9399999999999,
+    "text": " vai para a saúde, matando as pessoas por falta de qualidade de atendimento, por falta"
+  },
+  {
+    "id": 151,
+    "start": 620.9399999999999,
+    "end": 626.48,
+    "text": " de qualidade de educação, por falta de condições mínimas de segurança pública."
+  },
+  {
+    "id": 152,
+    "start": 626.96,
+    "end": 629.4,
+    "text": " O dinheiro todo indo para a corrupção."
+  },
+  {
+    "id": 153,
+    "start": 629.98,
+    "end": 633.68,
+    "text": " Olha, isto aí é um relato que você disse."
+  },
+  {
+    "id": 154,
+    "start": 634.04,
+    "end": 642.06,
+    "text": " Agora, vocês documentaram o dinheiro sendo transferido para a justiça brasileira, da corrupção."
+  },
+  {
+    "id": 155,
+    "start": 642.06,
+    "end": 649.38,
+    "text": " Então, é algo que mostra o quanto o brasileiro está indignado com isso."
+  },
+  {
+    "id": 156,
+    "start": 650.16,
+    "end": 653.18,
+    "text": " Você imagina bem, você disse um depoimento."
+  },
+  {
+    "id": 157,
+    "start": 653.54,
+    "end": 658.78,
+    "text": " Agora, eu estou falando de bilhões de reais que não deixaram a pessoa ter educação de"
+  },
+  {
+    "id": 158,
+    "start": 658.78,
+    "end": 664.5999999999999,
+    "text": " qualidade, não ter saúde, não ter segurança pública no Brasil, onde 60 milhões de brasileiros"
+  },
+  {
+    "id": 159,
+    "start": 664.5999999999999,
+    "end": 669.04,
+    "text": " estão numa condição de, hoje, escravizados pelo narcotráfico."
+  },
+  {
+    "id": 160,
+    "start": 669.04,
+    "end": 673.1999999999999,
+    "text": " Então, sobre segurança pública, candidato, o senhor defende criar uma nova polícia na"
+  },
+  {
+    "id": 161,
+    "start": 673.1999999999999,
+    "end": 673.86,
+    "text": " América do Sul."
+  },
+  {
+    "id": 162,
+    "start": 674.24,
+    "end": 678.9399999999999,
+    "text": " A sua proposta é reunir o Brasil e outros 10 países que fazem fronteira com o Brasil"
+  },
+  {
+    "id": 163,
+    "start": 678.9399999999999,
+    "end": 680.7199999999999,
+    "text": " para combater o narcotráfico."
+  },
+  {
+    "id": 164,
+    "start": 680.92,
+    "end": 684.14,
+    "text": " Mas a gente sabe que o momento é de muita tensão na América Latina."
+  },
+  {
+    "id": 165,
+    "start": 684.48,
+    "end": 690.14,
+    "text": " No início do ano, o governo Trump fez uma intervenção na Venezuela, tem ampliado a"
+  },
+  {
+    "id": 166,
+    "start": 690.14,
+    "end": 694.8199999999999,
+    "text": " presença militar na região sob o argumento de combate ao narcotráfico."
+  },
+  {
+    "id": 167,
+    "start": 694.82,
+    "end": 700.22,
+    "text": " Nesse ambiente em que questões de soberania, intervenção estrangeira, vem gerando muita"
+  },
+  {
+    "id": 168,
+    "start": 700.22,
+    "end": 707.0,
+    "text": " instabilidade, como é que o senhor convenceria 10 governos a aderir a uma polícia conjunta?"
+  },
+  {
+    "id": 169,
+    "start": 709.0600000000001,
+    "end": 716.4200000000001,
+    "text": " Renata, o que nós precisamos neste momento é que um presidente da República tenha a estatura"
+  },
+  {
+    "id": 170,
+    "start": 716.4200000000001,
+    "end": 718.4000000000001,
+    "text": " de um presidente da República."
+  },
+  {
+    "id": 171,
+    "start": 718.4,
+    "end": 723.92,
+    "text": " Que ele realmente saiba a função dele como presidente da República."
+  },
+  {
+    "id": 172,
+    "start": 724.6,
+    "end": 731.12,
+    "text": " E mais do que nunca é nós buscarmos aquilo que é fundamental para nós entendermos que"
+  },
+  {
+    "id": 173,
+    "start": 731.12,
+    "end": 738.76,
+    "text": " o Brasil não é produtor de cocaína e que nós hoje estamos sediando na Amazônia brasileira"
+  },
+  {
+    "id": 174,
+    "start": 738.76,
+    "end": 747.58,
+    "text": " o maior hub hoje de narcotráfico com facções brasileiras do PCC, do Comando Vermelho, da"
+  },
+  {
+    "id": 175,
+    "start": 747.58,
+    "end": 755.38,
+    "text": " Venezuela, da Colômbia, do México, está ali concentrado, colocando em risco hoje as exportações"
+  },
+  {
+    "id": 176,
+    "start": 755.38,
+    "end": 763.74,
+    "text": " brasileiras a ponto de Portugal, Itália e os Estados Unidos colocarem como sendo algo"
+  },
+  {
+    "id": 177,
+    "start": 763.74,
+    "end": 771.8,
+    "text": " que realmente é impossível admitir que essa estrutura no Brasil viva confortavelmente com a"
+  },
+  {
+    "id": 178,
+    "start": 771.8,
+    "end": 778.88,
+    "text": " conivência do presidente Lula, do governo federal e levando droga para o mundo inteiro."
+  },
+  {
+    "id": 179,
+    "start": 778.98,
+    "end": 781.0,
+    "text": " E como é que o senhor vai convencer os países a dele?"
+  },
+  {
+    "id": 180,
+    "start": 781.1,
+    "end": 786.98,
+    "text": " Por um motivo muito simples, porque todos os limítrofes nossos, os presidentes, hoje são da"
+  },
+  {
+    "id": 181,
+    "start": 786.98,
+    "end": 787.78,
+    "text": " centro-direita."
+  },
+  {
+    "id": 182,
+    "start": 788.46,
+    "end": 791.5600000000001,
+    "text": " Só está precisando o Caiado ganhar a eleição para concluir."
+  },
+  {
+    "id": 183,
+    "start": 791.56,
+    "end": 797.3,
+    "text": " Você pega a Argentina, você viu hoje a Colômbia, o presidente da Colômbia hoje já declarando"
+  },
+  {
+    "id": 184,
+    "start": 797.3,
+    "end": 802.8199999999999,
+    "text": " terroristas, hoje o presidente da Colômbia acabou de assumir, já declarou terroristas."
+  },
+  {
+    "id": 185,
+    "start": 803.1199999999999,
+    "end": 808.88,
+    "text": " Então este sentimento é um sentimento que hoje paira, o único lugar de resistência,"
+  },
+  {
+    "id": 186,
+    "start": 809.4599999999999,
+    "end": 815.04,
+    "text": " o único nicho que tem para traficantes na América do Sul é o Brasil."
+  },
+  {
+    "id": 187,
+    "start": 815.52,
+    "end": 818.6199999999999,
+    "text": " O Brasil é o grande aqui, o guarda-chuva dele."
+  },
+  {
+    "id": 188,
+    "start": 818.62,
+    "end": 824.24,
+    "text": " Aqui é, sem dúvida nenhuma, o resort do narcotráfico."
+  },
+  {
+    "id": 189,
+    "start": 824.26,
+    "end": 826.3,
+    "text": " Então vamos detalhar melhor essa sua proposta."
+  },
+  {
+    "id": 190,
+    "start": 826.32,
+    "end": 828.96,
+    "text": " O Brasil é a Disneylândia do narcotráfico."
+  },
+  {
+    "id": 191,
+    "start": 829.08,
+    "end": 830.54,
+    "text": " No seu programa de governo..."
+  },
+  {
+    "id": 192,
+    "start": 830.54,
+    "end": 833.58,
+    "text": " É que eu vou chegar ao governo e vou derrubar isso, vou acabar com isso."
+  },
+  {
+    "id": 193,
+    "start": 833.58,
+    "end": 835.6,
+    "text": " Então vamos detalhar melhor a sua proposta."
+  },
+  {
+    "id": 194,
+    "start": 835.68,
+    "end": 840.2,
+    "text": " No seu programa de governo, o senhor disse que essa polícia teria orçamento e estrutura"
+  },
+  {
+    "id": 195,
+    "start": 840.2,
+    "end": 841.02,
+    "text": " permanentes."
+  },
+  {
+    "id": 196,
+    "start": 841.46,
+    "end": 843.64,
+    "text": " Mas não traz detalhes, não traz números."
+  },
+  {
+    "id": 197,
+    "start": 843.64,
+    "end": 847.42,
+    "text": " Qual seria o tamanho dessa polícia e quanto custaria para o Brasil?"
+  },
+  {
+    "id": 198,
+    "start": 847.74,
+    "end": 847.92,
+    "text": " Sim."
+  },
+  {
+    "id": 199,
+    "start": 848.16,
+    "end": 850.9,
+    "text": " Olha, o senhor é de convívio que eu dei a origem da fonte."
+  },
+  {
+    "id": 200,
+    "start": 851.9,
+    "end": 853.24,
+    "text": " Eu coloquei no plano de governo."
+  },
+  {
+    "id": 201,
+    "start": 854.06,
+    "end": 859.08,
+    "text": " Você entende que no momento em que se você identifica e também no plano de governo fala"
+  },
+  {
+    "id": 202,
+    "start": 859.08,
+    "end": 865.6999999999999,
+    "text": " o rito sumário e o quanto eu farei acordo com o Poder Judiciário para que ele amplie"
+  },
+  {
+    "id": 203,
+    "start": 865.7,
+    "end": 873.24,
+    "text": " as varas para que possa julgar, na primeira instância, nos tribunais de justiça, nos estados,"
+  },
+  {
+    "id": 204,
+    "start": 873.5400000000001,
+    "end": 875.0200000000001,
+    "text": " o conflito de todos os bens."
+  },
+  {
+    "id": 205,
+    "start": 875.2800000000001,
+    "end": 876.1400000000001,
+    "text": " E quanto custaria?"
+  },
+  {
+    "id": 206,
+    "start": 876.88,
+    "end": 877.36,
+    "text": " Bilhões."
+  },
+  {
+    "id": 207,
+    "start": 878.0400000000001,
+    "end": 879.88,
+    "text": " E nós estaríamos para o nosso fundo."
+  },
+  {
+    "id": 208,
+    "start": 880.48,
+    "end": 880.72,
+    "text": " Está certo?"
+  },
+  {
+    "id": 209,
+    "start": 880.76,
+    "end": 881.1,
+    "text": " Quantos bilhões?"
+  },
+  {
+    "id": 210,
+    "start": 881.1,
+    "end": 882.1800000000001,
+    "text": " E além do mais..."
+  },
+  {
+    "id": 211,
+    "start": 882.1800000000001,
+    "end": 883.0400000000001,
+    "text": " Bom, veja bem."
+  },
+  {
+    "id": 212,
+    "start": 883.5400000000001,
+    "end": 890.74,
+    "text": " Eu posso garantir que eu, assim, num repasse rápido, por exemplo, eu prendi Falcon 50,"
+  },
+  {
+    "id": 213,
+    "start": 891.58,
+    "end": 894.96,
+    "text": " Citation 1, Citation 2, Helicóptero B4."
+  },
+  {
+    "id": 214,
+    "start": 894.96,
+    "end": 901.52,
+    "text": " Já pensou eu, como país todo, na mão, em termos de uma parceria com a justiça brasileira"
+  },
+  {
+    "id": 215,
+    "start": 901.52,
+    "end": 909.88,
+    "text": " e atacando cada um dos pontos, os depósitos todos, essas fintechs que estão aí, essas"
+  },
+  {
+    "id": 216,
+    "start": 909.88,
+    "end": 915.74,
+    "text": " betes esquentando dinheiro desse caixa 2, o quanto que eu não vou me avolumar para ter"
+  },
+  {
+    "id": 217,
+    "start": 915.74,
+    "end": 917.6,
+    "text": " esse caixa para fazer o combate?"
+  },
+  {
+    "id": 218,
+    "start": 917.98,
+    "end": 923.86,
+    "text": " E, ao mesmo tempo, eu vou criar uma polícia que essa polícia vai poder entrar, desde que"
+  },
+  {
+    "id": 219,
+    "start": 923.86,
+    "end": 930.88,
+    "text": " esteja tratando de assunto de contrabande de armas, de lavagem de dinheiro, drogas."
+  },
+  {
+    "id": 220,
+    "start": 931.24,
+    "end": 932.38,
+    "text": " Você não precisa ter limite."
+  },
+  {
+    "id": 221,
+    "start": 932.6800000000001,
+    "end": 938.02,
+    "text": " Você vai passar para os outros países e eles também terão toda a liberdade de adentrar"
+  },
+  {
+    "id": 222,
+    "start": 938.02,
+    "end": 938.48,
+    "text": " o Brasil."
+  },
+  {
+    "id": 223,
+    "start": 938.94,
+    "end": 940.46,
+    "text": " Isso não compromete soberania."
+  },
+  {
+    "id": 224,
+    "start": 940.46,
+    "end": 948.64,
+    "text": " O que compromete soberania no país, Renata, é hoje você sair daqui e não poder entrar"
+  },
+  {
+    "id": 225,
+    "start": 948.64,
+    "end": 949.52,
+    "text": " ali na Rocinha."
+  },
+  {
+    "id": 226,
+    "start": 949.52,
+    "end": 954.1800000000001,
+    "text": " Mas sobre os Estados Unidos, o senhor autorizaria militares americanos a entrarem no Brasil?"
+  },
+  {
+    "id": 227,
+    "start": 954.2800000000001,
+    "end": 956.74,
+    "text": " Eu vou cuidar disso com os meus limítrofes."
+  },
+  {
+    "id": 228,
+    "start": 956.82,
+    "end": 958.24,
+    "text": " E eu quero entender também do senhor."
+  },
+  {
+    "id": 229,
+    "start": 958.24,
+    "end": 959.32,
+    "text": " O senhor autorizaria?"
+  },
+  {
+    "id": 230,
+    "start": 959.32,
+    "end": 961.94,
+    "text": " Eu não tenho por que autorizá-los."
+  },
+  {
+    "id": 231,
+    "start": 962.5600000000001,
+    "end": 962.94,
+    "text": " Para quê?"
+  },
+  {
+    "id": 232,
+    "start": 963.6,
+    "end": 970.24,
+    "text": " Se nós vamos tratar entre nós aqui, somos 10 países e o Brasil tratando desse assunto"
+  },
+  {
+    "id": 233,
+    "start": 970.24,
+    "end": 970.5400000000001,
+    "text": " aqui."
+  },
+  {
+    "id": 234,
+    "start": 971.0200000000001,
+    "end": 976.0600000000001,
+    "text": " Agora, se você me perguntar, olha, você quer buscar parceria, por exemplo, com a Europa,"
+  },
+  {
+    "id": 235,
+    "start": 976.72,
+    "end": 986.0400000000001,
+    "text": " com a Noruega, que tem agora um dos satélites mais modernos em termos de poder projetar e poder"
+  },
+  {
+    "id": 236,
+    "start": 986.04,
+    "end": 991.3199999999999,
+    "text": " identificar imagens nas áreas de sombra, que eles têm uma tecnologia própria, por que"
+  },
+  {
+    "id": 237,
+    "start": 991.3199999999999,
+    "end": 992.0999999999999,
+    "text": " que eu não vou buscar?"
+  },
+  {
+    "id": 238,
+    "start": 992.4,
+    "end": 992.76,
+    "text": " Eu vou."
+  },
+  {
+    "id": 239,
+    "start": 992.9599999999999,
+    "end": 993.4599999999999,
+    "text": " Mas, candidato..."
+  },
+  {
+    "id": 240,
+    "start": 993.4599999999999,
+    "end": 998.5,
+    "text": " Eu sou uma pessoa que, para vocês terem uma ideia, eu avancei muito em Goiás no que"
+  },
+  {
+    "id": 241,
+    "start": 998.5,
+    "end": 998.8,
+    "text": " é que foi?"
+  },
+  {
+    "id": 242,
+    "start": 999.28,
+    "end": 1001.76,
+    "text": " Inteligência artificial para combate ao crime."
+  },
+  {
+    "id": 243,
+    "start": 1001.9599999999999,
+    "end": 1003.74,
+    "text": " Só para a gente entender, candidato."
+  },
+  {
+    "id": 244,
+    "start": 1003.74,
+    "end": 1008.68,
+    "text": " Então, eu sou uma pessoa que eu acredito na tecnologia, no conhecimento, eu acredito na"
+  },
+  {
+    "id": 245,
+    "start": 1008.68,
+    "end": 1014.88,
+    "text": " inovação, eu acredito em todas essas ferramentas que o governo federal não as usa."
+  },
+  {
+    "id": 246,
+    "start": 1014.88,
+    "end": 1016.86,
+    "text": " Porque o governo federal tem."
+  },
+  {
+    "id": 247,
+    "start": 1017.12,
+    "end": 1017.82,
+    "text": " Eu nunca quis."
+  },
+  {
+    "id": 248,
+    "start": 1018.14,
+    "end": 1019.22,
+    "text": " Eu nunca quis combater."
+  },
+  {
+    "id": 249,
+    "start": 1019.36,
+    "end": 1020.18,
+    "text": " Eles sempre foram coniveiros."
+  },
+  {
+    "id": 250,
+    "start": 1020.2,
+    "end": 1022.6,
+    "text": " Candidato, só para entender um pouco mais de detalhes..."
+  },
+  {
+    "id": 251,
+    "start": 1022.6,
+    "end": 1025.5,
+    "text": " O narcotráfico e o PT sempre foram a vida umbilical."
+  },
+  {
+    "id": 252,
+    "start": 1025.78,
+    "end": 1026.24,
+    "text": " Agora..."
+  },
+  {
+    "id": 253,
+    "start": 1026.24,
+    "end": 1029.6,
+    "text": " Um pouco mais de detalhes, candidato, em relação a essa proposta do senhor."
+  },
+  {
+    "id": 254,
+    "start": 1029.6,
+    "end": 1036.66,
+    "text": " Na prática, para a gente entender como é que essa polícia funcionaria nesse modelo"
+  },
+  {
+    "id": 255,
+    "start": 1036.66,
+    "end": 1039.2,
+    "text": " de integração que o senhor está propondo."
+  },
+  {
+    "id": 256,
+    "start": 1039.26,
+    "end": 1042.44,
+    "text": " Como é que funcionaria no combate ao narcotráfico?"
+  },
+  {
+    "id": 257,
+    "start": 1042.44,
+    "end": 1047.06,
+    "text": " E aí eu pergunto para o senhor como é que ficariam as atribuições da Polícia Federal"
+  },
+  {
+    "id": 258,
+    "start": 1047.06,
+    "end": 1050.8200000000002,
+    "text": " e também das Forças Armadas nas nossas fronteiras."
+  },
+  {
+    "id": 259,
+    "start": 1050.98,
+    "end": 1054.98,
+    "text": " Quem é que vai mandar em quem com essa polícia que o senhor pretende criar?"
+  },
+  {
+    "id": 260,
+    "start": 1055.5,
+    "end": 1059.74,
+    "text": " Primeiro, as Forças Armadas estão sob o comando do Presidente da República."
+  },
+  {
+    "id": 261,
+    "start": 1060.02,
+    "end": 1063.8,
+    "text": " O Presidente da República é comandante em chefe das Forças Armadas."
+  },
+  {
+    "id": 262,
+    "start": 1064.3200000000002,
+    "end": 1065.22,
+    "text": " Isso eu não abro mão."
+  },
+  {
+    "id": 263,
+    "start": 1066.1200000000001,
+    "end": 1066.44,
+    "text": " Está certo?"
+  },
+  {
+    "id": 264,
+    "start": 1066.56,
+    "end": 1067.38,
+    "text": " Isso eu não abro mão."
+  },
+  {
+    "id": 265,
+    "start": 1067.38,
+    "end": 1071.1000000000001,
+    "text": " Eu sou uma pessoa que já fui governador, está certo?"
+  },
+  {
+    "id": 266,
+    "start": 1071.2,
+    "end": 1074.3000000000002,
+    "text": " Eu a vida toda nunca abri mão dessa prerrogativa."
+  },
+  {
+    "id": 267,
+    "start": 1074.6000000000001,
+    "end": 1076.8400000000001,
+    "text": " É sob o comando do governador."
+  },
+  {
+    "id": 268,
+    "start": 1077.4,
+    "end": 1081.24,
+    "text": " E quando eu assumi o governo, eu disse, ou o bandido muda de profissão ou muda do Estado"
+  },
+  {
+    "id": 269,
+    "start": 1081.24,
+    "end": 1081.64,
+    "text": " de Goiás."
+  },
+  {
+    "id": 270,
+    "start": 1081.74,
+    "end": 1082.38,
+    "text": " E quem comandaria?"
+  },
+  {
+    "id": 271,
+    "start": 1082.38,
+    "end": 1083.38,
+    "text": " Aqui é segurança máxima."
+  },
+  {
+    "id": 272,
+    "start": 1084.0400000000002,
+    "end": 1086.0,
+    "text": " E quem comandaria a polícia transpassona?"
+  },
+  {
+    "id": 273,
+    "start": 1086.0,
+    "end": 1089.44,
+    "text": " Quem é o comandante das Forças Armadas é Ronaldo Caiado."
+  },
+  {
+    "id": 274,
+    "start": 1089.46,
+    "end": 1091.48,
+    "text": " E quem comandaria todas as outras polícias?"
+  },
+  {
+    "id": 275,
+    "start": 1091.5,
+    "end": 1092.02,
+    "text": " Aí sim."
+  },
+  {
+    "id": 276,
+    "start": 1092.9,
+    "end": 1093.62,
+    "text": " Está no meu plano."
+  },
+  {
+    "id": 277,
+    "start": 1094.22,
+    "end": 1097.9,
+    "text": " Aí está o meu ministro da Segurança Pública."
+  },
+  {
+    "id": 278,
+    "start": 1098.44,
+    "end": 1099.02,
+    "text": " Está no plano."
+  },
+  {
+    "id": 279,
+    "start": 1099.84,
+    "end": 1100.18,
+    "text": " Está certo?"
+  },
+  {
+    "id": 280,
+    "start": 1100.44,
+    "end": 1105.9,
+    "text": " E com toda uma central de inteligência e com toda a tecnologia acoplada."
+  },
+  {
+    "id": 281,
+    "start": 1106.52,
+    "end": 1109.76,
+    "text": " E por que esse modelo que você perguntou, como ele seria?"
+  },
+  {
+    "id": 282,
+    "start": 1110.02,
+    "end": 1111.4,
+    "text": " Não estou inventando a roda."
+  },
+  {
+    "id": 283,
+    "start": 1112.12,
+    "end": 1114.66,
+    "text": " Simplesmente é exatamente aquilo que se tem na Europa."
+  },
+  {
+    "id": 284,
+    "start": 1114.66,
+    "end": 1117.18,
+    "text": " Existe a Europol."
+  },
+  {
+    "id": 285,
+    "start": 1117.88,
+    "end": 1122.0400000000002,
+    "text": " E lá eles têm essa mesma facilidade de interagir com informações."
+  },
+  {
+    "id": 286,
+    "start": 1122.0400000000002,
+    "end": 1124.16,
+    "text": " A Europol não tem poder de fazer prisões."
+  },
+  {
+    "id": 287,
+    "start": 1124.4,
+    "end": 1124.8000000000002,
+    "text": " Tudo."
+  },
+  {
+    "id": 288,
+    "start": 1125.0800000000002,
+    "end": 1126.38,
+    "text": " Nem de iniciar em investigação."
+  },
+  {
+    "id": 289,
+    "start": 1126.38,
+    "end": 1129.8000000000002,
+    "text": " A Europol tem um trabalho muito mais de compartilhar informações."
+  },
+  {
+    "id": 290,
+    "start": 1129.8400000000001,
+    "end": 1130.64,
+    "text": " Não, não, senhor."
+  },
+  {
+    "id": 291,
+    "start": 1130.8200000000002,
+    "end": 1135.22,
+    "text": " Ela tem toda a ação e liberdade para poder fazer prisões."
+  },
+  {
+    "id": 292,
+    "start": 1135.96,
+    "end": 1136.7,
+    "text": " Lógico que tem."
+  },
+  {
+    "id": 293,
+    "start": 1137.1000000000001,
+    "end": 1140.24,
+    "text": " Ela faz a prisão e entrega para a autoridade local."
+  },
+  {
+    "id": 294,
+    "start": 1140.4,
+    "end": 1142.66,
+    "text": " Ela troca informações com os países da Europa."
+  },
+  {
+    "id": 295,
+    "start": 1142.66,
+    "end": 1143.5,
+    "text": " Ela tem essa inteligência ampliada."
+  },
+  {
+    "id": 296,
+    "start": 1144.0600000000002,
+    "end": 1144.3200000000002,
+    "text": " Está certo?"
+  },
+  {
+    "id": 297,
+    "start": 1144.66,
+    "end": 1150.1200000000001,
+    "text": " Se ficar alguma dúvida em relação a isso, eu, como presidente, está certo?"
+  },
+  {
+    "id": 298,
+    "start": 1150.5,
+    "end": 1158.3400000000001,
+    "text": " Vou propor aos meus colegas presidentes limítrofes que façamos com que a prisão seja feita."
+  },
+  {
+    "id": 299,
+    "start": 1158.46,
+    "end": 1162.28,
+    "text": " Afinal de contas, aquilo a que nós estamos combatendo é um crime."
+  },
+  {
+    "id": 300,
+    "start": 1162.28,
+    "end": 1171.16,
+    "text": " E esse crime, ele não pode ter ali a, vamos dizer, a pátria dele, está certo?"
+  },
+  {
+    "id": 301,
+    "start": 1171.24,
+    "end": 1173.6399999999999,
+    "text": " Para poder destruir meus jovens."
+  },
+  {
+    "id": 302,
+    "start": 1174.42,
+    "end": 1177.12,
+    "text": " Ele não pode se resguardar na condição."
+  },
+  {
+    "id": 303,
+    "start": 1177.5,
+    "end": 1180.26,
+    "text": " Ah, eu estou na minha pátria se eu fizer o acordo."
+  },
+  {
+    "id": 304,
+    "start": 1180.26,
+    "end": 1185.6,
+    "text": " Então, porque ele está na pátria dele, atravessou ali o limítrofe da divisa."
+  },
+  {
+    "id": 305,
+    "start": 1185.6,
+    "end": 1189.82,
+    "text": " Ali naquela hora, ele pode matar meus jovens."
+  },
+  {
+    "id": 306,
+    "start": 1189.9399999999998,
+    "end": 1192.34,
+    "text": " Ele pode sequestrar as pessoas."
+  },
+  {
+    "id": 307,
+    "start": 1192.56,
+    "end": 1196.48,
+    "text": " Ele pode impedir as pessoas de poderem ter liberdade."
+  },
+  {
+    "id": 308,
+    "start": 1196.56,
+    "end": 1198.6599999999999,
+    "text": " Ele pode estrupar nossas crianças."
+  },
+  {
+    "id": 309,
+    "start": 1198.66,
+    "end": 1205.6200000000001,
+    "text": " Eles podem fazer barbárie de enfiar um repórter dentro de um pneu e botar fogo."
+  },
+  {
+    "id": 310,
+    "start": 1205.62,
+    "end": 1211.2199999999998,
+    "text": " O senhor falou sobre a necessidade, até agora há pouco, de a gente abordar outros temas aqui."
+  },
+  {
+    "id": 311,
+    "start": 1211.3799999999999,
+    "end": 1216.7199999999998,
+    "text": " Então, eu quero seguir aqui com a entrevista com o senhor e vamos tratar de governabilidade."
+  },
+  {
+    "id": 312,
+    "start": 1217.36,
+    "end": 1223.3,
+    "text": " O seu partido, ele lançou 13 candidatos para os governos estaduais nessas eleições,"
+  },
+  {
+    "id": 313,
+    "start": 1223.52,
+    "end": 1228.28,
+    "text": " mas só quatro deles declararam apoio à sua candidatura."
+  },
+  {
+    "id": 314,
+    "start": 1228.28,
+    "end": 1236.68,
+    "text": " Eu pergunto por que essa dificuldade de conseguir unir o próprio partido em torno do seu nome?"
+  },
+  {
+    "id": 315,
+    "start": 1237.6399999999999,
+    "end": 1241.42,
+    "text": " Olha, você sabe isso aqui é de conhecimento público, não é certo?"
+  },
+  {
+    "id": 316,
+    "start": 1241.94,
+    "end": 1243.8999999999999,
+    "text": " O Caçabe deixou bem claro."
+  },
+  {
+    "id": 317,
+    "start": 1244.32,
+    "end": 1246.58,
+    "text": " Olha, eu não vou fazer intervenção em estado algum."
+  },
+  {
+    "id": 318,
+    "start": 1247.32,
+    "end": 1248.5,
+    "text": " Mas preste atenção, César."
+  },
+  {
+    "id": 319,
+    "start": 1249.22,
+    "end": 1249.76,
+    "text": " Preste atenção."
+  },
+  {
+    "id": 320,
+    "start": 1250.58,
+    "end": 1252.66,
+    "text": " O que o governo federal fez?"
+  },
+  {
+    "id": 321,
+    "start": 1253.46,
+    "end": 1254.82,
+    "text": " O governo federal fez o seguinte."
+  },
+  {
+    "id": 322,
+    "start": 1254.82,
+    "end": 1260.8799999999999,
+    "text": " Vamos abafar todos os partidos no Brasil e cooptar todos."
+  },
+  {
+    "id": 323,
+    "start": 1261.7,
+    "end": 1267.56,
+    "text": " Olha, mas se você não quiser aderir para mim, que fica feio para você aderir para o Lula, para o PT,"
+  },
+  {
+    "id": 324,
+    "start": 1268.0,
+    "end": 1268.8799999999999,
+    "text": " então você faz o seguinte."
+  },
+  {
+    "id": 325,
+    "start": 1269.04,
+    "end": 1273.4399999999998,
+    "text": " Você coloca o seu partido como não tendo candidato a presidente da República."
+  },
+  {
+    "id": 326,
+    "start": 1275.28,
+    "end": 1276.24,
+    "text": " Preste atenção."
+  },
+  {
+    "id": 327,
+    "start": 1277.06,
+    "end": 1282.8999999999999,
+    "text": " O cara constrói um partido e não tem coragem de lançar candidato a presidência da República."
+  },
+  {
+    "id": 328,
+    "start": 1282.9,
+    "end": 1287.22,
+    "text": " Olha que escárnio chegou à política nacional."
+  },
+  {
+    "id": 329,
+    "start": 1287.8200000000002,
+    "end": 1293.92,
+    "text": " Então, se o Caçabe não tivesse a coragem de me dar a oportunidade de ser presidente da República,"
+  },
+  {
+    "id": 330,
+    "start": 1294.0,
+    "end": 1295.3200000000002,
+    "text": " o que é que tinha acontecido no Brasil?"
+  },
+  {
+    "id": 331,
+    "start": 1297.26,
+    "end": 1298.9,
+    "text": " Dois candidatos no primeiro turno."
+  },
+  {
+    "id": 332,
+    "start": 1299.8000000000002,
+    "end": 1300.8600000000001,
+    "text": " Dois candidatos que estão aí."
+  },
+  {
+    "id": 333,
+    "start": 1301.3600000000001,
+    "end": 1302.9,
+    "text": " Um, o povo conhece."
+  },
+  {
+    "id": 334,
+    "start": 1302.98,
+    "end": 1305.0600000000002,
+    "text": " Cinco mandatos, a situação que chegou ao país."
+  },
+  {
+    "id": 335,
+    "start": 1305.06,
+    "end": 1307.48,
+    "text": " Endividamento, corrupção."
+  },
+  {
+    "id": 336,
+    "start": 1308.62,
+    "end": 1311.06,
+    "text": " O cidadão hoje comandado pelo narcotráfico."
+  },
+  {
+    "id": 337,
+    "start": 1312.3799999999999,
+    "end": 1316.84,
+    "text": " Hoje o orçamento do país está todo contaminado com gastos já."
+  },
+  {
+    "id": 338,
+    "start": 1317.3999999999999,
+    "end": 1320.06,
+    "text": " Então, justamente sobre o orçamento, sobre gastos públicos."
+  },
+  {
+    "id": 339,
+    "start": 1320.06,
+    "end": 1322.56,
+    "text": " O outro já teve chance de ser presidente da República."
+  },
+  {
+    "id": 340,
+    "start": 1322.56,
+    "end": 1323.94,
+    "text": " Vamos então falar sobre esse tema."
+  },
+  {
+    "id": 341,
+    "start": 1323.94,
+    "end": 1325.48,
+    "text": " E perdeu como presidente da República."
+  },
+  {
+    "id": 342,
+    "start": 1325.48,
+    "end": 1330.3600000000001,
+    "text": " Essa dificuldade que o senhor tem hoje, a que se referiu o César,"
+  },
+  {
+    "id": 343,
+    "start": 1330.48,
+    "end": 1333.18,
+    "text": " sobre reunir dentro do seu próprio partido um apoio político,"
+  },
+  {
+    "id": 344,
+    "start": 1333.42,
+    "end": 1336.26,
+    "text": " ela levanta a questão justamente da governabilidade,"
+  },
+  {
+    "id": 345,
+    "start": 1336.3600000000001,
+    "end": 1338.9,
+    "text": " que é fundamental para aprovar reformas no Congresso."
+  },
+  {
+    "id": 346,
+    "start": 1339.02,
+    "end": 1342.3600000000001,
+    "text": " Porque essas têm propostas muito importantes para serem aprovadas."
+  },
+  {
+    "id": 347,
+    "start": 1342.44,
+    "end": 1344.48,
+    "text": " E o país tem um tema urgente, que é a dívida pública."
+  },
+  {
+    "id": 348,
+    "start": 1344.48,
+    "end": 1350.1,
+    "text": " Mais de 10 trilhões de reais já alcançou 82% do PIB e está em tendência de crescimento."
+  },
+  {
+    "id": 349,
+    "start": 1350.58,
+    "end": 1353.52,
+    "text": " O ajuste necessário pode chegar a centenas de bilhões de reais."
+  },
+  {
+    "id": 350,
+    "start": 1353.52,
+    "end": 1358.28,
+    "text": " Olhando para os próximos quatro anos, de quanto seria o seu ajuste fiscal?"
+  },
+  {
+    "id": 351,
+    "start": 1359.36,
+    "end": 1362.8799999999999,
+    "text": " Renata, vamos voltar no primeiro parte da sua pergunta."
+  },
+  {
+    "id": 352,
+    "start": 1363.52,
+    "end": 1364.9,
+    "text": " Ela é importantíssima."
+  },
+  {
+    "id": 353,
+    "start": 1365.78,
+    "end": 1371.34,
+    "text": " E você acha, Renata, que um dos dois, o Lula ou o Flávio,"
+  },
+  {
+    "id": 354,
+    "start": 1372.18,
+    "end": 1377.6399999999999,
+    "text": " eles vão construir algum tipo de maioria para aprovar alguma emenda constitucional?"
+  },
+  {
+    "id": 355,
+    "start": 1378.72,
+    "end": 1380.72,
+    "text": " Eu perguntei qual será o seu ajuste fiscal."
+  },
+  {
+    "id": 356,
+    "start": 1380.72,
+    "end": 1381.7,
+    "text": " Sim, eu estou lhe falando."
+  },
+  {
+    "id": 357,
+    "start": 1381.7,
+    "end": 1385.2,
+    "text": " Se não tivesse o PSD para eu poder ganhar a eleição,"
+  },
+  {
+    "id": 358,
+    "start": 1385.3600000000001,
+    "end": 1387.22,
+    "text": " que eu vou ganhar a eleição no segundo turno,"
+  },
+  {
+    "id": 359,
+    "start": 1387.82,
+    "end": 1389.3600000000001,
+    "text": " e vou para o segundo turno,"
+  },
+  {
+    "id": 360,
+    "start": 1390.7,
+    "end": 1391.66,
+    "text": " preste atenção no que eu estou falando."
+  },
+  {
+    "id": 361,
+    "start": 1391.8,
+    "end": 1394.48,
+    "text": " Vou ganhar a eleição e vou para o segundo turno e vou bater o Lula."
+  },
+  {
+    "id": 362,
+    "start": 1395.24,
+    "end": 1395.98,
+    "text": " Então, preste atenção."
+  },
+  {
+    "id": 363,
+    "start": 1396.68,
+    "end": 1400.24,
+    "text": " Esses dois, do jeito que eles estão, eles não fazem nada."
+  },
+  {
+    "id": 364,
+    "start": 1400.3600000000001,
+    "end": 1402.02,
+    "text": " Qual será o seu ajuste fiscal?"
+  },
+  {
+    "id": 365,
+    "start": 1402.02,
+    "end": 1406.58,
+    "text": " Um responde, ah, não, o problema é do Congresso, o problema é do TCU, o problema é do Supremo."
+  },
+  {
+    "id": 366,
+    "start": 1406.96,
+    "end": 1412.54,
+    "text": " E tipo de homem que não serve para governar, só faz populismo e negociata e fica protegendo"
+  },
+  {
+    "id": 367,
+    "start": 1412.54,
+    "end": 1413.04,
+    "text": " o familiar."
+  },
+  {
+    "id": 368,
+    "start": 1413.62,
+    "end": 1414.32,
+    "text": " Então, é isso que dá."
+  },
+  {
+    "id": 369,
+    "start": 1414.52,
+    "end": 1416.26,
+    "text": " Ele não tem espírito público."
+  },
+  {
+    "id": 370,
+    "start": 1416.26,
+    "end": 1422.68,
+    "text": " No meu governo, eu tenho aquilo que eu acumulei durante seis mandatos no Congresso Nacional."
+  },
+  {
+    "id": 371,
+    "start": 1422.78,
+    "end": 1426.64,
+    "text": " Então, o senhor tem a oportunidade aqui de falar para os brasileiros qual será o seu ajuste fiscal."
+  },
+  {
+    "id": 372,
+    "start": 1426.66,
+    "end": 1426.76,
+    "text": " Exatamente."
+  },
+  {
+    "id": 373,
+    "start": 1426.98,
+    "end": 1431.16,
+    "text": " O meu ajuste fiscal também será uma emenda constitucional,"
+  },
+  {
+    "id": 374,
+    "start": 1431.74,
+    "end": 1434.5,
+    "text": " que eu encaminharei também no primeiro dia do meu governo,"
+  },
+  {
+    "id": 375,
+    "start": 1434.5,
+    "end": 1443.06,
+    "text": " onde eu vou dizer as despesas do governo federal, elas serão limitadas a, lógico, corrigir a inflação"
+  },
+  {
+    "id": 376,
+    "start": 1443.06,
+    "end": 1448.64,
+    "text": " e atingir o máximo de 50% do PIB."
+  },
+  {
+    "id": 377,
+    "start": 1449.04,
+    "end": 1450.88,
+    "text": " Então, eu estou dizendo a regra."
+  },
+  {
+    "id": 378,
+    "start": 1451.3,
+    "end": 1452.92,
+    "text": " Eu não estou fugindo da discussão."
+  },
+  {
+    "id": 379,
+    "start": 1453.34,
+    "end": 1459.54,
+    "text": " Eu sou o único candidato que tive a coragem de colocar e qual maneira chegará ao Congresso Nacional?"
+  },
+  {
+    "id": 380,
+    "start": 1459.94,
+    "end": 1462.94,
+    "text": " Por emenda à Constituição brasileira, porque eu sou um democrata."
+  },
+  {
+    "id": 381,
+    "start": 1462.94,
+    "end": 1467.04,
+    "text": " Então, eu não vou falsear nenhuma condição,"
+  },
+  {
+    "id": 382,
+    "start": 1467.5,
+    "end": 1472.04,
+    "text": " porque é tipo arcabouço fiscal, que veio que é uma grande farsa"
+  },
+  {
+    "id": 383,
+    "start": 1472.04,
+    "end": 1474.98,
+    "text": " e que o próprio presidente atual diz o seguinte,"
+  },
+  {
+    "id": 384,
+    "start": 1475.1200000000001,
+    "end": 1478.1000000000001,
+    "text": " olha, esse negócio de arcabouço fiscal, de equilíbrio fiscal,"
+  },
+  {
+    "id": 385,
+    "start": 1478.14,
+    "end": 1479.52,
+    "text": " isso só vai atrapalhar a governança."
+  },
+  {
+    "id": 386,
+    "start": 1479.52,
+    "end": 1480.78,
+    "text": " Eu não preciso disso para o governo."
+  },
+  {
+    "id": 387,
+    "start": 1480.78,
+    "end": 1482.5,
+    "text": " Onde o senhor vai cortar, candidato?"
+  },
+  {
+    "id": 388,
+    "start": 1482.5800000000002,
+    "end": 1487.88,
+    "text": " O senhor pode citar três prioridades de cortes e quanto é que o senhor economizaria com isso?"
+  },
+  {
+    "id": 389,
+    "start": 1488.06,
+    "end": 1489.88,
+    "text": " É que o senhor mencionou 50% do PIB."
+  },
+  {
+    "id": 390,
+    "start": 1489.88,
+    "end": 1491.18,
+    "text": " Mas veja bem, veja bem."
+  },
+  {
+    "id": 391,
+    "start": 1491.18,
+    "end": 1493.0600000000002,
+    "text": " Nós estamos discutindo um assunto macro."
+  },
+  {
+    "id": 392,
+    "start": 1493.0600000000002,
+    "end": 1496.38,
+    "text": " É importante trazer detalhes de algo que é fundamental para o futuro do país."
+  },
+  {
+    "id": 393,
+    "start": 1496.4,
+    "end": 1503.3400000000001,
+    "text": " Eu digo para você o seguinte, olha, um paciente foi atropelado ali por um ônibus."
+  },
+  {
+    "id": 394,
+    "start": 1504.3600000000001,
+    "end": 1506.8400000000001,
+    "text": " Quais são os pontos que você vai priorizar sobre ele?"
+  },
+  {
+    "id": 395,
+    "start": 1507.04,
+    "end": 1508.8600000000001,
+    "text": " Poxa, eu nem examinei o doente."
+  },
+  {
+    "id": 396,
+    "start": 1509.74,
+    "end": 1510.18,
+    "text": " Calma."
+  },
+  {
+    "id": 397,
+    "start": 1511.3200000000002,
+    "end": 1512.3600000000001,
+    "text": " Poxa, calma."
+  },
+  {
+    "id": 398,
+    "start": 1512.8,
+    "end": 1513.3200000000002,
+    "text": " Eu nem..."
+  },
+  {
+    "id": 399,
+    "start": 1513.32,
+    "end": 1517.4399999999998,
+    "text": " Olha, você lembra quando o Michel Temer abriu a caixa preta da Dilma?"
+  },
+  {
+    "id": 400,
+    "start": 1518.04,
+    "end": 1519.3,
+    "text": " Você lembra que loucura que estava?"
+  },
+  {
+    "id": 401,
+    "start": 1519.34,
+    "end": 1523.48,
+    "text": " Mas o senhor não examinou as contas públicas do Brasil para já ter uma proposta mais clara?"
+  },
+  {
+    "id": 402,
+    "start": 1523.6799999999998,
+    "end": 1525.2,
+    "text": " Mais clara do que eu estou dizendo?"
+  },
+  {
+    "id": 403,
+    "start": 1525.22,
+    "end": 1525.48,
+    "text": " De onde cortaria?"
+  },
+  {
+    "id": 404,
+    "start": 1526.36,
+    "end": 1527.48,
+    "text": " O que priorizaria?"
+  },
+  {
+    "id": 405,
+    "start": 1527.6599999999999,
+    "end": 1528.9199999999998,
+    "text": " Quanto economizaria?"
+  },
+  {
+    "id": 406,
+    "start": 1529.1599999999999,
+    "end": 1530.62,
+    "text": " O senhor não tem claro isso ainda?"
+  },
+  {
+    "id": 407,
+    "start": 1530.6399999999999,
+    "end": 1532.62,
+    "text": " Eu já estou dizendo onde é que eu vou fazer."
+  },
+  {
+    "id": 408,
+    "start": 1532.78,
+    "end": 1533.52,
+    "text": " Está aqui, olha."
+  },
+  {
+    "id": 409,
+    "start": 1533.82,
+    "end": 1536.1599999999999,
+    "text": " Essa aqui será a minha despesa."
+  },
+  {
+    "id": 410,
+    "start": 1536.32,
+    "end": 1537.28,
+    "text": " É a tal limitada."
+  },
+  {
+    "id": 411,
+    "start": 1537.28,
+    "end": 1546.6399999999999,
+    "text": " Vai ter o crescimento da inflação, IPCA, mais limite, mais 50% do PIB."
+  },
+  {
+    "id": 412,
+    "start": 1546.78,
+    "end": 1547.5,
+    "text": " Está aqui escrito."
+  },
+  {
+    "id": 413,
+    "start": 1547.78,
+    "end": 1548.6399999999999,
+    "text": " Está aqui escrito."
+  },
+  {
+    "id": 414,
+    "start": 1549.2,
+    "end": 1550.52,
+    "text": " Agora, eu vou adequar."
+  },
+  {
+    "id": 415,
+    "start": 1551.1399999999999,
+    "end": 1556.06,
+    "text": " Agora, eu vou dar conta de dizer o seguinte, olha, o que eu tenho hoje de subvenção?"
+  },
+  {
+    "id": 416,
+    "start": 1556.8799999999999,
+    "end": 1558.7,
+    "text": " O que eu tenho de incentivo fiscal?"
+  },
+  {
+    "id": 417,
+    "start": 1559.74,
+    "end": 1561.3,
+    "text": " O que eu tenho de corrupção?"
+  },
+  {
+    "id": 418,
+    "start": 1561.98,
+    "end": 1565.1399999999999,
+    "text": " O que eu tenho de salários em excesso?"
+  },
+  {
+    "id": 419,
+    "start": 1565.14,
+    "end": 1571.0200000000002,
+    "text": " O que eu tenho hoje de emendas impositivas que estão indo para outro local que não"
+  },
+  {
+    "id": 420,
+    "start": 1571.0200000000002,
+    "end": 1575.44,
+    "text": " a finalidade do projeto aprovado pela população chamado plano de governo?"
+  },
+  {
+    "id": 421,
+    "start": 1576.3200000000002,
+    "end": 1583.94,
+    "text": " Então, isso tudo, eu vou ter oportunidade de botar o paciente na mesa chamado Brasil e"
+  },
+  {
+    "id": 422,
+    "start": 1583.94,
+    "end": 1588.66,
+    "text": " aí sim eu vou trazer para mim com as melhores cabeças."
+  },
+  {
+    "id": 423,
+    "start": 1588.94,
+    "end": 1590.4,
+    "text": " Isso aí, Tralho, é importante saber."
+  },
+  {
+    "id": 424,
+    "start": 1590.8400000000001,
+    "end": 1592.44,
+    "text": " E o salário mínimo, candidato?"
+  },
+  {
+    "id": 425,
+    "start": 1592.44,
+    "end": 1594.68,
+    "text": " Qual é a política do senhor para o salário mínimo?"
+  },
+  {
+    "id": 426,
+    "start": 1594.68,
+    "end": 1596.8400000000001,
+    "text": " Vai ter ganho real ou não vai ter ganho real?"
+  },
+  {
+    "id": 427,
+    "start": 1596.96,
+    "end": 1597.3600000000001,
+    "text": " Lógico, lógico."
+  },
+  {
+    "id": 428,
+    "start": 1597.44,
+    "end": 1598.02,
+    "text": " Não vou me..."
+  },
+  {
+    "id": 429,
+    "start": 1598.02,
+    "end": 1600.28,
+    "text": " Olha, o pobre coitado que está ganhando salário mínimo."
+  },
+  {
+    "id": 430,
+    "start": 1600.5,
+    "end": 1603.02,
+    "text": " O pobre coitado que está vivendo de aposentadoria."
+  },
+  {
+    "id": 431,
+    "start": 1603.4,
+    "end": 1605.64,
+    "text": " Deixa eles em paz, pelo amor de Deus."
+  },
+  {
+    "id": 432,
+    "start": 1606.18,
+    "end": 1607.72,
+    "text": " Vamos mexer com eles não, gente."
+  },
+  {
+    "id": 433,
+    "start": 1608.18,
+    "end": 1611.16,
+    "text": " Olha, vamos dar o exemplo que um presidente precisa de dar."
+  },
+  {
+    "id": 434,
+    "start": 1611.64,
+    "end": 1613.28,
+    "text": " Vamos cortar na própria carne."
+  },
+  {
+    "id": 435,
+    "start": 1613.76,
+    "end": 1614.68,
+    "text": " Vamos para cima."
+  },
+  {
+    "id": 436,
+    "start": 1615.0,
+    "end": 1617.64,
+    "text": " Vamos para cima desses salários abusivos."
+  },
+  {
+    "id": 437,
+    "start": 1618.0800000000002,
+    "end": 1618.68,
+    "text": " Vamos para cima..."
+  },
+  {
+    "id": 438,
+    "start": 1618.68,
+    "end": 1621.3600000000001,
+    "text": " Então, para detalhar mais, pisos com gastos..."
+  },
+  {
+    "id": 439,
+    "start": 1622.16,
+    "end": 1627.68,
+    "text": " Os pisos de gastos com saúde, com educação, o senhor manteria ou mudaria as regras que vinculam"
+  },
+  {
+    "id": 440,
+    "start": 1627.68,
+    "end": 1628.18,
+    "text": " as receitas?"
+  },
+  {
+    "id": 441,
+    "start": 1628.3600000000001,
+    "end": 1631.38,
+    "text": " Para a gente detalhar que esses pontos são muito importantes para o cidadão."
+  },
+  {
+    "id": 442,
+    "start": 1631.38,
+    "end": 1631.92,
+    "text": " Isso é muito importante."
+  },
+  {
+    "id": 443,
+    "start": 1632.1200000000001,
+    "end": 1633.3200000000002,
+    "text": " Eu jamais na minha vida..."
+  },
+  {
+    "id": 444,
+    "start": 1633.3200000000002,
+    "end": 1634.2,
+    "text": " Eu sou um médico."
+  },
+  {
+    "id": 445,
+    "start": 1634.78,
+    "end": 1635.92,
+    "text": " Eu sou um cirurgião."
+  },
+  {
+    "id": 446,
+    "start": 1636.42,
+    "end": 1639.44,
+    "text": " Eu sou um homem formado, Renata, para cuidar de vidas."
+  },
+  {
+    "id": 447,
+    "start": 1639.74,
+    "end": 1641.18,
+    "text": " Para salvar vidas."
+  },
+  {
+    "id": 448,
+    "start": 1641.18,
+    "end": 1642.9,
+    "text": " A minha vida é essa."
+  },
+  {
+    "id": 449,
+    "start": 1642.98,
+    "end": 1647.18,
+    "text": " Vocês viram, na época da pandemia, o meu enfrentamento."
+  },
+  {
+    "id": 450,
+    "start": 1647.64,
+    "end": 1653.3600000000001,
+    "text": " Eu sou um homem que sou e sempre tive a independência moral e intelectual para governar."
+  },
+  {
+    "id": 451,
+    "start": 1654.04,
+    "end": 1656.64,
+    "text": " Eu governo com poder atender."
+  },
+  {
+    "id": 452,
+    "start": 1656.78,
+    "end": 1660.74,
+    "text": " Imagina bem as pessoas dizem..."
+  },
+  {
+    "id": 453,
+    "start": 1660.74,
+    "end": 1663.7,
+    "text": " Ah, porque o Ronaldo Caiada é isso, o Ronaldo Caiada é aquilo."
+  },
+  {
+    "id": 454,
+    "start": 1663.7,
+    "end": 1673.48,
+    "text": " Eu lhe pergunto, como é que pode um governador, por dois mandatos, chegar a 88% de aprovação"
+  },
+  {
+    "id": 455,
+    "start": 1673.48,
+    "end": 1674.7,
+    "text": " no seu estado?"
+  },
+  {
+    "id": 456,
+    "start": 1674.82,
+    "end": 1677.24,
+    "text": " De 10 eleitores, 9 votos em mim."
+  },
+  {
+    "id": 457,
+    "start": 1677.26,
+    "end": 1681.3400000000001,
+    "text": " Sobre exatamente o ajuste, o senhor disse que não mexeria nos pisos com saúde e educação,"
+  },
+  {
+    "id": 458,
+    "start": 1681.48,
+    "end": 1683.2,
+    "text": " nem no salário mínimo ganho real."
+  },
+  {
+    "id": 459,
+    "start": 1683.2,
+    "end": 1683.22,
+    "text": " De maneira nenhuma."
+  },
+  {
+    "id": 460,
+    "start": 1683.22,
+    "end": 1684.54,
+    "text": " Salário mínimo ganho real também."
+  },
+  {
+    "id": 461,
+    "start": 1684.76,
+    "end": 1685.96,
+    "text": " Eu vou querer gestão."
+  },
+  {
+    "id": 462,
+    "start": 1685.96,
+    "end": 1686.26,
+    "text": " Em que o senhor cortaria?"
+  },
+  {
+    "id": 463,
+    "start": 1686.28,
+    "end": 1687.76,
+    "text": " Eu vou querer gestão deles."
+  },
+  {
+    "id": 464,
+    "start": 1688.1200000000001,
+    "end": 1689.04,
+    "text": " Eu vou querer gestão."
+  },
+  {
+    "id": 465,
+    "start": 1689.04,
+    "end": 1694.82,
+    "text": " Aí sim, você colocou bem, não é diminuir, é eu querer fazer uma educação de qualidade."
+  },
+  {
+    "id": 466,
+    "start": 1695.48,
+    "end": 1696.82,
+    "text": " Aí sim eu sei fazer."
+  },
+  {
+    "id": 467,
+    "start": 1696.96,
+    "end": 1699.3799999999999,
+    "text": " Porque Goiás esteve no pódio durante todos os anos."
+  },
+  {
+    "id": 468,
+    "start": 1699.8999999999999,
+    "end": 1704.58,
+    "text": " Goiás hoje tem uma das melhores alfabetizações na idade certa, no segundo ano do ensino fundamental."
+  },
+  {
+    "id": 469,
+    "start": 1705.32,
+    "end": 1708.34,
+    "text": " Goiás hoje está entre os três primeiros no IDEB no Brasil."
+  },
+  {
+    "id": 470,
+    "start": 1709.04,
+    "end": 1715.42,
+    "text": " O Goiás hoje tem uma condição onde as pessoas têm o curso profissionalizante dentro do colégio"
+  },
+  {
+    "id": 471,
+    "start": 1715.42,
+    "end": 1719.64,
+    "text": " hoje, ou se não em parcerias com o Sistema S, SEBRAE, SENAI e tudo mais."
+  },
+  {
+    "id": 472,
+    "start": 1720.28,
+    "end": 1725.7,
+    "text": " O Estado de Goiás hoje tem uma condição de ter, entre as dez melhores colégios estaduais,"
+  },
+  {
+    "id": 473,
+    "start": 1725.8200000000002,
+    "end": 1727.72,
+    "text": " tem sete melhores colégios estaduais."
+  },
+  {
+    "id": 474,
+    "start": 1728.5,
+    "end": 1733.64,
+    "text": " Investi pesado na educação, eu mesmo, pessoalmente ao lado da minha secretária,"
+  },
+  {
+    "id": 475,
+    "start": 1733.7,
+    "end": 1736.7,
+    "text": " que foi uma grande guerreira e que estava lá ao meu lado,"
+  },
+  {
+    "id": 476,
+    "start": 1736.7,
+    "end": 1740.6000000000001,
+    "text": " para que nós resgatássemos os colégios e trouxéssemos aquela..."
+  },
+  {
+    "id": 477,
+    "start": 1740.6000000000001,
+    "end": 1741.48,
+    "text": " Olha mais, busca mais."
+  },
+  {
+    "id": 478,
+    "start": 1741.8600000000001,
+    "end": 1742.92,
+    "text": " Manda dar um Google aí."
+  },
+  {
+    "id": 479,
+    "start": 1742.92,
+    "end": 1748.8000000000002,
+    "text": " Vai ver que o Estado de Goiás é o que tem a menor taxa de evasão escolar no Brasil."
+  },
+  {
+    "id": 480,
+    "start": 1750.04,
+    "end": 1750.16,
+    "text": " Hein?"
+  },
+  {
+    "id": 481,
+    "start": 1750.3400000000001,
+    "end": 1750.74,
+    "text": " Veja bem."
+  },
+  {
+    "id": 482,
+    "start": 1750.8400000000001,
+    "end": 1753.2,
+    "text": " Muito importante é sobre os aposentados."
+  },
+  {
+    "id": 483,
+    "start": 1753.3000000000002,
+    "end": 1756.5600000000002,
+    "text": " As aposentadorias e os especialistas em economia, candidato,"
+  },
+  {
+    "id": 484,
+    "start": 1756.94,
+    "end": 1761.54,
+    "text": " chamam a atenção para o envelhecimento, dos números do envelhecimento da população brasileira."
+  },
+  {
+    "id": 485,
+    "start": 1761.54,
+    "end": 1766.42,
+    "text": " Eles afirmam que esse envelhecimento está aumentando a pressão sobre a nossa previdência."
+  },
+  {
+    "id": 486,
+    "start": 1767.1599999999999,
+    "end": 1767.42,
+    "text": " Lógico."
+  },
+  {
+    "id": 487,
+    "start": 1767.42,
+    "end": 1771.42,
+    "text": " E que por isso é muito importante discutir uma nova reforma com ajuste,"
+  },
+  {
+    "id": 488,
+    "start": 1771.98,
+    "end": 1776.96,
+    "text": " com ajuste justamente para manter a nossa previdência sustentável no longo prazo."
+  },
+  {
+    "id": 489,
+    "start": 1777.6399999999999,
+    "end": 1780.26,
+    "text": " Qual é exatamente a sua proposta para isso?"
+  },
+  {
+    "id": 490,
+    "start": 1780.78,
+    "end": 1781.62,
+    "text": " Em que o senhor mexeria?"
+  },
+  {
+    "id": 491,
+    "start": 1781.62,
+    "end": 1787.28,
+    "text": " Olha, vem aqui, nós não estamos aqui em uma mesa examinadora."
+  },
+  {
+    "id": 492,
+    "start": 1788.62,
+    "end": 1789.5,
+    "text": " Estamos dando oportunidade..."
+  },
+  {
+    "id": 493,
+    "start": 1789.5,
+    "end": 1790.6799999999998,
+    "text": " A gente está tratando de propósito."
+  },
+  {
+    "id": 494,
+    "start": 1790.76,
+    "end": 1792.6399999999999,
+    "text": " Não, lógico, mas não é em uma mesa examinadora."
+  },
+  {
+    "id": 495,
+    "start": 1792.76,
+    "end": 1793.12,
+    "text": " Mas o governo..."
+  },
+  {
+    "id": 496,
+    "start": 1793.12,
+    "end": 1796.04,
+    "text": " Esse grupo é muito importante, isso não é?"
+  },
+  {
+    "id": 497,
+    "start": 1796.04,
+    "end": 1796.8,
+    "text": " Lógico que é."
+  },
+  {
+    "id": 498,
+    "start": 1797.1799999999998,
+    "end": 1800.78,
+    "text": " Eu buscarei as melhores cabeças, está certo?"
+  },
+  {
+    "id": 499,
+    "start": 1800.78,
+    "end": 1802.56,
+    "text": " No Brasil, está certo?"
+  },
+  {
+    "id": 500,
+    "start": 1802.62,
+    "end": 1804.12,
+    "text": " Como vou buscar um Paulo Tafner?"
+  },
+  {
+    "id": 501,
+    "start": 1804.96,
+    "end": 1811.04,
+    "text": " Agora, não é possível que você queira detalhes de um assunto que eu concordo com você."
+  },
+  {
+    "id": 502,
+    "start": 1811.28,
+    "end": 1812.54,
+    "text": " Primeiro que eu entenda a área."
+  },
+  {
+    "id": 503,
+    "start": 1813.1,
+    "end": 1815.66,
+    "text": " Ora, nós perdemos o bondo demográfico."
+  },
+  {
+    "id": 504,
+    "start": 1815.78,
+    "end": 1816.7,
+    "text": " O Brasil envelheceu."
+  },
+  {
+    "id": 505,
+    "start": 1817.04,
+    "end": 1819.96,
+    "text": " O Brasil envelheceu, aconteceu o quê com o Brasil que envelheceu?"
+  },
+  {
+    "id": 506,
+    "start": 1820.78,
+    "end": 1824.44,
+    "text": " Uma incidência de câncer, complicações no caso de diabetes,"
+  },
+  {
+    "id": 507,
+    "start": 1824.44,
+    "end": 1831.14,
+    "text": " problemas de isquemia cerebral, problemas cardiovasculares."
+  },
+  {
+    "id": 508,
+    "start": 1831.76,
+    "end": 1834.76,
+    "text": " Então, tudo isso vem em decorrência do envelhecimento."
+  },
+  {
+    "id": 509,
+    "start": 1835.1200000000001,
+    "end": 1841.3600000000001,
+    "text": " E outra coisa, o custo para você praticar hoje as intervenções cirúrgicas,"
+  },
+  {
+    "id": 510,
+    "start": 1841.8200000000002,
+    "end": 1844.2,
+    "text": " que cada dia estão mais caros os procedimentos,"
+  },
+  {
+    "id": 511,
+    "start": 1844.76,
+    "end": 1849.16,
+    "text": " e um SUS achatado com procedimentos como uma consulta a R$ 10 até hoje."
+  },
+  {
+    "id": 512,
+    "start": 1849.16,
+    "end": 1855.16,
+    "text": " Então, o que eu quero dizer é que isto aqui não vai sair da cabeça de um iluminado."
+  },
+  {
+    "id": 513,
+    "start": 1856.3400000000001,
+    "end": 1856.68,
+    "text": " Está certo?"
+  },
+  {
+    "id": 514,
+    "start": 1856.92,
+    "end": 1861.4,
+    "text": " Igual o Bernardo da Pi, o iluminado, que de repente deu conta de fazer isso."
+  },
+  {
+    "id": 515,
+    "start": 1861.4,
+    "end": 1868.6000000000001,
+    "text": " Agora, eu vou chamar as melhores cabeças do Brasil, todas elas."
+  },
+  {
+    "id": 516,
+    "start": 1868.7,
+    "end": 1871.16,
+    "text": " Vou sentar, porque eu gosto de estudar e gosto de ouvir."
+  },
+  {
+    "id": 517,
+    "start": 1871.5,
+    "end": 1876.0600000000002,
+    "text": " Vou chamar todas as pessoas e vou dizer, olha, nós sabemos, e você falou a palavra certa,"
+  },
+  {
+    "id": 518,
+    "start": 1876.06,
+    "end": 1880.94,
+    "text": " qual é a condição de sustentabilidade do nosso sistema previdencial?"
+  },
+  {
+    "id": 519,
+    "start": 1880.96,
+    "end": 1885.24,
+    "text": " O senhor já não reuniu esses especialistas para apresentar uma proposta aos brasileiros sobre isso?"
+  },
+  {
+    "id": 520,
+    "start": 1885.32,
+    "end": 1888.56,
+    "text": " E o senhor mexeria na idade mínima da aposentadoria, candidato?"
+  },
+  {
+    "id": 521,
+    "start": 1888.56,
+    "end": 1893.32,
+    "text": " Mas eu não tenho condições de detalhar minúcias sobre aquilo que eu fiz."
+  },
+  {
+    "id": 522,
+    "start": 1893.6799999999998,
+    "end": 1898.2,
+    "text": " Até porque, Renata, eu, modéstia à parte, eu vou ser imodesto."
+  },
+  {
+    "id": 523,
+    "start": 1898.8,
+    "end": 1900.94,
+    "text": " Só um pouquinho, só um pouco, tá bom?"
+  },
+  {
+    "id": 524,
+    "start": 1900.94,
+    "end": 1905.3,
+    "text": " Meu Estado era o quarto pior no país, quarto pior."
+  },
+  {
+    "id": 525,
+    "start": 1905.78,
+    "end": 1908.9,
+    "text": " Era Minas Gerais, Rio de Janeiro e Rio Grande do Sul e Goiás."
+  },
+  {
+    "id": 526,
+    "start": 1909.16,
+    "end": 1912.48,
+    "text": " Quarto pior, em termos do quadro fiscal, está certo?"
+  },
+  {
+    "id": 527,
+    "start": 1912.74,
+    "end": 1919.5800000000002,
+    "text": " Eu entreguei um Estado recuperado, com caixa e com investimento, regionalização de saúde,"
+  },
+  {
+    "id": 528,
+    "start": 1920.14,
+    "end": 1924.96,
+    "text": " educação entre as três primeiras do Brasil e, ao mesmo tempo, segurança pública plena,"
+  },
+  {
+    "id": 529,
+    "start": 1925.38,
+    "end": 1927.28,
+    "text": " programas sociais emancipatórios."
+  },
+  {
+    "id": 530,
+    "start": 1927.28,
+    "end": 1929.54,
+    "text": " É que o tema da Previdência é muito importante, né?"
+  },
+  {
+    "id": 531,
+    "start": 1929.54,
+    "end": 1931.8,
+    "text": " Hoje o goiânico diz assim, eu tenho orgulho de morar."
+  },
+  {
+    "id": 532,
+    "start": 1931.8799999999999,
+    "end": 1933.8799999999999,
+    "text": " E o que eu fiz em Goiânico, eu vou fazer no Brasil."
+  },
+  {
+    "id": 533,
+    "start": 1934.3,
+    "end": 1938.86,
+    "text": " Agora, vocês sabem que uma coisa nós temos que ter, nós temos que ter sempre a humildade"
+  },
+  {
+    "id": 534,
+    "start": 1938.86,
+    "end": 1942.76,
+    "text": " de não queremos ser aquele que é o iluminado."
+  },
+  {
+    "id": 535,
+    "start": 1942.92,
+    "end": 1944.24,
+    "text": " Eu tenho medo de iluminado."
+  },
+  {
+    "id": 536,
+    "start": 1945.16,
+    "end": 1947.0,
+    "text": " Iluminado é a pessoa que não resolve."
+  },
+  {
+    "id": 537,
+    "start": 1947.18,
+    "end": 1950.58,
+    "text": " Em primeiro lugar, o iluminado, ele é tomado pela vaidade."
+  },
+  {
+    "id": 538,
+    "start": 1951.04,
+    "end": 1956.04,
+    "text": " Eu, todo dia cedo, eu faço minha oração, peço a Deus para me guiar e piso na vaidade."
+  },
+  {
+    "id": 539,
+    "start": 1956.04,
+    "end": 1957.8799999999999,
+    "text": " Todo dia cedo eu piso na vaidade."
+  },
+  {
+    "id": 540,
+    "start": 1958.3,
+    "end": 1959.08,
+    "text": " Piso na vaidade."
+  },
+  {
+    "id": 541,
+    "start": 1959.3,
+    "end": 1962.96,
+    "text": " A pessoa, quando é vaidoso, ele não ganha eleição, ele não governa."
+  },
+  {
+    "id": 542,
+    "start": 1963.22,
+    "end": 1969.2,
+    "text": " O governante, ele tem que ter humildade para chamar as pessoas todas, buscar as boas ideias,"
+  },
+  {
+    "id": 543,
+    "start": 1969.58,
+    "end": 1975.3,
+    "text": " chamar todas as pessoas que também representam o segmento amanhã dos servidores públicos."
+  },
+  {
+    "id": 544,
+    "start": 1975.3,
+    "end": 1981.0,
+    "text": " Candidato, por favor, ainda em relação a esse tema tão importante que é a Previdência Social."
+  },
+  {
+    "id": 545,
+    "start": 1981.0,
+    "end": 1983.86,
+    "text": " Vou perguntar para o senhor pela terceira vez."
+  },
+  {
+    "id": 546,
+    "start": 1984.04,
+    "end": 1988.44,
+    "text": " O senhor pretende mexer na idade mínima para aposentadoria?"
+  },
+  {
+    "id": 547,
+    "start": 1989.1,
+    "end": 1991.06,
+    "text": " Qual é a proposta do senhor em relação a isso?"
+  },
+  {
+    "id": 548,
+    "start": 1991.64,
+    "end": 1993.12,
+    "text": " Olha, eu tenho que ter um plano."
+  },
+  {
+    "id": 549,
+    "start": 1993.86,
+    "end": 1996.12,
+    "text": " Por que você está botando um parâmetro?"
+  },
+  {
+    "id": 550,
+    "start": 1996.8,
+    "end": 1998.12,
+    "text": " Eu não tenho que botar um parâmetro."
+  },
+  {
+    "id": 551,
+    "start": 1999.32,
+    "end": 2002.76,
+    "text": " Veja, quando a gente está discutindo um plano de governo,"
+  },
+  {
+    "id": 552,
+    "start": 2002.76,
+    "end": 2010.24,
+    "text": " você me cobra as metas que são os parâmetros máximos que eu vou definir."
+  },
+  {
+    "id": 553,
+    "start": 2010.9,
+    "end": 2015.58,
+    "text": " Dentro daquilo, você vai acomodar todas as áreas de governo."
+  },
+  {
+    "id": 554,
+    "start": 2016.36,
+    "end": 2017.8,
+    "text": " Eu já não defini o macro?"
+  },
+  {
+    "id": 555,
+    "start": 2018.7,
+    "end": 2019.26,
+    "text": " Não defini?"
+  },
+  {
+    "id": 556,
+    "start": 2019.62,
+    "end": 2025.14,
+    "text": " Eu não mandei, não falo mais com você que eu estou mandando para o Congresso Nacional"
+  },
+  {
+    "id": 557,
+    "start": 2025.14,
+    "end": 2027.36,
+    "text": " uma emenda à Constituição brasileira?"
+  },
+  {
+    "id": 558,
+    "start": 2027.36,
+    "end": 2030.3799999999999,
+    "text": " Então, eu estou dizendo como é que eu vou fazer."
+  },
+  {
+    "id": 559,
+    "start": 2030.6,
+    "end": 2032.08,
+    "text": " Olha, o meu limite é este."
+  },
+  {
+    "id": 560,
+    "start": 2032.8799999999999,
+    "end": 2036.1,
+    "text": " Agora, essas situações todas, eu vou priorizar o quê?"
+  },
+  {
+    "id": 561,
+    "start": 2036.9199999999998,
+    "end": 2040.56,
+    "text": " Corrupção no combate a elas, eu vou salários extorsivos,"
+  },
+  {
+    "id": 562,
+    "start": 2041.04,
+    "end": 2043.36,
+    "text": " eu vou desvios de verba de emendas,"
+  },
+  {
+    "id": 563,
+    "start": 2043.36,
+    "end": 2048.3599999999997,
+    "text": " eu vou trabalhar em relação à reforma administrativa,"
+  },
+  {
+    "id": 564,
+    "start": 2049.3199999999997,
+    "end": 2055.58,
+    "text": " corte não só no Executivo, no Executivo, no Legislativo, no Judiciário, no TCU,"
+  },
+  {
+    "id": 565,
+    "start": 2055.58,
+    "end": 2058.42,
+    "text": " em todos os órgãos independentes do governo."
+  },
+  {
+    "id": 566,
+    "start": 2058.72,
+    "end": 2058.94,
+    "text": " Todos."
+  },
+  {
+    "id": 567,
+    "start": 2058.94,
+    "end": 2061.36,
+    "text": " Candidato, a gente vai fazer um pequeno intervalo."
+  },
+  {
+    "id": 568,
+    "start": 2061.68,
+    "end": 2064.22,
+    "text": " Daqui a pouco, nós estamos de volta com a entrevista"
+  },
+  {
+    "id": 569,
+    "start": 2064.22,
+    "end": 2066.9,
+    "text": " com o candidato à Presidência da República, Ronaldo Caiado."
+  },
+  {
+    "id": 570,
+    "start": 2067.0,
+    "end": 2067.36,
+    "text": " Até já."
+  },
+  {
+    "id": 571,
+    "start": 2077.86,
+    "end": 2080.7999999999997,
+    "text": " Estamos de volta para o segundo bloco da entrevista"
+  },
+  {
+    "id": 572,
+    "start": 2080.8,
+    "end": 2085.6800000000003,
+    "text": " com o candidato à Presidência da República, Ronaldo Caiado, do PSD."
+  },
+  {
+    "id": 573,
+    "start": 2086.5800000000004,
+    "end": 2089.98,
+    "text": " Candidato, o senhor está propondo fazer uma reforma tributária"
+  },
+  {
+    "id": 574,
+    "start": 2089.98,
+    "end": 2093.4,
+    "text": " que foi aprovada pelo Congresso em 2023,"
+  },
+  {
+    "id": 575,
+    "start": 2093.7400000000002,
+    "end": 2098.38,
+    "text": " depois de quase 30 anos de debates, quase três décadas."
+  },
+  {
+    "id": 576,
+    "start": 2099.2200000000003,
+    "end": 2103.96,
+    "text": " O setor produtivo brasileiro já está se adaptando a essas novas regras,"
+  },
+  {
+    "id": 577,
+    "start": 2103.96,
+    "end": 2107.3,
+    "text": " enxerga ganhos de competitividade,"
+  },
+  {
+    "id": 578,
+    "start": 2107.3,
+    "end": 2113.76,
+    "text": " um sistema de cobrança de impostos mais simples, mais claro para toda a sociedade."
+  },
+  {
+    "id": 579,
+    "start": 2114.18,
+    "end": 2119.66,
+    "text": " Então, eu pergunto ao senhor o que o senhor pretende exatamente mudar"
+  },
+  {
+    "id": 580,
+    "start": 2119.66,
+    "end": 2124.28,
+    "text": " nessa reforma aprovada depois de quase 30 anos."
+  },
+  {
+    "id": 581,
+    "start": 2125.62,
+    "end": 2129.26,
+    "text": " Primeiro, nós temos que deixar bem claro aqui"
+  },
+  {
+    "id": 582,
+    "start": 2129.26,
+    "end": 2133.84,
+    "text": " que essa reforma, a primeira vez que ela foi apresentada, foi para o Bernardo Api."
+  },
+  {
+    "id": 583,
+    "start": 2135.0,
+    "end": 2138.6000000000004,
+    "text": " Ele copiou o meu modelo da Índia e trouxe para cá."
+  },
+  {
+    "id": 584,
+    "start": 2139.84,
+    "end": 2140.94,
+    "text": " Eu fui lá na Índia ver,"
+  },
+  {
+    "id": 585,
+    "start": 2141.78,
+    "end": 2143.6600000000003,
+    "text": " que não tem nada a ver com a realidade brasileira."
+  },
+  {
+    "id": 586,
+    "start": 2144.1400000000003,
+    "end": 2145.6000000000004,
+    "text": " A informalidade lá é mais de 90%."
+  },
+  {
+    "id": 587,
+    "start": 2146.26,
+    "end": 2147.86,
+    "text": " Não tem nada a ver com o Brasil."
+  },
+  {
+    "id": 588,
+    "start": 2148.86,
+    "end": 2152.6600000000003,
+    "text": " Em segundo lugar, o que eu disse é que todos nós temos um ponto de concórdia."
+  },
+  {
+    "id": 589,
+    "start": 2153.9,
+    "end": 2154.6000000000004,
+    "text": " Ninguém quer burocracia."
+  },
+  {
+    "id": 590,
+    "start": 2156.46,
+    "end": 2157.6800000000003,
+    "text": " Todo mundo quer simplificar."
+  },
+  {
+    "id": 591,
+    "start": 2157.68,
+    "end": 2160.24,
+    "text": " É lógico que todo mundo quer simplificar."
+  },
+  {
+    "id": 592,
+    "start": 2161.0,
+    "end": 2162.9199999999996,
+    "text": " Agora, o que você tem que imaginar"
+  },
+  {
+    "id": 593,
+    "start": 2162.9199999999996,
+    "end": 2167.02,
+    "text": " é que você vai tratar com todos os segmentos da sociedade."
+  },
+  {
+    "id": 594,
+    "start": 2167.7999999999997,
+    "end": 2169.3399999999997,
+    "text": " Um cidadão que mora lá no Mapá,"
+  },
+  {
+    "id": 595,
+    "start": 2169.4199999999996,
+    "end": 2170.68,
+    "text": " outro que mora no Rio Grande do Sul,"
+  },
+  {
+    "id": 596,
+    "start": 2171.12,
+    "end": 2173.3399999999997,
+    "text": " outro que mora em Pernambuco e outro que mora no Acre."
+  },
+  {
+    "id": 597,
+    "start": 2174.02,
+    "end": 2175.72,
+    "text": " Então, você tem que saber da realidade como é."
+  },
+  {
+    "id": 598,
+    "start": 2175.7999999999997,
+    "end": 2177.74,
+    "text": " Qual foi a simulação que foi feita?"
+  },
+  {
+    "id": 599,
+    "start": 2178.24,
+    "end": 2182.6,
+    "text": " Tradi, você sabe como é que essa matéria foi votada no Congresso Nacional?"
+  },
+  {
+    "id": 600,
+    "start": 2182.9199999999996,
+    "end": 2186.3599999999997,
+    "text": " Você já viu contar na sua vida que uma emenda à Constituição brasileira"
+  },
+  {
+    "id": 601,
+    "start": 2186.36,
+    "end": 2190.6600000000003,
+    "text": " que mexe com 215 milhões de brasileiros seja votada por voto virtual?"
+  },
+  {
+    "id": 602,
+    "start": 2192.1800000000003,
+    "end": 2195.1200000000003,
+    "text": " Onde o parlamentar esperava chegar."
+  },
+  {
+    "id": 603,
+    "start": 2195.36,
+    "end": 2198.9,
+    "text": " Olha, depositar a emenda impositiva aí para o prefeito."
+  },
+  {
+    "id": 604,
+    "start": 2199.04,
+    "end": 2199.2400000000002,
+    "text": " Ah, tá."
+  },
+  {
+    "id": 605,
+    "start": 2199.36,
+    "end": 2199.6600000000003,
+    "text": " Então, tá."
+  },
+  {
+    "id": 606,
+    "start": 2199.7200000000003,
+    "end": 2200.36,
+    "text": " Então, vota sim."
+  },
+  {
+    "id": 607,
+    "start": 2201.26,
+    "end": 2202.48,
+    "text": " O que é isso, Tradi?"
+  },
+  {
+    "id": 608,
+    "start": 2203.1400000000003,
+    "end": 2204.1200000000003,
+    "text": " O que é isso?"
+  },
+  {
+    "id": 609,
+    "start": 2204.32,
+    "end": 2205.6800000000003,
+    "text": " Nós estamos mexendo na vida das pessoas."
+  },
+  {
+    "id": 610,
+    "start": 2205.78,
+    "end": 2207.3,
+    "text": " Vamos ter responsabilidade."
+  },
+  {
+    "id": 611,
+    "start": 2207.3,
+    "end": 2208.76,
+    "text": " Demorou-se 30 anos."
+  },
+  {
+    "id": 612,
+    "start": 2208.8,
+    "end": 2208.96,
+    "text": " Como?"
+  },
+  {
+    "id": 613,
+    "start": 2209.28,
+    "end": 2209.92,
+    "text": " Não, não, não."
+  },
+  {
+    "id": 614,
+    "start": 2210.1000000000004,
+    "end": 2212.04,
+    "text": " Esse modelo nunca foi apresentado."
+  },
+  {
+    "id": 615,
+    "start": 2212.34,
+    "end": 2212.98,
+    "text": " Me desculpe."
+  },
+  {
+    "id": 616,
+    "start": 2213.6400000000003,
+    "end": 2214.8,
+    "text": " Olha, eu sou estudioso."
+  },
+  {
+    "id": 617,
+    "start": 2215.34,
+    "end": 2217.1800000000003,
+    "text": " Mas você chegar a ser um consenso do Congresso?"
+  },
+  {
+    "id": 618,
+    "start": 2217.1800000000003,
+    "end": 2218.0600000000004,
+    "text": " Eu sou a pessoa de estudar."
+  },
+  {
+    "id": 619,
+    "start": 2218.1800000000003,
+    "end": 2223.96,
+    "text": " Agora, se você disser a mim que a indústria precisa de receber o seu crédito,"
+  },
+  {
+    "id": 620,
+    "start": 2224.44,
+    "end": 2226.46,
+    "text": " tudo bem, ninguém contesta isso."
+  },
+  {
+    "id": 621,
+    "start": 2226.88,
+    "end": 2230.0,
+    "text": " Olha, que o cidadão autônomo também tem direito a viver."
+  },
+  {
+    "id": 622,
+    "start": 2230.0,
+    "end": 2238.92,
+    "text": " Eu não posso, é o cidadão me meter 28% no IVA e ainda criar um imposto seletivo que"
+  },
+  {
+    "id": 623,
+    "start": 2238.92,
+    "end": 2240.82,
+    "text": " eles, ironicamente, dizem do pecado."
+  },
+  {
+    "id": 624,
+    "start": 2240.9,
+    "end": 2242.98,
+    "text": " Não, o pecado, quem está fazendo, é o Lula."
+  },
+  {
+    "id": 625,
+    "start": 2243.3,
+    "end": 2243.82,
+    "text": " Mas o senhor não..."
+  },
+  {
+    "id": 626,
+    "start": 2243.82,
+    "end": 2248.76,
+    "text": " Porque ele vai meter um imposto seletivo para botar amanhã é um cheque sem fundo que"
+  },
+  {
+    "id": 627,
+    "start": 2248.76,
+    "end": 2251.82,
+    "text": " o brasileiro está dando a ele, que ele vai aumentar a carga tributária, que já é"
+  },
+  {
+    "id": 628,
+    "start": 2251.82,
+    "end": 2253.62,
+    "text": " de 32 hoje, tá certo?"
+  },
+  {
+    "id": 629,
+    "start": 2253.68,
+    "end": 2255.3,
+    "text": " Ele vai pegar lá para botar para 34."
+  },
+  {
+    "id": 630,
+    "start": 2255.66,
+    "end": 2259.58,
+    "text": " Mas, candidato, você não viu um risco de retrocesso depois de 30 anos?"
+  },
+  {
+    "id": 631,
+    "start": 2259.58,
+    "end": 2260.86,
+    "text": " Não existe retrocesso."
+  },
+  {
+    "id": 632,
+    "start": 2260.94,
+    "end": 2262.74,
+    "text": " Eu gostaria de ouvir o senhor sobre isso."
+  },
+  {
+    "id": 633,
+    "start": 2262.74,
+    "end": 2263.92,
+    "text": " Renato, deixa eu só lhe explicar."
+  },
+  {
+    "id": 634,
+    "start": 2264.5,
+    "end": 2267.42,
+    "text": " Você vai revisitar o tema."
+  },
+  {
+    "id": 635,
+    "start": 2268.56,
+    "end": 2271.7,
+    "text": " Aqueles pontos são positivos e você faz simulação um com o outro."
+  },
+  {
+    "id": 636,
+    "start": 2272.56,
+    "end": 2275.98,
+    "text": " Veja bem, como é que o MEI, o pequeno microempresário individual vai viver?"
+  },
+  {
+    "id": 637,
+    "start": 2276.7599999999998,
+    "end": 2280.0,
+    "text": " Bom, como é que o cidadão hoje da indústria vai viver?"
+  },
+  {
+    "id": 638,
+    "start": 2280.84,
+    "end": 2282.92,
+    "text": " Como é que os exportadores vão viver?"
+  },
+  {
+    "id": 639,
+    "start": 2283.0,
+    "end": 2283.34,
+    "text": " Eu sei."
+  },
+  {
+    "id": 640,
+    "start": 2283.9,
+    "end": 2284.2999999999997,
+    "text": " Ótimo."
+  },
+  {
+    "id": 641,
+    "start": 2284.88,
+    "end": 2285.52,
+    "text": " Maravilhosamente bem."
+  },
+  {
+    "id": 642,
+    "start": 2285.52,
+    "end": 2286.1,
+    "text": " Dois dos projetos previstos."
+  },
+  {
+    "id": 643,
+    "start": 2286.1,
+    "end": 2289.4,
+    "text": " Como é que nós, profissionais liberais, vamos dizer nós, profissionais liberais."
+  },
+  {
+    "id": 644,
+    "start": 2289.4,
+    "end": 2294.38,
+    "text": " Mas só sobre isso, dois dos projetos previstos para regulamentar essa reforma tributária,"
+  },
+  {
+    "id": 645,
+    "start": 2294.9,
+    "end": 2299.1800000000003,
+    "text": " que demorou 30 anos para que houvesse consenso para que ela fosse aprovada e hoje ela tem"
+  },
+  {
+    "id": 646,
+    "start": 2299.1800000000003,
+    "end": 2301.5,
+    "text": " a aprovação de senadores e deputados."
+  },
+  {
+    "id": 647,
+    "start": 2301.86,
+    "end": 2304.84,
+    "text": " Esses projetos já foram aprovados, por exemplo."
+  },
+  {
+    "id": 648,
+    "start": 2305.06,
+    "end": 2310.86,
+    "text": " O comitê que reúne secretários de fazenda dos estados dizem que essa reforma combate a"
+  },
+  {
+    "id": 649,
+    "start": 2310.86,
+    "end": 2311.52,
+    "text": " guerra fiscal."
+  },
+  {
+    "id": 650,
+    "start": 2311.64,
+    "end": 2312.1,
+    "text": " Que maravilha."
+  },
+  {
+    "id": 651,
+    "start": 2312.1,
+    "end": 2315.58,
+    "text": " Então, volta a perguntar ao senhor, o senhor não acha que seria um retrocesso?"
+  },
+  {
+    "id": 652,
+    "start": 2315.6,
+    "end": 2317.86,
+    "text": " A guerra fiscal vai acabar em 32."
+  },
+  {
+    "id": 653,
+    "start": 2319.46,
+    "end": 2320.54,
+    "text": " Oh, Renata."
+  },
+  {
+    "id": 654,
+    "start": 2320.9,
+    "end": 2322.8399999999997,
+    "text": " 32 já acabou, Renata."
+  },
+  {
+    "id": 655,
+    "start": 2322.92,
+    "end": 2324.14,
+    "text": " É norma constitucional."
+  },
+  {
+    "id": 656,
+    "start": 2324.96,
+    "end": 2326.38,
+    "text": " Já acabou a guerra em 32."
+  },
+  {
+    "id": 657,
+    "start": 2326.88,
+    "end": 2329.22,
+    "text": " Esse projeto aí vai durar 30 anos."
+  },
+  {
+    "id": 658,
+    "start": 2329.22,
+    "end": 2334.64,
+    "text": " Veja bem, em 32 já acabou a guerra fiscal, por norma constitucional."
+  },
+  {
+    "id": 659,
+    "start": 2335.64,
+    "end": 2340.16,
+    "text": " Então, o que nós precisamos discutir é com conhecimento sobre cada tema, para que a"
+  },
+  {
+    "id": 660,
+    "start": 2340.16,
+    "end": 2346.58,
+    "text": " gente possa mostrar que não é justo o cidadão que não acumula crédito, que tem conhecimento,"
+  },
+  {
+    "id": 661,
+    "start": 2346.98,
+    "end": 2347.3199999999997,
+    "text": " está certo?"
+  },
+  {
+    "id": 662,
+    "start": 2347.56,
+    "end": 2351.6,
+    "text": " E que um profissional, ele ali amanhã, cinegrafista."
+  },
+  {
+    "id": 663,
+    "start": 2351.6,
+    "end": 2355.12,
+    "text": " O que é que está acumulando de crédito para ele?"
+  },
+  {
+    "id": 664,
+    "start": 2355.2,
+    "end": 2356.64,
+    "text": " O que é que está acumulando de crédito para ele?"
+  },
+  {
+    "id": 665,
+    "start": 2356.68,
+    "end": 2357.0,
+    "text": " Nada."
+  },
+  {
+    "id": 666,
+    "start": 2357.46,
+    "end": 2361.58,
+    "text": " Agora, ele vai tomar em cima da renda dele, 28."
+  },
+  {
+    "id": 667,
+    "start": 2361.7599999999998,
+    "end": 2362.96,
+    "text": " Para aproveitar um cento."
+  },
+  {
+    "id": 668,
+    "start": 2363.2,
+    "end": 2363.7599999999998,
+    "text": " Algo que o senhor falou que se chama crédito."
+  },
+  {
+    "id": 669,
+    "start": 2363.7599999999998,
+    "end": 2367.64,
+    "text": " Então, isso que o equinovisão vai fazer, mas com independência, com discussão."
+  },
+  {
+    "id": 670,
+    "start": 2368.02,
+    "end": 2375.06,
+    "text": " Você não pode fazer uma matéria aonde um iluminado deseja saber como é que vai"
+  },
+  {
+    "id": 671,
+    "start": 2375.06,
+    "end": 2376.72,
+    "text": " ser o Brasil todo na mão dele."
+  },
+  {
+    "id": 672,
+    "start": 2376.96,
+    "end": 2377.74,
+    "text": " E você acha o quê?"
+  },
+  {
+    "id": 673,
+    "start": 2377.8399999999997,
+    "end": 2380.02,
+    "text": " O cidadão vai falar, bom, eu vou pagar 28%."
+  },
+  {
+    "id": 674,
+    "start": 2380.02,
+    "end": 2381.8,
+    "text": " Candidato, por favor, nós temos..."
+  },
+  {
+    "id": 675,
+    "start": 2381.8,
+    "end": 2383.24,
+    "text": " Eu não vou dar nota, é isso?"
+  },
+  {
+    "id": 676,
+    "start": 2383.32,
+    "end": 2384.06,
+    "text": " Vou ficar sem a nota."
+  },
+  {
+    "id": 677,
+    "start": 2384.14,
+    "end": 2386.72,
+    "text": " Nós temos menos de três minutos para encerrar a entrevista."
+  },
+  {
+    "id": 678,
+    "start": 2386.8,
+    "end": 2388.96,
+    "text": " Eu só quero tocar num assunto muito importante com o senhor."
+  },
+  {
+    "id": 679,
+    "start": 2389.04,
+    "end": 2393.44,
+    "text": " O senhor falou em crédito, que a inadimplência hoje no Brasil, ela está recorde."
+  },
+  {
+    "id": 680,
+    "start": 2393.44,
+    "end": 2399.52,
+    "text": " Nós temos hoje quase 84 milhões de brasileiros com contas em atraso, mais de 9 milhões de"
+  },
+  {
+    "id": 681,
+    "start": 2399.52,
+    "end": 2406.7599999999998,
+    "text": " empresas no vermelho, 95% dessas empresas em situação crítica são micro e pequenas."
+  },
+  {
+    "id": 682,
+    "start": 2406.76,
+    "end": 2412.6400000000003,
+    "text": " O seu plano de governo, ele fala muito em ampliar crédito e dar garantia para essas empresas,"
+  },
+  {
+    "id": 683,
+    "start": 2412.84,
+    "end": 2417.94,
+    "text": " mas não tem detalhe, não tem valor, não tem informação sobre de onde viria esse dinheiro."
+  },
+  {
+    "id": 684,
+    "start": 2418.0400000000004,
+    "end": 2422.98,
+    "text": " Então, eu pergunto ao senhor sobre essa proposta para brasileiros endividados."
+  },
+  {
+    "id": 685,
+    "start": 2423.2000000000003,
+    "end": 2425.8,
+    "text": " O que é que o senhor tem a dizer em relação a isso?"
+  },
+  {
+    "id": 686,
+    "start": 2425.98,
+    "end": 2426.2200000000003,
+    "text": " Por favor."
+  },
+  {
+    "id": 687,
+    "start": 2426.22,
+    "end": 2432.16,
+    "text": " Primeiro, eu não vou mentir para vocês, porque você tinha que perguntar para o Lula quando"
+  },
+  {
+    "id": 688,
+    "start": 2432.16,
+    "end": 2434.7599999999998,
+    "text": " ele fala no desenrola, ele é que te enrolou."
+  },
+  {
+    "id": 689,
+    "start": 2435.3399999999997,
+    "end": 2436.62,
+    "text": " O Lula que te enrolou."
+  },
+  {
+    "id": 690,
+    "start": 2437.18,
+    "end": 2439.7999999999997,
+    "text": " E o Lula passou a ser o grande agiota no Brasil."
+  },
+  {
+    "id": 691,
+    "start": 2440.3399999999997,
+    "end": 2443.4599999999996,
+    "text": " Ele impõe essas regras, ele não sofre nada, está certo?"
+  },
+  {
+    "id": 692,
+    "start": 2443.7999999999997,
+    "end": 2449.2599999999998,
+    "text": " E ele agora faz com que você está com taxa de juros mínima de 20% para qualquer banco"
+  },
+  {
+    "id": 693,
+    "start": 2449.2599999999998,
+    "end": 2449.68,
+    "text": " que você for."
+  },
+  {
+    "id": 694,
+    "start": 2450.04,
+    "end": 2453.3399999999997,
+    "text": " Você já gastou tudo no consignado, você já gastou tudo em qualquer banco."
+  },
+  {
+    "id": 695,
+    "start": 2453.34,
+    "end": 2454.7400000000002,
+    "text": " Agora, o que está acontecendo?"
+  },
+  {
+    "id": 696,
+    "start": 2455.1000000000004,
+    "end": 2459.7200000000003,
+    "text": " Ele vai e fala o seguinte, agora você pega o seu fundo de garantia, que é a sua garantia,"
+  },
+  {
+    "id": 697,
+    "start": 2459.82,
+    "end": 2462.8,
+    "text": " que é a sua poupança, e você vai pagar o agiota."
+  },
+  {
+    "id": 698,
+    "start": 2464.02,
+    "end": 2464.6200000000003,
+    "text": " É isto."
+  },
+  {
+    "id": 699,
+    "start": 2464.82,
+    "end": 2466.28,
+    "text": " Eu vou fazer o que eu disse."
+  },
+  {
+    "id": 700,
+    "start": 2466.6000000000004,
+    "end": 2471.84,
+    "text": " Ao fazer isto aí, com a emenda à Constituição, o mercado todo vai saber agora, sim, tem um"
+  },
+  {
+    "id": 701,
+    "start": 2471.84,
+    "end": 2474.6600000000003,
+    "text": " presidente que tem comando do país."
+  },
+  {
+    "id": 702,
+    "start": 2475.06,
+    "end": 2479.7400000000002,
+    "text": " Tem um presidente agora que tem palavra cumprida, porque o que ele foi como governador, ele"
+  },
+  {
+    "id": 703,
+    "start": 2479.7400000000002,
+    "end": 2480.6000000000004,
+    "text": " será como presidente."
+  },
+  {
+    "id": 704,
+    "start": 2480.6,
+    "end": 2484.6,
+    "text": " O que ele foi de 40 anos na política, ele é o homem de mãos limpas, eu não estou"
+  },
+  {
+    "id": 705,
+    "start": 2484.6,
+    "end": 2485.66,
+    "text": " envolvido em corrupção."
+  },
+  {
+    "id": 706,
+    "start": 2485.68,
+    "end": 2486.44,
+    "text": " Qual a emenda à Constituição que o senhor se refere?"
+  },
+  {
+    "id": 707,
+    "start": 2486.46,
+    "end": 2490.56,
+    "text": " Então, só para concluir essa pergunta, que ela é importante, naquela hora em que tomar"
+  },
+  {
+    "id": 708,
+    "start": 2490.56,
+    "end": 2492.7,
+    "text": " essas medidas, o perfil será outro."
+  },
+  {
+    "id": 709,
+    "start": 2492.74,
+    "end": 2494.6,
+    "text": " Ele vai baixar 100%."
+  },
+  {
+    "id": 710,
+    "start": 2494.6,
+    "end": 2495.3199999999997,
+    "text": " Está certo?"
+  },
+  {
+    "id": 711,
+    "start": 2495.3399999999997,
+    "end": 2500.0,
+    "text": " Ele vai para 6% a taxa de juros e vai para 3% a inflação."
+  },
+  {
+    "id": 712,
+    "start": 2500.88,
+    "end": 2501.74,
+    "text": " Então, isso não é milagre."
+  },
+  {
+    "id": 713,
+    "start": 2502.06,
+    "end": 2502.98,
+    "text": " O Temer fez."
+  },
+  {
+    "id": 714,
+    "start": 2504.06,
+    "end": 2504.72,
+    "text": " Está certo?"
+  },
+  {
+    "id": 715,
+    "start": 2504.72,
+    "end": 2508.64,
+    "text": " Então, o que precisa no Brasil é um choque de autoridade moral."
+  },
+  {
+    "id": 716,
+    "start": 2509.24,
+    "end": 2511.72,
+    "text": " É isso que o Brasil precisa hoje, neste momento."
+  },
+  {
+    "id": 717,
+    "start": 2512.14,
+    "end": 2515.9599999999996,
+    "text": " Se tem autoridade moral, o divisor de águas nessa eleição é a moral."
+  },
+  {
+    "id": 718,
+    "start": 2516.4399999999996,
+    "end": 2522.08,
+    "text": " Quem está com o rabo preso e contaminado por corrupção não tem autoridade moral de"
+  },
+  {
+    "id": 719,
+    "start": 2522.08,
+    "end": 2523.2799999999997,
+    "text": " governar o país, Traga."
+  },
+  {
+    "id": 720,
+    "start": 2523.3999999999996,
+    "end": 2527.06,
+    "text": " Não tem autoridade moral de fazer as mudanças que o país precisa."
+  },
+  {
+    "id": 721,
+    "start": 2527.48,
+    "end": 2529.2599999999998,
+    "text": " Essa é a grande realidade que nós estamos enfrentando."
+  },
+  {
+    "id": 722,
+    "start": 2529.26,
+    "end": 2531.78,
+    "text": " Candidato, nossa entrevista está chegando ao fim."
+  },
+  {
+    "id": 723,
+    "start": 2532.0400000000004,
+    "end": 2535.6400000000003,
+    "text": " Eu peço ao senhor, por favor, as suas considerações finais."
+  },
+  {
+    "id": 724,
+    "start": 2535.7400000000002,
+    "end": 2537.2000000000003,
+    "text": " O que o senhor tem a dizer ao eleitor?"
+  },
+  {
+    "id": 725,
+    "start": 2537.32,
+    "end": 2540.32,
+    "text": " O senhor tem um minuto contando a partir de agora."
+  },
+  {
+    "id": 726,
+    "start": 2541.6400000000003,
+    "end": 2545.96,
+    "text": " Olha, eu queria primeiro, antes de terminar, eu queria fazer uma solicitação ao Supremo Tribunal"
+  },
+  {
+    "id": 727,
+    "start": 2545.96,
+    "end": 2546.44,
+    "text": " Federal."
+  },
+  {
+    "id": 728,
+    "start": 2548.0800000000004,
+    "end": 2553.84,
+    "text": " Nós estamos numa eleição e que nós não podemos amanhã ser surpreendidos."
+  },
+  {
+    "id": 729,
+    "start": 2553.84,
+    "end": 2563.6000000000004,
+    "text": " Eu pediria que eles refletissem bem e abrisse o sigilo do INSS, do caso Master e junta a ele"
+  },
+  {
+    "id": 730,
+    "start": 2563.6000000000004,
+    "end": 2569.48,
+    "text": " também toda essa parte do carbono oculto, para que nós não fôssemos amanhã enganados."
+  },
+  {
+    "id": 731,
+    "start": 2569.82,
+    "end": 2575.6000000000004,
+    "text": " Pessoas envolvidas em graves crimes que amanhã pudessem ser eleitos, primeiro ponto."
+  },
+  {
+    "id": 732,
+    "start": 2575.94,
+    "end": 2579.76,
+    "text": " Segundo ponto, eu me dirijo a todos os eleitores brasileiros."
+  },
+  {
+    "id": 733,
+    "start": 2579.76,
+    "end": 2585.6800000000003,
+    "text": " Os que passaram de 60 anos, por favor, vá à urna, ajude o Caiado a chegar na presidência."
+  },
+  {
+    "id": 734,
+    "start": 2585.76,
+    "end": 2589.8,
+    "text": " Porque vocês sabem que o que está aí, isso aí vocês já viram ele, cinco mandatos."
+  },
+  {
+    "id": 735,
+    "start": 2590.1200000000003,
+    "end": 2593.0200000000004,
+    "text": " O outro já teve a oportunidade de ter um mandato e perder a eleição."
+  },
+  {
+    "id": 736,
+    "start": 2593.6000000000004,
+    "end": 2596.7000000000003,
+    "text": " Então, eu acho que é chegada a hora que vocês me darem esse crente."
+  },
+  {
+    "id": 737,
+    "start": 2596.78,
+    "end": 2598.6800000000003,
+    "text": " E eu preciso da coragem de cada um."
+  },
+  {
+    "id": 738,
+    "start": 2599.0600000000004,
+    "end": 2601.9,
+    "text": " Quando vocês acham que isso aí já está decidido, não está não."
+  },
+  {
+    "id": 739,
+    "start": 2602.1800000000003,
+    "end": 2607.0800000000004,
+    "text": " A população brasileira está esperando um candidato que tem autoridade moral, coragem"
+  },
+  {
+    "id": 740,
+    "start": 2607.08,
+    "end": 2612.12,
+    "text": " pessoal e que é que não me falta para nós colocarmos o Brasil naquilo que o Brasil"
+  },
+  {
+    "id": 741,
+    "start": 2612.12,
+    "end": 2613.04,
+    "text": " espera de nós."
+  },
+  {
+    "id": 742,
+    "start": 2613.22,
+    "end": 2615.9,
+    "text": " Então, muito obrigado pela oportunidade, Rede Globo."
+  },
+  {
+    "id": 743,
+    "start": 2616.08,
+    "end": 2620.58,
+    "text": " É uma oportunidade ímpar para poder falar a tantos milhões de brasileiros que não"
+  },
+  {
+    "id": 744,
+    "start": 2620.58,
+    "end": 2621.2799999999997,
+    "text": " me conheciam."
+  },
+  {
+    "id": 745,
+    "start": 2621.38,
+    "end": 2622.74,
+    "text": " Mas preciso da sua ajuda."
+  },
+  {
+    "id": 746,
+    "start": 2622.7999999999997,
+    "end": 2626.06,
+    "text": " Muito obrigada pela sua entrevista, pela sua presença."
+  },
+  {
+    "id": 747,
+    "start": 2626.2,
+    "end": 2627.2599999999998,
+    "text": " Muito obrigado, candidato."
+  },
+  {
+    "id": 748,
+    "start": 2627.5,
+    "end": 2628.8199999999997,
+    "text": " Eu que agradeço, Renata."
+  },
+  {
+    "id": 749,
+    "start": 2628.94,
+    "end": 2629.86,
+    "text": " Muito obrigado, Trale."
+  },
+  {
+    "id": 750,
+    "start": 2630.18,
+    "end": 2633.9,
+    "text": " Amanhã o nosso entrevistado é o candidato Renan Santos, do Missão."
+  },
+  {
+    "id": 751,
+    "start": 2633.9,
+    "end": 2636.36,
+    "text": " Para você, uma boa noite e até amanhã."
+  },
+  {
+    "id": 752,
+    "start": 2637.08,
+    "end": 2639.66,
+    "text": " Boa noite, muito obrigado e até amanhã."
+  }
+]

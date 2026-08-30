@@ -1,0 +1,1676 @@
+# Transcrição: Lula (PT) - Globo 2026-08-27
+# Modelo: Whisper large-v3-turbo
+
+[00:00] Olá, boa noite.
+
+[00:15] Boa noite.
+
+[00:21] Nós estamos entrevistando esta semana os candidatos à presidência da República nas eleições 2026.
+
+[00:23] Foram convidados os seis candidatos mais bem colocados na pesquisa Quest de 14 de agosto.
+
+[00:28] A ordem das entrevistas foi decidida num sorteio com a presença de representantes das campanhas.
+
+[00:35] Hoje nós recebemos aqui no estúdio o candidato Luiz Inácio Lula da Silva, do PT.
+
+[00:41] Amanhã nosso convidado é Flávio Bolsonaro, do PL, e no sábado Augusto Cury, do Avante.
+
+[00:47] Nós já entrevistamos Romeu Zema, do Novo, Ronaldo Caiado, do PSD e Renan Santos, do Missão.
+
+[00:53] Cada entrevista vai ter 40 minutos de duração, com dois blocos e as considerações finais dos candidatos.
+
+[01:02] Vamos então começar relembrando a trajetória do candidato Lula.
+
+[01:07] Aos 80 anos, Luiz Inácio Lula da Silva concorre à reeleição, pleiteando um quarto mandato.
+
+[01:15] Lula nasceu em Caetés, no agreste de Pernambuco, na época um distrito de Garenhuns.
+
+[01:20] Em 1969, já em São Paulo, começou a trajetória política como metalúrgico e líder de movimentos sindicais.
+
+[01:30] Ele participou da fundação do Partido dos Trabalhadores no dia 10 de fevereiro de 1980.
+
+[01:46] Foi deputado federal na Constituinte, de 88, e presidente da República pela primeira vez em 2002, depois de disputar a quarta eleição.
+
+[01:48] Lula foi reeleito em 2006 e obteve o terceiro mandato em 2022.
+
+[01:55] Nas eleições deste ano, concorre ao lado de Geraldo Alckmin, o candidato a vice pelo PSB.
+
+[02:03] Boa noite, candidato. Muito obrigado pela presença do senhor.
+
+[02:07] Boa noite.
+
+[02:08] Boa noite, Trale. Boa noite, Renata.
+
+[02:09] O tempo da entrevista começa a valer a partir de agora.
+
+[02:12] Candidato, três inquéritos da Polícia Federal investigam o seu filho, Fábio Luiz Lula da Silva.
+
+[02:20] A suspeita é de corrupção e tráfico de influência em órgãos federais.
+
+[02:32] A PF apura se ele usou o fato de ser o seu filho para conduzir negócios de interesse privado, dentro do Palácio do Planalto, do Ministério da Saúde e também na data breve.
+
+[02:45] Os policiais federais afirmam também que ele mantinha uma sociedade oculta com outros dois empresários, Fernando Bittar e a lobista Roberta Luxinger.
+
+[02:50] O senhor tem dito que é seu filho que tem que provar que é inocente e que, se ele for culpado, não vai haver privilégios.
+
+[02:59] Mas cabe ao senhor responder pelo governo.
+
+[03:03] Pergunto, então, ao senhor, que avaliação o senhor faz dessas acusações de corrupção e tráfico de influência na sua gestão?
+
+[03:13] Veja, primeiro, não tem nenhuma acusação.
+
+[03:17] São ilações, ilações, ilações tiradas de telefonemas.
+
+[03:23] Eu conheço isso muito bem, porque já vivi isso.
+
+[03:26] O que eu tenho dito?
+
+[03:27] Eu não sou do Ministério Público, eu não sou delegado, eu não sou juiz, eu sou presidente da República e pai do Fábio.
+
+[03:35] Se o Fábio cometeu qualquer ilícito, qualquer ilícito ele terá que pagar como qualquer cidadão brasileiro que cometer ilícito.
+
+[03:44] Eu não vou afastar delegado da Polícia Federal, eu não vou fazer qualquer movimento para que meu filho seja comertado, se ele tiver erro, como outros já fizeram.
+
+[03:52] Ele sabe o que eu passei, sabe o que a minha filha minha passou, ele sabe que a Marisa morreu por conta da falsa acusação que foi feita na Lava Jato.
+
+[04:02] Portanto, ele tem obrigação de não ter feito erro.
+
+[04:06] Eu estou muito tranquilo com o presidente da República.
+
+[04:08] Tudo o que for preciso fazer no âmbito da Polícia e da Justiça para apurar será dado toda e qualquer garantia.
+
+[04:16] Esse é o comportamento do presidente da República, não é do pai do Fábio, é do presidente da República, que tem que olhar para 215 milhões de brasileiros em igualdade de condições.
+
+[04:26] Mas, candidato, e as mensagens obtidas pela Polícia Federal no celular dessa lobista Roberta Lucinho?
+
+[04:31] As mensagens...
+
+[04:32] Numa das conversas, candidato, ela afirma que seu filho entra em campo quando precisa e que os dois eram uma coisa só.
+
+[04:40] E ela diz, abre aspas, eu sou o Fábio.
+
+[04:42] Numa outra mensagem, ela afirma, eu trabalho a política via palácio.
+
+[04:47] Eu sou boa de costura política.
+
+[04:50] Os brasileiros não merecem algum tipo de explicação mais robusta diante de tudo isso que a Polícia Federal levantou até agora?
+
+[04:57] Eu sou a entrada e você é jornalista e você conhece isso melhor do que ninguém.
+
+[05:02] Eu fui vítima disso na Lava Jato, da maior mentira montada neste país, para evitar que eu fosse presidente da República.
+
+[05:09] Eu poderia ter feito qualquer coisa para não emprestar depoimento.
+
+[05:12] Eu fiz questão de emprestar mais de 20 depoimentos.
+
+[05:16] Fiquei quieto, 80 dias na cadeia, porque somente eu sabia a verdade.
+
+[05:24] E eu queria provar que a imprensa estava divulgando coisas mentirosas, que o Moro tinha mentido para a imprensa, que o Deloitte tinha mentido para a imprensa.
+
+[05:28] Com o meu filho vai acontecer a mesma coisa.
+
+[05:31] Só ele sabe a verdade.
+
+[05:32] Se ele fez erro, ele pagará.
+
+[05:35] Não existe outro jeito.
+
+[05:36] Ele não será protegido por ser meu filho, por ser meu irmão, nada.
+
+[05:41] Portanto, ele sabe o que ele tem que fazer.
+
+[05:43] Ele tem que provar a inocência dele.
+
+[05:46] E eu tenho certeza que ele vai ser inocente.
+
+[05:48] Vamos esperar o tempo.
+
+[05:50] Não haverá da parte da presidência da República um milímetro de movimento para proteger o meu filho.
+
+[06:01] A acusação está feita, a Polícia Federal está investigando, a Polícia Federal está vazando as coisas para a imprensa.
+
+[06:05] E eu espero que aconteça o julgamento.
+
+[06:07] Se tiver que vir prestar depoimento, ele vai prestar depoimento, vai participar dos inquéritos.
+
+[06:12] Se ele for culpado, pagará o preço.
+
+[06:13] Se não for, ele será inocentado.
+
+[06:22] Candidato, num desses inquéritos, a Polícia Federal traz indícios de que seu filho teria atuado junto ao Palácio do Planalto para agendar uma reunião entre essa lobista e o então secretário executivo do Ministério da Saúde, conhecido como Berger.
+
+[06:31] E aí, numa dessas mensagens, a lobista avisa seu filho que chegou à Brasília.
+
+[06:35] E ele responde, que ótimo, vai com tudo.
+
+[06:39] É uma relação adequada, candidato?
+
+[06:47] Você acha que se eu pegasse o seu celular e fosse investigar tudo o que você falou, só tinha coisa certa, coisa correta?
+
+[06:49] O que é que uma pilantra pode fazer no telefone?
+
+[06:51] O que é que um cara qualquer pode fazer no telefone?
+
+[06:54] Eu estou dizendo para você que o fato de ter pego as conversas no telefone não justifica absolutamente nada.
+
+[07:02] Até agora não existe uma prova de um centavo público.
+
+[07:05] Até agora não existe uma prova de uma conversa do meu filho com qualquer ministro.
+
+[07:10] E eu tenho certeza que ele não fez.
+
+[07:12] Agora, uma coisa eu vou lhe dizer.
+
+[07:13] Meu filho vai ser investigado como qualquer cidadão brasileiro.
+
+[07:17] Agora, candidato, se falou...
+
+[07:18] Eu estou só na expectativa de que terminar esse inquérito.
+
+[07:21] Porque o que acontece?
+
+[07:29] Nós, ele está sendo acusado de uma acusação, de um crime que nós descobrimos na Previdência Social, criado em 2019, a quadrilha da exploração da Previdência Social.
+
+[07:33] Nós vamos tocar nesse assunto muito em breve.
+
+[07:35] Nós, nós, eu vou antecipar para você.
+
+[07:46] Nós pagamos 5 bilhões de reais, não, pagamos 3 bilhões e meio de reais a 5 milhões de pessoas que foram assaltadas e já arrecadamos quase que 100 bilhões das coisas que nós tomamos das quadrilhas que estavam montadas.
+
+[07:52] Portanto, meu cara, é o seguinte, se tem um brasileiro que quer que as coisas estejam investigadas, sou eu.
+
+[08:09] Agora, o senhor se referiu há pouco sobre essa lobista, e eu gostaria justamente de saber, porque foi outra mensagem obtida pela Polícia Federal, que diz que essa lobista, Roberta Luxinger, afirma que o senhor teria oferecido um cargo a ela e dito, que o senhor teria dito para ela,
+
+[08:15] escolhe onde você quer ficar.
+
+[08:16] Eu pergunto ao senhor se isso aconteceu, e se o senhor já recebeu esse empresário no Palácio.
+
+[08:24] Só faltou ela dizer o seguinte, que eu ofereci para ela o Ministério da Defesa, o Comando da Marinha, da Aeronáutica do Tabarate, é de uma imbecilidade.
+
+[08:28] Isso aconteceu?
+
+[08:35] Eu não conheço essa moça, nunca vi essa moça na minha vida, nunca conversei com essa moça, ela nunca esteve próximo de mim.
+
+[08:38] É o seguinte, malandro, sabe, é igual em qualquer lugar do mundo.
+
+[08:43] Convertas por telefone, eu estou acompanhando, eu estou acompanhando.
+
+[08:48] O caso mais grave do que esse é o do Banco Master, que está silenciado.
+
+[08:53] Nós vamos também tratar desse assunto, mas antes gostaria de saber a sua avaliação.
+
+[08:57] É só importante tomar cuidado, que eu não sou nem procurador, nem juiz, nem policial.
+
+[09:08] A investigação da Polícia Federal envolve também um outro nome muito próximo ao senhor, que é o seu ex-chefe de gabinete, o Marco Aurélio Santana Ribeiro, conhecido como Marcola.
+
+[09:26] A Polícia Federal diz que foi ele quem ajudou a agendar essa reunião dessa lobista no Ministério da Saúde e chegou até a receber a minuta de um contrato que favoreceria a empresa ligada ao careca do INSS, que é considerado o pivô do escândalo do INSS.
+
+[09:34] A minha pergunta ao senhor é a seguinte, o senhor não considera que esse tipo de relação leva suspeitas para dentro do relácio?
+
+[09:36] Leva, lógico que leva.
+
+[09:38] Leva suspeita e leva desconfiança para mim, porque o Marco Aurélio é meu chefe de gabinete.
+
+[09:44] Agora, qual é o papel de chefe de gabinete?
+
+[09:51] As pessoas sabem que ele é lobista agora que a imprensa está falando que ele é lobista e que ela foi desendada.
+
+[10:02] Mas do lado concreto é que o papel dele, que qualquer pessoa que chegar na Presidenta da República conseguir uma audiência com ele para pedir uma audiência com ninguém, o papel dele é encaminhar para o Ministério.
+
+[10:06] Agora, o que nós precisamos saber é o seguinte, essa mulher conseguiu liberar o dinheiro que ela disse que estava atrás.
+
+[10:11] Ela conseguiu liberar.
+
+[10:13] Não foi só a questão.
+
+[10:15] Ela conseguiu liberar o dinheiro.
+
+[10:16] Tem prova de ter dinheiro público, porque aí é que está o crime.
+
+[10:20] Aí é que está o crime.
+
+[10:21] Por isso é que eu não sou precipitado, Renata.
+
+[10:29] Eu fui acusado de ter um apartamento que eu não tinha, eu fui acusado de ter uma chácara que eu não tinha e só foi provada a inocência quando o processo foi anulado.
+
+[10:34] Portanto, como eu não sou juiz, eu vou muito devagar com isso.
+
+[10:37] Eu não gosto de fazer pirotecnia com acusações sem que você termine o inquérito.
+
+[10:43] Então, para saber...
+
+[10:43] Todos eles, todos eles que foram citados, todos eles que participaram, o caminho é um só.
+
+[10:48] É o caminho da apuração, da investigação ou da inocência ou da condenação se tiver cometido crime.
+
+[10:55] Sobre a apuração, a Polícia Federal apurou mais.
+
+[11:04] Ela disse também que essa lobista não só teria, por intermédio do seu ex-chefe de gabinete, conseguido a tal reunião, mas ela também pagou despesas pessoais do seu, então, chefe de gabinete.
+
+[11:11] Boletos, parcelas de financiamento de um carro, faturas de cartão de crédito.
+
+[11:15] Ele ganhou ainda joias, pediu a ela um quadro no valor de 100 mil euros.
+
+[11:21] O Marcola disse que, de fato, foi um empréstimo de 249 mil reais que ele devolveu esse dinheiro.
+
+[11:32] Mas eu pergunto ao senhor, é adequado o chefe de gabinete, a presidência da República, ganhar joias e ter contas pagas por uma lobista com interesse em contratos do governo?
+
+[11:38] O senhor sabia dessa relação que se passava na antessala do seu gabinete?
+
+[11:41] Deixa eu contar uma coisa para você.
+
+[11:43] Não é adequado, é totalmente errado.
+
+[11:46] E o Marcola sabe do erro que ele cometeu, porque não é esse o papel do chefe de gabinete.
+
+[11:51] Ele sabe disso.
+
+[11:52] Ele sabe da importância de ter chefe de gabinete.
+
+[11:55] Agora, ele disse que tomou 249 mil reais de emprestado, é o que está na imprensa.
+
+[12:01] Só ele sabe a verdade, se ele tomou ou não.
+
+[12:03] Quando tiver uma acariação entre os dois, é que vai saber se foi empréstimo ou não.
+
+[12:11] Eu, por enquanto, acredito na versão dele de que foi empréstimo.
+
+[12:15] Acredito na versão dele.
+
+[12:15] Por que ele não pediu empréstimo a um banco?
+
+[12:17] Por que ele não falou comigo?
+
+[12:19] Eu disse para ele, cara, eu sou quase que nem seu pai.
+
+[12:21] Por que você não falou comigo?
+
+[12:24] Por que você não falou comigo do problema que você estava tendo?
+
+[12:27] Agora, é o seguinte, ele cometeu o erro, ele pagará pelo erro que eu cometeu.
+
+[12:32] É isso que vai acontecer.
+
+[12:38] Era uma pessoa da minha total confiança, trabalha comigo há sete anos, todo o tempo que eu fiquei preso em Brasil e no Paraná.
+
+[12:42] Ele ficou o tempo inteiro lá.
+
+[12:44] Agora, eu cometei o erro, pago o preço do erro cometido.
+
+[12:47] É isso.
+
+[12:53] E eu espero que a polícia cumpra com a sua função, eu espero que o Ministério Público cumpra com a sua função e o juiz faça o julgamento que for necessário fazer,
+
+[12:56] de acordo com os autos do processo.
+
+[12:58] O que eu não me deixo impactar é por relações.
+
+[13:01] Eu conheço muito, muito, e já fui vítima muito disso.
+
+[13:07] Então, eu estou muito tranquilo com relação a isso.
+
+[13:09] Muito deprimido e muito chateado.
+
+[13:11] Porque o meu filho sabe que não poderia cometer nenhum erro.
+
+[13:15] Se cometer, eu vou pagar.
+
+[13:16] O Marcola sabe que não poderia cometer nenhum erro.
+
+[13:19] Se cometer, eu vou pagar.
+
+[13:20] É assim que funciona.
+
+[13:22] Candidato, o senhor há pouco citou o escândalo do INSS.
+
+[13:26] Então, nós vamos entrar agora nesse assunto aqui com o senhor.
+
+[13:35] Nesse escândalo, para a gente refrescar a memória, mais de 4 milhões de aposentados e pensionistas brasileiros foram vítimas desses descontos ilegais.
+
+[13:41] As fraudes aconteceram entre 2019 e 2024, podem ter passado de 6 bilhões de reais.
+
+[13:50] E as investigações revelaram que mais de 60% desses descontos sob suspeita aconteceram no seu governo.
+
+[13:52] O presidente do INSS no seu governo, ele está preso preventivamente.
+
+[14:02] O Alessandro Stefanuto, ele é investigado por corrupção, organização criminosa, lavagem de dinheiro, entre outros crimes.
+
+[14:05] Que explicação que o senhor dá hoje a esses aposentados e pensionistas?
+
+[14:11] Nós já demos a explicação.
+
+[14:14] Primeiro que nós já devolvemos 3 milhões e meio de reais.
+
+[14:19] 3 milhões e meio de reais.
+
+[14:21] Não tem um aposentado que foi roubado e que não foi devolvido dinheiro.
+
+[14:24] E esse dinheiro vai ser ressarcido pelos bens que nós aprendemos da quadrilha.
+
+[14:34] Uma quadrilha que foi montada em 2019, inclusive com a participação do ministro da Previdência daquela época.
+
+[14:40] E nós passamos dois anos investigando, tanto a CGU quanto a Política Federal.
+
+[14:48] Investigando, porque se a gente faz a denúncia antes da gente ter o processo como um todo, a gente atrapalharia facilitando os bandidos.
+
+[14:51] E nós fizemos questão de colocar na cadeia as pessoas.
+
+[14:55] Fizemos questão de pagar.
+
+[14:56] Fizemos questão de pagar.
+
+[15:01] E vamos fazer questão de ressarcir os cofes públicos com os bens que nós aprendemos deles.
+
+[15:10] Agora, fato é que no segundo ano do seu mandato, a quantidade de descontos suspeitos de legalidade mais do que triplicou em relação a 2022.
+
+[15:16] E o seu então ministro da Previdência, Carlos Lupe, foi alertado de que havia indícios de irregularidades.
+
+[15:24] Ele soube disso em 2023, ou seja, dois anos antes da operação da Polícia Federal revelar o escândalo.
+
+[15:29] O Lupe teve tempo para agir, mas ele só suspendeu os contratos um ano depois de saber,
+
+[15:32] de tomar conhecimento dos fatos.
+
+[15:34] Que explicações ele deu para o senhor?
+
+[15:36] Renata, nem os contratos foram suspensos pelo Lupe.
+
+[15:41] Nós fomos a fundo para investigar, porque a gente não queria que a Aquarilha se desmontasse.
+
+[15:43] Mas demorou.
+
+[15:44] Demorou.
+
+[15:45] Demorou porque a investigação demora.
+
+[15:46] Que explicação?
+
+[15:47] O senhor ficou satisfeito com a explicação?
+
+[15:51] A explicação é que a Polícia Federal trabalhou com muita seriedade.
+
+[15:53] A CGU trabalhou com muita seriedade para investigar.
+
+[15:57] Levou dois anos.
+
+[16:05] O dado concreto é que a Aquarilha foi montada em 2019, foi presa por nós, descoberta por nós.
+
+[16:09] Os previdenciários receberam o seu dinheiro de volta e nós vamos receber o que a Previdência pagou para a quadrilha.
+
+[16:14] É simples.
+
+[16:15] O senhor pediu explicação?
+
+[16:16] O senhor pediu explicação?
+
+[16:18] Ele saiu do governo.
+
+[16:22] Ninguém nunca reconhece, ninguém nunca reconhece que tinha corrupção.
+
+[16:25] Precisou a CGU e a Polícia Federal investigar.
+
+[16:27] E é assim que funciona, Renata.
+
+[16:29] Não tem outro jeito de funcionar.
+
+[16:33] Tem coisas que passam 80 anos para se apurar, não se apura.
+
+[16:36] No nosso caso, no nosso caso, a Polícia Federal,
+
+[16:39] a CGU, a AGU, trabalham para que a gente coloque de pé
+
+[16:42] toda e qualquer denúncia que aparecer.
+
+[16:46] O senhor disse que pediu explicações a Lupe e que ele saiu do governo.
+
+[16:51] Mas, recentemente, o senhor subiu num palanque com o Carlos Lupe, fez elogios a ele,
+
+[16:53] recebeu apoio dele.
+
+[16:58] Então, pergunto ao senhor, o senhor não vê problema em pedir voto ao lado de alguém que demorou para agir,
+
+[17:00] para barrar os desvios?
+
+[17:04] E foi o responsável pela indicação do presidente do INSS, que está preso?
+
+[17:05] Deixa eu lhe falar uma coisa.
+
+[17:06] Ele não está condenado.
+
+[17:08] Ele é um cidadão livre.
+
+[17:15] Você acha que você pode deixar de conversar com uma pessoa que é sua amiga, que foi,
+
+[17:18] cometeu um erro, se a pessoa está em liberdade e não está condenado?
+
+[17:19] Não é conversa.
+
+[17:19] É pedir elogios.
+
+[17:20] Fazer elogios.
+
+[17:21] Não, elogios não.
+
+[17:22] Deixa eu lhe contar uma coisa.
+
+[17:25] A relação política não tem nada a ver com a relação administrativa.
+
+[17:31] Se ele tivesse cometido, ou a Polícia Federal já tivesse acusado, ele já tivesse sido condenado,
+
+[17:32] era uma coisa.
+
+[17:33] Ele não está.
+
+[17:35] Então, vamos aguardar, Renata.
+
+[17:36] Vamos aguardar a investigação.
+
+[17:41] Eu sei o que é isso, Renata, porque eu já passei por isso.
+
+[17:45] Você sabe, como jornalista, que eu fui vítima da maior mentira montada
+
+[17:50] nesse país, que tinha como objetivo não me deixar ser candidato em 2018,
+
+[17:56] tinha como objetivo desmontar a indústria de engenharia desse país,
+
+[17:59] e criar uma imagem negativa da Petrobras.
+
+[18:02] Eu coloquei a minha cara e falei, eu vou.
+
+[18:03] Eu poderia ter saído do Brasil.
+
+[18:07] Eu decidi, eu vou para a cadeia que eu quero provar que o Moro é mentiroso,
+
+[18:10] quero provar que o Dallau é mentiroso e quero provar
+
+[18:12] que a imprensa um dia vai pedir desculpa.
+
+[18:16] Porque a imprensa brasileira comprou, comprou uma mentira,
+
+[18:20] vendeu a mentira e nunca reconheceu que comprou a mentira.
+
+[18:23] Candidato, o jornalismo da Globo cumpriu a sua obrigação
+
+[18:26] de noticiar os fatos durante essa conferência.
+
+[18:28] É de feito pedir desculpa.
+
+[18:32] A imprensa brasileira sabe que ela produziu um monstro
+
+[18:35] mentiroso chamado Moro, chamado Dallau.
+
+[18:38] Eu não esqueço do PowerPoint mentiroso contra mim.
+
+[18:41] Eu não esqueço.
+
+[18:43] Agora, eu me dispuso...
+
+[18:44] Candidato, em relação a essa...
+
+[18:46] Me dispuso aí para a cadeia.
+
+[18:47] Me dispuso aí para a cadeia.
+
+[18:48] O senhor falou do PowerPoint.
+
+[18:52] Eu só quero dizer ao senhor por favor, em relação a essa questão
+
+[18:53] do PowerPoint.
+
+[18:58] Nossos princípios editoriais, nós fizemos a devida retratação sobre esse assunto.
+
+[19:00] Então, eu peço que a gente siga com a entrevista
+
+[19:04] ainda sobre esse assunto tão importante para o Brasil
+
+[19:05] que se chama Previdência Social.
+
+[19:09] Além de todos esses descontos indevidos, essa fraude bionária,
+
+[19:15] que começou em 2019, 23, 24, foi descoberta só depois.
+
+[19:19] Tem um problema sério hoje ainda no Brasil que afeta
+
+[19:21] aposentados e pensionistas, que é a fila do INSS.
+
+[19:25] Quando o senhor assumiu esse terceiro mandato, o senhor prometeu
+
+[19:29] zerar essa fila, não zerou a fila, hoje ela está na casa
+
+[19:30] de 1 milhão e 300 mil pessoas.
+
+[19:33] Então, eu pergunto ao senhor o que é que o senhor
+
+[19:36] vai fazer, se releito, para oferecer mais qualidade
+
+[19:39] nesse serviço essencial para os brasileiros.
+
+[19:43] Se você prometer que vai à Brasília, eu,
+
+[19:45] a semana que vem, vou anunciar que a fila zerou.
+
+[19:49] a espera de 45 dias vai estar
+
+[19:52] apenas em 250 mil pessoas, que é o normal.
+
+[19:56] Você não pode deixar de dizer, Trale,
+
+[19:59] que no meu governo, os aposentados recebiam
+
+[20:02] aposentadoria, recebiam uma carta em casa
+
+[20:04] dizendo, você tem tempo de aposentadoria,
+
+[20:04] pode me receber.
+
+[20:07] Uma mulher que dava a luz, ela recebia o pré-natal
+
+[20:09] quase junto com a criança.
+
+[20:12] Uma pessoa que estava doente era imediatamente.
+
+[20:15] As pessoas recebiam em carta aos benefícios.
+
+[20:19] Eles desmontaram, desmontaram o Brasil, desmontaram a Previdência.
+
+[20:22] Nós chegamos a ter 3 milhões de pessoas na fila
+
+[20:25] e nós vamos entregar agora a fila terminada
+
+[20:26] na Previdência Social.
+
+[20:30] Você está convidado antecipadamente para ir à Brasília
+
+[20:33] assistir o ato em que a gente vai comemorar
+
+[20:34] com os aposentados.
+
+[20:35] A semana que vem.
+
+[20:40] Candidato, caso Master, um aliado histórico
+
+[20:42] seu aparece nas investigações.
+
+[20:45] Jacques Wagner, que até junho era líder
+
+[20:46] do governo no Senado.
+
+[20:49] A Polícia Federal apura se ele recebeu um apartamento
+
+[20:52] com propina em troca de promover
+
+[20:54] interesses do banqueiro Daniel Vorcaro
+
+[20:55] na Bahia e no Senado.
+
+[20:59] Apesar dessa investigação, o senhor continuou demonstrando apoio
+
+[21:01] e pediu, inclusive, votos
+
+[21:02] para o Jacques Wagner.
+
+[21:04] Por isso, eu lhe pergunto, antes de pedir votos
+
+[21:07] para ele, não é preciso aguardar
+
+[21:10] as investigações desse caso, esclarecer,
+
+[21:12] de fato, o envolvimento dele nesse caso?
+
+[21:16] O Banco Master causou um prejuízo a esse país
+
+[21:18] de 60 bilhões de reais.
+
+[21:23] 60 bilhões, não foi 60 dólares, foi 60 bilhões de reais.
+
+[21:27] E tem muita gente nesse país envolvido.
+
+[21:30] Até agora não está provado que o Wagner
+
+[21:31] tem relação com o Banco Master.
+
+[21:33] O Wagner tem relação com o Augusto,
+
+[21:35] que na época não era nem do Banco Master.
+
+[21:39] o que eu não posso admitir para mim e aceitar
+
+[21:42] é que eu possa fazer política vivendo de ilações
+
+[21:43] todo santo dia.
+
+[21:46] Você tem um processo, tem uma apuração, tem uma investigação,
+
+[21:49] as pessoas são inocentes até prova em contrário.
+
+[21:52] As pessoas são inocentes até prova em contrário.
+
+[21:54] Se um dia, Renata, você for acusada,
+
+[21:57] você é torta para você ter amigo que acha que você é inocente
+
+[21:59] até provar sua culpa.
+
+[22:02] Mas pedir voto para ele antes das investigações
+
+[22:04] de serem a cair?
+
+[22:08] Ele é senador da República, é candidato à reeleição, é um homem
+
+[22:11] que tem relação comigo há 45 anos, desde o tempo
+
+[22:11] de sindicalista.
+
+[22:14] Eu não posso colocar em dúvida o comportamento
+
+[22:17] e a relação do Wagner comigo por conta
+
+[22:18] de uma ilação.
+
+[22:19] Não posso.
+
+[22:22] E posso dizer que eu tenho consciência que o Wagner
+
+[22:22] é honesto.
+
+[22:24] Tenho consciência.
+
+[22:27] Se ele cometer um desvio, vai acontecer
+
+[22:28] com ele o que vai acontecer com qualquer pessoa
+
+[22:31] vai pagar o preço do erro que cometeu.
+
+[22:35] eu não sou uma pessoa que muda
+
+[22:37] de calçada quando encontro um amigo
+
+[22:38] que está sendo acusado de alguma coisa,
+
+[22:39] não.
+
+[22:41] Até prova em contrário todos são inocentes.
+
+[22:44] Candidato, vamos falar de contas públicas
+
+[22:46] e ajustes de calça.
+
+[22:47] Eu acho que é da hora de falar porque eu estava
+
+[22:49] parecendo que eu estava no Ministério Público.
+
+[22:52] Candidato, a dívida pública no seu governo
+
+[22:54] ultrapassou os 10 trilhões de reais.
+
+[22:57] E além do tamanho da dívida, o problema é a direção
+
+[22:58] que ela está tomando.
+
+[23:00] A gente chama de trajetória da dívida.
+
+[23:03] O seu governo, a dívida disparou 10 pontos percentuais,
+
+[23:06] atingiu 82% do PIB.
+
+[23:08] E essa trajetória, ela pressiona os juros
+
+[23:11] que encarecem o crédito, que dificulta
+
+[23:13] o investimento e que pesa no bolso das famílias.
+
+[23:16] O seu programa de governo menciona
+
+[23:18] uma necessidade de um ajuste fiscal, mas não traz
+
+[23:21] metas explícitas para os próximos quatro anos.
+
+[23:23] Então, eu quero saber do senhor
+
+[23:25] quais são as suas metas e para que percentual
+
+[23:27] do PIB o senhor pretende trazer essa dívida.
+
+[23:31] Renata, eu pensei que uma jornalista
+
+[23:37] da tua qualidade, da tua competência, pudesse começar
+
+[23:40] essa pergunta falando diferente, Renata.
+
+[23:42] Você pode dizer, presidente Lula, o senhor
+
+[23:45] foi o único presidente na história
+
+[23:47] do Brasil que fez superávit primário
+
+[23:49] durante oito anos do seu primeiro mandato.
+
+[23:54] dos países do G20 eu fui o único
+
+[23:56] que fez superávit primário durante oito anos.
+
+[23:59] Nunca tive problema fiscal nesse país.
+
+[24:02] Você acha que o Brasil está com problema
+
+[24:04] de dívida pública porque nós chegamos a 80%?
+
+[24:05] Sabe por quê?
+
+[24:07] Porque nós temos há mais de dez anos sem crescer.
+
+[24:10] Você sabe quando é que o PIB voltou a crescer
+
+[24:13] acima de 2%, Renata?
+
+[24:14] Quando eu voltei à presidência da República.
+
+[24:17] Você se esquece que eu deixei esse país crescendo
+
+[24:18] 7,5% em 2010?
+
+[24:22] Você se esquece que eu deixei esse país crescendo
+
+[24:25] 7,5% e quando eu voltei ele estava crescendo
+
+[24:28] 1%, ele só cresceu 3%,
+
+[24:31] sabe, em 2023, 2024,
+
+[24:31] 2025.
+
+[24:33] Então deixa eu te falar uma coisa.
+
+[24:37] Na medida que você começa a crescer a economia,
+
+[24:40] o PIB começa a cair com ela, a dívida começa a cair
+
+[24:41] em relação à dívida.
+
+[24:45] 80% de dívida, sabe, um país,
+
+[24:47] não é muito se você olhar para os Estados Unidos,
+
+[24:49] olhar para o Japão, e ir para a Itália.
+
+[24:51] Essa trajetória do PIB...
+
+[24:52] Você sabe qual é a dívida dos Estados Unidos?
+
+[24:55] 120% do PIB é 40 trilhões de dólares.
+
+[24:59] Olha, o que é importante é o seguinte,
+
+[25:02] uma dívida, sabe, uma parte dela
+
+[25:06] é por conta da taxa de juros, que você defenderam
+
+[25:08] a vida inteira o Banco Central independente.
+
+[25:09] Candidato, o seu ministro...
+
+[25:11] Você está lembrado, o Fernando Henrique Cardoso trocou 3 presidente
+
+[25:13] do Banco Central.
+
+[25:15] eu entrei, disse que, dois anos,
+
+[25:17] como presidente do Bolsonaro.
+
+[25:21] Porque se você não fizer a pergunta completa,
+
+[25:24] eu vou dizer para você, a mim não preocupa a dívida pública.
+
+[25:25] Eu vou dizer por quê.
+
+[25:29] Eu herdei esse governo em janeiro de 2023 com déficit fiscal
+
+[25:31] de 2,8%.
+
+[25:35] Você sabe o quanto vai ser o orçamento
+
+[25:36] desse ano?
+
+[25:38] Superar o primário de 0,1%.
+
+[25:41] Portanto, se tem alguém nesse país
+
+[25:44] que tem responsabilidade fiscal, sou eu.
+
+[25:46] E nem a trajetória da dívida o preocupa.
+
+[25:49] Eu quero a trajetória de marcar a taxa de juros.
+
+[25:53] Porque tem uma coisa que nós temos que entender,
+
+[25:54] Renata.
+
+[26:00] Nós pegamos esse país numa situação
+
+[26:03] que nós não tínhamos orçamento para governar.
+
+[26:05] Você está lembrado da PEC da transição?
+
+[26:09] A PEC da transição foi inclusive para pagar
+
+[26:11] o roubo deixado pelo outro governo.
+
+[26:17] Deixou um roubo de 94 bilhões sabe
+
+[26:20] de dívida com as pessoas que nós tivemos
+
+[26:22] que pagar.
+
+[26:25] Eu quero aproveitar esse assunto ainda, candidato.
+
+[26:28] Eu, sinceramente, Renata, eu tenho uma coisa
+
+[26:29] que eu digo sempre.
+
+[26:32] Responsabilidade eu apedico a dona Lindor.
+
+[26:35] Ela juntava os filhos, pegava o dinheiro e falava
+
+[26:38] vocês não podem comprar e gastar
+
+[26:39] o que vocês não têm.
+
+[26:41] Eu vou dizer uma coisa para vocês lembrar.
+
+[26:47] Em dezembro de 2008, por ocasião
+
+[26:51] da crise do subprime nos Estados Unidos, o comércio
+
+[26:52] entrou numa crise.
+
+[26:56] Eu fui para a televisão, fiz um discurso de oito minutos,
+
+[26:59] convocando a sociedade brasileira a consumir.
+
+[27:03] porque era verdade que estava tendo desemprego,
+
+[27:06] mas se ele não consumir ia ter mais desemprego ainda.
+
+[27:07] Consuma com responsabilidade.
+
+[27:12] Se você consumir com responsabilidade, você vai poder
+
+[27:14] pagar a sua dívida e o país vai voltar a crescer.
+
+[27:17] Foi o ano em que a classe C e D
+
+[27:19] consumiram mais do que a classe em B.
+
+[27:21] Então, se tem uma coisa que baliza a minha vida,
+
+[27:23] chama-se responsabilidade fiscal.
+
+[27:28] E eu tenho uma equipe econômica que era do Haddad,
+
+[27:30] que era do Guido, que agora é do Daril, com muita rede
+
+[27:31] portada fiscal.
+
+[27:34] Eu sei o que eu quero desse país.
+
+[27:36] Eu sempre quero ter candidato outra vez.
+
+[27:38] Aproveitando, então, agora que o senhor
+
+[27:40] acaba de tocar no nome do seu ministro da Fazenda,
+
+[27:43] do Daril Durigan, eu queria entrar muito nesse assunto
+
+[27:45] agora com o senhor, que é o seguinte, o próprio ministro
+
+[27:48] da Fazenda do senhor tem manifestado preocupação
+
+[27:50] com a rolagem da dívida pública.
+
+[27:52] Ele disse que o próximo governo vai ter que fazer
+
+[27:56] ajustes fiscais, vai ter que reduzir gastos obrigatórios.
+
+[27:58] Então, eu pergunto ao senhor o seguinte,
+
+[28:01] o senhor pretende reduzir gastos obrigatórios?
+
+[28:04] Porque é muito importante esclarecer isso para a sociedade
+
+[28:05] e para a população.
+
+[28:08] E se o senhor pretende reduzir gastos obrigatórios,
+
+[28:09] quais exatamente?
+
+[28:12] Que compromisso que o senhor estabelece se reeleito?
+
+[28:15] O meu estabelecimento é o seguinte, é fazer esse país
+
+[28:16] crescer.
+
+[28:19] A minha proposta de ser candidato a presidente
+
+[28:21] da República outra vez, é porque eu já fiz
+
+[28:23] o bado que eu tinha que fazer.
+
+[28:25] Você está lembrado que eu comecei em 2003
+
+[28:29] dizendo que ao terminar o meu mandato, cada brasileiro
+
+[28:32] estiver almoçando, tomando café e jantando, eu terei realizado
+
+[28:32] a obra da minha vida.
+
+[28:34] Eu fiz mais do que isso.
+
+[28:37] Depois eu fiz o PAC no segundo mandato.
+
+[28:41] Depois eu fiz o PAC 3, agora, nesse mandato,
+
+[28:44] com 1 trilhão e 900 bilhões de investimentos,
+
+[28:47] dos quais, até 2026, agora em dezembro,
+
+[28:50] são 1 trilhão e 340 bilhões, dos quais 97%
+
+[28:52] já quitados.
+
+[28:54] Então, o que eu quero para o próximo mandato?
+
+[28:57] Eu quero fazer uma revolução tecnológica
+
+[28:58] nesse país.
+
+[29:01] Eu quero voltar a fazer com que esse país
+
+[29:03] seja disputar com o mundo rico.
+
+[29:06] Esse país vai ter que ser dono do minerais críticos
+
+[29:07] e da terra rara.
+
+[29:10] Esse país vai ter que aportar numa inteligência artificial
+
+[29:11] com linguagem portuguesa.
+
+[29:14] Esse país vai ter que tentar fazer uma reforma
+
+[29:18] para que a gente tenha a nossa defesa tomando conta
+
+[29:21] de 8 milhões e meio de quilômetros quadrados
+
+[29:22] que está totalmente abandonado.
+
+[29:25] e nós estamos vendo que nós temos, depois da China,
+
+[29:27] possivelmente, a gente esteja um país que tenha mais minérias críticas
+
+[29:29] e terras raras.
+
+[29:32] E você percebe que está sendo vendido enquanto a gente
+
+[29:33] não faz a regulação.
+
+[29:36] Eu estive com a Columbre essa semana pedindo para ele
+
+[29:39] vamos aprovar a regulação para que a gente
+
+[29:42] não permita que as nossas riquezas sejam vendidas
+
+[29:45] porque isso, se a gente souber extrair,
+
+[29:49] transformar e produzir os materiais
+
+[29:52] que a gente pode, fazer bateria, fazer chip,
+
+[29:55] fazer celular aqui dentro do Brasil, a gente vai estar
+
+[29:58] criando um passaporte para dar oportunidade para a juventude brasileira
+
+[30:03] ter orgulho de que no seu país ela vai ter condições
+
+[30:06] de estudar, de trabalhar e de ganhar a sua vida.
+
+[30:08] É esse o futuro que eu quero para o país.
+
+[30:10] E é por isso que eu estou prestando o quarto mandato,
+
+[30:12] porque eu já acabei com a fome duas vezes.
+
+[30:14] Duas.
+
+[30:16] Você sabe que quando eu voltei agora esse país estava
+
+[30:20] destruído, destruído.
+
+[30:22] O déficit era 2,8%.
+
+[30:24] O último foi 0,8%.
+
+[30:28] E agora, nesse orçamento, vai ser positivo.
+
+[30:31] Nós vamos fazer superávit esse ano.
+
+[30:33] Candidato, depois...
+
+[30:34] Porque eu...
+
+[30:35] Sabe o que acontece, Sr. Trale?
+
+[30:35] Eu aprendi muito cedo.
+
+[30:38] Posso avançar nos assuntos, por favor?
+
+[30:41] Eu ganho, eu não vou conseguir realizar nada.
+
+[30:42] Eu vou me perder.
+
+[30:44] Então, eu tenho...
+
+[30:47] Na próxima pergunta, eu vou lhe contar a minha conversa
+
+[30:48] com o FMI.
+
+[30:49] Esse país aqui...
+
+[30:51] Porque se a gente não contar, a meninada
+
+[30:53] que está ouvindo a gente não entende.
+
+[30:55] Esse país aqui devia 30 bilhões de dólares.
+
+[30:58] Esse país aqui, o Malan, não conseguia
+
+[30:59] uma audiência com o FMI.
+
+[31:02] Esse país aqui não podia pagar suas importações.
+
+[31:05] Quando eu assumi a presidência, todos os economistas
+
+[31:07] diziam que o país estava quebrado.
+
+[31:08] Pois bem, o país não quebrou.
+
+[31:11] Eu paguei 30 bilhões do FMI.
+
+[31:14] Fui na primeira reserva de dólar desse país
+
+[31:17] de 270 bilhões de reais, que é o que segura a estabilidade econômica
+
+[31:19] desse país até hoje.
+
+[31:21] Ainda falando sobre economia, sobre essa questão
+
+[31:24] de dívida pública, quero muito ouvir o senhor sobre a crise
+
+[31:25] nas estatais.
+
+[31:30] As estatais brasileiras federais estão acumulando um prejuízo
+
+[31:32] de 20 bilhões de reais no seu governo.
+
+[31:35] E o caso mais emblemático, mais grave,
+
+[31:36] é o dos Correios.
+
+[31:39] Já são quatro anos seguidos de prejuízo.
+
+[31:40] É um rombo histórico.
+
+[31:43] São 15 bilhões de reais, candidato.
+
+[31:46] A própria direção da estatal diz que parte da crise
+
+[31:49] se deve a baixa qualidade na operação
+
+[31:50] da empresa.
+
+[31:53] Não ter eficiência num setor cada vez mais competitivo
+
+[31:55] significa risco de prejuízo.
+
+[31:58] O senhor considera vender os Correios?
+
+[32:01] Eu tinha que falar uma coisa, candidato.
+
+[32:03] Você já era nascido em 1985.
+
+[32:07] Desde 1985 correu...
+
+[32:14] Nós estamos de volta com o segundo bloco da entrevista
+
+[32:17] com Luiz Inácio Lula da Silva, candidato do PT
+
+[32:18] à presidência da República.
+
+[32:21] Candidato, vamos falar de educação?
+
+[32:22] Vamos.
+
+[32:26] Vamos falar do acesso à escola entre jovens
+
+[32:29] de 4 a 17 anos que está na casa dos 97%
+
+[32:33] está perto da universalização, o que é bom.
+
+[32:36] Mas a gente sabe que acesso não é a mesma coisa
+
+[32:37] que aprendizagem.
+
+[32:40] E um estudo do Todos pela Educação, divulgado agora
+
+[32:42] em agosto, mostra que seis em cada
+
+[32:47] dez jovens brasileiros terminam o ensino médio na rede pública
+
+[32:50] sem aprender o básico em matemática.
+
+[32:51] Eu quero saber do senhor por que esse resultado
+
+[32:55] e qual é o seu plano para melhorar se o senhor for reeleito?
+
+[32:57] Então, deixa eu te dizer uma coisa,
+
+[32:58] Renata.
+
+[33:02] Se tem uma coisa que eu tenho orgulho é que o Brasil
+
+[33:06] nunca teve um presidente da República que cuidasse
+
+[33:08] da educação como eu cuidei.
+
+[33:11] Eu sou o presidente da República que mais coloquei
+
+[33:13] aluno na escola de tempo integral.
+
+[33:15] Nós fizemos um pacto com os prefeitos
+
+[33:18] para a alfabetização das crianças na idade certa
+
+[33:21] que a gente previa até 2030 chegar a 80%
+
+[33:22] dos jovens.
+
+[33:27] Chegamos a 66% no primeiro ano desse acordo.
+
+[33:31] Porque as coisas estão evoluindo muito.
+
+[33:35] Eu criei o Fundeb para garantir que os meninos
+
+[33:36] do ensino médio não desistissem da escola.
+
+[33:40] 500 mil desistiam por ano para ajudar
+
+[33:41] no orçamento familiar.
+
+[33:44] Nós precisamos o Bolsa Família ou melhor,
+
+[33:46] nós criamos o pé de meia garantindo
+
+[33:50] uma conta, uma poupança para os jovens
+
+[33:50] para eles não desistirem da escola.
+
+[33:53] Isso diminuiu a invasão no primeiro ano
+
+[33:56] em mais de 60% dos alunos.
+
+[33:58] E sou o presidente que mais fiz universidade
+
+[34:01] nesse país, mais fiz institutos federais.
+
+[34:05] dos quase 800 institutos desse país, 80%
+
+[34:07] foi feito por mim e pela Dilma.
+
+[34:09] E com relação a essa dificuldade do aprendizado?
+
+[34:12] Veja, a dificuldade do aprendizado,
+
+[34:16] você tem que entender o Estado como o Ceará, a molecada
+
+[34:17] é mais evoluída que em São Paulo.
+
+[34:21] O que, na verdade, a educação básica,
+
+[34:24] ela é administrada pelo Estado.
+
+[34:27] O governo tem o Fundeb que ajuda os Estados.
+
+[34:30] Mas cada Estado age de um jeito.
+
+[34:33] o Ceará e o Piauí são os Estados
+
+[34:34] pobres que têm o melhor nível
+
+[34:36] de educação nesse país.
+
+[34:38] Você sabia que 40% dos alunos
+
+[34:41] que passam no vestibular do ITA
+
+[34:42] em São Paulo e em São Paulo e em São Paulo
+
+[34:42] são cearese?
+
+[34:46] Por isso, eu levei o ITA para Fortaleza
+
+[34:47] como premiação.
+
+[34:50] Você sabe que nós criamos aqui no Rio de Janeiro
+
+[34:53] uma faculdade da matemática para premiar
+
+[34:55] os alunos que participam das Olimpíadas
+
+[34:58] da matemática, os que têm medalhas de ouro.
+
+[35:00] Nós fazemos um vestibular entre eles
+
+[35:02] e os 400 melhores estão
+
+[35:04] numa faculdade de matemática aqui
+
+[35:07] com dormida, comida, porque a gente
+
+[35:08] não quer perder mais gênio.
+
+[35:10] E os especialistas em educação dizem que é muito
+
+[35:12] importante investir na formação dos professores.
+
+[35:15] Qual é a sua proposta para isso?
+
+[35:16] Então, eu vou lhe dizer, sabe o que nós fizemos?
+
+[35:19] Nós estamos dando uma bolsa de estudo para o menino
+
+[35:23] do Enem que passar em primeiro lugar,
+
+[35:26] que for ser professor, ele vai ganhar uma bolsa de estudo
+
+[35:28] para estudar para o professor.
+
+[35:31] porque normalmente ele não quer os melhores,
+
+[35:32] que é outra coisa.
+
+[35:34] E nós estamos dando uma bolsa porque nós sabemos
+
+[35:37] que a qualidade do professor influencia,
+
+[35:40] sabe, na formação do aluno.
+
+[35:41] Então, candidato, para a gente
+
+[35:43] falar de um outro tema, pois não.
+
+[35:45] quem criou a Olimpíada da Matemática no Brasil,
+
+[35:48] na escola pública, fui eu, contra a vontade
+
+[35:51] de muita gente que dizia que as crianças não gostavam
+
+[35:51] de matemática.
+
+[35:56] Na primeira inscrição entrou 10 milhões de crianças,
+
+[35:59] na segunda 14 milhões de crianças, na terceira
+
+[35:59] 18 milhões de crianças.
+
+[36:04] E quando as crianças aprendem a desfiar,
+
+[36:08] o casulo da matemática passa a ser a matéria que ele mais mostra.
+
+[36:11] Então, agora, no futuro,
+
+[36:13] por isso que eu quero um quarto mandato, nós precisamos colocar
+
+[36:16] muita gente para fazer matemática, muita gente
+
+[36:18] para fazer engenharia, muita gente para aprender
+
+[36:21] esse mundo digital e discutir inteligência artificial,
+
+[36:25] porque nós não queremos ficar subordinados
+
+[36:27] à briga dos Estados Unidos com a China.
+
+[36:29] Agora, antes de encerrar, eu gostaria de ouvir
+
+[36:31] do senhor sobre um tema muito importante
+
+[36:32] que é segurança pública.
+
+[36:34] Uma das maiores preocupações do brasileiro.
+
+[36:35] Exato.
+
+[36:39] Nos últimos 24 anos do nosso tempo, é importante
+
+[36:41] a gente falar de segurança.
+
+[36:48] Nos últimos 24 anos, 17 foram do PCOM-PT
+
+[36:49] na presidência.
+
+[36:51] O senhor está no terceiro mandato, são 12 anos
+
+[36:53] na cadeira de presidente.
+
+[36:56] Na sua avaliação, candidato, por que,
+
+[36:59] nesses mais de 20 anos, o crime organizado se espalhou pelo Brasil?
+
+[37:03] É importante que a gente contribua
+
+[37:05] para formar as pessoas que estão
+
+[37:05] nos assistindo.
+
+[37:09] Na Constituição de 88, a Constituição
+
+[37:12] aprovou que a segurança pública
+
+[37:14] era da responsabilidade do Estado.
+
+[37:17] A sociedade devia estar cansada
+
+[37:18] dos militares terem gerência
+
+[37:20] nas políticas estaduais e nós,
+
+[37:23] então, a pedido de todos
+
+[37:26] os progressistas da Constituinte, demos para o Estado.
+
+[37:29] O governo federal ficou com a política federal,
+
+[37:32] com a política rodoviária federal e com a polícia
+
+[37:33] penal.
+
+[37:39] Eu estou discutindo no Congresso Nacional, fui colocado
+
+[37:42] para votar agora, por isso que eu almocei com o Columbre
+
+[37:45] e com o Hugo Mota, votar a PEC da Segurança Pública,
+
+[37:48] porque a hora que for aprovar a PEC
+
+[37:50] da Segurança Pública, eu crio o Ministério
+
+[37:50] da Segurança Pública.
+
+[37:53] Por que que eu vou criar o Ministério?
+
+[37:54] Porque, primeiro, eu quero estabelecer
+
+[37:59] qual é a participação de cada ente federado da Segurança Pública,
+
+[38:02] qual vai ser o papel da União, qual vai ser
+
+[38:03] o papel do Estado e qual vai ser o papel do município.
+
+[38:06] Porque, aí sim, a gente vai trabalhar
+
+[38:09] muito forte, talvez desmanado.
+
+[38:12] Teve muitos governadores que não quiseram, Tarfísio não quis,
+
+[38:15] Caiado não quis, porque não querem que o governo federal
+
+[38:16] se meta na Segurança Pública.
+
+[38:18] Candidato, aproveitando, então,
+
+[38:20] posso aproveitar esse gancho que o senhor falou
+
+[38:23] da coordenação entre governadores, a PEC da Segurança,
+
+[38:25] que o senhor está tentando passar no Congresso Nacional.
+
+[38:28] Lembrando, então, que o senhor vai completar
+
+[38:29] 12 anos como presidente.
+
+[38:32] O PT governa a Bahia tem 20 anos.
+
+[38:35] E a Bahia, hoje, tem 5 das 10 cidades
+
+[38:36] mais violentas do Brasil.
+
+[38:40] O maior número de mortes violentas de crianças e adolescentes
+
+[38:42] é o triplo da média nacional.
+
+[38:44] Por que que o PT não tem conseguido
+
+[38:48] coordenar ações eficientes sem segurança na Bahia,
+
+[38:51] mesmo governando o país e o Estado
+
+[38:55] ao mesmo tempo e há tanto tempo, candidato?
+
+[38:55] Não seja injusto com a Bahia.
+
+[38:59] Nenhum governador do Brasil, nenhum
+
+[39:01] conseguiu receber o problema da segurança pública.
+
+[39:02] Nenhum conseguiu segurar.
+
+[39:06] Se você pegar do Iapau, cachorro,
+
+[39:06] ninguém conseguiu.
+
+[39:08] Ninguém.
+
+[39:10] Você é de São Paulo, eu trago.
+
+[39:12] Mas nem tem o governo do Estado e o governo federal,
+
+[39:13] candidato?
+
+[39:14] E você, muito menino, cansou de ver
+
+[39:16] as campanhas do Marluxo lá em São Paulo?
+
+[39:18] Bandido bom é bandido morto?
+
+[39:22] Cansou de ver carreta passeando com um artista
+
+[39:23] fantasiado de prisioneiro?
+
+[39:25] Ninguém consegue resolver.
+
+[39:28] Só vai conseguir se a gente tiver muito investimento
+
+[39:29] em inteligência.
+
+[39:30] É isso que eu quero fazer.
+
+[39:31] O que é que eu quero fazer?
+
+[39:33] Aprovando a PEC, nós vamos criar o Ministério da Segurança Pública,
+
+[39:36] vamos definir qual é o papel da política federal
+
+[39:39] nos Estados, porque você sabe que a política federal
+
+[39:42] não pode investigar crime nos Estados, a não ser que seja
+
+[39:42] crime federal.
+
+[39:45] e nem sempre os governadores pedem.
+
+[39:48] Se não fosse a política federal, a gente não pegava o assassino da Mariela aqui.
+
+[39:52] E o governador não queria que a gente viesse investigar.
+
+[39:53] Então, o que é que eu quero?
+
+[39:57] Nós fizemos agora, aprovamos uma lei de infracção, estamos trabalhando
+
+[40:00] na questão do combate ao crime organizado, por isso eu fui levar
+
+[40:02] para o Trump uma proposta por inscritos.
+
+[40:05] Se os Estados Unidos quiserem trabalhar junto com o Brasil
+
+[40:08] para combater o narcotráfico, o crime organizado, o Brasil está pronto
+
+[40:09] e preparado.
+
+[40:12] Montamos uma base da política federal em Manaus
+
+[40:14] para tomar conta da fronteira com representantes
+
+[40:19] de policiais de cada país da América do Sul
+
+[40:21] para que a gente possa enfrentar.
+
+[40:22] Por quê?
+
+[40:22] Qual é o meu desejo?
+
+[40:25] O meu desejo é recuperar o território
+
+[40:26] para o povo.
+
+[40:28] Sabe, aquela rua é do povo do Rio,
+
+[40:30] não é do bandido.
+
+[40:34] A escola é do povo, não é do bandido.
+
+[40:35] O bairro é da escola.
+
+[40:36] Nós precisamos, então, enfrentar isso.
+
+[40:39] E enfrentar uma coisa mais grave que é enfrentar
+
+[40:40] o do andar de cima.
+
+[40:43] Como nós fizemos a Operação Carbono Culto,
+
+[40:46] que foi a maior operação já feita na história desse país.
+
+[40:48] Nós estamos preparados para muitas operações.
+
+[40:53] O que eu quero é que prefeituras importantes,
+
+[40:55] como o Rio de Janeiro, São Paulo, tem que ter policial
+
+[40:56] com a ação de policial.
+
+[40:59] Não pode ficar o policial sem poder prender.
+
+[41:02] Se a gente fizer uma combinação de criar uma espécie
+
+[41:06] de susto da segurança pública e a gente trabalhar
+
+[41:09] conjuntamente, eu posso ter garantido que o Paulo Valdir
+
+[41:09] vai ganhar.
+
+[41:11] E por isso que eu fui conversar com a Columbre.
+
+[41:13] Vamos aprovar a PEC.
+
+[41:16] Porque aprovando a PEC, eu crio o Ministério na semana seguinte.
+
+[41:19] E depois de criar o Ministério, não é que ele vai
+
+[41:20] funcionar rapidamente, não.
+
+[41:23] Eu vou ter que convencer o Daniel, que está assistindo
+
+[41:25] o programa daqui, de que ele tem que colocar recursos.
+
+[41:29] Porque a gente tem uma polícia eficiente
+
+[41:31] e a gente acabar com o crime organizado.
+
+[41:33] A gente vai ter que ter muito dinheiro.
+
+[41:34] Candidato, o nosso tempo acabou.
+
+[41:37] Eu peço agora que o senhor faça as suas considerações finais,
+
+[41:39] a sua despedida do eleitor.
+
+[41:40] O senhor tem um minuto.
+
+[41:47] Renata e Trale e telespectadores sabem que estão nos assistindo.
+
+[41:54] Eu quero dizer para vocês que eu vivo hoje, há uns 80 anos,
+
+[41:58] o melhor momento da minha passagem pelo planeta Terra.
+
+[42:02] Eu tenho consciência do que nós fizemos nesse país.
+
+[42:05] Eu tenho dito para todo mundo que se você pesquisar
+
+[42:08] desde a proclamação da República até o dia de hoje,
+
+[42:11] você não vai encontrar nenhum governo que fez a quantidade
+
+[42:14] de política de inclusão social que nós fizemos.
+
+[42:18] É muito estranho dizer que o metalúrgico sem diploma universitário
+
+[42:21] é o presidente que mais fez universidade nesse país.
+
+[42:24] É muito estranho dizer que o presidente sem diploma universitário
+
+[42:27] foi o que fez mais instituto federal nesse país.
+
+[42:30] É importante dizer que quando eu cheguei na presidência,
+
+[42:34] nós temos 5 milhões de trabalhadores no mercado de trabalho
+
+[42:35] com diploma universitário.
+
+[42:38] Hoje nós temos 25 milhões e eu quero chegar
+
+[42:41] a 50, porque eu quero que o Brasil
+
+[42:44] seja exportador de inteligência e de conhecimento.
+
+[42:47] Eu não quero que o Brasil continue exportando
+
+[42:51] minerais, minério de ferro, soja e milho,
+
+[42:55] sabe, que é muito importante, mas é importante
+
+[42:57] a gente exportar inteligência que é isso
+
+[42:57] que vai dar competitividade.
+
+[43:01] nós vamos fazer um forte investimento em educação,
+
+[43:02] vamos apresentar um plano de educação.
+
+[43:04] Terminou o tempo, candidato.
+
+[43:08] Quero agradecer muito a entrevista, muito obrigado
+
+[43:09] aqui pela sua presença.
+
+[43:10] Obrigado, Trano, obrigado, Renata.
+
+[43:11] Obrigada.
+
+[43:14] Amanhã, o nosso entrevistado é Flávio Bolsonaro,
+
+[43:16] candidato Flávio Bolsonaro do PL.
+
+[43:17] Boa noite.
+
+[43:19] Boa noite, muito obrigado e até amanhã.
+
+[43:28] E aí

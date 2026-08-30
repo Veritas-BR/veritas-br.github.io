@@ -1,0 +1,1233 @@
+# Transcrição: Ronaldo Caiado (PSD) - Globo 2026-08-25
+# Modelo: Whisper large-v3-turbo
+
+[00:00] Olá, boa noite.
+
+[00:14] Boa noite.
+
+[00:20] Nós estamos entrevistando esta semana os candidatos à presidência da República nas eleições 2026.
+
+[00:22] Foram convidados os seis candidatos mais bem colocados na pesquisa Quest de 14 de agosto.
+
+[00:28] A ordem das entrevistas foi decidida num sorteio com a presença de representantes das campanhas.
+
+[00:36] Hoje nós recebemos aqui no estúdio o candidato Ronaldo Caiado, do PSD.
+
+[00:41] Amanhã será a vez de Renan Santos, do Missão.
+
+[00:44] Na quinta-feira, Luiz Inácio Lula da Silva, do PT.
+
+[00:47] Na sexta, Flávio Bolsonaro, do PL.
+
+[00:50] E no sábado, Augusto Cury, do Avante.
+
+[00:53] Nós entrevistamos ontem Romeu Zema, do Novo.
+
+[00:55] Cada entrevista vai ter 40 minutos de duração com dois blocos e as considerações finais dos candidatos.
+
+[01:04] Vamos começar então relembrando a trajetória política de Ronaldo Caiado.
+
+[01:09] Ronaldo Caiado tem 76 anos.
+
+[01:12] Nasceu em Anápolis, Goiás.
+
+[01:14] É médico e produtor rural.
+
+[01:16] Ele entrou na política na década de 80, como um dos fundadores da União Democrática Ruralista, a UDR.
+
+[01:22] Disputou a presidência pela primeira vez em 1989 e ficou em décimo lugar.
+
+[01:29] Dois anos depois, assumiu o primeiro mandato de deputado federal por Goiás.
+
+[01:34] Foi deputado cinco vezes.
+
+[01:36] Depois, senador.
+
+[01:37] E em seguida, governou Goiás por sete anos e três meses.
+
+[01:42] Agora volta a disputar a presidência da República.
+
+[01:45] Ronaldo Caiado é candidato pelo PSD.
+
+[01:48] E tem como vice o presidente do partido, Gilberto Kassab.
+
+[01:52] Candidato, boa noite.
+
+[01:56] Muito obrigado pela presença do senhor.
+
+[01:58] Boa noite, candidato.
+
+[02:00] Candidato, o tempo da entrevista começa a valer a partir de agora.
+
+[02:04] Boa noite, Renata Vasconcelos.
+
+[02:06] Boa noite, César Tral.
+
+[02:07] Agradecer aqui toda a direção da TV Globo.
+
+[02:20] Bom momento importante de uma eleição tão curta e de uma relevância ímpar para o futuro deste país, onde aqui nós poderemos falar a milhões e milhões de brasileiros, e muitos deles não me conhecem.
+
+[02:30] Será a primeira oportunidade de saber realmente o que a gente pensa e o que a gente tem a propor numa hora tão importante da história política nacional.
+
+[02:35] Candidato, o senhor diz que se eleito, o seu primeiro ato de governo vai ser anistiar os condenados pelos atos golpistas do 8 de janeiro de 2023.
+
+[02:47] Eu quero entender o alcance dessa sua proposta que teria que passar pelo Congresso Nacional.
+
+[02:53] Quem exatamente o senhor pretende anistiar?
+
+[03:08] A aqueles que invadiram e depredaram as sedes dos três poderes, os financiadores da tentativa do golpe, os incitadores, o ex-presidente Jair Bolsonaro, militares e autoridades que foram condenados pelo STF ou todos eles?
+
+[03:16] Bom, primeiro, tenho essa responsabilidade, sim.
+
+[03:22] Eu tenho uma formação, eu sou um democrata na essência.
+
+[03:29] Eu sou um homem que jamais transigi das regras da democracia.
+
+[03:40] Sou um homem que já ganhei eleições, já perdi eleições, nunca contestei resultados, fui um parlamentar que sempre respeitei o resultado do painel.
+
+[03:54] Então, eu sou uma pessoa que também posso lhe dizer que o traço do brasileiro, César Tralho, ele não é de construir o ódio, ele não é de construir esse processo de revanche eterno.
+
+[04:01] Isso é histórico no Brasil.
+
+[04:03] Desde império, você tem anistia.
+
+[04:14] Você depois teve momentos importantes onde Juscelino Kubitschek também sofreu realmente uma tentativa de golpe, propôs ali uma anistia e foi trabalhar.
+
+[04:17] O que eu quero dizer neste momento é que nós precisamos de acabar com essa polarização.
+
+[04:23] Nós temos que pacificar o país.
+
+[04:26] Ninguém aguenta mais essa situação.
+
+[04:29] Este clima está criando, como sempre, esse processo de um contra o outro.
+
+[04:34] O brasileiro, na última eleição, 38 milhões não foram às urnas.
+
+[04:55] Então, neste momento, eu posso lhe garantir que encaminharei sim ao Congresso Nacional um projeto para que haja uma anistia geral, ampla, da mesma maneira que, de uma forma especial, o Supremo também concedeu ao ex-presidente Lula.
+
+[04:59] Ele foi condenado em todas as instâncias.
+
+[05:14] Gente, eu via na Globo, era um propinoduto, todos os dias, durante quatro anos, saindo dinheiro, dinheiro, dinheiro, corrupção, corrupção, corrupção.
+
+[05:19] O povo brasileiro já não aguentava mais aquilo.
+
+[05:22] Todo mundo eufórico porque estava tendo um combate à corrupção no Brasil.
+
+[05:26] E, de repente, o Supremo diz, olha, o fórum não foi correto, não poderia ser lá no Paraná.
+
+[05:34] Mas, candidato...
+
+[05:34] E, de repente, só terminando, e, de repente, ele foi anistiado.
+
+[05:39] Quer dizer, uma atitude que o Supremo o anistiou para que ele voltasse até para disputar a eleição.
+
+[05:47] Mas, candidato, sobre esses...
+
+[05:53] O que é importante é que a gente possa concluir o raciocínio é que, neste momento, a medida minha de anistia tem um objetivo, é pacificar o Brasil.
+
+[05:58] A partir dali, não se discute mais...
+
+[05:59] O senhor, então, vai mandar para o Congresso Nacional...
+
+[06:01] Sem dúvida nenhuma.
+
+[06:02] ... um projeto de anistia irrestrita para todos...
+
+[06:05] Ampla e geral...
+
+[06:06] ... os que eu acabei de citar aqui.
+
+[06:07] A todos.
+
+[06:08] Ampla e geral e irrestrita.
+
+[06:09] E elas não se referem a, propriamente, o ódio, como o senhor falou.
+
+[06:25] Sobre a gravidade do que aconteceu no Brasil, o ex-comandante da Aeronáutica, o Brigadeiro Batista Júnior, afirmou que houve risco iminente de golpe de Estado e pressões para que militares aderissem a uma ruptura institucional.
+
+[06:32] Ele confirmou que houve reuniões no Palácio da Alvorada, no Ministério da Defesa, para discutir medidas de exceção.
+
+[06:43] No depoimento que deu ao Supremo Tribunal Federal, o então comandante do Exército, Freire Gomes, fez um seguinte relato sobre uma reunião que ele teve com o ex-presidente Bolsonaro.
+
+[06:43] Eu vou pedir licença para ler aspas dele.
+
+[06:46] Eu alertei o presidente.
+
+[06:48] Sim.
+
+[06:53] E se ele saísse dos aspectos jurídicos, além de ele não poder contar com o nosso apoio, ele poderia ser enquadrado juridicamente.
+
+[07:01] Então, pergunto ao senhor, candidato, que avaliação o senhor faz hoje de todos esses relatos dos comandantes da aeronáutica e do Exército.
+
+[07:13] Os mesmos que Juscelino Kubitschek fez agora, há 50 anos atrás, no dia 22 agora, da morte de Juscelino Kubitschek.
+
+[07:15] O que eu quero é governar.
+
+[07:17] Ninguém aguenta mais essa polarização.
+
+[07:25] Parte daqueles anistiados por Juscelino Kubitschek, oito anos depois, ajudaram a promover o golpe de 64.
+
+[07:33] Tentativa de Jacaré Acanga, a aeronáutica brasileira rebelou, tentou derrubar Juscelino Kubitschek.
+
+[07:34] E eu disse, olha, deixa eu trabalhar.
+
+[07:37] É um estadista.
+
+[07:38] Deixa eu pensar no Brasil.
+
+[07:47] Então, veja bem no momento que eu estou aqui, Renata, com o Brasil todo dominado pelas facções criminosas.
+
+[07:49] O Brasil todo endividado.
+
+[07:52] O Brasil todo sem perspectiva sequer de orçamento para o ano que vem.
+
+[08:02] Porque nós não precisamos de presidente o ano que vem, do jeito que está aí com o Lula.
+
+[08:03] Porque já é só despesa.
+
+[08:05] Simplesmente vai pagar.
+
+[08:06] Não tem nada a investir.
+
+[08:08] Esse é o colapso do Brasil.
+
+[08:10] Eu estou vendo aqui.
+
+[08:23] É milícia, é faccionado, ocupando o território brasileiro, pessoas na fila da saúde, pessoas com a educação de péssima qualidade, emprego, cidadão trabalha, vai para o trabalho 24 horas por dia, chega no fim do mês e não consegue pagar o salário dele, não consegue pagar as
+
+[08:27] contas dele.
+
+[08:29] De repente, 80% da população está aí tomada de dívida.
+
+[08:33] O cidadão desesperado, o jovem indo para o narcotráfico.
+
+[08:36] E, de repente, aquilo que eu quero é pacificar o Brasil, ir para o debate de conteúdo.
+
+[08:43] Nós temos que fazer uma reunião aqui, debater conteúdo.
+
+[08:46] Olha, vamos debater a educação brasileira, vamos debater a segurança no Brasil.
+
+[08:51] Porque este assunto é uma prerrogativa do presidente.
+
+[08:55] Eu encaminharei ao Congresso.
+
+[08:57] O Congresso vai deliberar sobre o assunto.
+
+[08:59] Então, estou cumprindo as regras.
+
+[09:01] E, modéstia a par, fui parlamentar durante seis mandatos.
+
+[09:06] Sobre todos esses...
+
+[09:07] Conheço o regimento.
+
+[09:08] Candidato, sobre todos esses assuntos, a gente vai tratar ainda aqui com o senhor.
+
+[09:12] Só para fechar esse tema da anistia, por favor.
+
+[09:21] Durante o depoimento no Supremo, o general Mário Fernandes, ele confirmou a autoria daquele plano Punhal Verde Amarelo.
+
+[09:30] Plano que previu o assassinato do presidente eleito Lula, do vice-geral do Alckmin e também do ministro do Supremo, Alexandre de Moraes.
+
+[09:39] Diante desses depoimentos do general, dos ex-comandantes, que a Renata citou há pouco aqui para o senhor.
+
+[09:41] Qual a avaliação do senhor em relação aos efeitos de uma anistia?
+
+[09:45] Que efeitos uma anistia teria?
+
+[09:55] Da mesma maneira que durante quatro anos eu assisti na tela do Jornal Nacional aquele propinoduto, saindo todo o dinheiro e o Estado brasileiro sendo assaltado no governo do Lula.
+
+[10:03] Quatro anos a Petrobras assaltada.
+
+[10:06] Era mensalão, era petrolão.
+
+[10:20] Era todo o tipo que nós víamos aqui destruindo a economia do país, roubando o dinheiro que vai para a saúde, matando as pessoas por falta de qualidade de atendimento, por falta de qualidade de educação, por falta de condições mínimas de segurança pública.
+
+[10:26] O dinheiro todo indo para a corrupção.
+
+[10:29] Olha, isto aí é um relato que você disse.
+
+[10:34] Agora, vocês documentaram o dinheiro sendo transferido para a justiça brasileira, da corrupção.
+
+[10:42] Então, é algo que mostra o quanto o brasileiro está indignado com isso.
+
+[10:50] Você imagina bem, você disse um depoimento.
+
+[11:04] Agora, eu estou falando de bilhões de reais que não deixaram a pessoa ter educação de qualidade, não ter saúde, não ter segurança pública no Brasil, onde 60 milhões de brasileiros estão numa condição de, hoje, escravizados pelo narcotráfico.
+
+[11:13] Então, sobre segurança pública, candidato, o senhor defende criar uma nova polícia na América do Sul.
+
+[11:18] A sua proposta é reunir o Brasil e outros 10 países que fazem fronteira com o Brasil para combater o narcotráfico.
+
+[11:20] Mas a gente sabe que o momento é de muita tensão na América Latina.
+
+[11:30] No início do ano, o governo Trump fez uma intervenção na Venezuela, tem ampliado a presença militar na região sob o argumento de combate ao narcotráfico.
+
+[11:40] Nesse ambiente em que questões de soberania, intervenção estrangeira, vem gerando muita instabilidade, como é que o senhor convenceria 10 governos a aderir a uma polícia conjunta?
+
+[11:56] Renata, o que nós precisamos neste momento é que um presidente da República tenha a estatura de um presidente da República.
+
+[11:58] Que ele realmente saiba a função dele como presidente da República.
+
+[12:18] E mais do que nunca é nós buscarmos aquilo que é fundamental para nós entendermos que o Brasil não é produtor de cocaína e que nós hoje estamos sediando na Amazônia brasileira o maior hub hoje de narcotráfico com facções brasileiras do PCC, do Comando Vermelho, da
+
+[12:43] Venezuela, da Colômbia, do México, está ali concentrado, colocando em risco hoje as exportações brasileiras a ponto de Portugal, Itália e os Estados Unidos colocarem como sendo algo que realmente é impossível admitir que essa estrutura no Brasil viva confortavelmente com a
+
+[12:51] conivência do presidente Lula, do governo federal e levando droga para o mundo inteiro.
+
+[12:58] E como é que o senhor vai convencer os países a dele?
+
+[13:06] Por um motivo muito simples, porque todos os limítrofes nossos, os presidentes, hoje são da centro-direita.
+
+[13:08] Só está precisando o Caiado ganhar a eleição para concluir.
+
+[13:17] Você pega a Argentina, você viu hoje a Colômbia, o presidente da Colômbia hoje já declarando terroristas, hoje o presidente da Colômbia acabou de assumir, já declarou terroristas.
+
+[13:29] Então este sentimento é um sentimento que hoje paira, o único lugar de resistência, o único nicho que tem para traficantes na América do Sul é o Brasil.
+
+[13:35] O Brasil é o grande aqui, o guarda-chuva dele.
+
+[13:38] Aqui é, sem dúvida nenhuma, o resort do narcotráfico.
+
+[13:44] Então vamos detalhar melhor essa sua proposta.
+
+[13:46] O Brasil é a Disneylândia do narcotráfico.
+
+[13:49] No seu programa de governo...
+
+[13:50] É que eu vou chegar ao governo e vou derrubar isso, vou acabar com isso.
+
+[13:53] Então vamos detalhar melhor a sua proposta.
+
+[14:00] No seu programa de governo, o senhor disse que essa polícia teria orçamento e estrutura permanentes.
+
+[14:01] Mas não traz detalhes, não traz números.
+
+[14:03] Qual seria o tamanho dessa polícia e quanto custaria para o Brasil?
+
+[14:07] Sim.
+
+[14:08] Olha, o senhor é de convívio que eu dei a origem da fonte.
+
+[14:11] Eu coloquei no plano de governo.
+
+[14:25] Você entende que no momento em que se você identifica e também no plano de governo fala o rito sumário e o quanto eu farei acordo com o Poder Judiciário para que ele amplie as varas para que possa julgar, na primeira instância, nos tribunais de justiça, nos estados,
+
+[14:33] o conflito de todos os bens.
+
+[14:35] E quanto custaria?
+
+[14:36] Bilhões.
+
+[14:38] E nós estaríamos para o nosso fundo.
+
+[14:40] Está certo?
+
+[14:40] Quantos bilhões?
+
+[14:41] E além do mais...
+
+[14:42] Bom, veja bem.
+
+[14:51] Eu posso garantir que eu, assim, num repasse rápido, por exemplo, eu prendi Falcon 50, Citation 1, Citation 2, Helicóptero B4.
+
+[15:09] Já pensou eu, como país todo, na mão, em termos de uma parceria com a justiça brasileira e atacando cada um dos pontos, os depósitos todos, essas fintechs que estão aí, essas betes esquentando dinheiro desse caixa 2, o quanto que eu não vou me avolumar para ter
+
+[15:15] esse caixa para fazer o combate?
+
+[15:23] E, ao mesmo tempo, eu vou criar uma polícia que essa polícia vai poder entrar, desde que esteja tratando de assunto de contrabande de armas, de lavagem de dinheiro, drogas.
+
+[15:31] Você não precisa ter limite.
+
+[15:38] Você vai passar para os outros países e eles também terão toda a liberdade de adentrar o Brasil.
+
+[15:38] Isso não compromete soberania.
+
+[15:48] O que compromete soberania no país, Renata, é hoje você sair daqui e não poder entrar ali na Rocinha.
+
+[15:49] Mas sobre os Estados Unidos, o senhor autorizaria militares americanos a entrarem no Brasil?
+
+[15:54] Eu vou cuidar disso com os meus limítrofes.
+
+[15:56] E eu quero entender também do senhor.
+
+[15:58] O senhor autorizaria?
+
+[15:59] Eu não tenho por que autorizá-los.
+
+[16:02] Para quê?
+
+[16:10] Se nós vamos tratar entre nós aqui, somos 10 países e o Brasil tratando desse assunto aqui.
+
+[16:26] Agora, se você me perguntar, olha, você quer buscar parceria, por exemplo, com a Europa, com a Noruega, que tem agora um dos satélites mais modernos em termos de poder projetar e poder identificar imagens nas áreas de sombra, que eles têm uma tecnologia própria, por que
+
+[16:31] que eu não vou buscar?
+
+[16:32] Eu vou.
+
+[16:32] Mas, candidato...
+
+[16:38] Eu sou uma pessoa que, para vocês terem uma ideia, eu avancei muito em Goiás no que é que foi?
+
+[16:39] Inteligência artificial para combate ao crime.
+
+[16:41] Só para a gente entender, candidato.
+
+[16:48] Então, eu sou uma pessoa que eu acredito na tecnologia, no conhecimento, eu acredito na inovação, eu acredito em todas essas ferramentas que o governo federal não as usa.
+
+[16:54] Porque o governo federal tem.
+
+[16:57] Eu nunca quis.
+
+[16:58] Eu nunca quis combater.
+
+[16:59] Eles sempre foram coniveiros.
+
+[17:00] Candidato, só para entender um pouco mais de detalhes...
+
+[17:02] O narcotráfico e o PT sempre foram a vida umbilical.
+
+[17:05] Agora...
+
+[17:06] Um pouco mais de detalhes, candidato, em relação a essa proposta do senhor.
+
+[17:16] Na prática, para a gente entender como é que essa polícia funcionaria nesse modelo de integração que o senhor está propondo.
+
+[17:19] Como é que funcionaria no combate ao narcotráfico?
+
+[17:27] E aí eu pergunto para o senhor como é que ficariam as atribuições da Polícia Federal e também das Forças Armadas nas nossas fronteiras.
+
+[17:30] Quem é que vai mandar em quem com essa polícia que o senhor pretende criar?
+
+[17:35] Primeiro, as Forças Armadas estão sob o comando do Presidente da República.
+
+[17:40] O Presidente da República é comandante em chefe das Forças Armadas.
+
+[17:44] Isso eu não abro mão.
+
+[17:46] Está certo?
+
+[17:46] Isso eu não abro mão.
+
+[17:47] Eu sou uma pessoa que já fui governador, está certo?
+
+[17:51] Eu a vida toda nunca abri mão dessa prerrogativa.
+
+[17:54] É sob o comando do governador.
+
+[18:01] E quando eu assumi o governo, eu disse, ou o bandido muda de profissão ou muda do Estado de Goiás.
+
+[18:01] E quem comandaria?
+
+[18:02] Aqui é segurança máxima.
+
+[18:04] E quem comandaria a polícia transpassona?
+
+[18:06] Quem é o comandante das Forças Armadas é Ronaldo Caiado.
+
+[18:09] E quem comandaria todas as outras polícias?
+
+[18:11] Aí sim.
+
+[18:12] Está no meu plano.
+
+[18:14] Aí está o meu ministro da Segurança Pública.
+
+[18:18] Está no plano.
+
+[18:19] Está certo?
+
+[18:20] E com toda uma central de inteligência e com toda a tecnologia acoplada.
+
+[18:26] E por que esse modelo que você perguntou, como ele seria?
+
+[18:30] Não estou inventando a roda.
+
+[18:32] Simplesmente é exatamente aquilo que se tem na Europa.
+
+[18:34] Existe a Europol.
+
+[18:37] E lá eles têm essa mesma facilidade de interagir com informações.
+
+[18:42] A Europol não tem poder de fazer prisões.
+
+[18:44] Tudo.
+
+[18:45] Nem de iniciar em investigação.
+
+[18:46] A Europol tem um trabalho muito mais de compartilhar informações.
+
+[18:49] Não, não, senhor.
+
+[18:50] Ela tem toda a ação e liberdade para poder fazer prisões.
+
+[18:55] Lógico que tem.
+
+[18:57] Ela faz a prisão e entrega para a autoridade local.
+
+[19:00] Ela troca informações com os países da Europa.
+
+[19:02] Ela tem essa inteligência ampliada.
+
+[19:04] Está certo?
+
+[19:04] Se ficar alguma dúvida em relação a isso, eu, como presidente, está certo?
+
+[19:10] Vou propor aos meus colegas presidentes limítrofes que façamos com que a prisão seja feita.
+
+[19:18] Afinal de contas, aquilo a que nós estamos combatendo é um crime.
+
+[19:22] E esse crime, ele não pode ter ali a, vamos dizer, a pátria dele, está certo?
+
+[19:31] Para poder destruir meus jovens.
+
+[19:34] Ele não pode se resguardar na condição.
+
+[19:37] Ah, eu estou na minha pátria se eu fizer o acordo.
+
+[19:40] Então, porque ele está na pátria dele, atravessou ali o limítrofe da divisa.
+
+[19:45] Ali naquela hora, ele pode matar meus jovens.
+
+[19:49] Ele pode sequestrar as pessoas.
+
+[19:52] Ele pode impedir as pessoas de poderem ter liberdade.
+
+[19:56] Ele pode estrupar nossas crianças.
+
+[19:58] Eles podem fazer barbárie de enfiar um repórter dentro de um pneu e botar fogo.
+
+[20:05] O senhor falou sobre a necessidade, até agora há pouco, de a gente abordar outros temas aqui.
+
+[20:11] Então, eu quero seguir aqui com a entrevista com o senhor e vamos tratar de governabilidade.
+
+[20:23] O seu partido, ele lançou 13 candidatos para os governos estaduais nessas eleições, mas só quatro deles declararam apoio à sua candidatura.
+
+[20:28] Eu pergunto por que essa dificuldade de conseguir unir o próprio partido em torno do seu nome?
+
+[20:37] Olha, você sabe isso aqui é de conhecimento público, não é certo?
+
+[20:41] O Caçabe deixou bem claro.
+
+[20:44] Olha, eu não vou fazer intervenção em estado algum.
+
+[20:47] Mas preste atenção, César.
+
+[20:49] Preste atenção.
+
+[20:50] O que o governo federal fez?
+
+[20:53] O governo federal fez o seguinte.
+
+[20:54] Vamos abafar todos os partidos no Brasil e cooptar todos.
+
+[21:08] Olha, mas se você não quiser aderir para mim, que fica feio para você aderir para o Lula, para o PT, então você faz o seguinte.
+
+[21:09] Você coloca o seu partido como não tendo candidato a presidente da República.
+
+[21:15] Preste atenção.
+
+[21:17] O cara constrói um partido e não tem coragem de lançar candidato a presidência da República.
+
+[21:22] Olha que escárnio chegou à política nacional.
+
+[21:34] Então, se o Caçabe não tivesse a coragem de me dar a oportunidade de ser presidente da República, o que é que tinha acontecido no Brasil?
+
+[21:37] Dois candidatos no primeiro turno.
+
+[21:39] Dois candidatos que estão aí.
+
+[21:41] Um, o povo conhece.
+
+[21:42] Cinco mandatos, a situação que chegou ao país.
+
+[21:45] Endividamento, corrupção.
+
+[21:48] O cidadão hoje comandado pelo narcotráfico.
+
+[21:52] Hoje o orçamento do país está todo contaminado com gastos já.
+
+[21:57] Então, justamente sobre o orçamento, sobre gastos públicos.
+
+[22:00] O outro já teve chance de ser presidente da República.
+
+[22:02] Vamos então falar sobre esse tema.
+
+[22:03] E perdeu como presidente da República.
+
+[22:13] Essa dificuldade que o senhor tem hoje, a que se referiu o César, sobre reunir dentro do seu próprio partido um apoio político, ela levanta a questão justamente da governabilidade,
+
+[22:16] que é fundamental para aprovar reformas no Congresso.
+
+[22:19] Porque essas têm propostas muito importantes para serem aprovadas.
+
+[22:22] E o país tem um tema urgente, que é a dívida pública.
+
+[22:24] Mais de 10 trilhões de reais já alcançou 82% do PIB e está em tendência de crescimento.
+
+[22:30] O ajuste necessário pode chegar a centenas de bilhões de reais.
+
+[22:33] Olhando para os próximos quatro anos, de quanto seria o seu ajuste fiscal?
+
+[22:39] Renata, vamos voltar no primeiro parte da sua pergunta.
+
+[22:43] Ela é importantíssima.
+
+[22:52] E você acha, Renata, que um dos dois, o Lula ou o Flávio, eles vão construir algum tipo de maioria para aprovar alguma emenda constitucional?
+
+[22:58] Eu perguntei qual será o seu ajuste fiscal.
+
+[23:00] Sim, eu estou lhe falando.
+
+[23:07] Se não tivesse o PSD para eu poder ganhar a eleição, que eu vou ganhar a eleição no segundo turno, e vou para o segundo turno,
+
+[23:10] preste atenção no que eu estou falando.
+
+[23:11] Vou ganhar a eleição e vou para o segundo turno e vou bater o Lula.
+
+[23:15] Então, preste atenção.
+
+[23:16] Esses dois, do jeito que eles estão, eles não fazem nada.
+
+[23:20] Qual será o seu ajuste fiscal?
+
+[23:22] Um responde, ah, não, o problema é do Congresso, o problema é do TCU, o problema é do Supremo.
+
+[23:32] E tipo de homem que não serve para governar, só faz populismo e negociata e fica protegendo o familiar.
+
+[23:33] Então, é isso que dá.
+
+[23:34] Ele não tem espírito público.
+
+[23:36] No meu governo, eu tenho aquilo que eu acumulei durante seis mandatos no Congresso Nacional.
+
+[23:42] Então, o senhor tem a oportunidade aqui de falar para os brasileiros qual será o seu ajuste fiscal.
+
+[23:46] Exatamente.
+
+[23:54] O meu ajuste fiscal também será uma emenda constitucional, que eu encaminharei também no primeiro dia do meu governo, onde eu vou dizer as despesas do governo federal, elas serão limitadas a, lógico, corrigir a inflação
+
+[24:03] e atingir o máximo de 50% do PIB.
+
+[24:09] Então, eu estou dizendo a regra.
+
+[24:11] Eu não estou fugindo da discussão.
+
+[24:13] Eu sou o único candidato que tive a coragem de colocar e qual maneira chegará ao Congresso Nacional?
+
+[24:19] Por emenda à Constituição brasileira, porque eu sou um democrata.
+
+[24:32] Então, eu não vou falsear nenhuma condição, porque é tipo arcabouço fiscal, que veio que é uma grande farsa e que o próprio presidente atual diz o seguinte,
+
+[24:38] olha, esse negócio de arcabouço fiscal, de equilíbrio fiscal, isso só vai atrapalhar a governança.
+
+[24:39] Eu não preciso disso para o governo.
+
+[24:40] Onde o senhor vai cortar, candidato?
+
+[24:42] O senhor pode citar três prioridades de cortes e quanto é que o senhor economizaria com isso?
+
+[24:48] É que o senhor mencionou 50% do PIB.
+
+[24:49] Mas veja bem, veja bem.
+
+[24:51] Nós estamos discutindo um assunto macro.
+
+[24:53] É importante trazer detalhes de algo que é fundamental para o futuro do país.
+
+[24:56] Eu digo para você o seguinte, olha, um paciente foi atropelado ali por um ônibus.
+
+[25:04] Quais são os pontos que você vai priorizar sobre ele?
+
+[25:07] Poxa, eu nem examinei o doente.
+
+[25:09] Calma.
+
+[25:11] Poxa, calma.
+
+[25:12] Eu nem...
+
+[25:13] Olha, você lembra quando o Michel Temer abriu a caixa preta da Dilma?
+
+[25:18] Você lembra que loucura que estava?
+
+[25:19] Mas o senhor não examinou as contas públicas do Brasil para já ter uma proposta mais clara?
+
+[25:23] Mais clara do que eu estou dizendo?
+
+[25:25] De onde cortaria?
+
+[25:26] O que priorizaria?
+
+[25:27] Quanto economizaria?
+
+[25:29] O senhor não tem claro isso ainda?
+
+[25:30] Eu já estou dizendo onde é que eu vou fazer.
+
+[25:32] Está aqui, olha.
+
+[25:33] Essa aqui será a minha despesa.
+
+[25:36] É a tal limitada.
+
+[25:37] Vai ter o crescimento da inflação, IPCA, mais limite, mais 50% do PIB.
+
+[25:46] Está aqui escrito.
+
+[25:47] Está aqui escrito.
+
+[25:49] Agora, eu vou adequar.
+
+[25:51] Agora, eu vou dar conta de dizer o seguinte, olha, o que eu tenho hoje de subvenção?
+
+[25:56] O que eu tenho de incentivo fiscal?
+
+[25:59] O que eu tenho de corrupção?
+
+[26:01] O que eu tenho de salários em excesso?
+
+[26:11] O que eu tenho hoje de emendas impositivas que estão indo para outro local que não a finalidade do projeto aprovado pela população chamado plano de governo?
+
+[26:23] Então, isso tudo, eu vou ter oportunidade de botar o paciente na mesa chamado Brasil e aí sim eu vou trazer para mim com as melhores cabeças.
+
+[26:28] Isso aí, Tralho, é importante saber.
+
+[26:30] E o salário mínimo, candidato?
+
+[26:32] Qual é a política do senhor para o salário mínimo?
+
+[26:34] Vai ter ganho real ou não vai ter ganho real?
+
+[26:36] Lógico, lógico.
+
+[26:37] Não vou me...
+
+[26:38] Olha, o pobre coitado que está ganhando salário mínimo.
+
+[26:40] O pobre coitado que está vivendo de aposentadoria.
+
+[26:43] Deixa eles em paz, pelo amor de Deus.
+
+[26:46] Vamos mexer com eles não, gente.
+
+[26:48] Olha, vamos dar o exemplo que um presidente precisa de dar.
+
+[26:51] Vamos cortar na própria carne.
+
+[26:53] Vamos para cima.
+
+[26:55] Vamos para cima desses salários abusivos.
+
+[26:58] Vamos para cima...
+
+[26:58] Então, para detalhar mais, pisos com gastos...
+
+[27:07] Os pisos de gastos com saúde, com educação, o senhor manteria ou mudaria as regras que vinculam as receitas?
+
+[27:08] Para a gente detalhar que esses pontos são muito importantes para o cidadão.
+
+[27:11] Isso é muito importante.
+
+[27:12] Eu jamais na minha vida...
+
+[27:13] Eu sou um médico.
+
+[27:14] Eu sou um cirurgião.
+
+[27:16] Eu sou um homem formado, Renata, para cuidar de vidas.
+
+[27:19] Para salvar vidas.
+
+[27:21] A minha vida é essa.
+
+[27:22] Vocês viram, na época da pandemia, o meu enfrentamento.
+
+[27:27] Eu sou um homem que sou e sempre tive a independência moral e intelectual para governar.
+
+[27:34] Eu governo com poder atender.
+
+[27:36] Imagina bem as pessoas dizem...
+
+[27:40] Ah, porque o Ronaldo Caiada é isso, o Ronaldo Caiada é aquilo.
+
+[27:53] Eu lhe pergunto, como é que pode um governador, por dois mandatos, chegar a 88% de aprovação no seu estado?
+
+[27:54] De 10 eleitores, 9 votos em mim.
+
+[28:01] Sobre exatamente o ajuste, o senhor disse que não mexeria nos pisos com saúde e educação, nem no salário mínimo ganho real.
+
+[28:03] De maneira nenhuma.
+
+[28:03] Salário mínimo ganho real também.
+
+[28:04] Eu vou querer gestão.
+
+[28:05] Em que o senhor cortaria?
+
+[28:06] Eu vou querer gestão deles.
+
+[28:08] Eu vou querer gestão.
+
+[28:09] Aí sim, você colocou bem, não é diminuir, é eu querer fazer uma educação de qualidade.
+
+[28:15] Aí sim eu sei fazer.
+
+[28:16] Porque Goiás esteve no pódio durante todos os anos.
+
+[28:19] Goiás hoje tem uma das melhores alfabetizações na idade certa, no segundo ano do ensino fundamental.
+
+[28:25] Goiás hoje está entre os três primeiros no IDEB no Brasil.
+
+[28:35] O Goiás hoje tem uma condição onde as pessoas têm o curso profissionalizante dentro do colégio hoje, ou se não em parcerias com o Sistema S, SEBRAE, SENAI e tudo mais.
+
+[28:45] O Estado de Goiás hoje tem uma condição de ter, entre as dez melhores colégios estaduais, tem sete melhores colégios estaduais.
+
+[28:56] Investi pesado na educação, eu mesmo, pessoalmente ao lado da minha secretária, que foi uma grande guerreira e que estava lá ao meu lado, para que nós resgatássemos os colégios e trouxéssemos aquela...
+
+[29:00] Olha mais, busca mais.
+
+[29:01] Manda dar um Google aí.
+
+[29:02] Vai ver que o Estado de Goiás é o que tem a menor taxa de evasão escolar no Brasil.
+
+[29:10] Hein?
+
+[29:10] Veja bem.
+
+[29:10] Muito importante é sobre os aposentados.
+
+[29:16] As aposentadorias e os especialistas em economia, candidato, chamam a atenção para o envelhecimento, dos números do envelhecimento da população brasileira.
+
+[29:21] Eles afirmam que esse envelhecimento está aumentando a pressão sobre a nossa previdência.
+
+[29:27] Lógico.
+
+[29:31] E que por isso é muito importante discutir uma nova reforma com ajuste, com ajuste justamente para manter a nossa previdência sustentável no longo prazo.
+
+[29:37] Qual é exatamente a sua proposta para isso?
+
+[29:40] Em que o senhor mexeria?
+
+[29:41] Olha, vem aqui, nós não estamos aqui em uma mesa examinadora.
+
+[29:48] Estamos dando oportunidade...
+
+[29:49] A gente está tratando de propósito.
+
+[29:50] Não, lógico, mas não é em uma mesa examinadora.
+
+[29:52] Mas o governo...
+
+[29:53] Esse grupo é muito importante, isso não é?
+
+[29:56] Lógico que é.
+
+[29:57] Eu buscarei as melhores cabeças, está certo?
+
+[30:00] No Brasil, está certo?
+
+[30:02] Como vou buscar um Paulo Tafner?
+
+[30:04] Agora, não é possível que você queira detalhes de um assunto que eu concordo com você.
+
+[30:11] Primeiro que eu entenda a área.
+
+[30:13] Ora, nós perdemos o bondo demográfico.
+
+[30:15] O Brasil envelheceu.
+
+[30:17] O Brasil envelheceu, aconteceu o quê com o Brasil que envelheceu?
+
+[30:24] Uma incidência de câncer, complicações no caso de diabetes, problemas de isquemia cerebral, problemas cardiovasculares.
+
+[30:31] Então, tudo isso vem em decorrência do envelhecimento.
+
+[30:44] E outra coisa, o custo para você praticar hoje as intervenções cirúrgicas, que cada dia estão mais caros os procedimentos, e um SUS achatado com procedimentos como uma consulta a R$ 10 até hoje.
+
+[30:49] Então, o que eu quero dizer é que isto aqui não vai sair da cabeça de um iluminado.
+
+[30:56] Está certo?
+
+[30:56] Igual o Bernardo da Pi, o iluminado, que de repente deu conta de fazer isso.
+
+[31:01] Agora, eu vou chamar as melhores cabeças do Brasil, todas elas.
+
+[31:08] Vou sentar, porque eu gosto de estudar e gosto de ouvir.
+
+[31:16] Vou chamar todas as pessoas e vou dizer, olha, nós sabemos, e você falou a palavra certa, qual é a condição de sustentabilidade do nosso sistema previdencial?
+
+[31:20] O senhor já não reuniu esses especialistas para apresentar uma proposta aos brasileiros sobre isso?
+
+[31:25] E o senhor mexeria na idade mínima da aposentadoria, candidato?
+
+[31:28] Mas eu não tenho condições de detalhar minúcias sobre aquilo que eu fiz.
+
+[31:33] Até porque, Renata, eu, modéstia à parte, eu vou ser imodesto.
+
+[31:38] Só um pouquinho, só um pouco, tá bom?
+
+[31:40] Meu Estado era o quarto pior no país, quarto pior.
+
+[31:45] Era Minas Gerais, Rio de Janeiro e Rio Grande do Sul e Goiás.
+
+[31:49] Quarto pior, em termos do quadro fiscal, está certo?
+
+[32:05] Eu entreguei um Estado recuperado, com caixa e com investimento, regionalização de saúde, educação entre as três primeiras do Brasil e, ao mesmo tempo, segurança pública plena, programas sociais emancipatórios.
+
+[32:07] É que o tema da Previdência é muito importante, né?
+
+[32:09] Hoje o goiânico diz assim, eu tenho orgulho de morar.
+
+[32:11] E o que eu fiz em Goiânico, eu vou fazer no Brasil.
+
+[32:18] Agora, vocês sabem que uma coisa nós temos que ter, nós temos que ter sempre a humildade de não queremos ser aquele que é o iluminado.
+
+[32:22] Eu tenho medo de iluminado.
+
+[32:25] Iluminado é a pessoa que não resolve.
+
+[32:27] Em primeiro lugar, o iluminado, ele é tomado pela vaidade.
+
+[32:31] Eu, todo dia cedo, eu faço minha oração, peço a Deus para me guiar e piso na vaidade.
+
+[32:36] Todo dia cedo eu piso na vaidade.
+
+[32:38] Piso na vaidade.
+
+[32:39] A pessoa, quando é vaidoso, ele não ganha eleição, ele não governa.
+
+[32:49] O governante, ele tem que ter humildade para chamar as pessoas todas, buscar as boas ideias, chamar todas as pessoas que também representam o segmento amanhã dos servidores públicos.
+
+[32:55] Candidato, por favor, ainda em relação a esse tema tão importante que é a Previdência Social.
+
+[33:01] Vou perguntar para o senhor pela terceira vez.
+
+[33:04] O senhor pretende mexer na idade mínima para aposentadoria?
+
+[33:09] Qual é a proposta do senhor em relação a isso?
+
+[33:11] Olha, eu tenho que ter um plano.
+
+[33:13] Por que você está botando um parâmetro?
+
+[33:16] Eu não tenho que botar um parâmetro.
+
+[33:22] Veja, quando a gente está discutindo um plano de governo, você me cobra as metas que são os parâmetros máximos que eu vou definir.
+
+[33:30] Dentro daquilo, você vai acomodar todas as áreas de governo.
+
+[33:36] Eu já não defini o macro?
+
+[33:38] Não defini?
+
+[33:45] Eu não mandei, não falo mais com você que eu estou mandando para o Congresso Nacional uma emenda à Constituição brasileira?
+
+[33:47] Então, eu estou dizendo como é que eu vou fazer.
+
+[33:50] Olha, o meu limite é este.
+
+[33:52] Agora, essas situações todas, eu vou priorizar o quê?
+
+[34:03] Corrupção no combate a elas, eu vou salários extorsivos, eu vou desvios de verba de emendas, eu vou trabalhar em relação à reforma administrativa,
+
+[34:15] corte não só no Executivo, no Executivo, no Legislativo, no Judiciário, no TCU, em todos os órgãos independentes do governo.
+
+[34:18] Todos.
+
+[34:18] Candidato, a gente vai fazer um pequeno intervalo.
+
+[34:24] Daqui a pouco, nós estamos de volta com a entrevista com o candidato à Presidência da República, Ronaldo Caiado.
+
+[34:27] Até já.
+
+[34:40] Estamos de volta para o segundo bloco da entrevista com o candidato à Presidência da República, Ronaldo Caiado, do PSD.
+
+[34:53] Candidato, o senhor está propondo fazer uma reforma tributária que foi aprovada pelo Congresso em 2023, depois de quase 30 anos de debates, quase três décadas.
+
+[35:07] O setor produtivo brasileiro já está se adaptando a essas novas regras, enxerga ganhos de competitividade, um sistema de cobrança de impostos mais simples, mais claro para toda a sociedade.
+
+[35:19] Então, eu pergunto ao senhor o que o senhor pretende exatamente mudar nessa reforma aprovada depois de quase 30 anos.
+
+[35:29] Primeiro, nós temos que deixar bem claro aqui que essa reforma, a primeira vez que ela foi apresentada, foi para o Bernardo Api.
+
+[35:35] Ele copiou o meu modelo da Índia e trouxe para cá.
+
+[35:41] Eu fui lá na Índia ver, que não tem nada a ver com a realidade brasileira.
+
+[35:44] A informalidade lá é mais de 90%.
+
+[35:46] Não tem nada a ver com o Brasil.
+
+[35:48] Em segundo lugar, o que eu disse é que todos nós temos um ponto de concórdia.
+
+[35:53] Ninguém quer burocracia.
+
+[35:56] Todo mundo quer simplificar.
+
+[35:57] É lógico que todo mundo quer simplificar.
+
+[36:02] Agora, o que você tem que imaginar é que você vai tratar com todos os segmentos da sociedade.
+
+[36:11] Um cidadão que mora lá no Mapá, outro que mora no Rio Grande do Sul, outro que mora em Pernambuco e outro que mora no Acre.
+
+[36:14] Então, você tem que saber da realidade como é.
+
+[36:15] Qual foi a simulação que foi feita?
+
+[36:18] Tradi, você sabe como é que essa matéria foi votada no Congresso Nacional?
+
+[36:26] Você já viu contar na sua vida que uma emenda à Constituição brasileira que mexe com 215 milhões de brasileiros seja votada por voto virtual?
+
+[36:32] Onde o parlamentar esperava chegar.
+
+[36:35] Olha, depositar a emenda impositiva aí para o prefeito.
+
+[36:39] Ah, tá.
+
+[36:39] Então, tá.
+
+[36:39] Então, vota sim.
+
+[36:41] O que é isso, Tradi?
+
+[36:43] O que é isso?
+
+[36:44] Nós estamos mexendo na vida das pessoas.
+
+[36:45] Vamos ter responsabilidade.
+
+[36:47] Demorou-se 30 anos.
+
+[36:48] Como?
+
+[36:49] Não, não, não.
+
+[36:50] Esse modelo nunca foi apresentado.
+
+[36:52] Me desculpe.
+
+[36:53] Olha, eu sou estudioso.
+
+[36:55] Mas você chegar a ser um consenso do Congresso?
+
+[36:57] Eu sou a pessoa de estudar.
+
+[37:04] Agora, se você disser a mim que a indústria precisa de receber o seu crédito, tudo bem, ninguém contesta isso.
+
+[37:06] Olha, que o cidadão autônomo também tem direito a viver.
+
+[37:18] Eu não posso, é o cidadão me meter 28% no IVA e ainda criar um imposto seletivo que eles, ironicamente, dizem do pecado.
+
+[37:20] Não, o pecado, quem está fazendo, é o Lula.
+
+[37:23] Mas o senhor não...
+
+[37:31] Porque ele vai meter um imposto seletivo para botar amanhã é um cheque sem fundo que o brasileiro está dando a ele, que ele vai aumentar a carga tributária, que já é de 32 hoje, tá certo?
+
+[37:33] Ele vai pegar lá para botar para 34.
+
+[37:35] Mas, candidato, você não viu um risco de retrocesso depois de 30 anos?
+
+[37:39] Não existe retrocesso.
+
+[37:40] Eu gostaria de ouvir o senhor sobre isso.
+
+[37:42] Renato, deixa eu só lhe explicar.
+
+[37:44] Você vai revisitar o tema.
+
+[37:48] Aqueles pontos são positivos e você faz simulação um com o outro.
+
+[37:52] Veja bem, como é que o MEI, o pequeno microempresário individual vai viver?
+
+[37:56] Bom, como é que o cidadão hoje da indústria vai viver?
+
+[38:00] Como é que os exportadores vão viver?
+
+[38:03] Eu sei.
+
+[38:03] Ótimo.
+
+[38:04] Maravilhosamente bem.
+
+[38:05] Dois dos projetos previstos.
+
+[38:06] Como é que nós, profissionais liberais, vamos dizer nós, profissionais liberais.
+
+[38:19] Mas só sobre isso, dois dos projetos previstos para regulamentar essa reforma tributária, que demorou 30 anos para que houvesse consenso para que ela fosse aprovada e hoje ela tem a aprovação de senadores e deputados.
+
+[38:21] Esses projetos já foram aprovados, por exemplo.
+
+[38:30] O comitê que reúne secretários de fazenda dos estados dizem que essa reforma combate a guerra fiscal.
+
+[38:31] Que maravilha.
+
+[38:32] Então, volta a perguntar ao senhor, o senhor não acha que seria um retrocesso?
+
+[38:35] A guerra fiscal vai acabar em 32.
+
+[38:39] Oh, Renata.
+
+[38:40] 32 já acabou, Renata.
+
+[38:42] É norma constitucional.
+
+[38:44] Já acabou a guerra em 32.
+
+[38:46] Esse projeto aí vai durar 30 anos.
+
+[38:49] Veja bem, em 32 já acabou a guerra fiscal, por norma constitucional.
+
+[39:06] Então, o que nós precisamos discutir é com conhecimento sobre cada tema, para que a gente possa mostrar que não é justo o cidadão que não acumula crédito, que tem conhecimento, está certo?
+
+[39:07] E que um profissional, ele ali amanhã, cinegrafista.
+
+[39:11] O que é que está acumulando de crédito para ele?
+
+[39:15] O que é que está acumulando de crédito para ele?
+
+[39:16] Nada.
+
+[39:17] Agora, ele vai tomar em cima da renda dele, 28.
+
+[39:21] Para aproveitar um cento.
+
+[39:23] Algo que o senhor falou que se chama crédito.
+
+[39:23] Então, isso que o equinovisão vai fazer, mas com independência, com discussão.
+
+[39:35] Você não pode fazer uma matéria aonde um iluminado deseja saber como é que vai ser o Brasil todo na mão dele.
+
+[39:36] E você acha o quê?
+
+[39:37] O cidadão vai falar, bom, eu vou pagar 28%.
+
+[39:40] Candidato, por favor, nós temos...
+
+[39:41] Eu não vou dar nota, é isso?
+
+[39:43] Vou ficar sem a nota.
+
+[39:44] Nós temos menos de três minutos para encerrar a entrevista.
+
+[39:46] Eu só quero tocar num assunto muito importante com o senhor.
+
+[39:49] O senhor falou em crédito, que a inadimplência hoje no Brasil, ela está recorde.
+
+[39:59] Nós temos hoje quase 84 milhões de brasileiros com contas em atraso, mais de 9 milhões de empresas no vermelho, 95% dessas empresas em situação crítica são micro e pequenas.
+
+[40:12] O seu plano de governo, ele fala muito em ampliar crédito e dar garantia para essas empresas, mas não tem detalhe, não tem valor, não tem informação sobre de onde viria esse dinheiro.
+
+[40:18] Então, eu pergunto ao senhor sobre essa proposta para brasileiros endividados.
+
+[40:23] O que é que o senhor tem a dizer em relação a isso?
+
+[40:25] Por favor.
+
+[40:32] Primeiro, eu não vou mentir para vocês, porque você tinha que perguntar para o Lula quando ele fala no desenrola, ele é que te enrolou.
+
+[40:35] O Lula que te enrolou.
+
+[40:37] E o Lula passou a ser o grande agiota no Brasil.
+
+[40:40] Ele impõe essas regras, ele não sofre nada, está certo?
+
+[40:49] E ele agora faz com que você está com taxa de juros mínima de 20% para qualquer banco que você for.
+
+[40:50] Você já gastou tudo no consignado, você já gastou tudo em qualquer banco.
+
+[40:53] Agora, o que está acontecendo?
+
+[40:59] Ele vai e fala o seguinte, agora você pega o seu fundo de garantia, que é a sua garantia, que é a sua poupança, e você vai pagar o agiota.
+
+[41:04] É isto.
+
+[41:04] Eu vou fazer o que eu disse.
+
+[41:11] Ao fazer isto aí, com a emenda à Constituição, o mercado todo vai saber agora, sim, tem um presidente que tem comando do país.
+
+[41:19] Tem um presidente agora que tem palavra cumprida, porque o que ele foi como governador, ele será como presidente.
+
+[41:24] O que ele foi de 40 anos na política, ele é o homem de mãos limpas, eu não estou envolvido em corrupção.
+
+[41:25] Qual a emenda à Constituição que o senhor se refere?
+
+[41:30] Então, só para concluir essa pergunta, que ela é importante, naquela hora em que tomar essas medidas, o perfil será outro.
+
+[41:32] Ele vai baixar 100%.
+
+[41:34] Está certo?
+
+[41:35] Ele vai para 6% a taxa de juros e vai para 3% a inflação.
+
+[41:40] Então, isso não é milagre.
+
+[41:42] O Temer fez.
+
+[41:44] Está certo?
+
+[41:44] Então, o que precisa no Brasil é um choque de autoridade moral.
+
+[41:49] É isso que o Brasil precisa hoje, neste momento.
+
+[41:52] Se tem autoridade moral, o divisor de águas nessa eleição é a moral.
+
+[42:02] Quem está com o rabo preso e contaminado por corrupção não tem autoridade moral de governar o país, Traga.
+
+[42:03] Não tem autoridade moral de fazer as mudanças que o país precisa.
+
+[42:07] Essa é a grande realidade que nós estamos enfrentando.
+
+[42:09] Candidato, nossa entrevista está chegando ao fim.
+
+[42:12] Eu peço ao senhor, por favor, as suas considerações finais.
+
+[42:15] O que o senhor tem a dizer ao eleitor?
+
+[42:17] O senhor tem um minuto contando a partir de agora.
+
+[42:25] Olha, eu queria primeiro, antes de terminar, eu queria fazer uma solicitação ao Supremo Tribunal Federal.
+
+[42:28] Nós estamos numa eleição e que nós não podemos amanhã ser surpreendidos.
+
+[42:43] Eu pediria que eles refletissem bem e abrisse o sigilo do INSS, do caso Master e junta a ele também toda essa parte do carbono oculto, para que nós não fôssemos amanhã enganados.
+
+[42:49] Pessoas envolvidas em graves crimes que amanhã pudessem ser eleitos, primeiro ponto.
+
+[42:55] Segundo ponto, eu me dirijo a todos os eleitores brasileiros.
+
+[42:59] Os que passaram de 60 anos, por favor, vá à urna, ajude o Caiado a chegar na presidência.
+
+[43:05] Porque vocês sabem que o que está aí, isso aí vocês já viram ele, cinco mandatos.
+
+[43:10] O outro já teve a oportunidade de ter um mandato e perder a eleição.
+
+[43:13] Então, eu acho que é chegada a hora que vocês me darem esse crente.
+
+[43:16] E eu preciso da coragem de cada um.
+
+[43:19] Quando vocês acham que isso aí já está decidido, não está não.
+
+[43:32] A população brasileira está esperando um candidato que tem autoridade moral, coragem pessoal e que é que não me falta para nós colocarmos o Brasil naquilo que o Brasil espera de nós.
+
+[43:33] Então, muito obrigado pela oportunidade, Rede Globo.
+
+[43:40] É uma oportunidade ímpar para poder falar a tantos milhões de brasileiros que não me conheciam.
+
+[43:41] Mas preciso da sua ajuda.
+
+[43:42] Muito obrigada pela sua entrevista, pela sua presença.
+
+[43:46] Muito obrigado, candidato.
+
+[43:47] Eu que agradeço, Renata.
+
+[43:48] Muito obrigado, Trale.
+
+[43:50] Amanhã o nosso entrevistado é o candidato Renan Santos, do Missão.
+
+[43:53] Para você, uma boa noite e até amanhã.
+
+[43:57] Boa noite, muito obrigado e até amanhã.
+

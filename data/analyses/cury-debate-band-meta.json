@@ -1,0 +1,11 @@
+{
+  "candidate": "Augusto Cury",
+  "party": "Avante",
+  "interview_date": "2026-08-05",
+  "event": "Debate da Band",
+  "transcript_file": "data/debate-band/cury.txt",
+  "analysis_file": "data/analyses/cury-debate-band.txt",
+  "model_used": "opencode/mimo-v2.5-free",
+  "analysis_date": "2026-08-30",
+  "version": "2.0"
+}

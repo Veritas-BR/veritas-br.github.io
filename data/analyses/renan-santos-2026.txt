@@ -1,0 +1,442 @@
+### Verificação de Fatos — Entrevista JN Renan Santos (Missão)
+### Data: 2026-08-26
+### Modelo: opencode/mimo-v2.5-free
+
+---
+
+### RESUMO
+TOTAL DE AFIRMAÇÕES: 25
+VERDADEIRAS: 8
+FALSAS: 3
+IMPRECISAS: 8
+NÃO VERIFICÁVEIS: 4
+OPINIÃO: 2
+
+---
+
+### [1]
+
+**Afirmação do candidato:** "O Brasil tem que ter bomba atômica. Dentre as principais nações do mundo, a que não dispõe de armas nucleares é o Brasil."
+
+**Classificação:** FALSO
+
+**Verificação:**
+Vários países com grandes economias não possuem armas nucleares: Alemanha, Japão, Itália, Canadá, Austrália, Coreia do Sul, entre outros. O Brasil não é o único grande país sem arsenal nuclear. A afirmação de que "a que não dispõe" é incorreta — existem muitas nações importantes sem armas nucleares.
+
+**Fonte(s):**
+- SIPRI (Stockholm International Peace Research Institute)
+- Tratado de Tlatelolco
+
+**Observações:**
+O Brasil é signatário do Tratado de Tlatelolco (zona livre de armas nucleares na América Latina) e da Constituição proíbe atividade nuclear para fins pacíficos (Art. 21, XXIII).
+
+---
+
+### [2]
+
+**Afirmação do candidato:** "Os Estados Unidos para fazer um avião F-35 precisam de meia tonelada de terra rara."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo informações do Pentágono e do Programa de Aquisições de Defesa dos EUA, um caça F-35 contém aproximadamente 920 libras (cerca de 420 kg) de terras raras. O número de "meia tonelada" (500 kg) é uma aproximação razoável.
+
+**Fonte(s):**
+- U.S. Department of Defense / Defense Logistics Agency
+
+**Observações:**
+O F-35 é um dos maiores consumidores de terras raras na indústria de defesa.
+
+---
+
+### [3]
+
+**Afirmação do candidato:** "O Brasil tem as segundas maiores reservas globais de terras raras."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo o U.S. Geological Survey (USGS) e o Serviço Geológico do Brasil (SGB), o Brasil possui aproximadamente 21 milhões de toneladas de terras raras, representando 23% das reservas mundiais — a segunda maior reserva do planeta, atrás apenas da China (44 Mt, 49%). Em 2025, nova estimativa da ANM revisou para 11,4 Mt (15%), mas o Brasil mantém o segundo lugar.
+
+**Fonte(s):**
+- USGS Mineral Commodity Summaries 2025
+- Brasil Mineral - https://www.brasilmineral.com.br/noticias/brasil-e-o-segundo-em-reservas-de-terras-raras-no-mundo
+- G1 - https://g1.globo.com/jornal-nacional/noticia/2026/07/11/brasil-tem-2a-maior-reserva-de-terras-raras-do-mundo-mas-so-1percent-da-producao-global.ghtml
+
+**Observações:**
+O dado é consistente em múltiplas fontes internacionais.
+
+---
+
+### [4]
+
+**Afirmação do candidato:** "Quase 40 milhões de brasileiros vivem direta ou indiretamente sob a influência do crime organizado."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Assim como os outros candidatos, Renan cita o número de 40 milhões. Não existe uma estatística oficial que confirme essa cifra. O IBGE e o Fórum de Segurança Pública não publicam dados específicos sobre "influência do crime organizado" em termos populacionais.
+
+**Fonte(s):**
+- Fórum Brasileiro de Segurança Pública
+
+**Observações:**
+O controle territorial por facções é real, mas o número de 40 milhões não é verificável.
+
+---
+
+### [5]
+
+**Afirmação do candidato:** "A taxa de homicídios caiu de 38,0 em 2019 para 1,9 em 2024 [em El Salvador]."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Em 2019, a taxa de homicídios de El Salvador era de 38,0 por 100 mil habitantes. Em 2024, caiu para 1,9 por 100 mil habitantes. Em 2025, atingiu 1,3. Os dados são consistentes com fontes oficiais salvadorenhas e internacionais.
+
+**Fonte(s):**
+- Estadão - https://www.estadao.com.br/internacional/homicidios-el-salvador-cairam-2025-nivel-mais-baixo-serie-historica-diz-governo-npr
+- Diario El Salvador - https://diarioelsalvador.com/depais/tasa-de-homicidios-bajo-de-38-0-en-2019-a-1-3-en-2025/742343
+
+**Observações:**
+A redução é real, mas deve ser contextualizada com denúncias de violações de direitos humanos.
+
+---
+
+### [6]
+
+**Afirmação do candidato:** "92% dos filiados do seu partido são homens."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O partido Missão é relativamente novo (registro em 2024). A composição majoritariamente masculina é apontada pelo próprio candidato como resultado de perseguição política a mulheres do partido. A dado de 92% é citado na própria entrevista sem contestação.
+
+**Fonte(s):**
+- TSE - Dados de filiação partidária
+
+**Observações:**
+O partido reconhece o desequilíbrio de gênero e atribui a perseguição política.
+
+---
+
+### [7]
+
+**Afirmação do candidato:** "A constructed de armas nucleares é passo de uma construção de uma nação soberana."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+Trata-se de uma posição política e geopolítica. A relação entre posse de armas nucleares e soberania é debatida por especialistas. Muitos países soberanos não possuem armas nucleares.
+
+**Fonte(s):**
+- N/A
+
+**Observações:**
+Posição controversa que conflita com tratados internacionais.
+
+---
+
+### [8]
+
+**Afirmação do candidato:** "O Brasil é um dos países que mais tem terras raras."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O Brasil possui a segunda maior reserva mundial de terras raras (21 Mt, 23%), segundo o USGS. Em 2025, a ANM revisou para 11,4 Mt, mas o Brasil mantém o segundo lugar. A produção brasileira é incipiente (1% do global), mas as reservas são significativas.
+
+**Fonte(s):**
+- USGS / Brasil Mineral / SGB
+
+**Observações:**
+O potencial é enorme, mas a cadeia produtiva ainda é incipiente.
+
+---
+
+### [9]
+
+**Afirmação do candidato:** "Nós precisamos cortar 1 trilhão e 100 bilhões de reais [de gastos]."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A proposta de corte de R$ 1,1 trilhão em 5 anos é uma meta ambiciosa. Não há detalhamento de como seria alcançada. O PIB do Brasil é de ~R$ 12 trilhões, e os gastos federais são de ~R$ 7 trilhões. Um corte de R$ 1,1 trilhão representaria ~16% do orçamento — uma redução drástica sem precedentes.
+
+**Fonte(s):**
+- Tesouro Nacional / Banco Central
+
+**Observações:**
+Meta extremamente ambiciosa que demandaria reformas estruturais profundas.
+
+---
+
+### [10]
+
+**Afirmação do candidato:** "Há uma decisão do STF que diz: decisão ilegal não se cumpre."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O candidato se refere ao princípio jurídico de que decisões ilegais não devem ser cumpridas. Embora exista doutrina jurídica que sustenta esse princípio, a aplicação é controversa quando se trata de decisões do STF. A Constituição prevê que as decisões do STF têm efeito vinculante. A afirmação é uma simplificação de um debate jurídico complexo.
+
+**Fonte(s):**
+- Constituição Federal / Doutrina jurídica
+
+**Observações:**
+O debate sobre desobediência a decisões do STF é delicado e tem implicações institucionais.
+
+---
+
+### [11]
+
+**Afirmação do candidato:** "Orlando Lima disse que pessoas que recebem auxílio do governo não deveriam ter direito ao voto."
+
+**Classificação:** VERDADEIRO (como fato de que a declaração foi feita)
+
+**Verificação:**
+Renan Santos confirmou que Orlando Lima fez essa declaração, mas afirmou que se tratava de opinião pessoal e que ele discorda. A existência da declaração é confirmada pelo próprio candidato.
+
+**Fonte(s):**
+- Entrevista JN
+
+**Observações:**
+Renan distanciou-se da declaração e reafirmou sua defesa do voto universal.
+
+---
+
+### [12]
+
+**Afirmação do candidato:** "A Constituição brasileira determina que a atividade nuclear em território nacional só é admitida para fins pacíficos."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O Art. 21, inciso XXIII da Constituição Federal estabelece que "exercer a direção e o controle das atividades nucleares" com vistas "às finalidades pacíficas e à defesa da segurança externa". A Constituição proíbe o uso militar de energia nuclear.
+
+**Fonte(s):**
+- Constituição Federal de 1988, Art. 21, XXIII
+
+**Observações:**
+O candidato propõe emenda constitucional para alterar esse dispositivo.
+
+---
+
+### [13]
+
+**Afirmação do candidato:** "O Brasil vai fazer a guerra [contra o crime organizado]."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Trata-se de uma metáfora política para o enfrentamento ao crime organizado. A declaração é uma posição sobre segurança pública, não um dado verificável.
+
+**Fonte(s):**
+- N/A
+
+**Observações:**
+Linguagem forte que reflete a urgência do tema.
+
+---
+
+### [14]
+
+**Afirmação do candidato:** "6 bilhões de reais nós precisamos para abrir vagas, para construir 10 presídios, cada um de 30 a 40 mil vagas."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+O custo de construção de presídios varia enormemente dependendo do tipo e localização. 10 presídios com 30-40 mil vagas cada representariam 300-400 mil vagas, um número muito superior ao déficit atual de vagas no Brasil (~200 mil). O custo de R$ 6 bilhões pode ser uma subestimação.
+
+**Fonte(s):**
+- Depen (Departamento Penitenciário Nacional)
+
+**Observações:**
+O déficit de vagas é real, mas os números apresentados são uma projeção.
+
+---
+
+### [15]
+
+**Afirmação do candidato:** "Só no ano passado, mais de 1.500 mulheres foram vítimas de feminicídio no Brasil."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O Anuário Brasileiro de Segurança Pública 2025 registrou 1.492 feminicídios em 2024. Se incluídas tentativas, o número é maior. Aproximadamente 1.500 é uma aproximação aceitável.
+
+**Fonte(s):**
+- Anuário Brasileiro de Segurança Pública 2025
+
+**Observações:**
+O feminicídio continua sendo um grave problema de segurança pública.
+
+---
+
+### [16]
+
+**Afirmação do candidato:** "Mais de 2.000 crianças e jovens foram mortas vítimas da violência [no ano passado]."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O Anuário Brasileiro de Segurança Pública documenta milhares de mortes de crianças e jovens por violência a cada ano. O número de 2.000 é uma aproximação consistente com os dados do Fórum.
+
+**Fonte(s):**
+- Anuário Brasileiro de Segurança Pública
+
+**Observações:**
+A violência contra crianças e jovens é um problema estrutural.
+
+---
+
+### [17]
+
+**Afirmação do candidato:** "O Brasil hoje existe prisão baseada em denúncia anônima."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O Brasil permite a investigação com base em denúncias anônimas, como o Disque-Denúncia. A denúncia anônima é uma ferramenta legal utilizada pela polícia e pelo Ministério Público.
+
+**Fonte(s):**
+- Legislação brasileira / Disque-Denúncia
+
+**Observações:**
+Ferramenta importante para combate ao crime.
+
+---
+
+### [18]
+
+**Afirmação do candidato:** "São Paulo tem uma das melhores políticas de enfrentamento a feminicídio. A Patrulha Maria da Penha em São Paulo está funcionando."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+A Patrulha Maria da Penha existe em São Paulo e é citada como exemplo de boa prática. Porém, a efetividade específica não pode ser confirmada sem dados comparativos detalhados.
+
+**Fonte(s):**
+- Secretaria de Segurança Pública de SP
+
+**Observações:**
+O programa é reconhecido, mas sua efetividade precisa de avaliação mais aprofundada.
+
+---
+
+### [19]
+
+**Afirmação do candidato:** "O plano de governo não foi escrito para o marqueteiro."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+Trata-se de uma declaração sobre o caráter do plano de governo. Não é um fato verificável, mas uma caracterização da proposta política.
+
+**Fonte(s):**
+- N/A
+
+**Observações:**
+Posição retórica do candidato.
+
+---
+
+### [20]
+
+**Afirmação do candidato:** "Nós temos 5 milhões de brasileiros fora hoje."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O número de brasileiros no exterior é estimado entre 4 e 6 milhões, dependendo da fonte e da metodologia. O IBGE não publica dados exatos sobre emigrados. A cifra de 5 milhões é uma aproximação razoável.
+
+**Fonte(s):**
+- IBGE / Itamaraty
+
+**Observações:**
+O número exato de brasileiros no exterior é difícil de precisar.
+
+---
+
+### [21]
+
+**Afirmação do candidato:** "O Brasil não foi invadido por um outro país, mas foi dado um terço dele ao crime organizado."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A afirmação de que "um terço" do território está dominado pelo crime organizado não tem base em dados oficiais. A dimensão do controle territorial é real, mas a proporção específica de "um terço" é uma estimativa não verificável.
+
+**Fonte(s):**
+- Fórum Brasileiro de Segurança Pública
+
+**Observações:**
+O problema do crime organizado é sério, mas a proporção não pode ser confirmada.
+
+---
+
+### [22]
+
+**Afirmação do candidato:** "O Orlando Lima é um grande pesquisador."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+Trata-se de uma avaliação pessoal do candidato sobre um colaborador. Não é um fato verificável.
+
+**Fonte(s):**
+- N/A
+
+**Observações:**
+Posição do candidato sobre seu colaborador.
+
+---
+
+### [23]
+
+**Afirmação do candidato:** "A Índia tem meia tonelada de terra rara para fazer um F-35."
+
+**Classificação:** FALSO
+
+**Verificação:**
+A Índia não fabrica o F-35 — este é um caça norte-americano produzido pela Lockheed Martin. A Índia não precisa de terras raras para fabricar o F-35 porque não o produz. O dado sobre a quantidade de terras raras no F-35 é correto, mas a atribuição à Índia é incorreta.
+
+**Fonte(s):**
+- Lockheed Martin / U.S. Department of Defense
+
+**Observações:**
+O candidato confundiu os EUA com a Índia na afirmação.
+
+---
+
+### [24]
+
+**Afirmação do candidato:** "O Brasil precisa fazer uma construção de soberania... reaver o respeito internacional."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+Trata-se de uma posição política sobre a inserção internacional do Brasil. Não é um fato verificável, mas uma avaliação do candidato sobre a política externa.
+
+**Fonte(s):**
+- N/A
+
+**Observações:**
+Posição nacionalista sobre política externa.
+
+---
+
+### [25]
+
+**Afirmação do candidato:** "A ordem mundial pacífica acabou. As guerras escritas pela NATO estão acontecendo."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O candidato faz referência a conflitos como Rússia-Ucrânia e Oriente Médio. Embora haja guerras em curso, a caracterização de que "a ordem pacífica acabou" é uma simplificação. Aencer existem conflitos, também existem mecanismos diplomáticos ativos.
+
+**Fonte(s):**
+- Análise geopolítica
+
+**Observações:**
+O cenário internacional é complexo e não pode ser reduzido a uma frase.

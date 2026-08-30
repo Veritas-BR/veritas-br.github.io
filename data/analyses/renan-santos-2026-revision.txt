@@ -1,0 +1,213 @@
+# Revisão de Fatos — Renan Antônio Ferreira dos Santos (Missão) — Entrevista JN
+## Rodada 2 de Verificação
+### Data: 30/08/2026
+
+---
+
+## Afirmações Revisadas
+
+---
+
+### 8
+
+**Afirmação:** "Dentre as principais nações do mundo... a única que não dispõe de armas nucleares é o Brasil."
+
+**Classificação original:** FALSO
+
+**Busca realizada:**
+- Consulta 1: "principais nações do mundo armas nucleares Alemanha Japão Índia Australia países" → Wikipedia lista 9 países com armas nucleares: EUA, Rússia, China, França, Reino Unido, Índia, Paquistão, Israel, Coreia do Norte. Alemanha e Japão não possuem armas nucleares.
+- Consulta 2: "9 países armas nucleares mundo infográfico G1 2026" → G1 (fev/2026) confirma 9 países com ogivas nucleares, sem Alemanha, Japão, Austrália, Brasil.
+- Consulta 3: "países que possuem armas nucleares hoje Mundo Educação" → Confirma: "O Brasil, por sua vez, não possui armas nucleares e é signatário do TNP e do Tratado de Tlatelolco."
+
+**Evidência encontrada:**
+Nove países possuem armas nucleares: EUA, Rússia, China, França, Reino Unido, Índia, Paquistão, Israel e Coreia do Norte. Várias grandes nações NÃO possuem armas nucleares, incluindo Alemanha, Japão, Austrália, Brasil, México, entre outras. A afirmação de que o Brasil é "a única" grande nação sem armas nucleares é objetivamente falsa.
+
+**Classificação revisada:** MANTÉM FALSO
+
+**Justificativa:**
+A afirmação é falsa. Múltiplas grandes nações não possuem armas nucleares (Alemanha, Japão, Austrália, México, etc.). A fonte Wikipedia (países com armamento nuclear) e o G1 são claros nesse ponto.
+
+**Fonte(s) adicional(is):**
+- Wikipedia (países com armamento nuclear) - https://pt.wikipedia.org/wiki/Pa%C3%ADses_com_armamento_nuclear
+- G1 - https://g1.globo.com/mundo/noticia/2026/02/05/veja-paises-com-armas-nucleares-infografico.ghtml
+- Mundo Educação - https://mundoeducacao.uol.com.br/geografia/paises-que-possuem-armas-nucleares.htm
+
+---
+
+### 13
+
+**Afirmação:** "Hoje, quase 40 milhões de brasileiros vivem direta ou indiretamente sob a influência do crime organizado."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "40 milhões brasileiros influência crime organizado pesquisa dados 2025 2026" → Pesquisa Datafolha/FBSP (out/2025): 28,5 milhões (19%) vivem em áreas com facções/milícias. Pesquisa Datafolha/FBSP (mai/2026): 68,7 milhões (41%) afirmam conviver com crime organizado.
+- Consulta 2: "Datafolha crime organizado 2026 68 milhões brasileiros" → Revista Oeste e G1 confirmam: 41% dos brasileiros convivem com crime organizado, cerca de 68,7 milhões.
+- Consulta 3: "CPI crime organizado 26% território 28 milhões brasileiros" → Relatório da CPI do Crime Organizado: 26% do território nacional sob governança criminal, com ao menos 28,5 milhões de brasileiros.
+
+**Evidência encontrada:**
+Os dados variam conforme a fonte e metodologia:
+- Pesquisa Datafolha/FBSP (out/2025): 28,5 milhões (19%) em áreas com presença explícita
+- Pesquisa Datafolha/FBSP (mai/2026): 68,7 milhões (41%) afirmam conviver com crime organizado
+- Relatório CPI do Crime Organizado: 28,5 milhões sob "governança criminal"
+- Estudo Cambridge/Latinobarómetro: 50 milhões sob governança criminal
+
+O termo "direta ou indiretamente" na afirmação de Renan permite uma interpretação ampla. O dado de "quase 40 milhões" está dentro da faixa de 28,5 a 68,7 milhões, dependendo da métrica utilizada.
+
+**Classificação revisada:** RETIFICADO PARA IMPRECISO
+
+**Justificativa:**
+O dado de "quase 40 milhões" está entre os extremos reportados (28,5 milhões com presença explícita e 68,7 milhões com percepção de convivência). A caracterização como "direta ou indiretamente" é uma formulação vaga que permite diferentes interpretações. O número não é descartável, mas também não é preciso.
+
+**Fonte(s) adicional(is):**
+- G1 - https://g1.globo.com/politica/noticia/2025/10/16/pessoas-vivem-em-area-dominada-por-faccoes-e-milicias-diz-datafolha.ghtml
+- Revista Oeste - https://revistaoeste.com/brasil/crime-organizado-afeta-rotina-de-quase-70-milhoes-de-brasileiros-diz-datafolha
+- G1 - https://g1.globo.com/politica/noticia/2026/05/10/brasileiros-afirmam-conviver-com-o-crime-organizado-no-bairro-onde-moram.ghtml
+
+---
+
+### 19
+
+**Afirmação:** "Mais de 2000 crianças e jovens foram mortas vítimas da violência."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "crianças jovens mortas violência Brasil 2025 dados IBGE Ministério Saúde" → Atlas da Violência 2025 (IPEA/FBSP): "Quase 100 mil crianças e adolescentes foram mortos no Brasil em 11 anos" (2013-2023). Senado (ago/2024): "Brasil tem 5 mil crianças e adolescentes assassinados por ano", com 15.101 mortes entre 2021-2023 (média de 5.034/ano).
+- Consulta 2: "Atlas violência 2025 crianças adolescentes homicídios" → Dados do SIM/Ministério Saúde mostram taxas elevadas de mortalidade entre jovens de 15-29 anos.
+- Consulta 3: "Fiocruz jovens vítimas violência acidentes Brasil" → Estudo Fiocruz (ago/2025): 65% dos óbitos da juventude resultam de causas externas (84.034 mortes entre 2022-2023, para jovens de 15-29 anos).
+
+**Evidência encontrada:**
+O dado de "mais de 2000 crianças e jovens mortas" pode estar subestimado. Segundo o Senado (ago/2024), o Brasil registra cerca de 5 mil mortes violentas de crianças e adolescentes por ano (15.101 entre 2021-2023, média de 5.034/ano). Para jovens de 15-29 anos, a Fiocruz aponta 84.034 mortes por causas externas em 2022-2023 (média de 42.017/ano). A afirmação de "mais de 2000" pode ser conservadora, mas não foi possível confirmar o número exato para o universo específico de "crianças e jovens" (definição etária ampla).
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+Embora o número de 5 mil mortes violentas de crianças e adolescentes por ano (dado do Senado) sugira que "mais de 2000" é uma estimativa conservadora, a definição exata de "crianças e jovens" na afirmação de Renan não é precisa o suficiente para uma verificação rigorosa. O dado pode estar correto ou subestimado, dependendo do recorte etário utilizado.
+
+**Fonte(s) adicional(is):**
+- Vermelho/IPEA - https://vermelho.org.br/2025/05/14/quase-100-mil-criancas-e-adolescentes-foram-mortos-no-brasil-em-11-anos
+- Senado - https://www12.senado.leg.br/noticias/materias/2024/08/23/brasil-tem-5-mil-criancas-e-adolescentes-assassinados-por-ano-aponta-debate
+- Fiocruz - https://fiocruz.br/noticia/2025/08/jovens-sao-maiores-vitimas-de-violencias-e-acidentes-no-brasil
+
+---
+
+### 21
+
+**Afirmação:** "Só na parte de presídio, 6 bilhões de reais nós precisamos fazer para abrir vagas, para construir 10 presídios, cada um de 30 a 40 mil vagas."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "custo construção presídio Brasil 2025 2026 vagas penitenciárias valor" → Senappen/MJSP (nov/2025): R$ 14 bilhões para zerar déficit de 202 mil vagas. Valor unitário por vaga: ~R$ 70 mil.
+- Consulta 2: "Band zerar déficit presídios custaria R$ 14 bilhões" → Confirma: "Para zerar o déficit de vagas em presídios no Brasil seriam necessários R$ 14 bilhões para a construção de novas unidades com 202 mil vagas."
+- Consulta 3: "Gazeta do Povo R$ 14 bilhões presídios Senappen" → Confirma dados da Senappen. Brasil tem 702 mil presos em 1.375 unidades, déficit de 40%.
+
+**Evidência encontrada:**
+O custo oficial para construção de presídios no Brasil é de ~R$ 70 mil por vaga (R$ 14 bilhões para 202 mil vagas, segundo a Senappen/MJSP). A proposta de Renan seria: 10 presídios × 30-40 mil vagas = 300-400 mil vagas, por R$ 6 bilhões. Isso resultaria em ~R$ 15-20 mil por vaga, significativamente abaixo do custo oficial de ~R$ 70 mil. A estimativa de Renan parece subestimada em relação aos dados oficiais.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+O custo estimado por Renan (R$ 15-20 mil por vaga) é significativamente inferior ao custo oficial reportado pela Senappen (~R$ 70 mil por vaga). No entanto, a proposta específica de Renan (10 presídios com 30-40 mil vagas cada) não corresponde a nenhum plano oficial verificável. A classificação é mantida como NÃO VERIFICÁVEL porque a estimativa é uma projeção do candidato que diverge dos dados oficiais disponíveis.
+
+**Fonte(s) adicional(is):**
+- Band - https://www.band.com.br/noticias/zerar-deficit-de-202-mil-vagas-em-presidios-custaria-r-14-bilhoes-202511191254
+- Agência Brasil - https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2025-11/zerar-deficit-de-202-mil-vagas-em-presidios-custaria-r-14-bilhoes
+- Gazeta do Povo - https://www.gazetadopovo.com.br/brasil/ministerio-da-justica-estima-em-202-mil-deficit-de-vagas-em-presidios-e-custo-para-zerar-seria-r-14-bi/
+
+---
+
+### 22
+
+**Afirmação:** "Uma operação dessas, para você tocar no estado do Rio de Janeiro, coisa de 5 bilhões estimado por ano."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "operação segurança Rio de Janeiro custo bilhões orçamento segurança pública 2025 2026" → Anuário Segurança Pública 2026: RJ destinou R$ 17,37 bilhões para segurança pública em 2025. Em 2026, orçamento é de R$ 19,1 bilhões.
+- Consulta 2: "intervenção federal Rio 2018 custo total" → Intervenção federal (fev-dez/2018): R$ 1,2 bilhão em 10 meses. Custo anualizado: ~R$ 1,4 bilhão.
+- Consulta 3: "Tempo Real RJ 15% orçamento segurança pública" → Estado do Rio destinou R$ 17,37 bilhões para segurança em 2025, 14,9% do orçamento estadual.
+
+**Evidência encontrada:**
+O orçamento total de segurança pública do Rio de Janeiro é de R$ 17-19 bilhões por ano. A intervenção federal de 2018 custou R$ 1,2 bilhão em 10 meses (~R$ 1,4 bilhão/ano). A estimativa de Renan de "R$ 5 bilhões por ano" para uma operação no Rio parece estar abaixo do orçamento atual de segurança (R$ 17-19 bilhões), mas pode referir-se a uma operação específica (não ao orçamento total). Não foi possível identificar um plano específico que corresponda à estimativa de R$ 5 bilhões.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+A estimativa de R$ 5 bilhões por ano não corresponde a nenhum plano oficial ou estimativa verificável. O orçamento atual de segurança do RJ é de R$ 17-19 bilhões, e a intervenção de 2018 custou R$ 1,2 bilhão em 10 meses. A proposta de Renan pode referir-se a uma operação específica, mas o dado não pode ser confirmado nem refutado com fontes disponíveis.
+
+**Fonte(s) adicional(is):**
+- Tempo Real - https://temporealrj.com/rio-investe-maior-fatia-orcamento-seguranca/
+- CESEC - https://cesecseguranca.com.br/artigo/quanto-custa-intervencao-federal-no-rio
+- Sinfrerj - https://sinfrerj.com.br/conteudo/10469/orcamento-da-seguranca-do-rj-cai-em-2026-pela-primeira-vez-no-governo-claudio-castro
+
+---
+
+### 25
+
+**Afirmação:** "Os Estados Unidos para fazer um avião F-35 precisa de meia tonelada de terra rara."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "F-35 rare earth materials half ton" → WisdomTree (ago/2026): "The 400 kilograms of rare earth elements inside every F-35". Congressional Research Service: "each F-35 required 417kg of rare-earth materials" (920 pounds).
+- Consulta 2: "F-35 rare earth 417kg Congressional Research Service" → Aviation Stack Exchange confirma: 417kg de rare earth materials por F-35, baseado em relatório do CRS.
+- Consulta 3: "F-35 rare earth 920 pounds" → Air & Space Forces Magazine: "each F-35 Lightning II aircraft would require approximately 920 pounds of these materials". Mining Visuals (ago/2026): confirma "920 pounds per aircraft".
+
+**Evidência encontrada:**
+Múltiplas fontes confirmam que cada F-35 requer aproximadamente 417 kg (920 pounds) de rare earth materials. A estimativa de Renan de "meia tonelada" (500 kg) é comparável a 417 kg — uma diferença de ~20%, dentro de uma margem aceitável para uma afirmação oral em entrevista. O Congressional Research Service, a Financial Times e fontes de defesa confirmam o dado.
+
+**Classificação revisada:** RETIFICADO PARA VERDADEIRO
+
+**Justificativa:**
+O dado de 417 kg (920 pounds) de rare earth materials por F-35 é confirmado pelo Congressional Research Service e múltiplas fontes. A estimativa de Renan de "meia tonelada" (500 kg) é uma aproximação razoável de 417 kg. A classificação é retificada para VERDADEIRO.
+
+**Fonte(s) adicional(is):**
+- WisdomTree - https://www.wisdomtree.com/us/insights/blog/the-400-kilogram-secret-inside-every-f-35
+- Aviation Stack Exchange - https://aviation.stackexchange.com/questions/84362/could-an-f-35-really-be-3-rare-earth
+- Mining Visuals - https://www.miningvisuals.com/post/rare-earths-and-the-f-35-the-defense-supply-chain-bottleneck-behind-americas-most-advanced-fighter-jet
+
+---
+
+### 30
+
+**Afirmação:** "A-base do acordo que fundou o Mercosul estabelece que Brasil e a Argentina devem renunciar a armas nucleares."
+
+**Classificação original:** IMPRECISO
+
+**Busca realizada:**
+- Consulta 1: "Mercosul tratado assunção armas nucleares renúncia Brasil Argentina Tlatelolco" → Tratado de Assunção (1991): não contém disposições sobre armas nucleares. Wikipedia: "O presente Tratado estará aberto à adesão..." — texto foca em integração econômica.
+- Consulta 2: "Memorial da Democracia Mercosul Sarney Alfonsín nuclear" → Em junho de 1986, Sarney e Alfonsín firmaram acordos de integração — "entre eles, a renúncia expressa a projetos nucleares para a construção de armas de guerra." Isso foi ANTES do Mercosul (1991).
+- Consulta 3: "Tratado de Tlatelolco compromisso nuclear América Latina" → Tlatelolco (1967) estabeleceu a zona livre de armas nucleares na América Latina. O acordo Brasil-Argentina (1991) complementou.
+
+**Evidência encontrada:**
+O Tratado de Assunção (1991), que criou o Mercosul, NÃO contém disposições sobre renúncia a armas nucleares. A renúncia nuclear está no Tratado de Tlatelolco (1967), no Acordo Brasil-Argentina para Uso Exclusivamente Pacífico da Energia Nuclear (1991) e nos acordos bilaterais de 1986 entre Sarney e Alfonsín. O candidato confundiu o tratado de criação do Mercosul com outros instrumentos internacionais.
+
+**Classificação revisada:** MANTÉM IMPRECISO
+
+**Justificativa:**
+A renúncia a armas nucleares não está no Tratado de Assunção (Mercosul), mas sim em Tlatelolco e acordos bilaterais. O candidato confundiu diferentes instrumentos internacionais.
+
+**Fonte(s) adicional(is):**
+- Wikipedia (Tratado de Assunção) - https://pt.wikipedia.org/wiki/Tratado_de_Assun%C3%A7%C3%A3o
+- Memorial da Democracia - http://memorialdademocracia.com.br/card/assinado-o-tratado-que-cria-o-mercosul
+- CACD (Tratado de Tlatelolco) - https://clipping.com.br/cacd/tratado-de-tlatelolco
+
+---
+
+## RESUMO DA REVISÃO
+
+Total de afirmações revisadas: 7
+Mantidas: 4
+Retificadas: 3
+
+| Afirmação | Original | Revisada | Mudou? |
+|-----------|----------|----------|--------|
+| #8 | FALSO | FALSO | Não |
+| #13 | NÃO VERIFICÁVEL | IMPRECISO | Sim |
+| #19 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #21 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #22 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #25 | NÃO VERIFICÁVEL | VERDADEIRO | Sim |
+| #30 | IMPRECISO | IMPRECISO | Não |

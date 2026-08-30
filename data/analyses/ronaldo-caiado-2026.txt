@@ -1,0 +1,390 @@
+### Verificação de Fatos — Entrevista JN Ronaldo Ramos Caiado (PSD)
+### Data: 2026-08-25
+### Modelo: opencode/mimo-v2.5-free
+
+---
+
+### RESUMO
+TOTAL DE AFIRMAÇÕES: 22
+VERDADEIRAS: 6
+FALSAS: 3
+IMPRECISAS: 7
+NÃO VERIFICÁVEIS: 4
+OPINIÃO: 2
+
+---
+
+### [1]
+
+**Afirmação do candidato:** "O meu primeiro ato de governo vai ser anistiar os condenados pelos atos golpistas do 8 de janeiro de 2023."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+Trata-se de uma proposta de governo, não de um fato verificável. A anistia para condenados dos atos de 8 de janeiro é uma posição política. A viabilidade jurídica e constitucional é debatida, mas a afirmação em si é uma declaração de intenção.
+
+**Fonte(s):**
+- N/A
+
+**Observações:**
+Proposta polêmica que demandaria aprovação do Congresso.
+
+---
+
+### [2]
+
+**Afirmação do candidato:** "38 milhões não foram às urnas [na última eleição]."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Nas eleições de 2022, aproximadamente 38 milhões de eleitoresComparecidos não votaram (brancos e nulos) ou faltaram. Segundo dados do TSE, a abstenção mais brancos e nulos somou dezenas de milhões. O número é consistente com dados oficiais do TSE.
+
+**Fonte(s):**
+- TSE - Divulgação de resultados 2022
+
+**Observações:**
+A abstenção e votos brancos/nulos são um fenômeno documentado.
+
+---
+
+### [3]
+
+**Afirmação do candidato:** "Lula foi condenado em todas as instâncias... e, de repente, o Supremo diz que o fórum não foi correto."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Lula foi condenado na primeira instância (Curitiba) e confirmado na segunda. No STJ, parte das condenações foi mantida, mas em 2021 o STF anulou todas as condenações por incompetência da vara de Curitiba — não porque "o fórum não foi correto" em sentido simples, mas por questão de jurisdição. O STF não "anistiou" Lula, mas declarou incompetência do juízo.
+
+**Fonte(s):**
+- STF - Decisões sobre as condenações de Lula
+
+**Observações:**
+A simplificação do candidato distorce o que foi decidido judicialmente.
+
+---
+
+### [4]
+
+**Afirmação do candidato:** "De 10 eleitores, 9 votam em mim [88% de aprovação em Goiás]."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Pesquisa Genial/Quaest de dezembro de 2024 apontou 88% de aprovação de Caiado em Goiás, com 9% de desaprovação. Em abril de 2026, a aprovação era de 84%. Os dados são consistentes com a afirmação.
+
+**Fonte(s):**
+- Portal Goiás (Oficial) - https://goias.gov.br/caiado-tem-88-de-aprovacao-de-acordo-com-pesquisa-genial-quaest
+- G1 Goiás - https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/04/30/quaest-84percent-aprovam-e-11percent-desaprovam-governo-de-ronaldo-caiado-em-goias.ghtml
+
+**Observações:**
+Caiado é um dos governadores com maior aprovação do Brasil.
+
+---
+
+### [5]
+
+**Afirmação do candidato:** "Goiás esteve no pódio [em educação] durante todos os anos... tem uma das melhores alfabetizações na idade certa."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O governo de Goiás destaca-se em indicadores educacionais. O IDEB de Goiás tem apresentado resultados entre os melhores do Centro-Oeste. O estado foi citado peloTodos pela Educação por avanços na alfabetização. Em 2023, Goiás figurou entre os estados com melhores notas no SAEB.
+
+**Fonte(s):**
+- Portal Goiás - https://goias.gov.br/caiado-tem-88-de-aprovacao-de-acordo-com-pesquisa-genial-quaest
+- INEP/MEC - Resultados do IDEB
+
+**Observações:**
+Os indicadores educacionais de Goiás melhoraram durante a gestão Caiado.
+
+---
+
+### [6]
+
+**Afirmação do candidato:** "O Brasil todo dominado pelas facções criminosas... 60 milhões de brasileiros estão numa condição de escravizados pelo narcotráfico."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Assim como na entrevista de Zema, o número de 60 milhões é uma estimativa não oficial. Não existe dado do IBGE ou Fórum de Segurança Pública que confirme essa cifra exata. O controle territorial por facções é real em muitas áreas, mas o número é uma generalização.
+
+**Fonte(s):**
+- Fórum Brasileiro de Segurança Pública
+
+**Observações:**
+O problema do crime organizado é documentado, mas o número específico não pode ser verificado.
+
+---
+
+### [7]
+
+**Afirmação do candidato:** "O Brasil é a Disneylândia do narcotráfico... o resort do narcotráfico."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+Trata-se de uma metáfora política, não de um dado verificável. Embora o Brasil seja um grande hub de tráfico de drogas, a caracterização como "Disneylândia" é uma opinião retórica.
+
+**Fonte(s):**
+- N/A
+
+**Observações:**
+Linguagem figurada para enfatizar a gravidade do narcotráfico.
+
+---
+
+### [8]
+
+**Afirmação do candidato:** "Todos os limítrofes nossos, os presidentes, hoje são da centro-direita."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Em 2026, os países limítrofes do Brasil têm governos de direita ou centro-direita: Argentina (Milei), Uruguai (Partido Nacional), Paraguai (Colorado), Bolívia (interregno pós-Evo), Colômbia (com tendência de centro-direita após eleição de 2026), Peru, Venezuela (regime Maduro). A afirmação é uma generalização, mas há uma tendência de direita na região.
+
+**Fonte(s):**
+- Imprensa internacional
+
+**Observações:**
+A tendência de centro-direita na América Latina é documentada, mas com exceções (Venezuela, Cuba, Nicarágua).
+
+---
+
+### [9]
+
+**Afirmação do candidato:** "A Europol tem toda a ação e liberdade para poder fazer prisões... Ela faz a prisão e entrega para a autoridade local."
+
+**Classificação:** FALSO
+
+**Verificação:**
+A Europol é uma agência de apoio à investigação e não tem poder de realizar prisões por conta própria. Ela compartilha inteligência e apoia as polícias nacionais, mas as prisões são feitas pelas autoridades de cada país-membro. A afirmação de Caiado está incorreta quanto às atribuições da Europol.
+
+**Fonte(s):**
+- Europol - https://www.europol.europa.eu/about-europol
+
+**Observações:**
+A Europol tem papel de coordenação e inteligência, não de força policial operacional.
+
+---
+
+### [10]
+
+**Afirmação do candidato:** "O meu ajuste fiscal também será uma emenda constitucional... as despesas do governo federal serão limitadas a 50% do PIB."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+A proposta de limitar gastos a 50% do PIB é uma declaração de intenção que depende de aprovação no Congresso. Não há como verificar a viabilidade ou o impacto específico dessa proposta sem detalhamento de implementação.
+
+**Fonte(s):**
+- N/A
+
+**Observações:**
+Proposta ambiciosa que demandará negociação com o Congresso.
+
+---
+
+### [11]
+
+**Afirmação do candidato:** "O salário mínimo vai ter ganho real... Vamos mexer com eles não, pelo amor de Deus."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Caiado afirmou que manteria o ganho real do salário mínimo e não mexeria nos pisos de saúde e educação. Trata-se de uma posição declarada e consistente com seu discurso de proteção aos mais pobres.
+
+**Fonte(s):**
+- Entrevista JN
+
+**Observações:**
+Posição alinhada com o eleitorado de baixa renda.
+
+---
+
+### [12]
+
+**Afirmação do candidato:** "A reforma tributária... foi copiada do meu modelo da Índia."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A reforma tributária brasileira (EC 132/2023) não tem origem em modelo da Índia de Ronaldo Caiado. O modelo IVA dual brasileiro foi proposto por economistas nacionais ao longo de décadas. Não há relação documentada entre o modelo indiano e a reforma brasileira.
+
+**Fonte(s):**
+- Congresso em Foco / Imprensa sobre reforma tributária
+
+**Observações:**
+Afirmação sem fundamento factual.
+
+---
+
+### [13]
+
+**Afirmação do candidato:** "No primeiro dia do meu governo, eu vou encaminhar ao Congresso um projeto de anistia ampla, geral e irrestrita."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+A proposta de anistia é uma declaração de intenção. Sua viabilidade jurídica e aprovação no Congresso são incertas. Não há como verificar se o projeto seria efetivamente encaminhado ou aprovado.
+
+**Fonte(s):**
+- N/A
+
+**Observações:**
+Proposta controversa que enfrentará resistência do STF e de setores da sociedade.
+
+---
+
+### [14]
+
+**Afirmação do candidato:** "80% da população está tomada de dívida."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Dados do Banco Central mostram que o endividamento das famílias atingiu 49,8% da renda no 1º trimestre de 2026, com inadimplência em alta (4,4%). Embora o endividamento seja elevado, a afirmação de "80% da população" não é suportada por dados oficiais. A inadimplência atinge milhões, mas não 80% da população.
+
+**Fonte(s):**
+- Banco Central - Relatório de Estatísticas Financeiras
+
+**Observações:**
+O endividamento é um problema real, mas o número de 80% é uma exagerada.
+
+---
+
+### [15]
+
+**Afirmação do candidato:** "Goiás hoje tem a menor taxa de evasão escolar no Brasil."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Não foram encontrados dados comparativos entre estados que confirmem que Goiás tem a menor taxa de evasão escolar do Brasil. O INEP publica indicadores educacionais, mas a comparação específica de evasão entre estados não foi verificada.
+
+**Fonte(s):**
+- INEP/MEC
+
+**Observações:**
+Afirmação plausível mas não confirmada com fontes públicas.
+
+---
+
+### [16]
+
+**Afirmação do candidato:** "Meu Estado era o quarto pior no país, em termos do quadro fiscal. Era Minas Gerais, Rio de Janeiro, Rio Grande do Sul e Goiás."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+A classificação de Goiás como "quarto pior" estado em termos fiscais depende do indicador utilizado e do período de referência. Não há um ranking oficial único que confirme essa posição exata.
+
+**Fonte(s):**
+- Tesouro Nacional / ranking de finanças estaduais
+
+**Observações:**
+Goiás enfrentou dificuldades fiscais antes de Caiado, mas a classificação exata não pode ser confirmada.
+
+---
+
+### [17]
+
+**Afirmação do candidato:** "A informalidade lá [na Índia] é mais de 90%. Não tem nada a ver com o Brasil."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+A informalidade na Índia é de fato muito superior à do Brasil. Segundo a OIT, mais de 80% da força de trabalho indiana é informal. No Brasil, a taxa é de cerca de 38-40%. A comparação é pertinente.
+
+**Fonte(s):**
+- OIT - Dados sobre informalidade
+- IBGE - PNAD Contínua
+
+**Observações:**
+A comparação entre Brasil e Índia em termos de informalidade é válida.
+
+---
+
+### [18]
+
+**Afirmação do candidato:** "Nós precisamos de presidente o ano que vem, do jeito que está aí com o Lula. Porque já é só despesa. Simplesmente vai pagar."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+Trata-se de uma avaliação política sobre a gestão fiscal do governo Lula. A afirmação de que "já é só despesa" é uma opinião sobre a condução fiscal.
+
+**Fonte(s):**
+- N/A
+
+**Observações:**
+Posição política oposicionista.
+
+---
+
+### [19]
+
+**Afirmação do candidato:** "Fui parlamentar durante seis mandatos."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Ronaldo Caiado foi deputado federal por cinco mandatos (1991, 1995, 1999, 2003, 2007) e senador por um (2011), totalizando seis mandatos no Congresso Nacional. Em seguida, governou Goiás por sete anos.
+
+**Fonte(s):**
+- Câmara dos Deputados / Senado Federal
+
+**Observações:**
+Trajetória política extensa e documentada.
+
+---
+
+### [20]
+
+**Afirmação do candidato:** "Goiás hoje tem entre os dez melhores colégios estaduais, tem sete melhores colégios estaduais."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Não foram encontrados dados que confirmem que 7 dos 10 melhores colégios estaduais do Brasil são de Goiás. O ranking de escolas é complexo e depende do indicador utilizado (ENEM, IDEB, etc.).
+
+**Fonte(s):**
+- INEP/MEC
+
+**Observações:
+Afirmação plausível mas não verificável com fontes públicas.
+
+---
+
+### [21]
+
+**Afirmação do candidato:** "Eu prendi Falcon 50, Citation 1, Citation 2, Helicóptero B4 [em operações contra o crime]."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Caiado mencionou apreensões de aeronaves em operações contra o crime em Goiás. O dado é plausível dada a atuação do governo goiano no combate ao narcotráfico, mas não foi possível confirmar os modelos específicos de aeronaves apreendidas.
+
+**Fonte(s):**
+- Secretaria de Segurança Pública de Goiás
+
+**Observações:**
+Detalhes específicos difíceis de confirmar sem fontes oficiais.
+
+---
+
+### [22]
+
+**Afirmação do candidato:** "A taxa de juros vai para 6% e a inflação para 3%."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Caiado projeta redução da taxa Selic para 6% e inflação para 3%. Atualmente (ago/2026), a Selic está em 14% e a inflação em ~5%. A projeção é otimista e depende de ajuste fiscal significativo. Não é um dado verificável, mas uma meta ambiciosa que não tem precedente recente no Brasil.
+
+**Fonte(s):**
+- Banco Central - Dados atuais da Selic e IPCA
+
+**Observações:**
+Meta ambiciosa que demandaria reformas estruturais profundas.

@@ -1,0 +1,238 @@
+# Revisão de Fatos — Ronaldo Ramos Caiado (PSD) — Entrevista JN
+## Rodada 2 de Verificação
+### Data: 30/08/2026
+
+---
+
+## Afirmações Revisadas
+
+---
+
+### 10
+
+**Afirmação:** "Goiás é o que tem a menor taxa de evasão escolar no Brasil."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "Goiás menor taxa evasão escolar Brasil dados IBGE MEC 2025 2026" → Encontrado artigo do Brasilem Folhas (jun/2026) afirmando que "Goiás registrou a menor taxa de evasão escolar em três anos, conforme dados do Inep. O índice de desistência caiu de 1,8% para 1% entre 2022 e 2025."
+- Consulta 2: "Pernambuco menor evasão escolar Brasil ensino médio" → Folha de Pernambuco (2018) mostrava Pernambuco com menor taxa de abandono no ensino médio (1,5%), seguida por Goiás (2,8%).
+- Consulta 3: "Censo Escolar 2025 evasão estados rankings" → Dados mostram que Goiás avançou significativamente, com taxa de evasão caindo para 1% no ensino público estadual em 2025.
+
+**Evidência encontrada:**
+Goiás registrou taxa de evasão de 1% em 2025 no ensino público estadual, segundo dados do Inep. No entanto, a afirmação de que Goiás tem "a menor taxa do Brasil" não pode ser confirmada sem um ranking completo de todos os estados. Pernambuco já foi referência nesse indicador (1,5% no ensino médio em 2017). A taxa de 1% de Goiás em 2025 é impressionante, mas não há dados comparativos oficiais de todos os estados para confirmar que é a menor do país.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+Embora Goiás tenha registrado avanço significativo na redução da evasão (de 1,8% para 1% entre 2022 e 2025), não há um ranking oficial completo de estados que confirme que Goiás tem "a menor taxa do Brasil". Outros estados podem ter taxas comparáveis ou menores. A informação permanece não verificável sem dados comparativos de todos os estados.
+
+**Fonte(s) adicional(is):**
+- Brasilem Folhas - https://www.brasilemfolhas.com.br/2026/06/goias-registra-menor-taxa-de-evasao-escolar-em-tres-anos/
+- Folha de Pernambuco - https://www.folhape.com.br/noticias/pernambuco-registra-menor-taxa-de-abandono-escolar-do-brasil/80219
+- Tribuna do Planalto - https://tribunadoplanalto.com.br/goias-avanca-na-reducao-da-evasao-escolar-mas-ensino-medio-segue-como-maior-desafio/
+
+---
+
+### 11
+
+**Afirmação:** "Entre as dez melhores colégios estaduais, [Goiás] tem sete melhores colégios estaduais."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "melhores escolas públicas estaduais Brasil ranking Ideb 2025 Goiás" → Encontrados múltiplos veículos (Diário de Goiás, Ciberjornal, Mais Goiás, Metrópoles) confirmando que 7 escolas da rede estadual de Goiás estão entre as 10 melhores escolas públicas de ensino médio do Brasil no Ideb 2025.
+- Consulta 2: "ranking Ideb 2025 escolas ensino médio PDF" → Encontrado ranking oficial das 20 melhores escolas: 7 das 10 primeiras são de Goiás (CEPI Brasil Ramos Caiado em 2º lugar com 7,9; Col. Est. Dr. José Balduíno de Souza em 3º com 7,8; CEPI Santa Terezinha em 5º com 7,6; CPMG Madre Germana em 6º com 7,6; CEPI Presidente Castelo Branco em 7º com 7,6; CE Arthur Ribeiro Magalhães Filho em 9º com 7,6; CEPI Frederico Bernardes Rabelo em 10º com 7,5).
+
+**Evidência encontrada:**
+A afirmação é CONFIRMADA por múltiplas fontes. O ranking do Ideb 2025 (divulgado em agosto de 2026 pelo MEC/Inep) mostra que 7 das 10 melhores escolas públicas de ensino médio do Brasil são da rede estadual de Goiás. O dado é corroborado por Diário de Goiás, Ciberjornal, Mais Goiás e Metrópoles. A única escola fora de Goiás no top 10 é a EREM Aplicação de Recife (PE), em 4º lugar, e escolas federais que aparecem a partir da 11ª posição.
+
+**Classificação revisada:** RETIFICADO PARA VERDADEIRO
+
+**Justificativa:**
+O dado é confirmado pelo ranking oficial do Ideb 2025 (MEC/Inep), divulgado em agosto de 2026, e por múltiplos veículos de comunicação. Sete escolas da rede estadual de Goiás figuram entre as 10 melhores escolas públicas de ensino médio do Brasil. A classificação original de NÃO VERIFICÁVEL não se sustenta diante da disponibilidade do ranking oficial.
+
+**Fonte(s) adicional(is):**
+- Diário de Goiás - https://diariodegoias.com.br/goias-coloca-7-escolas-entre-as-10-melhores-do-brasil-no-ideb-2025/543361/
+- Ciberjornal - https://ciberjornal.com.br/educacao/ideb-2025-goias-tem-7-das-10-melhores-escolas-publicas-do-brasil/303987/
+- Mais Goiás - https://www.maisgoias.com.br/cidades/goias-tem-7-das-10-melhores-escolas-publicas-de-ensino-medio-do-brasil-aponta-ideb/
+- Metrópoles - https://www.metropoles.com/brasil/ideb-confira-as-20-melhores-escolas-publicas-de-ensino-medio
+
+---
+
+### 12
+
+**Afirmação:** "Investi pesado na educação... R$ 17 bilhões [na segurança pública]."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "Goiás investimento segurança pública R$ 17 bilhões Caiado polícia" → Encontrados múltiplos veículos (Agência Goiás, Diário de Goiás, Congresso em Foco, Diário de Aparecida) confirmando investimentos superiores a R$ 17 bilhões em segurança pública entre 2019 e 2026.
+- Consulta 2: "Brasilem Folhas R$ 30,7 bilhões segurança Goiás 2026" → Matéria de agosto/2026 afirma que o governo investiu R$ 30,7 bilhões em segurança pública entre 2019 e 2026.
+- Consulta 3: "Congresso em Foco Caiado R$ 17,5 bilhões segurança" → Confirma que Caiado destacou investimento de R$ 17,5 bilhões em segurança pública nos últimos seis anos e cinco meses.
+
+**Evidência encontrada:**
+O investimento em segurança pública é confirmado por múltiplas fontes. A Agência Goiás (fonte oficial) confirma "investimentos superiores a R$ 17 bilhões no período" (2019-2026). O Congresso em Foco cita Caiado mencionando R$ 17,5 bilhões. Mais recentemente, o Brasilem Folhas reportou R$ 30,7 bilhões entre 2019 e 2026. O dado original de R$ 17 bilhões refere-se ao período até 2025 e é confirmado. O valor para educação não foi verificado especificamente, mas Caiado mencionou "investi pesado na educação" sem dar valor numérico.
+
+**Classificação revisada:** RETIFICADO PARA VERDADEIRO (parcialmente)
+
+**Justificativa:**
+O valor de R$ 17 bilhões em segurança pública é confirmado por fontes oficiais (Agência Goiás) e veículos como Congresso em Foco e Diário de Goiás. A afirmação sobre investimento em educação é genérica ("investi pesado") e não pode ser verificada com valor específico. A classificação é retificada para VERDADEIRO quanto ao valor de segurança pública, mantida como NÃO VERIFICÁVEL para o componente de educação.
+
+**Fonte(s) adicional(is):**
+- Agência Goiás - https://agencia.go.gov.br/reducao-em-indicadores-criminais-faz-de-goias-referencia-em-seguranca-para-o-pais/
+- Congresso em Foco - https://www.congressoemfoco.com.br/noticia/108800/caiado-critica-pec-da-seguranca-e-acusa-uniao-de-conivencia-com-crime
+- Diário de Aparecida - https://www.diariodeaparecida.com.br/2026/04/02/investimento-de-r-175-bi-e-reducao-dos-indicadores-criminais-colocam-goias-como-referencia-nacional/
+- Brasilem Folhas - https://www.brasilemfolhas.com.br/2026/08/goias-investe-r-30-7-bilhoes-em-seguranca-publica-desde-2019/
+
+---
+
+### 16
+
+**Afirmação:** "Mais de 9 milhões de empresas no vermelho, 95% dessas empresas em situação crítica são micro e pequenas."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "9 milhões empresas vermelho micro pequenas situação crítica Brasil dados oficiais" → Encontrados dados da Serasa Experian: em junho de 2026, 9,1 milhões de empresas estavam com dívidas em atraso (recorde). 8,7 milhões são micro e pequenas (~95%).
+- Consulta 2: "Gazeta do Povo inadimplência 9,1 milhões empresas 2026" → Confirma: "8,7 milhões das empresas inadimplentes são micro e pequenas, cerca de 95% do total."
+- Consulta 3: "CNN Brasil inadimplência empresas 2026" → Confirma: "Do total de empresas, quantidade expressiva faz parte do grupo de micro e pequenas empresas. Em junho, 8,6 milhões desses CNPJs estavam negativados."
+
+**Evidência encontrada:**
+O dado é confirmado por dados oficiais da Serasa Experian. Em junho de 2026, 9,1 milhões de empresas tinham dívidas em atraso no Brasil, com R$ 232,9 bilhões em débitos. Dessas, 8,7 milhões (cerca de 95%) são micro e pequenas empresas. Os dados são corroborados pela Gazeta do Povo, O Globo, CNN Brasil e Forbes Brasil. A afirmação de Caiado é factualmente correta.
+
+**Classificação revisada:** RETIFICADO PARA VERDADEIRO
+
+**Justificativa:**
+O dado de 9 milhões de empresas no vermelho (na verdade, 9,1 milhões em junho/2026) e a proporção de 95% sendo micro e pequenas são confirmados por dados oficiais da Serasa Experian e múltiplos veículos de comunicação. A classificação original de NÃO VERIFICÁVEL não se sustenta diante da disponibilidade desses dados.
+
+**Fonte(s) adicional(is):**
+- Gazeta do Povo - https://www.gazetadopovo.com.br/economia/inadimplencia-atinge-9-1-milhoes-empresas-maioria-micro-pequenos-negocios/
+- O Globo - https://oglobo.globo.com/economia/noticia/2026/08/17/inadimplencia-ja-atinge-91-milhoes-de-empresas-no-pais-com-r-232-bi-de-dividas-em-atraso-patamares-recordes.ghtml
+- CNN Brasil - https://www.cnnbrasil.com.br/economia/money/macroeconomia/inadimplencia-atinge-mais-de-91-milhoes-de-empresas-no-pais-e-bate-recorde/
+
+---
+
+### 19
+
+**Afirmação:** "O Bernardo Appy copiou o modelo da Índia e trouxe para cá."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "Bernard Appy reforma tributária modelo Índia copiou PEC 45" → Não encontrada evidência de que Appy copiou o modelo da Índia. A PEC 45 baseou-se em modelos de IVA de diversos países.
+- Consulta 2: "ISTOÉ Maílson Índia reforma tributária IVA" → Matéria menciona que ex-ministro Maílson da Nóbrega citou a reforma da Índia em 2017 como exemplo, mas não como base da PEC 45.
+- Consulta 3: "Appy Centro de Cidadania Fiscal PEC 45 origem" → Appy foi diretor do CCiF (think tank) e mentor da PEC 45 desde 2019. A proposta baseou-se em estudos do CCiF e em modelos internacionais de IVA, incluindo europeus e latino-americanos.
+
+**Evidência encontrada:**
+Não há evidência de que Bernard Appy "copiou" o modelo da Índia para a reforma tributária brasileira. A PEC 45 (idealizada pelo CCiF, onde Appy era diretor) baseou-se em modelos de IVA de diversos países. O ex-ministro Maílson da Nóbrega mencionou a experiência da Índia como referência positiva, mas não como origem da proposta brasileira. A reforma tributária brasileira é resultado de décadas de estudos técnicos e debate público, com contribuições de múltiplos especialistas e países.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+A afirmação de que Appy "copiou o modelo da Índia" não pode ser confirmada nem refutada com evidências disponíveis. A PEC 45 baseou-se em múltiplos modelos internacionais e em estudos do CCiF. A origem da proposta é o resultado de trabalho técnico de longo prazo, não de cópia de um modelo específico.
+
+**Fonte(s) adicional(is):**
+- Wikipedia (Bernard Appy) - https://pt.wikipedia.org/wiki/Bernard_Appy
+- Ministério da Fazenda - https://www.gov.br/fazenda/pt-br/composicao/secretaria-extraordinaria-da-reforma-tributaria/bernard-appy
+- ISTOÉ Dinheiro - https://istoedinheiro.com.br/mailson-defende-pec-de-baleia-rossi-e-introducao-de-iva-na-reforma-tributaria
+
+---
+
+### 22
+
+**Afirmação:** "60 milhões de brasileiros estão numa condição de, hoje, escravizados pelo narcotráfico."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "60 milhões brasileiros vivem áreas controladas facções crimes organizados Brasil" → Mesmos dados da pesquisa anterior (Datafolha, Cambridge): variam de 28,5 milhões a 68 milhões conforme a metodologia e o período.
+- Consulta 2: "Datafolha facções milícias 2026 pesquisa brasileiros" → Pesquisa Datafolha/FBSP de maio de 2026: 68 milhões (41%) vivem em áreas com facções/milícias.
+- Consulta 3: "Cambridge governança criminal Brasil 50 milhões" → Estudo acadêmico: 50 milhões (24%) sob governança criminal.
+
+**Evidência encontrada:**
+Assim como na afirmação de Zema (#19), os dados variam conforme a fonte e metodologia:
+- Pesquisa Datafolha/FBSP (out/2025): 28,5 milhões (19%)
+- Estudo Cambridge/Latinobarómetro 2020: 50 milhões (24%)
+- Pesquisa Datafolha/FBSP (mai/2026): 68 milhões (41%)
+O termo "escravizados" é uma figura retórica, não uma descrição técnica. O dado de 60 milhões está dentro da faixa reportada por pesquisas de renome, mas a caracterização como "escravizados" é uma opinião/retórica política.
+
+**Classificação revisada:** RETIFICADO PARA IMPRECISO
+
+**Justificativa:**
+O dado numérico de 60 milhões está dentro da faixa sustentável por pesquisas (50-68 milhões dependendo da fonte e período). No entanto, a caracterização como "escravizados" é uma figura retórica, não uma descrição técnica verificável. A afirmação mistura um dado aproximadamente correto com uma characterização imprecisa.
+
+**Fonte(s) adicional(is):**
+- Datafolha/FBSP (mai/2026) - https://www.ocafezinho.com/2026/05/11/faccoes-e-milicias-dominam-territorios-de-68-milhoes-de-brasileiros
+- Cambridge University Press / Jornal USP - https://jornal.usp.br/campus-ribeirao-preto/50-milhoes-de-brasileiros-vivem-em-areas-dominadas-por-faccoes-criminosas
+- Veja - https://veja.abril.com.br/brasil/quase-um-quinto-dos-brasileiros-vive-em-areas-com-milicias-e-faccoes/
+
+---
+
+### 25
+
+**Afirmação:** "A Europol tem toda a ação e liberdade para poder fazer prisões."
+
+**Classificação original:** FALSO
+
+**Busca realizada:**
+- Consulta 1: "Europol poder prisão jurisdição polícia europeia como funciona" → Wikipedia confirma: "A Agência não tem poderes executivos e os seus funcionários não têm o direito de prender suspeitos ou agir sem a aprovação prévia das autoridades competentes dos estados-membros."
+- Consulta 2: "site oficial Europol como funciona" → Site oficial da UE: "a Europol beneficia da sua posição central na arquitetura da segurança europeia" mas atua como "plataforma de informações" e "centro de conhecimentos especializados".
+- Consulta 3: "Europol about english executive powers" → Site oficial em inglês: "Europol officers never arrest citizens or instigate investigations."
+
+**Evidência encontrada:**
+A afirmação é FALSA e amplamente documentada. Tanto a Wikipedia quanto o site oficial da Europol e da União Europeia confirmam que a Europol NÃO tem poderes executivos e NÃO pode realizar prisões. A Europol atua como agência de cooperação policial, compartilhamento de informações e apoio investigativo. As prisões são feitas exclusivamente pelas autoridades nacionais de cada país membro. A classificação original de FALSO émantida.
+
+**Classificação revisada:** MANTÉM FALSO
+
+**Justificativa:**
+A afirmação é objetivamente falsa. A Europol é uma agência de cooperação policial e inteligência criminal, não uma força de execução. Ela não tem poder para realizar prisões. As fontes oficiais (site da UE, Wikipedia, portal Terra) são unânimes nesse ponto.
+
+**Fonte(s) adicional(is):**
+- União Europeia (sobre a Europol) - https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies/europol_pt
+- Wikipedia (Europol) - https://pt.wikipedia.org/wiki/Europol
+- Terra - https://www.terra.com.br/noticias/o-que-e-a-europol-entenda-como-funciona-a-agencia-policial-da-uniao-europeia-alvo-de-embate-entre-caiado-e-tralli,38d29fa078ebafc8b558c4829d3deb7601nf1wzp.html
+
+---
+
+### 26
+
+**Afirmação:** "Um dos satélites mais modernos [da Noruega] em termos de poder projetar e poder identificar imagens nas áreas de sombra."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "satélites Noruega observação Terra imagens radar áreas sombra tecnologia" → Encontrada a KSAT (Kongsberg Satellite Services), empresa norueguesa especializada em serviços de satélites SAR (Radar de Abertura Sintética), que pode captar imagens mesmo em áreas de sombra e condições climáticas adversas.
+- Consulta 2: "KSAT Noruega satellite services SAR radar" → KSAT é uma provedora norueguesa de rede terrestre de satélites e serviços de observação da Terra, oferecendo dados SAR e imagens ópticas de alta resolução.
+- Consulta 3: "satélites SAR áreas de sombra radar" → Tecnologia SAR permite imagens dia e noite, atravessando nuvens e áreas de sombra.
+
+**Evidência encontrada:**
+A Noruega possui a KSAT (Kongsberg Satellite Services), empresa que opera uma das maiores redes terrestres de satélites do mundo, especializada em serviços SAR (Radar de Abertura Sintética). A tecnologia SAR permite captar imagens mesmo em áreas de sombra, nuvens e condições de baixa luminosidade. No entanto, o detalhe específico de "identificar imagens nas áreas de sombra" como diferencial de um satélite noruegueso não pode ser confirmado com precisão. A tecnologia SAR é amplamente disponível e não exclusiva da Noruega.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+A Noruega possui tecnologia avançada de satélites (KSAT/SAR), mas o detalhe específico de que um satélite noruegueso seria especialmente bom em "identificar imagens nas áreas de sombra" não pode ser verificado com precisão. A tecnologia SAR permite operar em condições de baixa luminosidade, mas isso não é exclusivo da Noruega.
+
+**Fonte(s) adicional(is):**
+- FlyPix (empresas de satélites) - https://flypix.ai/pt/earth-observation-satellite-companies
+- Olhar Digital (NISAR/SAR) - https://olhardigital.com.br/2025/06/16/ciencia-e-espaco/satelite-promete-revolucionar-a-observacao-da-terra
+
+---
+
+## RESUMO DA REVISÃO
+
+Total de afirmações revisadas: 8
+Mantidas: 4
+Retificadas: 4
+
+| Afirmação | Original | Revisada | Mudou? |
+|-----------|----------|----------|--------|
+| #10 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #11 | NÃO VERIFICÁVEL | VERDADEIRO | Sim |
+| #12 | NÃO VERIFICÁVEL | VERDADEIRO (parcialmente) | Sim |
+| #16 | NÃO VERIFICÁVEL | VERDADEIRO | Sim |
+| #19 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #22 | NÃO VERIFICÁVEL | IMPRECISO | Sim |
+| #25 | FALSO | FALSO | Não |
+| #26 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |

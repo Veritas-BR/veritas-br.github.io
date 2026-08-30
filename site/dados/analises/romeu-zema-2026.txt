@@ -1,0 +1,240 @@
+ANÁLISE DE VERIFICAÇÃO DE FATOS
+================================
+Entrevistado: Romeu Zema (Novo)
+Entrevista: TV Globo (JN) — 24 de agosto de 2026
+Analista: Contrafatos Não Existem Argumentos
+Data da análise: 29 de agosto de 2026
+Total de afirmações analisadas: 35
+
+---
+
+RESUMO
+------
+• TOTAL DE AFIRMAÇÕES: 35
+• VERDADEIRAS: 18 (51.4%)
+• IMPRECISAS: 7 (20.0%)
+• FALSAS: 1 (2.9%)
+• NÃO VERIFICÁVEL: 5 (14.3%)
+• OPINIÃO: 2 (5.7%)
+• OPINIÃO/NÃO VERIFICÁVEL: 7 (20.0%)
+
+---
+
+AFIRMAÇÕES VERIFICADAS
+=======================
+
+### 1. IDADE E LOCAL DE NASCIMENTO
+   [AFIRMAÇÃO]: "Romeu Zema tem 61 anos. Nasceu em Araxá, Minas Gerais."
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Romeu Zema Neto nasceu em 28 de outubro de 1964 em Araxá-MG. Em 24/08/2026, tinha 61 anos (completaria 62 em outubro). É administrador de empresas formado pela FGV-SP.
+   [FONTES]: Wikipedia pt/en; Nexo Jornal; G1.
+
+### 2. PRIMEIRO GOVERNADOR DO NOVO
+   [AFIRMAÇÃO]: "Se tornou o primeiro governador eleito pelo Partido Novo."
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Romeu Zema foi eleito governador de MG em 2018, sendo o primeiro governador eleito pelo Partido Novo no Brasil. O partido, fundado em 2011 e registrado no TSE em 2015, elegia seu primeiro governador.
+   [FONTES]: G1; Folha de S.Paulo; Wikipedia; O Globo.
+
+### 3. REELEIÇÃO EM 2022 COM 56%
+   [AFIRMAÇÃO]: "Em 2022, se reelegeu no primeiro turno com 56% dos votos válidos."
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Romeu Zema foi reeleito no primeiro turno das eleições de 2022 com 56,18% dos votos válidos, segundo dados do TSE. Totalizou 6.094.136 votos.
+   [FONTES]: TSE; G1; Valor Econômico; Partido Novo.
+
+### 4. RENÚNCIA EM MARÇO DE 2026
+   [AFIRMAÇÃO]: "Em março deste ano, renunciou ao cargo para concorrer à presidência da República."
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Romeu Zema formalizou renúncia ao governo de MG em 22 de março de 2026, enviando ofício à ALMG em 18/03. O vice-governador Mateus Simões (PSD) assumiu o cargo no mesmo dia.
+   [FONTES]: O Tempo; UOL; G1; Jovem Pan.
+
+### 5. VICE-CANDIDATO EDUARDO GIRÃO
+   [AFIRMAÇÃO]: "Tem como vice o senador licenciado Eduardo Girão, do mesmo partido."
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Eduardo Girão (Novo) é o vice na chapa de Zema para a presidência. É senador licenciado por Ceará.
+   [FONTES]: Nexo Jornal; TSE; G1.
+
+### 6. DÍVIDA DE MG CRESCIMENTO — DADO PARCIALMENTE VERDADEIRO
+   [AFIRMAÇÃO]: "A dívida do governo de Minas cresceu 100%. Praticamente dobrou. Saltou de 88 bilhões para mais de 180 bilhões de reais."
+   [CLASSIFICAÇÃO]: IMPRECISO
+   [VERIFICAÇÃO]: A alegação tem elementos verdadeiros, mas é imprecisa. Em janeiro de 2019, a dívida total de MG era de R$ 114,7 bilhões (não R$ 88 bilhões). Em novembro de 2025, era de R$ 201 bilhões — um aumento de 75%, não 100%. O valor de R$ 88 bilhões corresponde à dívida apenas com a União no início do mandato (R$ 88,7 bi), que chegou a R$ 177,4 bilhões — efectivamente mais que o dobro. Portanto, a confusão está em misturar dívida total com dívida da União. O governo Zema não contrauiu novas dívidas; o crescimento se deveu a juros indexados à Selic, câmbio e suspensões judiciais de pagamentos herdadas de governos anteriores.
+   [FONTES]: O Tempo (27/12/2025); Correio Braziliense; SEF-MG; Itatiaia.
+
+### 7. PAGAMENTOS A APOSENTADOS E AO GOVERNO FEDERAL
+   [AFIRMAÇÃO]: "Paguei 23 bilhões de reais para aposentado, que não recebia aposentadoria. Paguei 13 bilhões para o governo federal, funcionários públicos."
+   [CLASSIFICAÇÃO]: NÃO VERIFICÁVEL
+   [VERIFICAÇÃO]: Não foi possível encontrar dados oficiais que confirmem ou refutem exatamente os valores de R$ 23 bilhões a aposentados e R$ 13 bilhões ao governo federal. O governo informa que pagou R$ 12,90 bilhões à União entre 2019 e 2025 para abatimento da dívida. Os valores de regularização de aposentadorias e consignados herdados de governos anteriores são citados em notas oficiais, mas não com os valores exatos mencionados por Zema.
+   [FONTES]: Notas do governo de MG; Correio Braziliense; Estado de Minas.
+
+### 8. DÍVIDA RELATIVA À RECEITA — AFIRMAÇÃO CONTESTADA
+   [AFIRMAÇÃO]: "Quando eu assumi, a dívida de Minas representava 192% da receita corrente líquida. Quando eu saí, era cerca de 160."
+   [CLASSIFICAÇÃO]: FALSO
+   [VERIFICAÇÃO]: Segundo dados apresentados pela entrevistadora com base em números oficiais do governo de MG, em 2019 a dívida representava 98% da arrecadação do estado, e em 2025 saltou para 137%. Os números citados por Zema (192% e 160%) não correspondem aos dados oficiais disponíveis. A tendência observada é de crescimento, não de queda.
+   [FONTES]: Transcrição da entrevista; Dados da SEF-MG.
+
+### 9. DÉFICIT DE 11 BILHÕES EM 2018 E SAÍDA COM SUPERÁVIT
+   [AFIRMAÇÃO]: "Eu assumi com um déficit de 11 bilhões em 2018. Eu saí com superávit de 5 bilhões."
+   [CLASSIFICAÇÃO]: IMPRECISO
+   [VERIFICAÇÃO]: O déficit de R$ 11 bilhões em 2018 (governo Pimentel) é amplamente citado na imprensa e em documentos oficiais. Contudo, a afirmação de que saiu com superávit de R$ 5 bilhões é imprecisa — o governo de Zema registrou déficits em 2023 e 2024, embora tenha apresentado superávites em outros anos. O superávit não foi uma condição constante ao final do mandato.
+   [FONTES]: Correio Braziliense; Estado de Minas; O Tempo.
+
+### 10. VENDA DE ESTATAIS — 118 PARTICIPAÇÕES
+   [AFIRMAÇÃO]: "Eu vendi, entre participações e a empresa, 118. Inclusive, algumas muito conhecidas aqui no Rio de Janeiro, que foi a Light. A Elibras, a Companhia Brasileira de Lítio, e mais recentemente a Copasa."
+   [CLASSIFICAÇÃO]: IMPRECISO
+   [VERIFICAÇÃO]: Zema efetivamente privatizou ou vendeu participações em empresas como Light, Elibras, Companhia Brasileira de Lítio e Copasa. A Copasa foi vendida após aprovação de 3/5 na ALMG. Contudo, o número total de 118 vendas não foi verificado de forma independente. A afirmação de que "faltou uma empresa só" (CEMIG) é corroborada por diversas fontes — a Cemig permaneceu sob controle do estado.
+   [FONTES]: G1; Partido Novo; Estado de Minas.
+
+### 11. VALORIZAÇÃO DE COPASA E SEMIG EM 300%
+   [AFIRMAÇÃO]: "Durante a minha gestão, a Copasa e a Semig valorizaram estrondosos 300%."
+   [CLASSIFICAÇÃO]: IMPRECISO
+   [VERIFICAÇÃO]: Não foi possível confirmar o percentual exato de 300% de valorização das ações de Copasa e Semig durante o governo Zema. Embora tenha havido valorização significativa das ações de empresas estatais de MG, o dado específico de 300% precisa de verificação com dados do bovespa para o período completo.
+   [FONTES]: B3; imprensa financeira.
+
+### 12. REAJUSTE DE 300% NO SALÁRIO DO GOVERNADOR
+   [AFIRMAÇÃO]: "Em 2023, o senhor concedeu um reajuste de salário de 300% para o seu salário, para o salário do vice e também para todos os secretários."
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Em maio de 2023, Zema sancionou lei que aumentou seu salário de R$ 10.500 para R$ 37.589,96 (cerca de 300%). O reajuste incluiu vice-governador, secretários e secretários-adjuntos. O STF manteve o reajuste em dezembro de 2023, com maioria de 5 votos.
+   [FONTES]: G1; O Globo; Folha de S.Paulo; STF.
+
+### 13. SERVIDORES COM AUMENTO DE 54% ENTRE 2007 E 2023
+   [AFIRMAÇÃO]: "Nesse período, os servidores receberam um aumento só de 54%."
+   [CLASSIFICAÇÃO]: NÃO VERIFICÁVEL
+   [VERIFICAÇÃO]: Não foi possível confirmar o percentual exato de 54% de aumento dos servidores entre 2007 e 2023. O IPCA acumulado no período foi de aproximadamente 148%. O governo alegou que os salários dos secretários estavam congelados por 15 anos e que o reajuste era necessário para equiparar com outros estados.
+   [FONTES]: ALMG; SEF-MG; IPCA/IBGE.
+
+### 14. TAXA DE JUROS EM 14% E JUROS DE 1,4 TRILHÃO
+   [AFIRMAÇÃO]: "Com a taxa de juros atual 14%, isso representa 1 trilhão e 400 bilhões de juros por ano."
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Com a Selic em 14% e dívida pública bruta em torno de R$ 10 trilhões, os juros nominais anuais giram em torno de R$ 1,3 a 1,4 trilhão. O Banco Central do Brasil confirma que o serviço da dívida em 2024 foi de R$ 1,05 trilhão (juros reais + correção monetária), e a projeção para 2026 considerando a Selic em 14% está na faixa dos R$ 1,4 trilhão.
+   [FONTES]: Banco Central; Tesouro Nacional; Valor Econômico.
+
+### 15. 40 MILHÕES SEM CARTEIRA ASSINADA
+   [AFIRMAÇÃO]: "Hoje, 40 milhões de brasileiros que trabalham não têm carteira assinada."
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Dados do IBGE (PNAD Contínua) indicam que aproximadamente 40 milhões de trabalhadores exercem atividade sem carteira de trabalho assinada no Brasil. O número varia conforme o período, mas está na faixa dos 38-42 milhões.
+   [FONTES]: IBGE (PNAD Contínua); DIEESE.
+
+### 16. HOMICÍDIOS EM EL SALVADOR — 99% DE REDUÇÃO
+   [AFIRMAÇÃO]: "99% de redução de homicídios em quatro anos."
+   [CLASSIFICAÇÃO]: IMPRECISO
+   [VERIFICAÇÃO]: A redução de homicídios em El Salvador sob Bukele é real e significativa, mas o número de 99% é uma extrapolação. De 2015 (ano mais violento, 18,24 mortes/dia) para 2025 (0,22 mortes/dia), a queda foi de aproximadamente 99%. Porém, se considerarmos o início do governo Bukele em 2019 (6,57 mortes/dia) até 2025 (0,22), a redução é de cerca de 97%. A taxa de 1,9 por 100 mil em 2024 é a mais baixa da América Latina.
+   [FONTES]: El Salvador PNC; Statista; Foreign Affairs; AP News.
+
+### 17. BRASIL RECORDISTA DE HOMICÍDIOS — MAIS DE 40 MIL NO ANO PASSADO
+   [AFIRMAÇÃO]: "O Brasil, há décadas, é o recordista mundial de homicídios. O ano passado, mais de 40 mil."
+   [CLASSIFICAÇÃO]: IMPRECISO
+   [VERIFICAÇÃO]: O Brasil é de fato um dos países com maior número absoluto de homicídios do mundo, mas não é mais "recordista mundial" — o México e a Colômbia rivalizam nessa posição dependendo do ano. Quanto ao número de "mais de 40 mil", em 2024 o FBSP registrou 44.127 mortes violentas intencionais (MVI), que inclui homicídios, feminicídios e outras categorias. O número de homicídios intencionais puros foi de aproximadamente 38.374 em 2024 (Statista) e caiu para cerca de 34.086 em 2025. Portanto, o dado está próximo da realidade para 2024, mas a tendência é de queda.
+   [FONTES]: FBSP Anuário 2025; Statista; Atlas da Violência/IPEA; Wikipedia.
+
+### 18. OPERAÇÃO REJEITO — 34 INDICIADOS E R$ 4 BILHÕES
+   [AFIRMAÇÃO]: "A Operação Rejeito, ela identificou uma organização criminosa... Movimentou mais de quatro bilhões de reais esse esquema criminoso."
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: A Operação Rejeito, deflagrada pela PF em 17/09/2025, investigou um esquema de fraudes em licenciamentos ambientais para mineração em MG. Em junho de 2026, a PF indiciou 34 pessoas. O esquema teria movimentado mais de R$ 4 bilhões em recursos, com projetos vinculados com potencial econômico superior a R$ 18 bilhões. Bloqueio inicial de R$ 1,5 bilhão.
+   [FONTES]: G1; Estado de Minas; ALMG; PF.
+
+### 19. RODRIGO GONÇALVES FRANCO — PRESIDENTE DA FEAM
+   [AFIRMAÇÃO]: "Rodrigo Gonçalves Franco... era presidente da Fundação Estadual do Meio Ambiente e foi nomeado pelo senhor."
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Rodrigo Gonçalves Franco foi presidente da FEAM (Fundação Estadual do Meio Ambiente) e foi preso na Operação Rejeito. Foi nomeado pelo governo Zema. O governo o exonerou após a operação da PF.
+   [FONTES]: G1; O Tempo; Estado de Minas.
+
+### 20. REAJUSTE DE 300% — ZEMA DOOU O SALÁRIO
+   [AFIRMAÇÃO]: "Eu não recebi nenhum aumento porque sempre fui um governador voluntário. Desde o primeiro dia, em janeiro de 2019, tudo aquilo que eu recebi, eu repassei para as APAES."
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Zema declarou doar integralmente seu salário de governador a entidades filantrópicas (APAES e outras) durante ambos os mandatos. Embora tenha recebido o aumento formalmente (o STF manteve a constitucionalidade), ele afirmou repassar os valores. A prática de doação foi amplamente divulgada na imprensa.
+   [FONTES]: Wikipedia; G1; SBT News; Partido Novo.
+
+### 21. ENSINO INTEGRAL — DE 70 PARA 800 ESCOLAS
+   [AFIRMAÇÃO]: "Quando eu assumi o governo, em janeiro de 2019, 70 escolas em Minas tinham ensino médio em tempo integral. Quando eu saí, 800."
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: O governo Zema ampliou significativamente a oferta de ensino integral em escolas estaduais. Dados do governo e da Todos pela Educação confirmam o crescimento de aproximadamente 70 para mais de 800 escolas com ensino médio em tempo integral durante a gestão Zema.
+   [FONTES]: Todos pela Educação; SE-MG; G1.
+
+### 22. 10% DOS ALUNOS EM ESCOLAS INTEGRAIS
+   [AFIRMAÇÃO]: "Em Minas, este ano, 10% de todos os alunos da rede estadual estão em escolas desse tipo."
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Embora o número de escolas tenha crescido de 70 para 800, isso representa cerca de 10% dos alunos da rede estadual em escolas de tempo integral, muito abaixo da meta nacional de 25%. O número de escolas cresceu, mas a rede estadual de MG é muito grande.
+   [FONTES]: Todos pela Educação; SE-MG.
+
+### 23. DEFESA DE ANISTIA — 1.400 CONDENADOS
+   [AFIRMAÇÃO]: "Foram 1.400 condenações."
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: Até agosto de 2026, mais de 1.400 pessoas foram condenadas pelos eventos de 8 de janeiro de 2023 em Brasília, incluindo tentativa de golpe, associação criminosa, incitação ao crime, entre outros crimes.
+   [FONTES]: STF; Superior Tribunal Militar; imprensa.
+
+### 24. "SÓ DE JUROS VAMOS TER ECONOMIA DE R$ 800 BILHÕES"
+   [AFIRMAÇÃO]: "Com um governo sério... essa taxa cai para 6%. Só aí nós vamos ter uma economia de 800 bilhões por ano."
+   [CLASSIFICAÇÃO]: IMPRECISO
+   [VERIFICAÇÃO]: Se a taxa Selic caísse de 14% para 6%, a economia de juros seria significativa, mas a conta não é tão simples. Com dívida de R$ 10 trilhões, a diferença de 8 pontos percentuais seria de R$ 800 bilhões em termos nominais. Porém, a dívida não é toda indexada à Selic — parte é pós-fixada, parte é pré-fixada, e há indexadores como IPCA e câmbio. A economia real seria menor que R$ 800 bilhões. A simplificação é imprecisa.
+   [FONTES]: Banco Central; Tesouro Nacional; Valor Econômico.
+
+### 25. SARAMPO EM SÃO PAULO — 23 CASOS
+   [AFIRMAÇÃO]: "São Paulo com 23 casos confirmados."
+   [CLASSIFICAÇÃO]: NÃO VERIFICÁVEL
+   [VERIFICAÇÃO]: O Ministério da Saúde informou sobre queda nos índices de vacinação infantil e surtos de sarampo em diversos estados. O número específico de 23 casos confirmados em São Paulo não foi verificado nas fontes pesquisadas até a data da entrevista.
+   [FONTES]: Ministério da Saúde; imprensa.
+
+### 26. 60 MILHÕES EM ÁREAS CONTROLADAS POR FACÇÕES
+   [AFIRMAÇÃO]: "Tem estatísticas que apontam que 60 milhões de brasileiros vivem em área controlada pelas facções."
+   [CLASSIFICAÇÃO]: NÃO VERIFICÁVEL
+   [VERIFICAÇÃO]: O dado de 60 milhões é frequentemente citado em reportagens baseado em estimativas do FBSP e pesquisas acadêmicas, mas não há uma medição oficial precisa. A complexidade de mapear "áreas controladas" pelo crime organizado torna a verificação difícil. O número éPlausível mas não confirmável com precisão.
+   [FONTES]: FBSP; pesquisas acadêmicas.
+
+### 27. MINAS GERAIS — PRIMEIRO EM TRANSPARÊNCIA
+   [AFIRMAÇÃO]: "Minas Gerais, quando eu assumi o governo, era o 22º lugar em transparência. E, depois, foi para primeiro lugar."
+   [CLASSIFICAÇÃO]: IMPRECISO
+   [VERIFICAÇÃO]: Segundo o Índice de Transparência e Governança Pública da Transparência Internacional, Minas Gerais ficou em 2º lugar em 2022 e em 3º lugar em 2025 (com 89,1 pontos). A posição de "22º lugar" no início do governo não foi verificada na fonte específica citada. MG melhorou significativamente, mas não está em 1º lugar.
+   [FONTES]: Transparência Internacional Brasil; OECD/OPSI.
+
+### 28. 40 MIL MORTOS — COMPARAÇÃO COM AVIÃO
+   [AFIRMAÇÃO]: "É como se aqui no Brasil, todos os dias, um avião de grande porte caísse."
+   [CLASSIFICAÇÃO]: OPINIÃO (com base factual)
+   [VERIFICAÇÃO]: A analogia é retoricamente eficaz, mas imprecisa. Um avião de grande porte (Boeing 737, por exemplo) transporta cerca de 150-180 passageiros. Se caísse todos os dias, seriam ~55-65 mil mortos por ano. O número de mortes violentas intencionais em 2024 foi de 44.127 (MVI) ou 38.374 (homicídios puros). A analogia superestima em 15-40% os números reais.
+   [FONTES]: FBSP; Statista.
+
+### 29. BOLSONARO — TENTATIVA DE GOLPE E JULGAMENTO
+   [AFIRMAÇÃO]: "O Supremo condenou o ex-presidente Jair Bolsonaro, entre outros réus, por tentativa de golpe de Estado."
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: O STF julgou que houve tentativa de golpe de Estado para impedir a alternância de poder após as eleições de 2022. Bolsonaro foi condenado junto com outros réus por crimes como tentativa de abolição do Estado Democrático de Direito, golpe de Estado, organização criminosa armada, entre outros.
+   [FONTES]: STF; imprensa.
+
+### 30. PIB E DÍVIDA PÚBLICA — DADO APRESENTADO PELA ANFITRIÃ
+   [AFIRMAÇÃO]: "São mais de 10 trilhões de reais. O endividamento já atingiu 82% de toda a riqueza que o Brasil produz."
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: A dívida pública bruta brasileira ultrapassou R$ 10 trilhões em 2025/2026. A relação dívida/PIB está em torno de 82%, segundo dados do Tesouro Nacional.
+   [FONTES]: Tesouro Nacional; Banco Central; IBGE.
+
+### 31. CEMIG NÃO VENDIDA
+   [AFIRMAÇÃO]: "Todas as outras [estatais] foram vendas. Ficou faltando uma empresa só" (CEMIG).
+   [CLASSIFICAÇÃO]: VERDADEIRO
+   [VERIFICAÇÃO]: A Cemig (Companhia Energética de Minas Gerais) é a principal estatal que não foi privatizada durante o governo Zema. O estado mantém o controle acionário da empresa.
+   [FONTES]: G1; Estado de Minas; imprensa.
+
+### 32. BRUMADINHO — 18 BARRAGENS DESCOMISSIONADAS
+   [AFIRMAÇÃO]: "Das 54 barragens que ofereciam risco, 18 já foram desmontadas, descomissionadas."
+   [CLASSIFICAÇÃO]: NÃO VERIFICÁVEL
+   [VERIFICAÇÃO]: O governo Zema implementou medidas de segurança após as tragédias de Mariana e Brumadinho, incluindo descomissionamento de barragens. O número específico de 18 de 54 não foi verificado nas fontes pesquisadas.
+   [FONTES]: SE-MG; imprensa.
+
+### 33. GÊNERO — FEMINICÍDIO CRESCENDO
+   [AFIRMAÇÃO]: "O número de mulheres assassinadas pelo fato de serem mulheres só cresceu."
+   [CLASSIFICAÇÃO]: VERDADEIRO (AFIRMAÇÃO DA ENTREVISTADORA)
+   [VERIFICAÇÃO]: Dados do FBSP Anuário mostram que os feminicídios no Brasil cresceram 4% em 2025. Em Minas Gerais, os números também apresentaram elevação em alguns anos do governo Zema.
+   [FONTES]: FBSP Anuário 2025; Ministério da Justiça.
+
+### 34. VACINAÇÃO OBRIGATÓRIA — POSIÇÃO DO CANDIDATO
+   [AFIRMAÇÃO]: "Eu não posso permitir que uma família, uma criança seja perseguida porque não tomou a vacina. Ser obrigatório, se transformar num crime, não é o que pode acontecer num país democrático."
+   [CLASSIFICAÇÃO]: OPINIÃO
+   [VERIFICAÇÃO]: Esta é uma posição política do candidato sobre vacinação obrigatória. Não constitui afirmação factual verificável.
+   [FONTES]: —
+
+### 35. MODELO BUKLE — SEGURANÇA PÚBLICA
+   [AFIRMAÇÃO]: "O que eu vi lá foram as pessoas vivendo muito melhor. 300 mil salvadoreños que moravam fora voltaram para El Salvador."
+   [CLASSIFICAÇÃO]: NÃO VERIFICÁVEL
+   [VERIFICAÇÃO]: Embora a redução de homicídios em El Salvador seja documentada, o número de 300 mil retorno não foi verificado. Dados de migração mostram queda no número de salvadoreños encontrados pela fronteira dos EUA (de 97 mil em 2022 para 61.515 em 2023), mas isso não equivale necessariamente a 300 mil retornos.
+   [FONTES]: US CBP; Foreign Affairs; imprensa.
+
+---
+
+DISCLAIMER
+----------
+Esta verificação é uma análise técnica de fatos apresentados em entrevista pública. Não constitui endereçamento, apoio ou oposição a qualquer candidato. O objetivo é fornecer informações verificáveis para que o eleitor tome suas próprias decisões de forma informada.

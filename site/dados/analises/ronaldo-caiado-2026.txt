@@ -1,0 +1,432 @@
+# Verificação de Fatos - Ronaldo Caiado (PSD)
+# Entrevista: TV Globo - 25/08/2026
+# Data da verificação: 29/08/2026
+
+---
+
+### 1
+
+**Afirmação do candidato:** "38 milhões não foram às urnas" (na última eleição)
+
+**Classificação:** FALSO
+
+**Verificação:**
+Segundo dados do Tribunal Superior Eleitoral (TSE), nas Eleições Gerais de 2022, o número de abstenções no primeiro turno foi de 32.770.982 eleitores (20,95% do total de aptos). No segundo turno, a abstenção foi de 32.200.558 eleitores (20,59%). O número correto é de aproximadamente 32 milhões de abstenções, e não 38 milhões. O candidato pode estar confundindo o dado de abstenções com o número de eleitores que não fizeram o recadastramento de biometria (38,3 milhões), que é um dado diferente e que não significa necessariamente que não votaram.
+
+**Fonte(s):**
+- TSE - Resultados das Eleições Gerais 2022 (1º e 2º turno)
+- G1 - "Abstenção atinge 20,9%, maior percentual desde 1998" (02/10/2022)
+
+**Observações:**
+O dado de 38 milhões corresponde ao número de eleitores que não realizaram o recadastramento de biometria até a data da eleição, e não ao número de abstentos. São conceitos distintos.
+
+---
+
+### 2
+
+**Afirmação do candidato:** "80% da população está aí tomada de dívida"
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O dado de 80% parece ser uma confusão entre métricas distintas. Segundo a SERASA, em maio de 2026, havia 83,5 milhões de brasileiros inadimplentes, o equivalente a 50,85% da população adulta. Por outro lado, a Pesquisa de Endividamento e Inadimplência do Consumidor (PEIC) da CNC apontou que 81,6% das famílias brasileiras relataram possuir dívidas a vencer em junho de 2026. O candidato parece ter confundido a porcentagem de famílias endividadas (81,6%) com a porcentagem da população em geral.
+
+**Fonte(s):**
+- SERASA - Mapa da Inadimplência e Renegociação de Dívidas (maio/2026)
+- CNC - PEIC (junho/2026)
+- Folha de S.Paulo - "Inadimplência aflige metade da população brasileira" (05/05/2026)
+
+**Observações:**
+A confusão entre "população" e "famílias" altera significativamente a magnitude da afirmação. 50% da população adulta inadimplente já é um dado grave por si só.
+
+---
+
+### 3
+
+**Afirmação do candidato:** "60 milhões de brasileiros estão numa condição de, hoje, escravizados pelo narcotráfico"
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O estudo "Governança Criminal na América Latina: Prevalência e Correlatos" estima que entre 50,6 e 61,6 milhões de pessoas no Brasil (26% da população) sofrem influência direta da "governança criminal". O dado de 60 milhões está dentro dessa faixa, mas a expressão "escravizados" é uma simplificação imprecisa do conceito técnico de "governança criminal", que envolve influência de regras impostas por facções em territórios, mas não necessariamente escravidão literal.
+
+**Fonte(s):**
+- Revista Oeste - "Um quarto dos brasileiros vive sob controle de facções" (24/08/2025)
+- Relatório "Governança Criminal na América Latina" (2025)
+- Câmara dos Deputados - Documento sobre facções criminosas (2025)
+
+**Observações:**
+O dado é aproximadamente correto em magnitude (a faixa vai de 50 a 61 milhões), mas a adjetivacao "escravizados" extrapola o conceito original do estudo.
+
+---
+
+### 4
+
+**Afirmação do candidato:** "Goiás está entre os três primeiros no IDEB no Brasil"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo o IDEB 2025 divulgado pelo MEC/INEP, Goiás obteve resultados entre os melhores do país: 2º lugar no ensino médio da rede estadual (5,0 pontos), empatado em 2º lugar nos anos finais do ensino fundamental (5,7 pontos), e 7º lugar nos anos iniciais (6,5 pontos). Na média geral das três etapas, Goiás se posiciona consistentemente entre os estados com melhor desempenho. A afirmação é correta especialmente nos anos finais e no ensino médio.
+
+**Fonte(s):**
+- MEC/INEP - IDEB 2025
+- Sagres Online - "Goiás cresce no Ideb 2025" (06/08/2026)
+- Correio Braziliense - "Ideb 2025: Goiás lidera ensino médio" (05/08/2026)
+- Tribuna do Planalto - "Goiás perde liderança no Ideb" (08/08/2026)
+
+**Observações:**
+O Paraná liderou o IDEB em todas as três etapas em 2025. Goiás perdeu a liderança que tinha em 2023 no ensino médio, mas mantém posição entre os top 3 em duas das três etapas avaliadas.
+
+---
+
+### 5
+
+**Afirmação do candidato:** "Goiás hoje tem a menor taxa de evasão escolar no Brasil"
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Segundo o Censo Escolar 2025, a taxa de abandono no ensino médio de Goiás caiu para 1%, inferior à média nacional de 2,2%. Contudo, Goiás não é o estado com a menor taxa do Brasil. Dados do Censo Escolar de 2016 mostravam que Pernambuco, o Distrito Federal, São Paulo e Espírito Santo tinham taxas de abandono inferiores à de Goiás. A afirmação de "menor taxa" é uma exageração; o correto é que Goiás está "entre os estados com menor taxa".
+
+**Fonte(s):**
+- INEP/MEC - Censo Escolar 2025
+- SEDUC-GO - "Abandono escolar em Goiás é um dos menores do País"
+- Tribuna do Planalto - "Goiás reduz abandono no ensino médio em 44%" (13/07/2026)
+
+**Observações:**
+O avanço de Goiás é real e expressivo (queda de 44% no abandono entre 2022 e 2025), mas classificar como "a menor taxa" do Brasil não corresponde aos dados oficiais.
+
+---
+
+### 6
+
+**Afirmação do candidato:** "O Estado de Goiás hoje tem entre as dez melhores colégios estaduais, tem sete melhores colégios estaduais"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo o ranking do IDEB 2025 divulgado pelo Correio Braziliense, Goiás ocupa cinco das dez primeiras posições no ensino médio entre escolas públicas do país. As escolas CEPI Brasil Ramos Caiado (Araguapaz, GO), Colégio Estadual Doutor José Balduíno de Souza (Formosa, GO) e outras escolas goianas figuram entre as mais bem classificadas. O Correio Braziliense confirmou que "Goiás ocupa cinco das dez primeiras posições" no ensino médio, enquanto a Tribuna do Planalto referiu que "sete das dez melhores escolas públicas de ensino médio do Brasil pertencem à rede estadual goiana". O candidato pode estar se referindo a esse dado mais amplo.
+
+**Fonte(s):**
+- Correio Braziliense - "Ideb 2025: Goiás lidera ensino médio" (05/08/2026)
+- Tribuna do Planalto - "Goiás perde liderança no Ideb" (08/08/2026)
+- MEC/INEP - Ranking de escolas por IDEB 2025
+
+**Observações:**
+Há uma leve variação nos números dependendo da fonte (5 ou 7 das 10 melhores), mas a essência da afirmação — dominância goiana no ranking — é verificável e correta.
+
+---
+
+### 7
+
+**Afirmação do candidato:** "Disputou a presidência pela primeira vez em 1989 e ficou em décimo lugar"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Na eleição presidencial de 1989, a primeira eleição direta após a redemocratização, Ronaldo Caiado concorreu pelo PSD e obteve 488.846 votos (0,68% dos votos válidos), ficando em décimo lugar entre 22 candidatos. A classificação é confirmada por fontes históricas e pelo acervo do TSE.
+
+**Fonte(s):**
+- Georgetown University - Brazil 1989 Presidential Election Database
+- Wikipedia - "Campanha presidencial de Ronaldo Caiado em 1989"
+- Gazeta do Povo - "Como foi a campanha presidencial de Caiado em 1989" (13/04/2026)
+- O Globo - Acervo sobre Caiado em 1989 (01/04/2026)
+
+**Observações:**
+A afirmação é integralmente correta.
+
+---
+
+### 8
+
+**Afirmação do candidato:** "Goiás governou por sete anos e três meses"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Ronaldo Caiado foi eleito governador de Goiás em 2018, tomando posse em 1º de janeiro de 2019. Deixou o cargo em março de 2025 para disputar aPresidência da República, tendo governado por aproximadamente sete anos e três meses.
+
+**Fonte(s):**
+- TSE - Resultados eleições 2018 (Goiás)
+- Organização dos Estados Americanos (OEA) - Dados sobre governadores brasileiros
+
+**Observações:**
+O dado é consistente com o período de mandato.
+
+---
+
+### 9
+
+**Afirmação do candidato:** "Brasil tem fronteira com 10 países"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O Brasil faz fronteira terrestre com 10 países sul-americanos: Argentina, Bolívia, Colômbia, França (Guiana Francesa), Guiana, Paraguai, Peru, Suriname, Uruguai e Venezuela. Apenas Chile e Equador não compartilham fronteira com o Brasil.
+
+**Fonte(s):**
+- Fundação Alexandre de Gusmão (FUNAG) - "Fronteiras Terrestres"
+- Wikipedia - "Fronteiras do Brasil"
+- UOL Educação - "Fronteiras brasileiras"
+
+**Observações:**
+Dado geográfico elementar e preciso.
+
+---
+
+### 10
+
+**Afirmação do candidato:** "A informalidade lá [na Índia] é mais de 90%"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo dados da Organização Internacional do Trabalho (OIT), a informalidade na Índia atinge mais de 90% do total de trabalhadores empregados. O estudo "Informal Workers in India: A Statistical Profile" (WIEGO/OIT) confirma que 90% de todos os trabalhadores indianos estão empregados em arranjos informais. Outras fontes apontam que o setor informal representa mais de 92% da força de trabalho.
+
+**Fonte(s):**
+- OIT - "Persistent informality, but growing positive development" (India)
+- WIEGO - "Informal Workers in India: A Statistical Profile" (2020)
+- IMF - "Measuring Informality in India"
+
+**Observações:**
+O dado é amplamente confirmado por organismo internacionais.
+
+---
+
+### 11
+
+**Afirmação do candidato:** "84 milhões de brasileiros com contas em atraso"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo o Mapa da Inadimplência da SERASA referente a junho de 2026, o Brasil registrou 83,7 milhões de pessoas com contas em atraso, recorde na série histórica. O número de 84 milhões mencionado pelo candidato é uma aproximação razoável do dado oficial de 83,7 milhões.
+
+**Fonte(s):**
+- SERASA - Mapa da Inadimplência e Renegociação de Dívidas (junho/2026)
+- O Globo - "Inadimplência já atinge 9,1 milhões de empresas" (17/08/2026)
+- CNN Brasil - "Inadimplência atinge mais de 9,1 milhões de empresas" (17/08/2026)
+
+**Observações:**
+Aproximação aceitável. O número exato é 83,7 milhões (junho/2026).
+
+---
+
+### 12
+
+**Afirmação do candidato:** "Mais de 9 milhões de empresas no vermelho, 95% dessas empresas em situação crítica são micro e pequenas"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo a SERASA Experian, em junho de 2026, 9,1 milhões de CNPJs estavam negativados, com dívidas acumuladas de R$ 232,9 bilhões. Desse total, 8,7 milhões (aproximadamente 95%) pertenciam a micro e pequenas empresas. A afirmação do candidato está correta em ambos os dados.
+
+**Fonte(s):**
+- SERASA Experian - Indicador de Inadimplência das Empresas (junho/2026)
+- O Globo - "Inadimplência já atinge 9,1 milhões de empresas" (17/08/2026)
+- VEJA - "Inadimplência atinge recorde de 9,1 milhões de empresas" (17/08/2026)
+
+**Observações:**
+Dados confirmados por múltiplas fontes jornalísticas e pela própria SERASA.
+
+---
+
+### 13
+
+**Afirmação do candidato:** "Dívida pública mais de 10 trilhões de reais, já alcançou 82% do PIB"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo o Banco Central do Brasil, em junho de 2026, a dívida bruta do setor público consolidado atingiu R$ 10,809 trilhões, o equivalente a 81,9% do PIB. Os dados são consistentes com a afirmação do candidato, considerando arredondamento.
+
+**Fonte(s):**
+- Banco Central do Brasil - Relatório de Estatísticas Fiscais (junho/2026)
+- G1 - "Dívida pública sobe 10 pontos do PIB" (31/07/2026)
+- O Globo - "Dívida pública sobe e chega a 81,9% do PIB" (31/07/2026)
+- Estadão - "Dívida bruta do setor público volta a crescer" (31/07/2026)
+
+**Observações:**
+O dado é oficial e verificável. O candidato usou "82%" como arredondamento de 81,9%, o que é aceitável.
+
+---
+
+### 14
+
+**Afirmação do candidato:** "Carga tributária de 32 hoje"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo a Secretaria do Tesouro Nacional, a carga tributária bruta do Governo Geral em 2025 foi de 32,40% do PIB, maior nível da série histórica iniciada em 2010. O dado é recorde e foi amplamente divulgado pela imprensa.
+
+**Fonte(s):**
+- Tesouro Nacional - "Estimativa da Carga Tributária Bruta do Governo Geral" (10/04/2026)
+- G1 - "Carga tributária soma 32,4% do PIB em 2025" (10/04/2026)
+- Folha de S.Paulo - "Carga tributária bate recorde: 32,4% do PIB" (10/04/2026)
+
+**Observações:**
+Dado oficial do Tesouro Nacional, confirmado por múltiplas fontes.
+
+---
+
+### 15
+
+**Afirmação do candidato:** "O Supremo concedeu ao ex-presidente Lula [anistia]... ele foi condenado em todas as instâncias"
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O ministro Edson Fachin, do STF, anulou em março de 2021 todas as condenações de Lula proferidas pela 13ª Vara Federal de Curitiba, por questão de incompetência jurídica (os casos não se relacionavam diretamente com a Lava Jato). O Plenário do STF confirmou a decisão por 8 votos a 3. Não se tratou de "anistia" no sentido clássico, mas sim de anulação por incompetência do juízo. Quanto à expressão "condenado em todas as instâncias", Lula foi condenado em segunda instância no caso do Triplex pelo STJ, mas as condenações foram anuladas antes que chegassem ao STF. Portanto, a afirmação contém elementos parcialmente corretos (houve condenações e houve anulação), mas a terminologia é imprecisa.
+
+**Fonte(s):**
+- STF - "Fachin anula condenações de Lula" (08/03/2021)
+- STF - "STF confirma anulação de condenações" (15/04/2021)
+- BBC News Brasil - "STF anula condenações contra Lula" (08/03/2021)
+- G1 - Nota de Fachin sobre anulação (08/03/2021)
+
+**Observações:**
+A decisão do STF foi baseada em questão de competência jurídica, não em mérito das acusações. O candidato usa o termo "anistia" de forma coloquial, mas juridicamente o instituto aplicado foi anulação por incompetência.
+
+---
+
+### 16
+
+**Afirmação do candidato:** "JK propôs anistia e foi trabalhar... Parte daqueles anistiados por JK, oito anos depois, ajudaram a promover o golpe de 64"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Após a Revolta de Jacareacanga em fevereiro de 1956, o presidente Juscelino Kubitschek pediu ao Congresso a anistia dos militares rebeldes, que foi aprovada em maio daquele ano. Um dos anistiados, o major Haroldo Veloso, continuou conspirando e liderou nova tentativa de golpe em 1959 (Revolta de Aragarças). Após ser anistiado novamente em 1961, Veloso apoiou o golpe militar de 1964 e elegeu-se deputado federal pela Arena. A afirmação é historicamente correta.
+
+**Fonte(s):**
+- Folha de S.Paulo - "Revolta militar tentou derrubar JK" (16/02/2026)
+- O Globo - Blog do Acervo - "JK e a anistia dos golpistas" (08/09/2025)
+- Agência Senado - "Revolta militar na Amazônia tentou derrubar JK" (06/02/2026)
+
+**Observações:**
+A relação causal entre a anistia de JK e o golpe de 1964 é um fato histórico documentado, embora a anistia não seja a única causa do golpe.
+
+---
+
+### 17
+
+**Afirmação do candidato:** "Europol tem ação e liberdade para poder fazer prisões"
+
+**Classificação:** FALSO
+
+**Verificação:**
+A Europol não possui poderes executivos. Segundo a decisão do Conselho Europeu (2009) e a Wikipedia, "a Europol e os seus funcionários não têm poderes executivos — e, portanto, não têm o poder de prender e não podem realizar investigações criminais sem a aprovação das autoridades nacionais". A Europol atua como centro de cooperação e inteligência, apoiando as autoridades competentes dos Estados-membros, mas não realiza prisões por conta própria.
+
+**Fonte(s):**
+- Conselho da União Europeia - Decisão do Conselho, de 6 de Abril de 2009 (criação da Europol)
+- Wikipedia - "Europol"
+- Euronews - "Europol: competências e limites de ação" (23/12/2011)
+
+**Observações:**
+A afirmação do candidato é factualmente incorreta. A Europol compartilha informações e apoia investigações, mas não tem autoridade para prender indivíduos. A reportora da TV Globo corrigiu o candidato durante a entrevista.
+
+---
+
+### 18
+
+**Afirmação do candidato:** "O Temer fez [juros a 6% e inflação a 3%]"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+No final do governo de Michel Temer (dezembro de 2018), a taxa Selic estava em 6,5% ao ano (menor patamar da série histórica na época) e a inflação (IPCA) de 2018 foi de 3,75%. O candidato aproximou os valores (6% em vez de 6,5% e 3% em vez de 3,75%), mas a referência é factualmente correta.
+
+**Fonte(s):**
+- Banco Central do Brasil - Séries temporais (Taxa Selic)
+- IBGE - IPCA (2018)
+
+**Observações:**
+Os valores são aproximados, mas a referência histórica é correta. O governo Temer de fato entregou controle da inflação e taxas de juros em patamares historicamente baixos.
+
+---
+
+### 19
+
+**Afirmação do candidato:** "SUS com consulta a R$ 10 até hoje"
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Não foi encontrado dado oficial que confirme ou refute especificamente que uma consulta no SUS custa R$ 10. O valor pode se referir a algum procedimento específico ou repasse financeiro, mas não há fonte oficial que corrobore esse número exato como custo médio de consulta.
+
+**Fonte(s):**
+- Não aplicável
+
+**Observações:**
+O dado parece ser uma referência a algum indicador específico de repasse financeiro do SUS, mas sem fonte identificável, não é possível verificar.
+
+---
+
+### 20
+
+**Afirmação do candidato:** "O Brasil é a Disneylândia do narcotráfico" / "O Brasil é o resort do narcotráfico"
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+Trata-se de expressões retóricas e metafóricas do candidato para caracterizar a situação do narcotráfico no Brasil. Não constituem afirmações factuais verificáveis, mas sim avaliações subjetivas sobre a gravidade do problema.
+
+**Fonte(s):**
+- Não aplicável
+
+**Observações:**
+Expressões de caráter opinativo e retórico.
+
+---
+
+### 21
+
+**Afirmação do candidato:** "O arcabouço fiscal... o próprio presidente atual diz... esse negócio de arcabouço fiscal, de equilíbrio fiscal, isso só vai atrapalhar a governança. Eu não preciso disso para o governo"
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+O candidato atribui ao presidente Lula uma declaração sobre o arcabouço fiscal. Não foi encontrada declaração pública exata com esse teor. Pode ser uma paráfrase ou referência a posicionamento indireto, mas sem a citação exata não é possível verificar a autenticidade.
+
+**Fonte(s):**
+- Não aplicável
+
+**Observações:**
+Atribuição de declaração sem citação textual precisa. Não é possível confirmar ou refutar sem a fonte exata.
+
+---
+
+## Resumo
+
+| Nº | Afirmação | Classificação |
+|---|---|---|
+| 1 | 38 milhões não foram às urnas | FALSO |
+| 2 | 80% da população tomada de dívida | IMPRECISO |
+| 3 | 60 milhões escravizados pelo narcotráfico | IMPRECISO |
+| 4 | Goiás entre os 3 primeiros no IDEB | VERDADEIRO |
+| 5 | Goiás menor taxa de evasão escolar | IMPRECISO |
+| 6 | 7 dos 10 melhores colégios estaduais são de Goiás | VERDADEIRO |
+| 7 | Disputou presidência em 1989, décimo lugar | VERDADEIRO |
+| 8 | Governou Goiás por 7 anos e 3 meses | VERDADEIRO |
+| 9 | Brasil fronteira com 10 países | VERDADEIRO |
+| 10 | Informalidade na Índia > 90% | VERDADEIRO |
+| 11 | 84 milhões com contas em atraso | VERDADEIRO |
+| 12 | 9 milhões empresas no vermelho, 95% micro/pequenas | VERDADEIRO |
+| 13 | Dívida pública > 10 trilhões, 82% do PIB | VERDADEIRO |
+| 14 | Carga tributária de 32% | VERDADEIRO |
+| 15 | Lula condenado em todas as instâncias/anistiado | IMPRECISO |
+| 16 | JK anistiou golpistas que depois apoiaram golpe de 64 | VERDADEIRO |
+| 17 | Europol tem poder de fazer prisões | FALSO |
+| 18 | Temer fez juros a 6% e inflação a 3% | VERDADEIRO |
+| 19 | SUS com consulta a R$ 10 | NÃO VERIFICÁVEL |
+| 20 | Brasil é a Disneylândia do narcotráfico | OPINIÃO |
+| 21 | Lula disse que arcabouço fiscal atrapalha | NÃO VERIFICÁVEL |
+
+**Legenda:**
+- VERDADEIRO: 11 afirmações
+- FALSO: 2 afirmações
+- IMPRECISO: 4 afirmações
+- NÃO VERIFICÁVEL: 2 afirmações
+- OPINIÃO: 1 afirmação

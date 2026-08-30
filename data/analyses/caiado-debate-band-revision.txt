@@ -1,0 +1,115 @@
+### Revisão de Fatos — Debate Band Ronaldo Caiado (PSD)
+### Rodada: 2
+### Data: 2026-08-30
+
+---
+
+### [11]
+
+**Afirmação:** "Nenhum país que a gente está concorrendo, China, Índia, Vietnã, está fazendo esse tipo de política agora." (referindo-se à redução da jornada de trabalho)
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "China Índia Vietnã redução jornada trabalho 2026 política legislação" → O México aprovou em fevereiro de 2026 emenda constitucional reduzindo a jornada de 48 para 40 horas semanais gradualmente até 2030. A China mantém jornada de 40 horas desde 1995, sem nova redução em debate. A Índia não possui legislação federal uniforme sobre jornada máxima. O Vietnã adota 48 horas semanais, com discussões sobre redução.
+- Consulta 2: "redução jornada trabalho 2026 Brasil comparação internacional" → Debate brasileiro sobre escala 6x1 é um dos mais avançados entre grandes economias, mas o México também está implementando redução similar.
+
+**Evidência encontrada:**
+A busca confirmou que os três países mencionados por Caiado (China, Índia, Vietnã) não estão implementando reduções comparáveis à proposta brasileira em 2026. A China tem 40h desde 1995, a Índia não tem legislação uniforme, e o Vietnã mantém 48h. No entanto, o México aprovou redução semelhante em 2026, o que contradiz a afirmação implícita de que "nenhum país" está fazendo isso — embora Caiado não tenha mencionado o México.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+A afirmação se restringe a China, Índia e Vietnã, para os quais não há evidência de redução de jornada em andamento em 2026. Contudo, a afirmação mais ampla de que "nenhum país concorrente" está implementando políticas de redução é imprecisa, pois o México — grande parceiro comercial e concorrente do Brasil — aprovou redução similar. A classificação NÃO VERIFICÁVEL se mantém porque a verificação depende de informações legislativas de múltiplos países, e a afirmação pode ser interpretada de formas diferentes.
+
+**Fonte(s) adicional(is):**
+- Câmara dos Deputados — Apresentação sobre normas internacionais de jornada de trabalho (2026)
+- Forbes Brasil, 27/05/2026: "Os 10 Países da OCDE com as Menores Jornadas de Trabalho"
+
+---
+
+### [12]
+
+**Afirmação:** "O Lula está doido para criar esse impasse. Porque ele viu o presidente do Canadá e da Austrália ganhando, então ele está provocando o Trump toda hora."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "Lula provocação Trump tarifas Canadá Austrália eleições 2025 2026" → Múltiplas fontes confirmam o "efeito Trump" em eleições: Mark Carney (Canadá, abril 2025) e Anthony Albanese (Austrália, maio 2025) venceram após contrapor-se a Trump. Analistas como Rafael Cortez e Leonardo Sakamoto documentaram o fenômeno.
+- Consulta 2: "Caiado Lula provocação Trump Flow Podcast julho 2026" → Caiado fez a mesma afirmação em entrevista ao Flow Podcast em 08/07/2026, criticando Lula por "provocar" Trump para obter retorno eleitoral.
+
+**Evidência encontrada:**
+Os fatos sobre as eleições no Canadá e na Austrália são confirmados. O "efeito Trump" é amplamente documentado por analistas políticos. Caiado repetiu essa mesma narrativa publicamente. No entanto, a atribuição de motivação subjetiva a Lula ("está doido para criar impasse") não é verificável com dados oficiais.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+Os elementos factuais da afirmação (eleições no Canadá e Austrália, vitórias de candidatos que se opuseram a Trump) são confirmados. No entanto, a motivação atribuída a Lula ("doido para criar impasse", "provocando Trump toda hora") é uma interpretação subjetiva do candidato Caiado sobre as intenções do presidente, o que permanece não verificável factualmente.
+
+**Fonte(s) adicional(is):**
+- G1, 08/07/2026: "Caiado critica Flávio Bolsonaro e Lula diante de novo tarifaço dos EUA"
+- Observador.pt, 11/07/2025: "Trump deu 'pontapé de saída' para campanha no Brasil"
+- BBC News Brasil, 10/07/2025: "Como decisão de Trump de taxar Brasil pode beneficiar Lula"
+
+---
+
+### [13]
+
+**Afirmação:** "Eu tenho o livro amarelo, que é um livro de propostas. 460 páginas com propostas para o Brasil."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "Ronaldo Caiado livro amarelo propostas 460 páginas 2026" → O "Livro Amarelo" é um documento do Partido Missão (Renan Santos), não de Caiado. O site livroamarelo.org.br e o PDF em renansantospropostas.com.br confirmam que é plano de governo do Partido Missão, com mais de 500 páginas.
+- Consulta 2: "Ronaldo Caiado plano governo páginas 2026" → O plano de governo de Caiado ("Plano de Governo Ronaldo Caiado – Presidente 2027-2030") tem cerca de 100 páginas, conforme Poder360 e Valor Econômico.
+
+**Evidência encontrada:**
+Não há fonte independente que confirme que Caiado possui um "livro amarelo" com 460 páginas. O "Livro Amarelo" existente é do Partido Missão (Renan Santos), com mais de 500 páginas. O plano de governo de Caiado tem cerca de 100 páginas. É possível que Caiado esteja se referindo a um material de campanha não disponível publicamente, mas não há como verificar o número de páginas.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+A afirmação é sobre material de campanha do candidato. Não foi possível encontrar independentemente a existência de um "livro amarelo" de Caiado com 460 páginas. O "Livro Amarelo" documentado é de outro partido (Missão). O plano de governo de Caiado disponível publicamente tem aproximadamente 100 páginas, não 460.
+
+**Fonte(s) adicional(is):**
+- Poder360, 14/08/2026: "Leia a íntegra do plano de governo de Ronaldo Caiado"
+- livroamarelo.org.br — Livro Amarelo do Partido Missão
+
+---
+
+### [14]
+
+**Afirmação:** "O Flávio é envolvido em todos os escândalos de corrupção possíveis."
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "Flávio Bolsonaro escândalos corrupção investigação 2026" → Intercept Brasil (23/05/2026) documentou múltiplos escândalos: relação com Daniel Vorcaro (Banco Master), emenda parlamentar de R$ 199 mil para ONG ligada aos irmãos Brazão, caso Dark Horse (filme biográfico com R$ 61 milhões de Vorcaro), investigação de filiação ao Partido Missão. Revista Fórum (21/08/2026) reportou nova denúncia sobre suposto envolvimento com petróleo.
+
+**Evidência encontrada:**
+Flávio Bolsonaro enfrenta múltiplas investigações e denúncias: rachadinha (caso encerrado sem condenação), Banco Master/Daniel Vorcaro, Dark Horse, emenda para ONG dos Brazão, inserção irregular de filiação partidária. No entanto, a expressão "todos os escândalos de corrupção possíveis" é uma generalização impossível de verificar.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+Embora existam múltiplos escândalos documentados envolvendo Flávio Bolsonaro, a afirmação de que ele está envolvido em "TODOS os escândalos de corrupção possíveis" é uma extrapolação retórica que não pode ser verificada factualmente. A classificação se mantém porque a expressão "todos" torna a afirmação uma generalização não verificável.
+
+**Fonte(s) adicional(is):**
+- Intercept Brasil, 23/05/2026: "Novos escândalos de Flávio Bolsonaro assombram a direita"
+- Revista Fórum, 21/08/2026: "Flávio Bolsonaro será alvo de nova denúncia de corrupção"
+- UOL, 06/12/2025: "Decisões do STJ e STF livraram Flávio do caso das rachadinhas"
+
+---
+
+### RESUMO DA REVISÃO
+
+Total de afirmações revisadas: 4
+Mantidas: 4
+Retificadas: 0
+
+| Afirmação | Original | Revisada | Mudou? |
+|-----------|----------|----------|--------|
+| #[11] | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #[12] | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #[13] | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #[14] | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |

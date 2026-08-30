@@ -1,0 +1,10 @@
+{
+  "candidate": "Flávio Nantes Bolsonaro",
+  "party": "PL",
+  "interview_date": "2026-08-28",
+  "transcript_file": "data/transcripts/flavio-bolsonaro-2026.txt",
+  "analysis_file": "data/analyses/flavio-bolsonaro-2026.txt",
+  "model_used": "opencode/mimo-v2.5-free",
+  "analysis_date": "2026-08-30",
+  "version": "2.0"
+}

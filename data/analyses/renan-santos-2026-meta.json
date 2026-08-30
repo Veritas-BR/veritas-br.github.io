@@ -1,0 +1,10 @@
+{
+  "candidate": "Renan Santos",
+  "party": "Missão",
+  "interview_date": "2026-08-26",
+  "transcript_file": "data/transcripts/renan.txt",
+  "analysis_file": "data/analyses/renan-santos-2026.txt",
+  "model_used": "opencode/mimo-v2.5-free",
+  "analysis_date": "2026-08-30",
+  "version": "2.0"
+}

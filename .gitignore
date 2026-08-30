@@ -1,0 +1,11 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Áudios brutos (temporários para transcrição)
+data/raw/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db

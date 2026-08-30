@@ -1,0 +1,9264 @@
+1
+00:00:00,000 --> 00:00:07,799
+Um.
+
+2
+00:00:30,000 --> 00:00:32,000
+Um.
+
+3
+00:01:00,000 --> 00:01:02,000
+Um.
+
+4
+00:01:02,000 --> 00:01:03,000
+Um.
+
+5
+00:01:03,000 --> 00:01:04,000
+Um.
+
+6
+00:01:04,000 --> 00:01:05,000
+Um.
+
+7
+00:01:05,000 --> 00:01:06,000
+Um.
+
+8
+00:01:06,000 --> 00:01:07,000
+Um.
+
+9
+00:01:07,000 --> 00:01:08,000
+Um.
+
+10
+00:01:08,000 --> 00:01:09,000
+Um.
+
+11
+00:01:09,000 --> 00:01:10,000
+Um.
+
+12
+00:01:10,000 --> 00:01:11,000
+Um.
+
+13
+00:01:11,000 --> 00:01:12,000
+Um.
+
+14
+00:01:12,000 --> 00:01:13,000
+Um.
+
+15
+00:01:13,000 --> 00:01:14,000
+Um.
+
+16
+00:01:14,000 --> 00:01:15,000
+Um.
+
+17
+00:01:15,000 --> 00:01:17,000
+Olá, boa noite para você.
+
+18
+00:01:17,000 --> 00:01:18,000
+Boa noite.
+
+19
+00:01:18,000 --> 00:01:26,000
+A partir de agora você acompanha o primeiro debate entre os candidatos à presidência das eleições 2026,
+
+20
+00:01:26,000 --> 00:01:32,000
+um encontro que reafirma uma tradição da Band que começou em 1989 com a redemocratização.
+
+21
+00:01:32,000 --> 00:01:43,000
+Ao colocar os candidatos frente a frente, o debate oferece ao eleitor uma oportunidade de comparar os concorrentes ao Palácio do Planalto e as suas propostas.
+
+22
+00:01:43,000 --> 00:01:52,000
+Para este debate, a Band tem como parceiras a TV Cultura, o Jornal Estadão, a TV Gazeta e a Jovem Pan News.
+
+23
+00:01:52,000 --> 00:02:06,000
+O programa também está sendo transmitido pela Band News TV, pelas Rádios Bandeirantes e Band News FM, pela página Band Jornalismo no YouTube e por todas as plataformas digitais da Band.
+
+24
+00:02:06,000 --> 00:02:13,000
+Em nome do PUM, eu agradeço a presença dos candidatos posicionados aqui em ordem previamente sorteada.
+
+25
+00:02:13,000 --> 00:02:22,000
+São eles, Renan Santos, Ronaldo Caiado e Augusto Cury.
+
+26
+00:02:22,000 --> 00:02:38,000
+Os candidatos Luiz Inácio Lula da Silva, Flávio Bolsonaro e Romeu Zema foram convidados e estiveram representados em todas as reuniões preparatórias para este debate, mas optaram por não participar.
+
+27
+00:02:38,000 --> 00:02:49,000
+Como previamente acertado com suas campanhas, estarão no palco durante todo o debate as cadeiras vazias que estavam reservadas para eles.
+
+28
+00:02:49,000 --> 00:02:52,000
+Vamos acompanhar agora, então, as regras desse debate.
+
+29
+00:02:52,000 --> 00:03:02,000
+Este primeiro bloco começa com todos os candidatos respondendo em ordem previamente sorteada, perguntas feitas pelos dois âncoras.
+
+30
+00:03:02,000 --> 00:03:05,000
+Cada um terá dois minutos para a resposta.
+
+31
+00:03:05,000 --> 00:03:08,000
+Na sequência, o primeiro confronto direto.
+
+32
+00:03:08,000 --> 00:03:13,000
+O candidato escolhe quem vai responder e terá um minuto para sua pergunta.
+
+33
+00:03:13,000 --> 00:03:18,000
+O candidato questionado tem quatro minutos para administrar entre resposta e tréplica.
+
+34
+00:03:18,000 --> 00:03:22,000
+Aquele que perguntou tem um minuto para a réplica após a resposta.
+
+35
+00:03:22,000 --> 00:03:25,000
+Todos perguntam em ordem sorteada.
+
+36
+00:03:25,000 --> 00:03:28,000
+O candidato só pode ser escolhido uma vez para responder.
+
+37
+00:03:28,000 --> 00:03:35,000
+No segundo bloco, jornalistas fazem as perguntas e escolhem um candidato para responder e outro para comentar.
+
+38
+00:03:35,000 --> 00:03:41,000
+O candidato questionado tem quatro minutos para dividir como quiser entre a resposta e a réplica.
+
+39
+00:03:41,000 --> 00:03:43,000
+O tempo para o comentário é de um minuto.
+
+40
+00:03:43,000 --> 00:03:49,000
+O terceiro bloco começa com mais um confronto direto entre os candidatos, seguindo as mesmas regras.
+
+41
+00:03:49,000 --> 00:03:52,000
+Em ordem sorteada, cada um escolhe com quem debater.
+
+42
+00:03:52,000 --> 00:03:56,000
+Um minuto para a pergunta e um minuto para a réplica.
+
+43
+00:03:56,000 --> 00:04:00,000
+Quatro minutos de banco de tempo para a resposta e tréplica.
+
+44
+00:04:00,000 --> 00:04:09,000
+A seguir, também em ordem sorteada previamente, os candidatos terão um minuto e meio cada um para suas considerações finais.
+
+45
+00:04:09,000 --> 00:04:20,000
+É importante lembrar que, em caso de ofensa pessoal ou moral, o candidato pode pedir direito de resposta assim que terminar o tempo de quem estiver com a palavra.
+
+46
+00:04:20,000 --> 00:04:28,000
+Uma comissão presente na Band, formada por advogados e dois jornalistas, vai avaliar a solicitação no mesmo bloco.
+
+47
+00:04:28,000 --> 00:04:32,000
+Caso seja concedido, o tempo de resposta será de um minuto.
+
+48
+00:04:32,000 --> 00:04:36,000
+Vamos, então, começar com uma pergunta direcionada a cada candidato.
+
+49
+00:04:36,000 --> 00:04:39,000
+A minha pergunta vai para o candidato Renan Santos.
+
+50
+00:04:39,000 --> 00:04:43,000
+A ordem foi definida por sorteio e o meu tema é segurança pública.
+
+51
+00:04:43,000 --> 00:04:49,000
+Candidato Renan Santos, o que tira o sono dos brasileiros hoje é a falta de segurança.
+
+52
+00:04:49,000 --> 00:04:52,000
+Cada 45 segundos, um celular é roubado.
+
+53
+00:04:52,000 --> 00:04:56,000
+Os números de homicídios, embora em queda, ainda são escandalosos.
+
+54
+00:04:56,000 --> 00:05:00,000
+40.775 assassinatos no ano passado.
+
+55
+00:05:00,000 --> 00:05:06,000
+E o país vê o crime organizado avançar sobre todas as regiões sem freio.
+
+56
+00:05:06,000 --> 00:05:22,000
+Diante desse cenário de extrema gravidade, a gente vê surgir propostas como redução da maioridade penal para 16 anos, em discussão no Congresso, e também copiar o projeto de segurança de El Salvador, quase como se fossem propostas mágicas para solucionar o nosso problema.
+
+57
+00:05:22,000 --> 00:05:33,000
+A minha pergunta para o senhor é, o senhor poderia trazer aqui para a gente, nesse debate, essa noite, três propostas efetivas que podem, de fato, melhorar a segurança no país e trazer paz para o brasileiro?
+
+58
+00:05:33,000 --> 00:05:34,000
+Boa noite.
+
+59
+00:05:34,000 --> 00:05:36,000
+Boa noite.
+
+60
+00:05:36,000 --> 00:05:37,000
+Boa noite, muito obrigado.
+
+61
+00:05:37,000 --> 00:05:39,000
+Uma honra estar aqui com todos vocês.
+
+62
+00:05:39,000 --> 00:05:42,000
+Vou responder a sua pergunta, eu falo rápido, então você tem a oportunidade de me ouvir.
+
+63
+00:05:42,000 --> 00:05:49,000
+Antes, só queria lembrar que com o país completamente em crise, esses dois criminosos não vieram ao debate.
+
+64
+00:05:49,000 --> 00:05:58,000
+Desrespeitaram a emissora Rede Bandeirantes, desrespeitaram os brasileiros, vivem brigando por aí na internet, botando seus cachorros para ficarem discutindo, mas eles próprios são covardes.
+
+65
+00:05:58,000 --> 00:06:02,000
+Covardes. Não estão vindo aqui porque não têm coragem de falar sobre os crimes que cometeram.
+
+66
+00:06:02,000 --> 00:06:09,000
+Lula com Lulinha, com Petrolão, com Mensalão, Flávio Bolsonaro com seu envolvimento com Daniel Vorcaro, com seu escândalo de rachadinha.
+
+67
+00:06:09,000 --> 00:06:16,000
+Covardes e canalhas. E vocês não ligam para as vidas dos brasileiros que morrem todos os anos por conta da criminalidade do crime organizado.
+
+68
+00:06:16,000 --> 00:06:22,000
+Trazendo três propostas muito claras. Nós vamos declarar estado de defesa e colocar em GLO regiões tomadas pelo crime organizado.
+
+69
+00:06:22,000 --> 00:06:30,000
+O que vai permitir, por parte das forças de segurança, tanto as nossas polícias quanto a Polícia Federal, atuar para destruir, para eliminar o crime organizado.
+
+70
+00:06:30,000 --> 00:06:32,000
+Eu estou falando de passar a rapa nesses caras.
+
+71
+00:06:32,000 --> 00:06:40,000
+Dois, construção de superpresídios. Criar mais de 300 a 500 mil vagas com presídios em que não haverá mais o isolamento de facção.
+
+72
+00:06:40,000 --> 00:06:44,000
+Faccionado vai estar todo mundo junto, porque nós vamos eliminar as facções.
+
+73
+00:06:44,000 --> 00:06:48,000
+E terceiro ponto, uma integração muito poderosa entre os estados.
+
+74
+00:06:48,000 --> 00:06:53,000
+Estado que não quiser atuar na destruição do crime organizado, sofrerá intervenção do governo federal.
+
+75
+00:06:53,000 --> 00:06:55,000
+Vou dar um exemplo aqui, porque a gente não pode fugir.
+
+76
+00:06:55,000 --> 00:06:59,000
+Ceará. Ceará e Bahia, governos do petismo. Governos desse cara aqui, ó.
+
+77
+00:06:59,000 --> 00:07:04,000
+Esses caras têm vergonha e medo de enfrentar o crime organizado e estão deixando a população morrer.
+
+78
+00:07:04,000 --> 00:07:06,000
+As estatísticas estão contra eles. O que nós vamos fazer?
+
+79
+00:07:06,000 --> 00:07:14,000
+Se os governadores do Ceará e da Bahia forem reeleitos, eu vou fazer uma intervenção, caso eles não desejem enfrentar o crime organizado.
+
+80
+00:07:14,000 --> 00:07:19,000
+Essa será a guerra. Nós vamos enfrentar o crime organizado como nunca antes na história do nosso país.
+
+81
+00:07:19,000 --> 00:07:21,000
+Eu conto com todos para fazer esse enfrentamento. Muito obrigado.
+
+82
+00:07:21,000 --> 00:07:23,000
+Obrigada, candidato.
+
+83
+00:07:23,000 --> 00:07:28,000
+Bom, a próxima pergunta vai para o candidato Ronaldo Caiado. Peço desculpa pela minha voz.
+
+84
+00:07:28,000 --> 00:07:35,000
+Empreender, candidato, envolve riscos. Mas uma coisa é correr os riscos ligados ao negócio.
+
+85
+00:07:35,000 --> 00:07:45,000
+E bem diferente é correr os riscos ligados ao Estado, desajuste fiscal, dívida pública elevada, juros elevados, que comprometem a produção.
+
+86
+00:07:45,000 --> 00:08:02,000
+Se o senhor for eleito presidente, como é que o senhor vai fazer para ajustar o Estado, reduzir a dívida e abrir espaço para redução da taxa de juros e deixar com o empresário apenas os riscos do negócio dele e não o ambiente hostil, que é o ambiente brasileiro?
+
+87
+00:08:02,000 --> 00:08:08,000
+Muito obrigado, Oineg. Muito obrigado, Adriana. É um prazer enorme em poder estar aqui.
+
+88
+00:08:08,000 --> 00:08:17,000
+Eu quero cumprimentar toda a direção da Band. É um momento especial na minha vida em poder estar aqui novo, debatendo e participando de mais uma campanha eleitoral.
+
+89
+00:08:17,000 --> 00:08:27,439
+É lógico que é o momento onde a sociedade esperava a presença aqui dos dois pré-candidatos, que são também os mais rejeitados no país.
+
+90
+00:08:28,000 --> 00:08:35,080
+Aí isto mostra, talvez, o porquê da fuga deles, por não terem como explicar os escândalos que estão envolvidos.
+
+91
+00:08:35,360 --> 00:08:42,659
+Mas vamos lá objetivamente. Olha, primeiro lugar, derrotar o Lula. Primeiro lugar, para essa medida acontecer.
+
+92
+00:08:42,659 --> 00:08:59,480
+Segundo lugar, eu pergunto à senhora que vai aí ao supermercado. Consegue ter o carrinho de supermercado com o mesmo volume ali que conseguia para a sua alimentação e da sua família há exatos três, quatro meses, cinco meses atrás?
+
+93
+00:08:59,899 --> 00:09:01,000
+Como combater isso?
+
+94
+00:09:01,120 --> 00:09:05,319
+A maneira direta precisa de um choque de credibilidade.
+
+95
+00:09:06,120 --> 00:09:10,679
+Pessoa que assumir o governo na presidência da República precisa ter autoridade moral.
+
+96
+00:09:10,679 --> 00:09:13,299
+E nessa hora eu não vou endividar o país.
+
+97
+00:09:13,620 --> 00:09:26,679
+Eu vou conter despesas do país, vou fazer com que a taxa de juros caia a patamares como já caíram em termos de 6% quando Michel Temer assumiu o governo e vou buscar também uma inflação em torno de 3% ou 4%.
+
+98
+00:09:26,679 --> 00:09:45,459
+Isso aí vai recuperar a economia do país e não vai deixar com que os empresários fujam para o Paraguai, que passou sem dúvida alguma e ser a grande estrutura para absorver aquilo que o Lula tem expulsado, os geradores de emprego e os geradores de impostos em nosso país.
+
+99
+00:09:45,460 --> 00:09:48,400
+E para concluir, é uma coisa só, minha gente.
+
+100
+00:09:48,680 --> 00:09:53,139
+Olha, acreditem, desde que tenha autoridade moral, a gente pode fazer.
+
+101
+00:09:53,480 --> 00:10:00,840
+Isso aconteceu em Goiás, assumi o governo e pode saber que entreguei um outro estado para os goianos.
+
+102
+00:10:00,840 --> 00:10:02,980
+Obrigada, candidato.
+
+103
+00:10:03,060 --> 00:10:08,120
+Vamos agora à próxima pergunta para o candidato Augusto Cury e o tema é educação.
+
+104
+00:10:08,120 --> 00:10:18,639
+Nos últimos 20 anos, a educação avançou no nosso país, mas os alunos não estão aprendendo da melhor forma, da forma necessária para ingressarem no mercado de trabalho.
+
+105
+00:10:19,000 --> 00:10:22,340
+A gente tem dados do Saeb, que avalia a educação básica, recentes.
+
+106
+00:10:22,659 --> 00:10:31,500
+Um estudo do Todos pela Educação mostrou que de cada 10 alunos que terminam o ensino médio, 9 não têm conhecimento adequado em matemática, quase todos.
+
+107
+00:10:31,820 --> 00:10:36,100
+E pelo menos 6 não têm a preparação adequada em português.
+
+108
+00:10:36,100 --> 00:10:46,240
+A pergunta é, oferecer bônus para escolas, para professores que avancem de fato na melhora, na aprendizagem dos nossos alunos adianta?
+
+109
+00:10:46,540 --> 00:10:49,779
+Ou o problema não é falta de dinheiro e sim falta de gestão?
+
+110
+00:10:50,139 --> 00:10:51,680
+Dois minutos para o senhor Augusto Cury.
+
+111
+00:10:51,800 --> 00:11:00,800
+Muito obrigado, quero parabenizar a Band por esse debate e quero olhar nos olhos do telespectador.
+
+112
+00:11:00,799 --> 00:11:07,479
+Lula da Silva, você tinha que estar aqui para responder o caos que está a educação.
+
+113
+00:11:08,479 --> 00:11:11,539
+Os números são piores do que você apontou.
+
+114
+00:11:12,139 --> 00:11:19,179
+95% dos nossos jovens não aprendem matemática quando terminam o ensino médio.
+
+115
+00:11:19,179 --> 00:11:24,259
+E quem não aprende matemática não desenvolve o raciocínio lógico.
+
+116
+00:11:24,620 --> 00:11:32,559
+E, consequentemente, isso pode condená-los a vida toda a não ter gestão financeira e a debater ideias adequadamente.
+
+117
+00:11:32,939 --> 00:11:43,879
+E, além disso, também não desenvolvem a capacidade de interpretação, a capacidade de desenvolver autonomia para serem líderes de si mesmos.
+
+118
+00:11:43,879 --> 00:11:47,080
+A educação, ela enfrenta o caos.
+
+119
+00:11:47,679 --> 00:11:50,639
+Nós precisamos revolucioná-la.
+
+120
+00:11:51,120 --> 00:11:58,080
+Os professores são cozinheiros do conhecimento que preparam o alimento para uma plateia que não tem mais apetite.
+
+121
+00:11:58,460 --> 00:11:59,120
+Devido ao quê?
+
+122
+00:11:59,639 --> 00:12:01,559
+Devido à intoxicação digital.
+
+123
+00:12:01,939 --> 00:12:10,539
+E também devido a uma educação cartesiana, racionalista, onde o professor, através da orientação do MEC, é cartesiano.
+
+124
+00:12:10,980 --> 00:12:12,659
+Ele é um expositor seco e frio.
+
+125
+00:12:12,659 --> 00:12:21,339
+O professor deveria ser um provocador da arte de perguntar, um desafiador da arte de pensar e um elenjador da arte de participar.
+
+126
+00:12:21,740 --> 00:12:24,879
+Nós temos 32 milhões de neurodivergentes.
+
+127
+00:12:25,139 --> 00:12:29,659
+Eles são colocados em postos em sala de aula, criando um ambiente onde eles não são incluídos.
+
+128
+00:12:30,339 --> 00:12:34,959
+E, ao mesmo tempo, os demais alunos não desenvolvem solidariedade e empatia.
+
+129
+00:12:35,179 --> 00:12:41,779
+Mas os professores foram treinados a desenvolver um ecossistema emocional, onde todos são elogiados a participar.
+
+130
+00:12:41,779 --> 00:12:53,720
+E os alunos são ensinados também a desenvolver raciocínio lógico, trabalhando a sua capacidade intelectual para desenvolver o melhor raciocínio nos focos de atenção.
+
+131
+00:12:54,000 --> 00:12:55,600
+A educação seria completamente outra.
+
+132
+00:12:55,600 --> 00:12:57,060
+Obrigada, obrigada, candidato.
+
+133
+00:12:57,519 --> 00:12:58,180
+Vamos seguir, então.
+
+134
+00:12:58,259 --> 00:13:02,379
+Vamos começar agora a primeira rodada de confronto direto entre os candidatos.
+
+135
+00:13:02,779 --> 00:13:04,960
+Todos perguntam e todos respondem.
+
+136
+00:13:05,300 --> 00:13:10,580
+Relembrando os tempos agora, até um minuto para a pergunta e mais um para a réplica.
+
+137
+00:13:11,000 --> 00:13:14,779
+Quatro minutos para administrar entre a resposta e a tréplica.
+
+138
+00:13:14,779 --> 00:13:20,299
+Por sorteio é o candidato Renan Santos, que abre essa primeira rodada de confronto direto.
+
+139
+00:13:20,379 --> 00:13:22,819
+E o senhor direciona a sua pergunta para quem, candidato?
+
+140
+00:13:23,339 --> 00:13:24,220
+Para o candidato Lula.
+
+141
+00:13:24,699 --> 00:13:25,679
+Não é possível, candidato.
+
+142
+00:13:25,740 --> 00:13:27,480
+O senhor precisa escolher um dos candidatos presentes.
+
+143
+00:13:27,559 --> 00:13:31,620
+Só tem a liberdade de falar o que o senhor quiser, mas o confronto é com um dos presentes, por favor.
+
+144
+00:13:31,799 --> 00:13:33,059
+Foi um lapso, peço desculpas.
+
+145
+00:13:33,519 --> 00:13:35,139
+Pergunta para o candidato Cury.
+
+146
+00:13:35,879 --> 00:13:38,539
+Cury, o Brasil passou pelo escândalo do Mensalão com o PT.
+
+147
+00:13:38,539 --> 00:13:40,939
+Ele passou pelo escândalo do Petrolão com o PT.
+
+148
+00:13:41,559 --> 00:13:46,139
+Ele passou agora pelo escândalo do INSS com o Lula envolvido, com o filho dele envolvido, com o irmão dele envolvido.
+
+149
+00:13:46,500 --> 00:13:49,059
+Anos passam, a picanha prometida, a picanha não chega.
+
+150
+00:13:49,399 --> 00:13:52,699
+O crime aumenta, a mortalidade aumenta, a sensação de segurança aumenta.
+
+151
+00:13:52,980 --> 00:13:56,819
+As regiões em que o Lula dizia olhar mais, com mais cuidado, por exemplo, a região Nordeste,
+
+152
+00:13:57,199 --> 00:13:59,039
+continuam mais pobres que as outras regiões do Brasil.
+
+153
+00:13:59,339 --> 00:14:00,860
+A favelização no Brasil aumenta.
+
+154
+00:14:01,379 --> 00:14:05,199
+Entretanto, parte importante do eleitorado brasileiro, quase metade dele,
+
+155
+00:14:05,500 --> 00:14:07,740
+hoje declara voto no Lula para a presidência da República.
+
+156
+00:14:07,740 --> 00:14:12,100
+O senhor é um professor, o senhor trabalha com neurociência, com psicologia.
+
+157
+00:14:12,840 --> 00:14:15,019
+Poderia me explicar a psique desse eleitor?
+
+158
+00:14:15,120 --> 00:14:18,759
+Por que as pessoas continuam insistindo tanto no erro depois de tantos anos?
+
+159
+00:14:19,399 --> 00:14:21,240
+Muito obrigado, Renan, pela pergunta.
+
+160
+00:14:22,019 --> 00:14:27,720
+O Brasil está dramaticamente doente, polarizado, radicalizado.
+
+161
+00:14:28,299 --> 00:14:33,680
+Vender uma ideia mentirosa de que nós estamos em dois barcos.
+
+162
+00:14:33,679 --> 00:14:35,459
+Estamos num barco só.
+
+163
+00:14:36,439 --> 00:14:38,319
+Nem de direita, nem de esquerda.
+
+164
+00:14:38,459 --> 00:14:40,719
+O barco se chama família brasileira.
+
+165
+00:14:40,819 --> 00:14:43,219
+Mais de 200 milhões de brasileiros.
+
+166
+00:14:43,759 --> 00:14:47,219
+E 90% das dores não têm cor partidária.
+
+167
+00:14:47,839 --> 00:14:53,179
+A dor da mulher, que a cada cinco ou seis horas sofre o feminicídio.
+
+168
+00:14:53,679 --> 00:15:00,019
+A dor de 32 milhões de neurodivergentes, que não são abraçados de maneira multidisciplinar.
+
+169
+00:15:00,019 --> 00:15:08,120
+A dor dos jovens, 6,7 milhões de jovens, que nem trabalham e nem estudam.
+
+170
+00:15:08,659 --> 00:15:15,240
+A dor do empreendedor vem o tsunami da robótica e da inteligência artificial.
+
+171
+00:15:15,720 --> 00:15:20,699
+E talvez não sobe pedra, sob pedra, nos próximos quatro ou cinco anos.
+
+172
+00:15:20,700 --> 00:15:28,500
+E o governo atual, tendo um coração social, é extremamente assistencialista.
+
+173
+00:15:29,060 --> 00:15:30,400
+Por exemplo, o Bolsa Família.
+
+174
+00:15:30,800 --> 00:15:35,420
+O Bolsa Família é um projeto importante, mas tem que ser ajustado.
+
+175
+00:15:36,020 --> 00:15:39,540
+Papai e mamãe e seis filhos moravam todos num quarto só.
+
+176
+00:15:40,100 --> 00:15:41,680
+Nós sabemos o que é a dor da fome.
+
+177
+00:15:42,080 --> 00:15:43,140
+Sabemos a angústia.
+
+178
+00:15:43,420 --> 00:15:44,700
+Eu sou aluno de escola pública.
+
+179
+00:15:45,700 --> 00:15:47,720
+Ensino fundamental, ensino médio e universidade.
+
+180
+00:15:47,720 --> 00:15:50,360
+Eu sei a dor e a vida toda escutei a dor.
+
+181
+00:15:50,800 --> 00:15:52,680
+Só que o Bolsa Família tem que ser ajustado.
+
+182
+00:15:53,019 --> 00:15:57,300
+Quem assina a carteira não vai perder o benefício, pelo menos por um certo tempo.
+
+183
+00:15:57,700 --> 00:16:01,680
+Quem faz uma MEI não vai perder o benefício, pelo menos por um certo tempo.
+
+184
+00:16:01,940 --> 00:16:02,940
+Então, o que ocorre, Renan?
+
+185
+00:16:03,360 --> 00:16:09,940
+Quando você gera um assistencialismo, parece que você está fazendo doação com o dinheiro do presidente.
+
+186
+00:16:10,800 --> 00:16:11,879
+Mas é o dinheiro nosso.
+
+187
+00:16:12,240 --> 00:16:14,019
+É o dinheiro dos impostos dos brasileiros.
+
+188
+00:16:14,019 --> 00:16:21,779
+E essas pessoas do Bolsa Família têm que ser abraçadas, valorizadas, mas estimuladas a sonhar, aumentar a sua renda.
+
+189
+00:16:21,879 --> 00:16:32,039
+Porque eles têm direito de ter uma casa, direito de ter um carro, direito de ter qualidade de vida, direito de ter férias, direito de ter segurança para ter uma velhice mais adequada.
+
+190
+00:16:32,039 --> 00:16:49,159
+Então, no cérebro humano, quando você gera uma série de assistencialismo, nós acabamos perdendo a veia, a coragem de lutar pelos nossos sonhos e transformar a vida, não um espetáculo de estresse, mas um espetáculo único e imperdível.
+
+191
+00:16:49,159 --> 00:16:53,379
+Um minuto, candidato Renan, para a sua réplica.
+
+192
+00:16:54,379 --> 00:16:56,579
+Agradeço a contribuição do Cury sobre o tema.
+
+193
+00:16:56,659 --> 00:16:57,419
+O tema é muito importante.
+
+194
+00:16:58,179 --> 00:17:06,700
+Eu não sou psicólogo, não sou especialista no tema, mas eu sou um brasileiro indignado que nos últimos 12 anos enfrentou a roubalheira desse canalha do Lula, desse cara aqui.
+
+195
+00:17:07,119 --> 00:17:12,339
+Esse cara aqui não tem coragem de vir a público, falar por que no governo dele as pessoas não estão conseguindo comer mais.
+
+196
+00:17:12,879 --> 00:17:17,159
+Falar por que na porcaria do governo dele a insegurança pública está aumentando.
+
+197
+00:17:17,160 --> 00:17:21,960
+Por que na porcaria do governo dele mais pessoas estão perdendo a esperança de empreender.
+
+198
+00:17:22,320 --> 00:17:31,540
+Falar por que na porcaria do governo dele o Brasil se tornou um ser submisso na política internacional, tendo que pedir pinico para a China ou para os Estados Unidos na hora de fazer negócio.
+
+199
+00:17:31,820 --> 00:17:34,140
+O que eu aviso para esse eleitor é dramático.
+
+200
+00:17:34,560 --> 00:17:41,720
+Tirando um pedaço dele que é aquele eleitor que está no Bolsa Família, que ainda acredita que o Lula é a única fonte de comida dele, de maneira errônea,
+
+201
+00:17:41,720 --> 00:17:49,480
+o eleitor restante que apoia esse cara está sendo canalha, canalha, está rifando o nosso futuro e eu não quero o voto dele.
+
+202
+00:17:49,660 --> 00:17:50,059
+Obrigado.
+
+203
+00:17:51,480 --> 00:17:53,440
+Candidato Augusto Cury, o senhor tem mais um minuto e trinta.
+
+204
+00:17:54,519 --> 00:17:58,180
+Olha, Renan, você tem um nível de agressividade que me assombra.
+
+205
+00:17:58,680 --> 00:18:05,620
+Então as ideias, as ideias podem ter fundamento, mas a agressividade, ela asfixia.
+
+206
+00:18:05,619 --> 00:18:10,819
+E a capacidade das pessoas terem as suas próprias opiniões.
+
+207
+00:18:11,179 --> 00:18:16,799
+Nós estamos numa democracia e a democracia, a beleza dela está na divergência.
+
+208
+00:18:17,199 --> 00:18:27,559
+Você pode criticar as ideias de Lula e são criticáveis, mas você não pode criticar a pessoa transformando ela numa escória humana, quase que um lixo.
+
+209
+00:18:27,559 --> 00:18:29,159
+E nem mesmo o eleitor de Lula.
+
+210
+00:18:29,160 --> 00:18:31,680
+Sim, nós precisamos mudar esse país.
+
+211
+00:18:32,140 --> 00:18:36,019
+Nós precisamos estimular as pessoas a serem autoras da sua própria história.
+
+212
+00:18:36,420 --> 00:18:41,340
+No meu governo, pode ter certeza, eu vou financiar mais de 10 milhões de microempresas.
+
+213
+00:18:41,660 --> 00:18:43,480
+Vou dividir o BNDES em dois.
+
+214
+00:18:44,019 --> 00:18:47,720
+O banco para grande empresa e um banco para pequena e microempresa.
+
+215
+00:18:47,720 --> 00:18:54,839
+Em cada comunidade ou favela vai haver uma escola do empreendedor e também uma agência do empreendedor.
+
+216
+00:18:55,100 --> 00:19:01,140
+Em cada escola pública também haverá uma agência do banco do empreendedor e uma escola do empreendedor.
+
+217
+00:19:01,460 --> 00:19:06,980
+Assim, nós vamos transformar a nação brasileira numa das nações mais empreendedoras do planeta,
+
+218
+00:19:07,500 --> 00:19:15,960
+preparando esta nação para o tsunami da inteligência artificial e da robótica e ninguém fala sobre isso.
+
+219
+00:19:15,960 --> 00:19:17,380
+Obrigada, candidato.
+
+220
+00:19:17,640 --> 00:19:23,980
+A próxima pergunta será do candidato Augusto Cury, necessariamente para o candidato Ronaldo Caiado.
+
+221
+00:19:24,079 --> 00:19:25,740
+Por favor, só tem um minuto para a pergunta.
+
+222
+00:19:27,059 --> 00:19:31,400
+Meu estimado amigo Ronaldo Caiado, meu colega médico,
+
+223
+00:19:33,460 --> 00:19:39,000
+você sabe que se eu me tornar presidente, você que defende tanta segurança,
+
+224
+00:19:39,700 --> 00:19:44,980
+eu vou criar um ministério, Ministério da Segurança e você vai ser o xerife do Brasil.
+
+225
+00:19:44,980 --> 00:19:47,299
+Você vai estar no meu governo.
+
+226
+00:19:48,160 --> 00:19:57,980
+Mas eu quero falar aqui sobre o caos que está a mulher brasileira.
+
+227
+00:19:58,559 --> 00:20:03,839
+A mulher brasileira sofre uma série de violências que até hoje têm se perpetuado.
+
+228
+00:20:04,259 --> 00:20:05,740
+Entra governo e sai governo.
+
+229
+00:20:07,319 --> 00:20:12,259
+Essas violências não estão sendo solucionadas.
+
+230
+00:20:12,259 --> 00:20:18,440
+Eu te pergunto, na tua visão, como estadista, como governador e também como médico,
+
+231
+00:20:19,059 --> 00:20:24,220
+quais são as piores violências que as mulheres têm sofrido neste país?
+
+232
+00:20:24,759 --> 00:20:29,259
+E eu quero saber também se você tem consciência se elas pagam...
+
+233
+00:20:30,660 --> 00:20:32,059
+Atenção ao tempo, candidato.
+
+234
+00:20:32,480 --> 00:20:32,819
+Desculpe.
+
+235
+00:20:33,220 --> 00:20:33,559
+Já foi?
+
+236
+00:20:33,819 --> 00:20:34,319
+Já foi.
+
+237
+00:20:34,559 --> 00:20:35,440
+Então, me perdoe.
+
+238
+00:20:36,079 --> 00:20:37,799
+Por favor, candidato Caiado.
+
+239
+00:20:37,799 --> 00:20:46,200
+Bom, meu amigo Augusto, meu colega médico, eu vou declinar do seu convite porque eu vou
+
+240
+00:20:46,200 --> 00:20:51,619
+estar na presidência da República, mas você, sem dúvida nenhuma, vai fazer parte de uma
+
+241
+00:20:51,619 --> 00:20:57,879
+equipe hoje que nós sabemos a necessidade de podermos enfrentar a saúde mental.
+
+242
+00:20:57,880 --> 00:21:06,160
+Mas dizer aqui que este fato todo que você acaba de colocar, ele realmente precisa de ser encarado por nós.
+
+243
+00:21:06,740 --> 00:21:15,000
+Nós estamos conseguindo avançar com a inteligência artificial, conseguindo avançar na integração das forças de segurança,
+
+244
+00:21:15,440 --> 00:21:18,360
+exatamente no combate à criminalidade.
+
+245
+00:21:18,359 --> 00:21:24,439
+Mas ficou uma grande chaga no país, que é exatamente o avanço do feminicídio no país.
+
+246
+00:21:24,719 --> 00:21:25,639
+Isso é uma verdade.
+
+247
+00:21:26,079 --> 00:21:31,979
+As mulheres vêm sendo agredidas, muitas vezes, num desrespeito completo que as pessoas têm
+
+248
+00:21:31,979 --> 00:21:39,979
+por aquilo que é a mulher no seu dia a dia sendo agredida, violentada pelo seu companheiro
+
+249
+00:21:39,979 --> 00:21:41,899
+ou aquele que... o seu marido.
+
+250
+00:21:42,059 --> 00:21:44,339
+Isso nós precisamos de combater duramente.
+
+251
+00:21:44,459 --> 00:21:46,419
+E pode saber que assim faremos.
+
+252
+00:21:48,359 --> 00:21:49,219
+Por favor.
+
+253
+00:21:50,099 --> 00:21:54,679
+Bom, você é bom de argumento, mas não deixou os números claros, hein?
+
+254
+00:21:55,099 --> 00:21:56,719
+Eu acho que você vai ser meu xerife.
+
+255
+00:21:58,919 --> 00:22:03,979
+A cada cinco ou seis horas, Caiado, uma mulher é morta pelos seus parceiros.
+
+256
+00:22:04,599 --> 00:22:07,279
+1.571 mulheres no ano passado.
+
+257
+00:22:07,679 --> 00:22:13,099
+E essa uma faz toda a diferença, porque cada mulher é um ser humano único e irrepetível.
+
+258
+00:22:13,099 --> 00:22:19,099
+Elas recebem 21% a menos que os homens pelos mesmos trabalhos.
+
+259
+00:22:19,319 --> 00:22:21,359
+Isso é vergonhoso.
+
+260
+00:22:21,839 --> 00:22:28,019
+E nem resolveu essa equação Bolsonaro e nem Lula da Silva.
+
+261
+00:22:28,679 --> 00:22:32,079
+Eu quero dizer que o Brasil não pertence a duas famílias.
+
+262
+00:22:32,399 --> 00:22:34,459
+O Brasil pertence aos brasileiros.
+
+263
+00:22:34,460 --> 00:22:39,079
+E além disso, uma crueldade sem precedente.
+
+264
+00:22:39,799 --> 00:22:49,779
+Elas pagam 4% a mais de juros por ano, embora sejam melhores pagadoras que os homens.
+
+265
+00:22:50,120 --> 00:22:51,220
+Isso é uma crueldade.
+
+266
+00:22:51,220 --> 00:22:53,480
+Portanto, Caiado, seu tempo.
+
+267
+00:22:55,900 --> 00:23:00,259
+Bem, agora eu vou ensinar aqui para o Augusto como é que trata do assunto.
+
+268
+00:23:00,880 --> 00:23:07,799
+Olha, quando eu cheguei no governo, tinha aquela tese que dizia que briga de homem com mulher não se mete a colher.
+
+269
+00:23:07,880 --> 00:23:12,400
+Em Goiás, meti algema, meti tornozeleira no covarde.
+
+270
+00:23:12,400 --> 00:23:17,680
+A partir daí, eu coloquei todo um processo de botão do pânico.
+
+271
+00:23:18,200 --> 00:23:28,860
+Avancei dentro daquilo que seria o engajamento da nossa polícia com toda a área da inteligência artificial para poder acompanhar esses bandidos.
+
+272
+00:23:29,160 --> 00:23:33,900
+E agora, na presidência da República, eu vou aumentar muito mais essa ação.
+
+273
+00:23:33,900 --> 00:23:42,660
+Além de ter essa condição que nós vamos corrigir, porque, na verdade, colocam a responsabilidade só na segurança pública.
+
+274
+00:23:43,220 --> 00:23:47,800
+Nós temos que agregar a ela também todos os segmentos da sociedade.
+
+275
+00:23:48,580 --> 00:23:54,000
+Todos aqueles que realmente sabem que precisa de ser avisada a polícia antes.
+
+276
+00:23:54,300 --> 00:23:59,240
+Aí buscar a defensoria pública, buscar cada vez mais o Ministério Público.
+
+277
+00:23:59,240 --> 00:24:08,519
+trazer também o que nós sabemos que é fundamental, que é a participação das ONGs e também das entidades de classe de cada cidade.
+
+278
+00:24:08,940 --> 00:24:17,480
+Mas, além de tudo isso, gente, é dizer que a pessoa normalmente agride a mulher porque ele se acha dono dela, como se fosse propriedade dela.
+
+279
+00:24:17,559 --> 00:24:19,700
+É assim que esse covarde trabalha.
+
+280
+00:24:19,700 --> 00:24:26,519
+E, nesta hora, eu vou apresentar, sim, ao Congresso Nacional, porque lá sei que serei em condição de aprovar isso,
+
+281
+00:24:26,819 --> 00:24:32,480
+para que haja o confisco dos bens deste covarde.
+
+282
+00:24:32,960 --> 00:24:39,759
+Além de ter uma pena ampliada de 20 a 40 anos, de acordo com o grau da violência,
+
+283
+00:24:39,759 --> 00:24:49,440
+esse cidadão não terá o benefício da diminuição da pena antes de cumprir 90% dela.
+
+284
+00:24:49,700 --> 00:24:59,960
+E, em segundo lugar, ele terá, sim, aquilo que vai tirar dele aquela condição de se achar dono da família e a mulher a sua propriedade.
+
+285
+00:25:00,299 --> 00:25:08,700
+E aí, ao confiscar os seus bens, transferindo para a família, caso ela caminhe para um processo e seja vítima do feminicídio,
+
+286
+00:25:08,700 --> 00:25:19,080
+ou, se não, se os filhos ali estão penalizados, está certo, ela terá toda essa transferência de todo o patrimônio.
+
+287
+00:25:19,440 --> 00:25:28,660
+E, assim, nós vamos ver um fato que é uma penalização educativa para que esses covardes não voltem mais a atuar.
+
+288
+00:25:28,660 --> 00:25:33,920
+E é dessa maneira que nós temos que respeitar as mulheres em nosso país,
+
+289
+00:25:34,320 --> 00:25:43,640
+dar exemplo para essa chaga que ainda acontece no país diante de um fato de total omissão do atual governo.
+
+290
+00:25:44,080 --> 00:25:52,040
+Omissão, ele não garante a segurança das mulheres e nem de ninguém neste país, porque são coniventes com o crime organizado.
+
+291
+00:25:52,180 --> 00:25:53,259
+Obrigada, candidato.
+
+292
+00:25:53,259 --> 00:25:57,599
+Agora, o senhor Ronaldo Caiado é o último a fazer a pergunta para a gente fechar essa rodada
+
+293
+00:25:57,599 --> 00:26:01,019
+e a sua pergunta, necessariamente, tem que ser para o candidato Renan Santos.
+
+294
+00:26:01,420 --> 00:26:03,660
+Um minuto para formular a pergunta, por favor.
+
+295
+00:26:04,680 --> 00:26:14,400
+Bom, Renan, a pergunta que faço a você é em relação à área da educação que foi aqui comentada anteriormente.
+
+296
+00:26:14,400 --> 00:26:20,640
+Nós estamos vendo a situação que o Brasil é um dos países que mais gasta na OCDE
+
+297
+00:26:20,640 --> 00:26:28,780
+e nós estamos vendo, infelizmente, um processo de analfabetos no segundo ano do ensino fundamental,
+
+298
+00:26:29,600 --> 00:26:38,180
+um falso positivo no resultado no final do ensino médio, notas no Enem que deixam a desejar.
+
+299
+00:26:38,640 --> 00:26:44,060
+E essa situação toda, o governo nunca assumiu uma discussão consistente
+
+300
+00:26:44,059 --> 00:26:50,259
+para dar ao jovem brasileiro a capacidade de ser competitivo no cenário internacional
+
+301
+00:26:50,259 --> 00:26:55,519
+e muito menos nas discussões internas aqui na formação desses jovens,
+
+302
+00:26:55,619 --> 00:27:00,220
+com a melhoria também das alternativas, da metodologia de ensino no país.
+
+303
+00:27:00,519 --> 00:27:01,139
+Qual a sua ideia?
+
+304
+00:27:02,119 --> 00:27:03,779
+Obrigado pela pergunta, governador.
+
+305
+00:27:04,079 --> 00:27:04,519
+Vamos lá.
+
+306
+00:27:05,519 --> 00:27:08,919
+Há no Brasil uma sabotagem ao ensino fundamental.
+
+307
+00:27:08,920 --> 00:27:13,640
+Crianças não estão sendo mais alfabetizadas com o método tradicional, com o método fônico.
+
+308
+00:27:14,100 --> 00:27:17,880
+Dois, quando eu falo do professor, o professor perdeu a autoridade dentro da sala de aula.
+
+309
+00:27:18,440 --> 00:27:21,580
+Um aluno vai, levanta a voz com o professor e o professor não dispõe de autoridade.
+
+310
+00:27:22,400 --> 00:27:27,300
+Três, por mais que o Brasil gaste no ensino superior o que se gasta às nações da OCDE,
+
+311
+00:27:27,700 --> 00:27:29,800
+no ensino básico a gente gasta muito pouco.
+
+312
+00:27:29,800 --> 00:27:32,740
+A gente está financiando universidades públicas caríssimas
+
+313
+00:27:32,740 --> 00:27:36,539
+que não estão melhorando o nosso desempenho nos rankings internacionais.
+
+314
+00:27:36,539 --> 00:27:39,920
+Isso é muito feio, isso é terrível, mas isso é um projeto de nação.
+
+315
+00:27:40,619 --> 00:27:45,379
+Se o analfabetismo funcional existe no Brasil e ele se tornou, vamos dizer, recorrente,
+
+316
+00:27:45,779 --> 00:27:50,680
+é porque há praticamente um projeto de Brasil que vê o cidadão pouco qualificado
+
+317
+00:27:50,680 --> 00:27:53,899
+como uma massa de manobra para fins eleitorais.
+
+318
+00:27:53,980 --> 00:27:56,899
+Eu falo isso com muita tristeza, porque o dinheiro existe.
+
+319
+00:27:56,899 --> 00:28:01,379
+Não existem métodos educacionais construídas para que um professor,
+
+320
+00:28:01,859 --> 00:28:06,399
+numa escola básica, na maior parte dos municípios do Brasil, melhore o desempenho dele.
+
+321
+00:28:06,940 --> 00:28:11,819
+Poucos estados aplicam prêmios de desempenho para os diretores das escolas que performam melhor.
+
+322
+00:28:12,319 --> 00:28:16,079
+O governo federal não vincula isso aos governos estaduais e municipais.
+
+323
+00:28:16,339 --> 00:28:17,599
+E nós precisamos fazer isso.
+
+324
+00:28:17,920 --> 00:28:21,579
+Eu tenho um projeto que chama Lei de Responsabilidade Gerencial, que vai fazer o seguinte.
+
+325
+00:28:21,920 --> 00:28:24,720
+Em vez de um governador ou um prefeito, especialmente os prefeitos,
+
+326
+00:28:24,839 --> 00:28:29,299
+gastar dinheiro com o show do Wesley Safadão, como acontece em muitos municípios do Brasil,
+
+327
+00:28:29,639 --> 00:28:33,480
+ele terá que gastar com segurança, saúde, educação, especialmente educação básica.
+
+328
+00:28:33,480 --> 00:28:37,079
+Melhorando o desempenho da educação básica, aquele município poderá receber mais dinheiro.
+
+329
+00:28:37,299 --> 00:28:41,620
+Se o prefeito não entrega isso e torna os seus jovens analfabetos funcionais,
+
+330
+00:28:41,940 --> 00:28:43,019
+nós vamos para cima do prefeito.
+
+331
+00:28:43,120 --> 00:28:44,599
+O prefeito pode se tornar inelegível.
+
+332
+00:28:44,839 --> 00:28:47,039
+Isso é uma revolução que nós podemos fazer na escola.
+
+333
+00:28:47,140 --> 00:28:49,120
+E gostaria de saber a opinião do governador a respeito disso.
+
+334
+00:28:50,779 --> 00:28:51,519
+Parabéns, Renan.
+
+335
+00:28:51,640 --> 00:28:58,380
+Eu acho que a responsabilidade educacional é um ponto que nós temos que avançar muito neste momento.
+
+336
+00:28:58,380 --> 00:29:05,640
+Olha, eu, como governador do Estado, eu modifiquei a Constituição do Estado de Goiás
+
+337
+00:29:05,640 --> 00:29:11,340
+e fiz com que assumisse uma parceria com todos os prefeitos e prefeitas
+
+338
+00:29:11,340 --> 00:29:16,840
+e fiz com que houvesse ali, sim, uma sintonia na nossa grade curricular
+
+339
+00:29:16,840 --> 00:29:21,340
+para que nós buscássemos o aluno desde o primeiro ano do ensino fundamental
+
+340
+00:29:21,340 --> 00:29:27,820
+e levasse ele até o final do seu ensino médio, mais a profissionalização de todos eles.
+
+341
+00:29:27,819 --> 00:29:35,039
+Minha gente, isto é algo que mostrou o quanto nós hoje somos referência na educação no país
+
+342
+00:29:35,039 --> 00:29:41,240
+e temos entre as dez colégios do ensino médio os sete melhores do país.
+
+343
+00:29:41,700 --> 00:29:46,220
+Isto mostra a paixão que nós temos que ter pela educação.
+
+344
+00:29:46,539 --> 00:29:51,119
+Não existe outra capacidade de nós recuperarmos o país que não seja pela educação.
+
+345
+00:29:51,899 --> 00:29:52,460
+Obrigada.
+
+346
+00:29:55,819 --> 00:29:56,819
+Obrigado, governador.
+
+347
+00:29:57,819 --> 00:30:01,700
+Trouxe bons pontos aqui e agora temos que falar de um projeto de nação.
+
+348
+00:30:02,200 --> 00:30:07,079
+O projeto brasileiro de nação não é orientado a fazer do Brasil uma das cinco maiores nações do mundo
+
+349
+00:30:07,079 --> 00:30:08,460
+nos próximos 30 anos.
+
+350
+00:30:08,779 --> 00:30:11,500
+O Brasil não tem a missão para absolutamente nada.
+
+351
+00:30:11,919 --> 00:30:16,539
+Hoje, nesse instante, a gente olha o projeto do petismo querendo colocar o Brasil de joelhos para a China
+
+352
+00:30:16,539 --> 00:30:21,799
+sem formar uma mão de obra qualificada e tampouco ajudando as empresas a crescerem para contratar essas pessoas.
+
+353
+00:30:21,799 --> 00:30:25,740
+Porque o que interessa para o lulismo é que a gente fique comprando o produto pronto da China
+
+354
+00:30:25,740 --> 00:30:28,759
+enquanto vende minério ou vende nossos grãos.
+
+355
+00:30:29,180 --> 00:30:33,000
+Do outro lado, a gente tem o projeto do bolsonarismo, que puxa o saco do Donald Trump,
+
+356
+00:30:33,359 --> 00:30:37,799
+que também não vê como o Brasil pode se comportar de maneira soberana e líder diante dos desafios internacionais.
+
+357
+00:30:37,799 --> 00:30:44,000
+Hoje, a gente praticamente não produz nenhum tipo de pesquisa séria, tirando o caso da Magbras, por exemplo,
+
+358
+00:30:44,240 --> 00:30:47,940
+sobre refino e processamento das terras-aras, que podem revolucionar o Brasil.
+
+359
+00:30:48,279 --> 00:30:52,399
+Um governo sério tem que entender que se você não formar a sua própria mão de obra capaz,
+
+360
+00:30:52,940 --> 00:30:59,740
+gente que estuda, que saia do colegial no ensino técnico, apta a ir para o primeiro emprego, apta a estudar,
+
+361
+00:30:59,940 --> 00:31:03,099
+gente que tenha aula de empreendedorismo para que possa abrir sua primeira empresa,
+
+362
+00:31:03,099 --> 00:31:05,659
+nós não vamos sair do buraco que nós estamos agora.
+
+363
+00:31:05,959 --> 00:31:08,740
+A situação do Brasil é desesperadora.
+
+364
+00:31:09,079 --> 00:31:09,819
+É desesperadora.
+
+365
+00:31:10,099 --> 00:31:15,559
+Esse cara aqui, preciso voltar a citar essa tranqueira, vendeu com aquela mulher que estocava vento,
+
+366
+00:31:15,740 --> 00:31:17,879
+a ideia de que a gente vivia na pátria educadora.
+
+367
+00:31:18,219 --> 00:31:20,799
+Todos os testes internacionais mostraram que não é nada disso.
+
+368
+00:31:21,099 --> 00:31:22,399
+Não existe pátria educadora.
+
+369
+00:31:22,699 --> 00:31:24,740
+A gente tem a pátria do analfabetismo funcional.
+
+370
+00:31:25,159 --> 00:31:27,000
+E gozado, e a esse ponto a gente tem que trazer,
+
+371
+00:31:27,279 --> 00:31:31,599
+quando a gente pega as estatísticas dos estados brasileiros que têm pior desempenho escolar
+
+372
+00:31:31,599 --> 00:31:35,079
+e que apresentam taxas maiores de analfabetismo ou analfabetismo funcional,
+
+373
+00:31:35,519 --> 00:31:38,859
+curiosamente, eles votam no Partido dos Trabalhadores.
+
+374
+00:31:39,219 --> 00:31:43,039
+Há um projeto de destruição nacional sendo gestado há décadas.
+
+375
+00:31:43,299 --> 00:31:45,399
+E a gente não pode fingir que isto não é um problema.
+
+376
+00:31:45,719 --> 00:31:46,599
+Isto é um problema.
+
+377
+00:31:46,879 --> 00:31:49,199
+O governo federal tem que ver não apenas a questão da educação,
+
+378
+00:31:49,279 --> 00:31:53,379
+mas a integração entre a educação e o trabalho como um sonho,
+
+379
+00:31:53,619 --> 00:31:56,179
+um sonho de transformação de uma nação que hoje está de joelhos,
+
+380
+00:31:56,419 --> 00:31:58,980
+humilhada e pobre, numa nação soberana,
+
+381
+00:31:58,980 --> 00:32:02,680
+que será, se eu chegar ao poder, uma das cinco maiores nações do mundo.
+
+382
+00:32:02,960 --> 00:32:04,440
+O futuro, meus amigos, é glorioso.
+
+383
+00:32:04,660 --> 00:32:06,360
+Mas a gente vai ter que estudar bastante para chegar até lá.
+
+384
+00:32:07,339 --> 00:32:08,500
+Obrigada, candidatos.
+
+385
+00:32:08,640 --> 00:32:14,360
+Você está acompanhando o primeiro debate entre os candidatos à presidência da República nesta eleição.
+
+386
+00:32:14,799 --> 00:32:19,779
+Antes de ir para o intervalo, a gente vai dar uma olhadinha na sala digital da Band,
+
+387
+00:32:20,019 --> 00:32:21,599
+uma parceria com o Google,
+
+388
+00:32:21,920 --> 00:32:24,920
+onde são monitoradas as buscas feitas sobre o debate,
+
+389
+00:32:24,920 --> 00:32:27,539
+todas as pesquisas que vocês estão fazendo aí de casa,
+
+390
+00:32:27,800 --> 00:32:31,700
+a gente tem os dados lá na sala da Band, multiplataforma.
+
+391
+00:32:31,759 --> 00:32:35,680
+No próximo bloco, é a vez de jornalistas perguntarem aos candidatos.
+
+392
+00:32:36,100 --> 00:32:40,180
+Eleições 2026, olho no voto, olho na Band.
+
+393
+00:32:40,180 --> 00:33:09,860
+Estamos de volta ao vivo com o primeiro debate das eleições de 2026,
+
+394
+00:33:09,859 --> 00:33:12,740
+entre os candidatos à presidência da República.
+
+395
+00:33:13,240 --> 00:33:15,000
+Esse debate é realizado pela Band,
+
+396
+00:33:15,199 --> 00:33:18,219
+em parceria com as TVs Cultura e Gazeta,
+
+397
+00:33:18,559 --> 00:33:21,259
+o jornal Estadão e a Jovem Pan News.
+
+398
+00:33:21,639 --> 00:33:25,139
+O programa está sendo exibido também pela Band News TV,
+
+399
+00:33:25,559 --> 00:33:28,079
+nas rádios Bandeirantes e Band News FM
+
+400
+00:33:28,079 --> 00:33:31,119
+e nas plataformas digitais do Grupo Bandeirantes.
+
+401
+00:33:31,119 --> 00:33:34,279
+Eu quero lembrar que os espaços, os lugares vazios,
+
+402
+00:33:34,559 --> 00:33:35,659
+aqui no nosso estúdio,
+
+403
+00:33:36,000 --> 00:33:38,359
+estavam reservados para os candidatos
+
+404
+00:33:38,359 --> 00:33:40,439
+Luiz Inácio Lula da Silva,
+
+405
+00:33:40,879 --> 00:33:43,099
+Flávio Bolsonaro e Romeu Zema,
+
+406
+00:33:43,519 --> 00:33:45,399
+que, infelizmente, para os eleitores,
+
+407
+00:33:45,819 --> 00:33:47,459
+optaram por não participar.
+
+408
+00:33:48,099 --> 00:33:51,000
+Neste bloco, os jornalistas fazem as perguntas
+
+409
+00:33:51,000 --> 00:33:52,119
+para os candidatos,
+
+410
+00:33:52,459 --> 00:33:54,239
+escolhendo um candidato para responder
+
+411
+00:33:54,239 --> 00:33:55,859
+e outro para comentar.
+
+412
+00:33:55,859 --> 00:33:58,619
+O candidato questionado tem quatro minutos
+
+413
+00:33:58,619 --> 00:34:00,240
+para dividir como quiser
+
+414
+00:34:00,240 --> 00:34:02,619
+entre a resposta e uma réplica.
+
+415
+00:34:03,099 --> 00:34:05,579
+E o tempo para o comentário é de um minuto.
+
+416
+00:34:06,039 --> 00:34:08,380
+Por um sorteio, que foi realizado também anteriormente,
+
+417
+00:34:08,679 --> 00:34:10,880
+quem faz a primeira pergunta a um dos candidatos
+
+418
+00:34:10,880 --> 00:34:13,599
+é o jornalista Ernesto Palha, da TV Cultura.
+
+419
+00:34:13,960 --> 00:34:15,639
+Boa noite, bem-vindo, Palha.
+
+420
+00:34:16,019 --> 00:34:18,719
+Por favor, para quem vai, a sua pergunta e quem comenta.
+
+421
+00:34:18,980 --> 00:34:21,039
+Boa noite, boa noite a todos que nos acompanham.
+
+422
+00:34:21,119 --> 00:34:21,460
+Boa noite.
+
+423
+00:34:21,539 --> 00:34:23,259
+Eu gostaria de dirigir minha pergunta
+
+424
+00:34:23,259 --> 00:34:25,420
+ao senhor, candidato Ronaldo Caiado,
+
+425
+00:34:25,420 --> 00:34:27,940
+O senhor, obviamente, tem consciência
+
+426
+00:34:27,940 --> 00:34:31,380
+de que a segurança pública é um tema fundamental
+
+427
+00:34:31,380 --> 00:34:33,980
+nesta eleição para a tomada de decisão do eleitor.
+
+428
+00:34:34,380 --> 00:34:37,139
+E o senhor tem apresentado o seu desempenho
+
+429
+00:34:37,139 --> 00:34:39,019
+à frente do governo de Goiás
+
+430
+00:34:39,019 --> 00:34:41,340
+para se posicionar nesse campo.
+
+431
+00:34:41,639 --> 00:34:45,260
+Mas, ao mesmo tempo, quando a PEC da segurança pública
+
+432
+00:34:45,260 --> 00:34:48,019
+proposta pelo governo Lula foi encaminhada,
+
+433
+00:34:48,099 --> 00:34:49,659
+num primeiro momento o senhor rejeitou,
+
+434
+00:34:49,760 --> 00:34:53,360
+dizendo que ela feria a autonomia dos governadores.
+
+435
+00:34:53,360 --> 00:34:55,400
+E por isso o senhor era contrário a ela.
+
+436
+00:34:55,720 --> 00:34:57,079
+Então, eu queria saber, se o senhor chegar
+
+437
+00:34:57,079 --> 00:34:58,920
+à presidência da República,
+
+438
+00:34:59,099 --> 00:35:02,340
+como é que o senhor pretende usar as ferramentas
+
+439
+00:35:02,340 --> 00:35:04,019
+do governo federal, do poder federal,
+
+440
+00:35:04,200 --> 00:35:07,820
+para combater o crime, sem ferir a autonomia
+
+441
+00:35:07,820 --> 00:35:09,380
+dos governadores?
+
+442
+00:35:09,640 --> 00:35:11,220
+E também aproveito para encaixar.
+
+443
+00:35:11,320 --> 00:35:13,740
+O senhor continua contra a câmera,
+
+444
+00:35:14,140 --> 00:35:15,980
+o uso de câmera por policiais?
+
+445
+00:35:15,980 --> 00:35:18,940
+E por que o senhor está propondo a construção
+
+446
+00:35:18,940 --> 00:35:22,360
+de 40 novos presídios federais?
+
+447
+00:35:22,539 --> 00:35:23,519
+De onde vem esse número?
+
+448
+00:35:23,659 --> 00:35:24,360
+Por que não 30?
+
+449
+00:35:24,440 --> 00:35:25,219
+Por que não 50?
+
+450
+00:35:25,920 --> 00:35:26,320
+Por favor.
+
+451
+00:35:26,719 --> 00:35:29,019
+Antes de responder, quem comenta a resposta de Caiado?
+
+452
+00:35:29,019 --> 00:35:30,099
+Renan Santos, por favor.
+
+453
+00:35:30,300 --> 00:35:30,639
+Por favor.
+
+454
+00:35:30,719 --> 00:35:32,300
+Então, por favor, Ronaldo Caiado,
+
+455
+00:35:32,380 --> 00:35:33,780
+o senhor tem quatro minutos para dividir
+
+456
+00:35:33,780 --> 00:35:35,340
+entre a resposta e a réplica.
+
+457
+00:35:36,059 --> 00:35:38,960
+Bem, realmente ele fez uma ampla pergunta, né?
+
+458
+00:35:39,240 --> 00:35:41,280
+É de um assunto, realmente, que eu quero lhe dizer,
+
+459
+00:35:41,280 --> 00:35:44,700
+se você não tiver segurança pública,
+
+460
+00:35:44,820 --> 00:35:46,680
+você não tem governabilidade.
+
+461
+00:35:47,040 --> 00:35:50,100
+O Brasil é um país que vive hoje em clima de guerra.
+
+462
+00:35:50,320 --> 00:35:51,100
+Essa é a verdade.
+
+463
+00:35:51,460 --> 00:35:53,460
+A maior parte do território brasileiro
+
+464
+00:35:53,460 --> 00:35:57,019
+está totalmente confiscado pelas facções criminosas.
+
+465
+00:35:57,500 --> 00:36:01,140
+Amazônia brasileira, 100% comandada pelo PCC,
+
+466
+00:36:01,300 --> 00:36:04,180
+Comando Vermelho, venezuelanos, colombianos
+
+467
+00:36:04,180 --> 00:36:05,820
+e também mexicanos.
+
+468
+00:36:06,080 --> 00:36:08,360
+Essa é a situação que chegou da conivência
+
+469
+00:36:08,360 --> 00:36:11,840
+do atual governo com as facções criminosas no Brasil.
+
+470
+00:36:12,160 --> 00:36:14,720
+Ele se acovardou, ele se ajoelhou para o crime.
+
+471
+00:36:14,980 --> 00:36:16,900
+Quando você se ajoelha para o crime, ele cresce.
+
+472
+00:36:17,160 --> 00:36:18,160
+O que eu fiz em Goiás?
+
+473
+00:36:18,260 --> 00:36:19,620
+Também tinha essa mesma situação.
+
+474
+00:36:20,120 --> 00:36:21,579
+Tanto é que quando eu falo hoje,
+
+475
+00:36:21,800 --> 00:36:22,840
+que eu vou resolver o assunto,
+
+476
+00:36:22,940 --> 00:36:23,400
+o cidadão fala,
+
+477
+00:36:23,780 --> 00:36:25,820
+Caiado, você sabe, é muito difícil.
+
+478
+00:36:26,059 --> 00:36:28,260
+As pessoas estão se acovardando.
+
+479
+00:36:28,300 --> 00:36:31,099
+As pessoas não estão acreditando mais que seja possível.
+
+480
+00:36:31,420 --> 00:36:32,059
+É possível.
+
+481
+00:36:32,380 --> 00:36:34,579
+Me dê o mandato de presidente da República
+
+482
+00:36:34,579 --> 00:36:36,640
+que você vai ver que bandido não vai mandar
+
+483
+00:36:36,639 --> 00:36:39,960
+em um palmo aqui nesse país,
+
+484
+00:36:40,159 --> 00:36:41,440
+não vai ter comando deles.
+
+485
+00:36:41,579 --> 00:36:44,359
+Isso porque nós temos que ter uma estrutura.
+
+486
+00:36:44,480 --> 00:36:46,039
+Em primeiro lugar, inteligência artificial.
+
+487
+00:36:46,599 --> 00:36:48,599
+Em segundo lugar, batalhões bem treinados.
+
+488
+00:36:49,139 --> 00:36:50,519
+Integração das nossas forças.
+
+489
+00:36:50,799 --> 00:36:53,719
+E não vou tirar autoridade de nenhum governador.
+
+490
+00:36:53,859 --> 00:36:55,079
+Pelo contrário, eu vou aumentar.
+
+491
+00:36:55,500 --> 00:36:57,639
+Eu vou autorizar os governadores
+
+492
+00:36:57,639 --> 00:36:59,839
+a poderem legislar sobre essas áreas
+
+493
+00:36:59,839 --> 00:37:01,059
+nos seus estados,
+
+494
+00:37:01,359 --> 00:37:02,980
+porque eu sei da diferença do crime
+
+495
+00:37:02,980 --> 00:37:03,879
+que existe no Brasil.
+
+496
+00:37:03,880 --> 00:37:06,800
+Agora, eu vou continuar daqui a pouco com o comentário.
+
+497
+00:37:07,180 --> 00:37:07,700
+Tá certo.
+
+498
+00:37:08,220 --> 00:37:09,380
+Um minuto para o senhor comentar.
+
+499
+00:37:11,500 --> 00:37:12,640
+Muito boa pergunta.
+
+500
+00:37:13,579 --> 00:37:14,740
+Especialmente esse aspecto
+
+501
+00:37:14,740 --> 00:37:16,820
+que envolve o governo federal, o governo Lula,
+
+502
+00:37:17,200 --> 00:37:19,079
+querer legislar sobre segurança pública
+
+503
+00:37:19,079 --> 00:37:20,680
+concentrando poderes na mão dele.
+
+504
+00:37:20,960 --> 00:37:23,700
+Essa é uma vontade que o PT tem há décadas.
+
+505
+00:37:24,180 --> 00:37:26,360
+O PT sempre quis concentrar o poder sobre as polícias,
+
+506
+00:37:26,599 --> 00:37:28,579
+porque o PT tem uma volúpia por poder.
+
+507
+00:37:28,880 --> 00:37:31,320
+O PT quer concentrar o exercício da violência
+
+508
+00:37:31,320 --> 00:37:31,860
+nas mãos dele.
+
+509
+00:37:31,860 --> 00:37:33,240
+Não para atacar bandido.
+
+510
+00:37:33,660 --> 00:37:34,920
+O PT quer segurar a polícia.
+
+511
+00:37:35,559 --> 00:37:37,579
+O PT é inimigo das polícias em todos os estados.
+
+512
+00:37:37,920 --> 00:37:39,800
+O que nós vamos fazer, e que precisa ser feito,
+
+513
+00:37:39,980 --> 00:37:41,360
+é diferente do que o PT quer fazer.
+
+514
+00:37:41,700 --> 00:37:42,380
+É de maneira clara.
+
+515
+00:37:42,960 --> 00:37:44,519
+Estados, governos estaduais,
+
+516
+00:37:44,780 --> 00:37:46,420
+que não aplicarem políticas efetivas
+
+517
+00:37:46,420 --> 00:37:47,840
+de destruição do crime organizado,
+
+518
+00:37:48,099 --> 00:37:49,180
+eles serão alvo de intervenção.
+
+519
+00:37:49,599 --> 00:37:50,880
+É o que eu proponho de maneira clara.
+
+520
+00:37:51,140 --> 00:37:53,420
+Rio de Janeiro, Ceará, Bahia.
+
+521
+00:37:53,680 --> 00:37:55,780
+Ou eles se enquadram no enfrentamento total
+
+522
+00:37:55,780 --> 00:37:56,860
+ao crime organizado,
+
+523
+00:37:57,160 --> 00:37:58,579
+ou seus governos vão se enquadrar
+
+524
+00:37:58,579 --> 00:37:59,760
+ao governo federal,
+
+525
+00:37:59,760 --> 00:38:01,080
+ao Estado de Defesa,
+
+526
+00:38:01,180 --> 00:38:01,720
+a GLO.
+
+527
+00:38:02,180 --> 00:38:04,100
+Todo mundo tem que se unir no combate ao crime organizado.
+
+528
+00:38:04,360 --> 00:38:05,800
+Agora, projeto que vem do PT,
+
+529
+00:38:06,060 --> 00:38:08,380
+entregando por Lula controle sobre as polícias dos estados,
+
+530
+00:38:08,680 --> 00:38:09,120
+mas nunca.
+
+531
+00:38:09,320 --> 00:38:10,040
+Nem os policiais,
+
+532
+00:38:10,320 --> 00:38:11,340
+nem o povo brasileiro quer isso.
+
+533
+00:38:12,380 --> 00:38:14,000
+E agora, continuando, Pag,
+
+534
+00:38:14,000 --> 00:38:14,980
+vou dizer o seguinte.
+
+535
+00:38:15,180 --> 00:38:15,740
+Em primeiro lugar,
+
+536
+00:38:16,260 --> 00:38:19,820
+a emenda constitucional que nós aprovamos na Câmara
+
+537
+00:38:19,820 --> 00:38:21,420
+e que hoje está no Senado Federal,
+
+538
+00:38:21,580 --> 00:38:23,760
+ela está de acordo, exatamente, com o respeito.
+
+539
+00:38:23,760 --> 00:38:25,700
+E o presidente Lula, agora,
+
+540
+00:38:26,040 --> 00:38:27,680
+querendo dizer que precisa da PEC
+
+541
+00:38:27,680 --> 00:38:31,140
+para poder amanhã aprovar o seu ministério.
+
+542
+00:38:31,340 --> 00:38:32,680
+Isso é conversa fiada.
+
+543
+00:38:33,000 --> 00:38:34,560
+Ele sabe das prerrogativas do presidente,
+
+544
+00:38:34,740 --> 00:38:36,680
+pode sabatar uma medida provisória e resolve.
+
+545
+00:38:36,940 --> 00:38:38,280
+Mas eu vou, além disso,
+
+546
+00:38:38,340 --> 00:38:40,180
+para lhe dizer do porquê dos 40,
+
+547
+00:38:40,540 --> 00:38:42,180
+hoje, presídios no Brasil,
+
+548
+00:38:42,500 --> 00:38:43,860
+distribuindo por regiões.
+
+549
+00:38:44,100 --> 00:38:45,800
+Porque todas as penitenciárias hoje
+
+550
+00:38:45,800 --> 00:38:47,560
+estão cheias de faccionados,
+
+551
+00:38:47,820 --> 00:38:49,060
+que é crime federal,
+
+552
+00:38:49,400 --> 00:38:50,800
+não é crime estadual.
+
+553
+00:38:50,800 --> 00:38:53,960
+O governo federal joga na mão dos estados
+
+554
+00:38:53,960 --> 00:38:56,760
+e não tem repasse nem do fundo penitenciário
+
+555
+00:38:56,760 --> 00:38:58,280
+e nem do fundo de segurança pública.
+
+556
+00:38:58,539 --> 00:39:00,980
+Mas eu vou dizer mais em relação a este assunto.
+
+557
+00:39:01,400 --> 00:39:03,539
+Os presídios hoje, em Goiás,
+
+558
+00:39:03,820 --> 00:39:06,940
+quando nós fizemos com que fosse fechado totalmente,
+
+559
+00:39:07,260 --> 00:39:08,580
+com scanner corporal,
+
+560
+00:39:08,980 --> 00:39:10,860
+com monitoramento ambiental,
+
+561
+00:39:11,160 --> 00:39:13,440
+não tendo direito à visita íntima,
+
+562
+00:39:13,580 --> 00:39:15,860
+faccionado não tem direito à visita íntima.
+
+563
+00:39:16,160 --> 00:39:18,940
+Visita com advogado, ela é gravada.
+
+564
+00:39:18,940 --> 00:39:21,659
+E aí, meu amigo, a criminalidade caiu.
+
+565
+00:39:21,920 --> 00:39:24,320
+No momento que nós fecharmos as penitenciárias,
+
+566
+00:39:24,420 --> 00:39:27,460
+que não serão mais ali universidade do crime,
+
+567
+00:39:27,800 --> 00:39:29,079
+nem QG do crime,
+
+568
+00:39:29,139 --> 00:39:30,659
+para mandar matado lá de fora
+
+569
+00:39:30,659 --> 00:39:32,780
+e ameaçar os agentes penitenciários,
+
+570
+00:39:33,119 --> 00:39:35,720
+você pode saber que é aquilo que aconteceu no meu estado.
+
+571
+00:39:36,099 --> 00:39:37,400
+Despenca a criminalidade.
+
+572
+00:39:37,720 --> 00:39:39,200
+E para isso, você precisa ter coragem.
+
+573
+00:39:39,519 --> 00:39:41,380
+E coragem é o que falta para muitos
+
+574
+00:39:41,380 --> 00:39:42,599
+que estão à frente do governo,
+
+575
+00:39:42,940 --> 00:39:45,880
+porque realmente amanhã existe essa dificuldade
+
+576
+00:39:45,880 --> 00:39:48,519
+de saber como ele vai dar a segurança para a sua família.
+
+577
+00:39:48,519 --> 00:39:50,079
+Como presidente da República,
+
+578
+00:39:50,460 --> 00:39:52,860
+vou confiscar os bens de todos os faccionados
+
+579
+00:39:52,860 --> 00:39:54,579
+e vou garantir a segurança pública.
+
+580
+00:39:54,820 --> 00:39:57,500
+Aos juízes, desembargadores, governadores,
+
+581
+00:39:57,900 --> 00:40:00,860
+todos do Ministério Público tiveram a coragem de enfrentar o crime.
+
+582
+00:40:01,119 --> 00:40:03,139
+É por isso que eu vou trazer o Gakia
+
+583
+00:40:03,139 --> 00:40:07,119
+para assumir o Ministério da Segurança Pública no nosso país,
+
+584
+00:40:07,239 --> 00:40:09,400
+porque tem experiência no combate às facções.
+
+585
+00:40:09,739 --> 00:40:13,739
+Mas vou também declarar terrorista às facções no Brasil.
+
+586
+00:40:13,940 --> 00:40:15,119
+Terrorismo doméstico.
+
+587
+00:40:15,119 --> 00:40:18,400
+E como comandante em chefe, que sou das Forças Armadas,
+
+588
+00:40:18,699 --> 00:40:21,900
+vou usar todas as forças, como a Aeronáutica Maria,
+
+589
+00:40:22,039 --> 00:40:23,119
+o Exército Brasileiro,
+
+590
+00:40:23,639 --> 00:40:27,779
+promover uma segurança entre os países limítrofes com o Brasil,
+
+591
+00:40:28,219 --> 00:40:29,500
+chamada de Sul-Pau,
+
+592
+00:40:29,739 --> 00:40:33,000
+onde nós podemos transitar sem ter o limite da fronteira.
+
+593
+00:40:33,359 --> 00:40:34,659
+É isso aí que se faz,
+
+594
+00:40:34,960 --> 00:40:37,099
+e é com essa maneira, com tecnologia,
+
+595
+00:40:37,480 --> 00:40:40,559
+radares e, ao mesmo tempo, com a técnica mais sofisticada.
+
+596
+00:40:40,559 --> 00:40:43,139
+Vamos devolver o Brasil aos brasileiros de bem.
+
+597
+00:40:43,279 --> 00:40:43,799
+Obrigada.
+
+598
+00:40:44,380 --> 00:40:47,400
+A próxima a perguntar é a jornalista Thais Freitas,
+
+599
+00:40:47,619 --> 00:40:48,659
+da Rádio Bandeirantes.
+
+600
+00:40:48,960 --> 00:40:49,699
+Thais, boa noite.
+
+601
+00:40:49,820 --> 00:40:51,699
+Indica para a gente quem vai responder a sua pergunta
+
+602
+00:40:51,699 --> 00:40:52,519
+e quem vai comentar.
+
+603
+00:40:53,059 --> 00:40:53,940
+Boa noite, Adriana.
+
+604
+00:40:54,019 --> 00:40:56,460
+Olha, a minha pergunta é para o candidato Augusto Cury,
+
+605
+00:40:56,940 --> 00:41:00,119
+com a resposta ao comentário do candidato Ronaldo Caiado.
+
+606
+00:41:00,480 --> 00:41:03,579
+E é uma pergunta sobre as relações diplomáticas do Brasil
+
+607
+00:41:03,579 --> 00:41:04,779
+com os Estados Unidos,
+
+608
+00:41:05,019 --> 00:41:08,400
+que hoje estão num momento muito conflituoso.
+
+609
+00:41:08,400 --> 00:41:10,639
+Se a gente olhar, é uma lista longa, né,
+
+610
+00:41:11,000 --> 00:41:14,579
+de ali rebarbas que aconteceram e seguem acontecendo.
+
+611
+00:41:14,900 --> 00:41:17,480
+Os Estados Unidos classificando organizações terroristas,
+
+612
+00:41:17,880 --> 00:41:21,019
+crime organizado no Brasil como organização terrorista,
+
+613
+00:41:21,119 --> 00:41:23,400
+aplicação da lei Magnitsky, tarifácio,
+
+614
+00:41:24,079 --> 00:41:28,500
+declarações ali mais apimentadas dos presidentes de ambos os países.
+
+615
+00:41:28,980 --> 00:41:31,740
+E isso a gente se refere aqui à maior economia do mundo,
+
+616
+00:41:32,119 --> 00:41:35,460
+os Estados Unidos e um parceiro comercial e diplomático do Brasil,
+
+617
+00:41:35,900 --> 00:41:37,780
+histórico e muito relevante.
+
+618
+00:41:37,780 --> 00:41:40,700
+O que eu queria perguntar é, caso o senhor seja eleito,
+
+619
+00:41:41,120 --> 00:41:44,460
+como o senhor vai lidar com a relação comercial e diplomática
+
+620
+00:41:44,460 --> 00:41:48,620
+com os Estados Unidos, especialmente durante a gestão Donald Trump,
+
+621
+00:41:49,019 --> 00:41:52,180
+já que serão pelo menos dois anos de convivência
+
+622
+00:41:52,180 --> 00:41:53,780
+entre as duas presidências?
+
+623
+00:41:54,960 --> 00:41:57,880
+Muito obrigado pela pergunta, pela inteligente pergunta.
+
+624
+00:41:58,340 --> 00:42:00,780
+Realmente é um problema sério que nós estamos enfrentando.
+
+625
+00:42:00,780 --> 00:42:01,620
+enfrentando.
+
+626
+00:42:01,620 --> 00:42:07,280
+O Brasil deve ter as melhores relações com os Estados Unidos.
+
+627
+00:42:07,860 --> 00:42:10,180
+Mas os Estados Unidos, sem dúvida alguma,
+
+628
+00:42:10,700 --> 00:42:13,980
+está passando por alguns problemas e que ninguém fala quase.
+
+629
+00:42:14,680 --> 00:42:17,560
+Ele deve cerca de 40 trilhões de dólares,
+
+630
+00:42:18,220 --> 00:42:20,840
+122% mais ou menos do PIB.
+
+631
+00:42:21,380 --> 00:42:23,220
+Por detrás desse tarifácio,
+
+632
+00:42:23,600 --> 00:42:27,780
+há um desespero enorme em resolver as contas públicas
+
+633
+00:42:27,780 --> 00:42:29,580
+federais dos Estados Unidos.
+
+634
+00:42:30,080 --> 00:42:32,500
+Mas nós não podemos ser subservientes,
+
+635
+00:42:32,960 --> 00:42:37,700
+colocar 25%, mais 12,5%, 37,5%
+
+636
+00:42:37,700 --> 00:42:42,300
+e prejudicar a nossa pauta de exportação?
+
+637
+00:42:42,620 --> 00:42:43,860
+Isso é uma crueldade.
+
+638
+00:42:44,500 --> 00:42:47,440
+Vamos pacificar, sem dúvida nenhuma,
+
+639
+00:42:47,820 --> 00:42:50,500
+a relação entre Estados Unidos e o Brasil.
+
+640
+00:42:50,580 --> 00:42:51,540
+Brasil e Estados Unidos.
+
+641
+00:42:51,539 --> 00:42:54,159
+Porque eu sempre fui um homem da pacificação.
+
+642
+00:42:54,860 --> 00:42:55,739
+Inclusive tem o livro,
+
+643
+00:42:56,219 --> 00:42:57,800
+Solução Pacífica de Conflitos,
+
+644
+00:42:58,139 --> 00:43:01,099
+com grandes juristas desta nação.
+
+645
+00:43:01,539 --> 00:43:02,679
+Eu sei como pacificar,
+
+646
+00:43:03,179 --> 00:43:05,059
+eu sei como conversar de igual para igual,
+
+647
+00:43:05,599 --> 00:43:09,179
+mas nunca vai ser uma relação subserviente.
+
+648
+00:43:09,659 --> 00:43:11,099
+E eu repaginaria,
+
+649
+00:43:11,480 --> 00:43:12,820
+se for o presidente desse país,
+
+650
+00:43:13,559 --> 00:43:15,420
+todas as embaixadas brasileiras,
+
+651
+00:43:15,579 --> 00:43:17,340
+para serem 4.0,
+
+652
+00:43:17,340 --> 00:43:19,300
+para que as embaixadas,
+
+653
+00:43:19,620 --> 00:43:23,660
+não vendo o país como fazenda do mundo apenas,
+
+654
+00:43:24,220 --> 00:43:25,960
+mas como supermercado do mundo,
+
+655
+00:43:26,420 --> 00:43:28,340
+como centro de biotecnologia,
+
+656
+00:43:28,880 --> 00:43:31,980
+de inovação e também de produção de conhecimento.
+
+657
+00:43:32,340 --> 00:43:34,420
+As relações serão ótimas com os Estados Unidos,
+
+658
+00:43:34,860 --> 00:43:37,460
+as relações também serão ótimas com a China,
+
+659
+00:43:37,860 --> 00:43:40,720
+porque o Brasil merece se desenvolver.
+
+660
+00:43:41,059 --> 00:43:41,960
+Porque, no fundo,
+
+661
+00:43:42,400 --> 00:43:45,340
+é a comida na mesa de cada brasileiro.
+
+662
+00:43:45,340 --> 00:43:47,059
+É a segurança da mulher.
+
+663
+00:43:47,440 --> 00:43:50,039
+No fundo, é o futuro de cada criança e adolescente
+
+664
+00:43:50,039 --> 00:43:51,519
+que deve ser resguardado.
+
+665
+00:43:51,600 --> 00:43:53,660
+Portanto, pacificação em primeiro lugar.
+
+666
+00:43:54,300 --> 00:43:54,940
+Subserviência.
+
+667
+00:43:55,260 --> 00:43:55,860
+Servidão.
+
+668
+00:43:56,260 --> 00:43:56,800
+Jamais.
+
+669
+00:44:02,539 --> 00:44:05,380
+Bom, vamos ser direto ao fato.
+
+670
+00:44:05,920 --> 00:44:06,640
+Em primeiro lugar,
+
+671
+00:44:07,120 --> 00:44:07,620
+está certo?
+
+672
+00:44:07,940 --> 00:44:10,440
+O Lula está doido para criar esse impasse.
+
+673
+00:44:10,740 --> 00:44:12,559
+Porque ele viu o presidente do Canadá
+
+674
+00:44:12,559 --> 00:44:13,900
+e da Austrália ganhando,
+
+675
+00:44:14,019 --> 00:44:16,599
+então ele está provocando o Trump toda hora,
+
+676
+00:44:16,719 --> 00:44:17,079
+está certo?
+
+677
+00:44:17,159 --> 00:44:18,820
+Falando da dentadura do Trump,
+
+678
+00:44:19,099 --> 00:44:20,659
+querendo mudar a moeda,
+
+679
+00:44:20,880 --> 00:44:22,880
+toda hora ele dá uma provocadinha, está certo?
+
+680
+00:44:23,199 --> 00:44:24,360
+Aí, daí a pouco,
+
+681
+00:44:24,480 --> 00:44:26,019
+provoca também o Paraguai,
+
+682
+00:44:26,159 --> 00:44:28,980
+aí vem o presidente da Argentina aqui fazer desaforo.
+
+683
+00:44:29,159 --> 00:44:29,920
+Então, o que você vê
+
+684
+00:44:29,920 --> 00:44:32,380
+é que eles querem desviar o foco da eleição.
+
+685
+00:44:32,579 --> 00:44:33,920
+E o Itamaraty no Brasil,
+
+686
+00:44:34,320 --> 00:44:36,739
+ele, ao invés de ser aquilo que a chancelaria
+
+687
+00:44:36,739 --> 00:44:39,299
+enoticia o Brasil nos grandes debates,
+
+688
+00:44:39,300 --> 00:44:42,440
+ele passou a ser simplesmente porta-voz do PT.
+
+689
+00:44:42,900 --> 00:44:44,740
+E isso é que eu vou recuperar no Brasil.
+
+690
+00:44:44,940 --> 00:44:48,539
+Ou seja, fazer com que a chancelaria brasileira
+
+691
+00:44:48,539 --> 00:44:50,940
+volte a saber fazer os acordos,
+
+692
+00:44:51,220 --> 00:44:53,600
+poder debater em grande nível
+
+693
+00:44:53,600 --> 00:44:54,300
+e poder recuperar.
+
+694
+00:44:55,039 --> 00:44:55,920
+O Brasil, meu gente,
+
+695
+00:44:56,000 --> 00:44:57,200
+ninguém quer brigar com o Brasil,
+
+696
+00:44:57,320 --> 00:44:58,300
+porque nós temos melhores potenciais
+
+697
+00:44:59,000 --> 00:45:00,280
+que outros países não têm
+
+698
+00:45:00,280 --> 00:45:01,400
+em termos de energia,
+
+699
+00:45:01,820 --> 00:45:02,680
+em termos de grãos,
+
+700
+00:45:02,800 --> 00:45:03,780
+em termos de água doce.
+
+701
+00:45:05,280 --> 00:45:08,080
+Por favor, candidato Augusto Cury.
+
+702
+00:45:08,079 --> 00:45:10,579
+Obrigado, Caiado.
+
+703
+00:45:11,119 --> 00:45:13,219
+O Brasil realmente é uma grande nação.
+
+704
+00:45:13,719 --> 00:45:14,759
+Temos terras raras
+
+705
+00:45:14,759 --> 00:45:16,819
+e devemos trazer indústrias
+
+706
+00:45:16,819 --> 00:45:18,819
+para processar essas terras raras.
+
+707
+00:45:19,360 --> 00:45:21,500
+Temos o potencial para energia renovável
+
+708
+00:45:21,500 --> 00:45:23,819
+e hidrogênio verde sem precedente.
+
+709
+00:45:24,519 --> 00:45:26,279
+Mas também temos uma agricultura.
+
+710
+00:45:26,960 --> 00:45:29,639
+350 milhões de toneladas de grãos,
+
+711
+00:45:29,960 --> 00:45:31,299
+mais ou menos, que nós produzimos.
+
+712
+00:45:31,679 --> 00:45:34,400
+Nós vamos turbinar a produção agrícola.
+
+713
+00:45:34,400 --> 00:45:36,760
+Vamos abraçar vocês, agricultores,
+
+714
+00:45:37,320 --> 00:45:39,539
+que infelizmente têm uma lucratividade
+
+715
+00:45:39,539 --> 00:45:44,220
+de 5% a 7% e pagam custeio de 20% ao ano.
+
+716
+00:45:44,440 --> 00:45:45,160
+Não é possível.
+
+717
+00:45:45,519 --> 00:45:47,320
+Isso é uma afronta contra vocês.
+
+718
+00:45:47,760 --> 00:45:50,019
+E eu sei que vocês estão adoecendo emocionalmente.
+
+719
+00:45:50,480 --> 00:45:52,599
+O índice de depressão entre os agricultores
+
+720
+00:45:52,599 --> 00:45:55,099
+é o dobro da média da população em geral.
+
+721
+00:45:55,420 --> 00:45:57,680
+Cerca de 30% a 36%.
+
+722
+00:45:57,679 --> 00:45:59,119
+Vamos abraçar vocês.
+
+723
+00:45:59,460 --> 00:46:03,579
+E se nós dobrarmos a produção de alimentos
+
+724
+00:46:03,579 --> 00:46:07,179
+de 350 para 700 milhões de toneladas,
+
+725
+00:46:07,500 --> 00:46:09,359
+nos próximos 10 anos,
+
+726
+00:46:09,599 --> 00:46:11,399
+vamos sentar de igual para igual
+
+727
+00:46:11,399 --> 00:46:13,259
+com a China e com a Índia
+
+728
+00:46:13,259 --> 00:46:15,119
+e com os Estados Unidos.
+
+729
+00:46:15,639 --> 00:46:17,159
+Porque nós alimentaremos
+
+730
+00:46:17,159 --> 00:46:18,819
+cerca de 2 bilhões
+
+731
+00:46:18,819 --> 00:46:21,319
+a 2 bilhões e meio de seres humanos.
+
+732
+00:46:21,839 --> 00:46:24,079
+Assim, sentaremos, reitero,
+
+733
+00:46:24,359 --> 00:46:25,779
+no tabuleiro das nações,
+
+734
+00:46:25,780 --> 00:46:26,800
+de igual para igual.
+
+735
+00:46:27,160 --> 00:46:28,980
+Porque o Brasil, cada vez mais,
+
+736
+00:46:29,320 --> 00:46:31,760
+vai ter notoriedade e grandeza.
+
+737
+00:46:32,000 --> 00:46:33,120
+Não apenas em terras raras,
+
+738
+00:46:33,460 --> 00:46:34,960
+não apenas em energias renováveis,
+
+739
+00:46:35,340 --> 00:46:37,880
+mas também será um país imprescindível
+
+740
+00:46:37,880 --> 00:46:40,180
+para a segurança alimentar
+
+741
+00:46:40,180 --> 00:46:41,519
+da população mundial.
+
+742
+00:46:41,880 --> 00:46:42,860
+Vem comigo, agricultor.
+
+743
+00:46:43,140 --> 00:46:45,260
+Vem comigo, vocês que trabalham e produzem,
+
+744
+00:46:45,560 --> 00:46:46,760
+porque o Brasil tem cura.
+
+745
+00:46:47,860 --> 00:46:48,300
+Concluiu?
+
+746
+00:46:48,420 --> 00:46:49,140
+Muito obrigada.
+
+747
+00:46:49,560 --> 00:46:50,880
+Bom, a próxima pergunta, então,
+
+748
+00:46:51,019 --> 00:46:53,340
+é da jornalista da Rádio Bande News FM,
+
+749
+00:46:53,480 --> 00:46:54,240
+Sheila Magalhães.
+
+750
+00:46:54,239 --> 00:46:55,279
+Boa noite, Sheila.
+
+751
+00:46:55,359 --> 00:46:56,019
+E necessariamente,
+
+752
+00:46:56,139 --> 00:46:56,879
+sua pergunta tem que ser
+
+753
+00:46:56,879 --> 00:46:58,039
+para o candidato Renan Santos,
+
+754
+00:46:58,399 --> 00:46:59,679
+com o comentário de Augusto Cury.
+
+755
+00:46:59,779 --> 00:47:00,039
+Por favor.
+
+756
+00:47:00,039 --> 00:47:00,359
+É isso.
+
+757
+00:47:00,439 --> 00:47:01,279
+Boa noite, Adriana.
+
+758
+00:47:01,359 --> 00:47:02,219
+Boa noite a todos.
+
+759
+00:47:02,439 --> 00:47:03,519
+E a minha pergunta é sobre
+
+760
+00:47:03,519 --> 00:47:05,000
+o fim da escala 6x1.
+
+761
+00:47:05,339 --> 00:47:06,500
+Qual é a sua posição
+
+762
+00:47:06,500 --> 00:47:08,279
+sobre o fim da escala 6x1
+
+763
+00:47:08,279 --> 00:47:10,239
+e que respostas o senhor daria
+
+764
+00:47:10,239 --> 00:47:11,599
+com medidas práticas,
+
+765
+00:47:11,779 --> 00:47:12,519
+caso eleito,
+
+766
+00:47:12,979 --> 00:47:13,759
+para aqueles setores
+
+767
+00:47:13,759 --> 00:47:15,399
+que projetam para o ano que vem,
+
+768
+00:47:15,519 --> 00:47:16,479
+em função dessa medida,
+
+769
+00:47:16,899 --> 00:47:17,799
+aumento de custos,
+
+770
+00:47:17,959 --> 00:47:19,639
+inflação e desemprego, por exemplo?
+
+771
+00:47:22,199 --> 00:47:23,039
+Grande pergunta.
+
+772
+00:47:23,039 --> 00:47:23,820
+Grande pergunta.
+
+773
+00:47:24,219 --> 00:47:24,920
+Imagina o seguinte.
+
+774
+00:47:26,639 --> 00:47:28,300
+Alguém chega para você e fala,
+
+775
+00:47:28,619 --> 00:47:31,500
+ó, você vai trabalhar menos, menos.
+
+776
+00:47:31,940 --> 00:47:32,639
+Esse cara falou.
+
+777
+00:47:33,199 --> 00:47:34,559
+O maior inimigo do trabalho,
+
+778
+00:47:34,800 --> 00:47:35,099
+visou,
+
+779
+00:47:35,500 --> 00:47:36,739
+você vai trabalhar menos
+
+780
+00:47:36,739 --> 00:47:38,199
+e vai ganhar mais.
+
+781
+00:47:38,779 --> 00:47:39,840
+Este mesmo cara falou
+
+782
+00:47:39,840 --> 00:47:41,079
+que você ia comer mais picanha.
+
+783
+00:47:41,779 --> 00:47:42,599
+Esse mesmo cara,
+
+784
+00:47:43,079 --> 00:47:43,880
+na maior tranquilidade,
+
+785
+00:47:44,000 --> 00:47:45,480
+falou que ia taxar as blusinhas
+
+786
+00:47:45,480 --> 00:47:46,519
+e os eletrônicos
+
+787
+00:47:46,519 --> 00:47:47,980
+e você não ia pagar o preço.
+
+788
+00:47:48,420 --> 00:47:49,139
+Você acredita?
+
+789
+00:47:49,139 --> 00:47:50,900
+Quando a esmola é demais,
+
+790
+00:47:51,279 --> 00:47:52,159
+o santo desconfia,
+
+791
+00:47:52,559 --> 00:47:53,460
+mas ele propôs isso.
+
+792
+00:47:53,960 --> 00:47:54,940
+Muita gente acreditou.
+
+793
+00:47:55,259 --> 00:47:56,159
+O projeto, inclusive,
+
+794
+00:47:56,619 --> 00:47:57,679
+foi capitaneado
+
+795
+00:47:57,679 --> 00:47:58,420
+por uma pessoa chamada
+
+796
+00:47:58,420 --> 00:47:59,039
+Erika Hilton,
+
+797
+00:47:59,099 --> 00:47:59,940
+uma mulher muito grande,
+
+798
+00:48:00,699 --> 00:48:01,819
+modelo de passarela.
+
+799
+00:48:02,239 --> 00:48:02,879
+Essa Erika Hilton falou
+
+800
+00:48:02,879 --> 00:48:04,139
+que todo mundo ia fazer isso.
+
+801
+00:48:04,920 --> 00:48:06,420
+Não acredite nesses políticos
+
+802
+00:48:06,420 --> 00:48:07,379
+que estão dizendo para você
+
+803
+00:48:07,379 --> 00:48:08,920
+que você vai trabalhar menos
+
+804
+00:48:08,920 --> 00:48:09,539
+e ganhar mais
+
+805
+00:48:09,539 --> 00:48:11,799
+num país que até as casas Bahia quebraram.
+
+806
+00:48:12,579 --> 00:48:13,759
+Está todo mundo quebrando.
+
+807
+00:48:13,760 --> 00:48:14,160
+Agora,
+
+808
+00:48:14,460 --> 00:48:15,240
+este é um cenário
+
+809
+00:48:15,240 --> 00:48:16,960
+desesperador para o nosso país.
+
+810
+00:48:17,980 --> 00:48:18,420
+Desesperador.
+
+811
+00:48:18,840 --> 00:48:19,540
+O que eu vou fazer,
+
+812
+00:48:19,600 --> 00:48:20,480
+o que eu preciso tocar
+
+813
+00:48:20,480 --> 00:48:21,340
+para resolver a questão
+
+814
+00:48:21,340 --> 00:48:21,900
+de emprego no Brasil
+
+815
+00:48:21,900 --> 00:48:23,720
+é reformas de competitividade,
+
+816
+00:48:24,120 --> 00:48:24,960
+alterar a lei trabalhista
+
+817
+00:48:24,960 --> 00:48:26,440
+para contratar ser mais fácil,
+
+818
+00:48:26,680 --> 00:48:27,460
+para você não precisar
+
+819
+00:48:27,460 --> 00:48:28,780
+pagar tanto imposto
+
+820
+00:48:28,780 --> 00:48:30,280
+na hora de receber o seu salário,
+
+821
+00:48:30,460 --> 00:48:30,860
+para o governo
+
+822
+00:48:30,860 --> 00:48:31,800
+não ficar te roubando,
+
+823
+00:48:32,140 --> 00:48:34,080
+para o Lula e o Lulinha
+
+824
+00:48:34,080 --> 00:48:35,640
+fazerem a farra aqui,
+
+825
+00:48:35,800 --> 00:48:37,200
+para o Flávio Bolsonaro
+
+826
+00:48:37,200 --> 00:48:38,740
+fazer a rachadinha gotozinha
+
+827
+00:48:38,740 --> 00:48:40,220
+com o dinheiro do teu salário.
+
+828
+00:48:40,860 --> 00:48:41,700
+Esta revolução
+
+829
+00:48:41,700 --> 00:48:42,180
+que nós vamos fazer
+
+830
+00:48:42,180 --> 00:48:43,340
+é uma reforma trabalhista
+
+831
+00:48:43,340 --> 00:48:44,320
+que permita que você
+
+832
+00:48:44,320 --> 00:48:45,460
+seja contratado por hora.
+
+833
+00:48:45,840 --> 00:48:46,059
+Hoje,
+
+834
+00:48:46,180 --> 00:48:47,320
+todo mundo está indo parar no MEI.
+
+835
+00:48:48,360 --> 00:48:48,880
+Todo mundo.
+
+836
+00:48:49,200 --> 00:48:50,380
+Mas a gente não pode se esquecer.
+
+837
+00:48:50,800 --> 00:48:51,160
+Hoje,
+
+838
+00:48:51,539 --> 00:48:52,740
+o que estes caras querem,
+
+839
+00:48:52,860 --> 00:48:54,079
+especialmente esse cara aqui,
+
+840
+00:48:54,680 --> 00:48:56,200
+é que você não tenha trabalho.
+
+841
+00:48:56,579 --> 00:48:57,720
+Porque quando você não tem trabalho,
+
+842
+00:48:57,800 --> 00:48:58,920
+você vai parar no Bolsa Família
+
+843
+00:48:58,920 --> 00:49:00,340
+e quando você para no Bolsa Família
+
+844
+00:49:00,340 --> 00:49:01,519
+e ainda te dá um vale gás,
+
+845
+00:49:01,600 --> 00:49:02,660
+uma energia elétrica de graça,
+
+846
+00:49:03,019 --> 00:49:03,820
+aí você vota nele.
+
+847
+00:49:03,980 --> 00:49:04,860
+Porque ele está te tratando
+
+848
+00:49:04,860 --> 00:49:05,640
+como um escravo.
+
+849
+00:49:06,680 --> 00:49:06,860
+Bom,
+
+850
+00:49:06,940 --> 00:49:08,019
+só esclarecendo uma dúvida
+
+851
+00:49:08,019 --> 00:49:08,660
+que surgiu aqui
+
+852
+00:49:08,660 --> 00:49:09,519
+entre os candidatos,
+
+853
+00:49:09,620 --> 00:49:10,360
+quem comenta
+
+854
+00:49:10,360 --> 00:49:11,680
+é Augusto Cury,
+
+855
+00:49:11,980 --> 00:49:12,559
+que foi o único
+
+856
+00:49:12,559 --> 00:49:13,380
+que não comentou
+
+857
+00:49:13,380 --> 00:49:14,299
+nesse bloco ainda
+
+858
+00:49:14,299 --> 00:49:15,279
+que o senhor Ronaldo Caiado
+
+859
+00:49:15,279 --> 00:49:16,599
+já comentou anteriormente.
+
+860
+00:49:16,679 --> 00:49:17,500
+Então, o senhor tem um minuto,
+
+861
+00:49:17,619 --> 00:49:18,559
+por gentileza.
+
+862
+00:49:18,739 --> 00:49:18,940
+Renan,
+
+863
+00:49:19,000 --> 00:49:20,420
+você me chamou de professor.
+
+864
+00:49:21,119 --> 00:49:21,880
+Vem cá aqui.
+
+865
+00:49:22,779 --> 00:49:24,039
+Muito respeito com você.
+
+866
+00:49:24,279 --> 00:49:24,579
+Também,
+
+867
+00:49:24,659 --> 00:49:25,380
+muito respeito com você.
+
+868
+00:49:26,219 --> 00:49:27,340
+Tem um problema,
+
+869
+00:49:27,480 --> 00:49:27,739
+Renan.
+
+870
+00:49:27,739 --> 00:49:31,439
+30% dos trabalhadores do Brasil
+
+871
+00:49:31,439 --> 00:49:33,859
+estão com síndrome de burnout.
+
+872
+00:49:33,859 --> 00:49:35,699
+Estresse profissional,
+
+873
+00:49:36,399 --> 00:49:37,159
+dores de cabeça,
+
+874
+00:49:37,699 --> 00:49:38,639
+dores musculares,
+
+875
+00:49:40,000 --> 00:49:40,819
+autocobrança,
+
+876
+00:49:40,919 --> 00:49:42,079
+cobrança excessiva.
+
+877
+00:49:42,559 --> 00:49:43,979
+A escala 5x2
+
+878
+00:49:43,979 --> 00:49:44,799
+atende
+
+879
+00:49:44,799 --> 00:49:45,979
+a necessidade
+
+880
+00:49:45,979 --> 00:49:46,899
+dos trabalhadores.
+
+881
+00:49:47,319 --> 00:49:47,979
+Eles vão poder
+
+882
+00:49:47,979 --> 00:49:49,459
+ter mais tempo com a família,
+
+883
+00:49:49,639 --> 00:49:50,559
+mais qualidade de vida
+
+884
+00:49:50,559 --> 00:49:51,859
+e, consequentemente,
+
+885
+00:49:51,979 --> 00:49:52,839
+produzirão mais.
+
+886
+00:49:52,840 --> 00:49:55,160
+A escala 6x1
+
+887
+00:49:55,160 --> 00:49:56,000
+atende
+
+888
+00:49:56,000 --> 00:49:57,400
+determinados setores
+
+889
+00:49:57,400 --> 00:49:58,180
+da economia.
+
+890
+00:49:58,500 --> 00:49:59,480
+O que nós temos que fazer,
+
+891
+00:49:59,539 --> 00:50:00,160
+na minha opinião,
+
+892
+00:50:00,240 --> 00:50:00,480
+Renan,
+
+893
+00:50:00,780 --> 00:50:01,579
+é ajustar
+
+894
+00:50:01,579 --> 00:50:02,320
+para atender
+
+895
+00:50:02,320 --> 00:50:03,900
+a necessidade dos trabalhadores
+
+896
+00:50:03,900 --> 00:50:04,680
+e também
+
+897
+00:50:04,680 --> 00:50:06,280
+a necessidade das empresas.
+
+898
+00:50:06,579 --> 00:50:07,380
+E, ao mesmo tempo,
+
+899
+00:50:07,800 --> 00:50:08,840
+eu quero mostrar
+
+900
+00:50:08,840 --> 00:50:09,720
+a minha indignação.
+
+901
+00:50:10,079 --> 00:50:11,200
+Nesse exato momento,
+
+902
+00:50:11,380 --> 00:50:12,720
+Lula da Silva
+
+903
+00:50:12,720 --> 00:50:14,079
+está fazendo
+
+904
+00:50:14,079 --> 00:50:15,280
+uma entrevista
+
+905
+00:50:15,280 --> 00:50:15,740
+num canal
+
+906
+00:50:15,740 --> 00:50:16,519
+de televisão.
+
+907
+00:50:16,880 --> 00:50:18,200
+Isso é um desrespeito
+
+908
+00:50:18,200 --> 00:50:19,079
+com a democracia.
+
+909
+00:50:19,079 --> 00:50:22,920
+Bom, meus amigos,
+
+910
+00:50:23,000 --> 00:50:23,559
+eu gostaria de falar
+
+911
+00:50:23,559 --> 00:50:24,239
+a mesma coisa
+
+912
+00:50:24,239 --> 00:50:25,420
+que o meu amigo
+
+913
+00:50:25,420 --> 00:50:25,960
+Cury aqui,
+
+914
+00:50:26,079 --> 00:50:27,159
+mas não vai rolar.
+
+915
+00:50:27,360 --> 00:50:27,759
+Muita gente
+
+916
+00:50:27,759 --> 00:50:28,639
+está passando por burnout,
+
+917
+00:50:28,920 --> 00:50:29,679
+que está trabalhando muito,
+
+918
+00:50:30,000 --> 00:50:30,579
+mas eu acho que a pessoa
+
+919
+00:50:30,579 --> 00:50:31,340
+vai sofrer muito mais
+
+920
+00:50:31,340 --> 00:50:32,019
+se ela não tiver comida
+
+921
+00:50:32,019 --> 00:50:33,179
+na mesa por não ter trabalho,
+
+922
+00:50:33,480 --> 00:50:34,079
+que é o que vai acontecer
+
+923
+00:50:34,079 --> 00:50:34,900
+com muitas empresas
+
+924
+00:50:34,900 --> 00:50:35,539
+que vão fechar,
+
+925
+00:50:35,860 --> 00:50:36,440
+muitos empregos
+
+926
+00:50:36,440 --> 00:50:36,980
+que vão desaparecer.
+
+927
+00:50:37,019 --> 00:50:37,819
+Eu vou repetir para vocês,
+
+928
+00:50:38,239 --> 00:50:39,340
+até as Casas Bahia
+
+929
+00:50:39,340 --> 00:50:40,000
+estão fechando.
+
+930
+00:50:40,299 --> 00:50:40,880
+Não é que eu quero
+
+931
+00:50:40,880 --> 00:50:41,699
+que vocês trabalhem muito,
+
+932
+00:50:41,739 --> 00:50:42,259
+eu quero aumentar
+
+933
+00:50:42,259 --> 00:50:43,579
+a produtividade da economia brasileira
+
+934
+00:50:43,579 --> 00:50:44,619
+para que você possa ganhar
+
+935
+00:50:44,619 --> 00:50:45,259
+mais por hora
+
+936
+00:50:45,259 --> 00:50:46,400
+e você faça esse cálculo.
+
+937
+00:50:46,719 --> 00:50:47,960
+Eu quero que sobre dinheiro
+
+938
+00:50:47,960 --> 00:50:49,220
+para você no fim do mês.
+
+939
+00:50:49,699 --> 00:50:50,400
+Essa é a luta
+
+940
+00:50:50,400 --> 00:50:51,360
+que nós precisamos ter
+
+941
+00:50:51,360 --> 00:50:53,380
+de maneira desesperada.
+
+942
+00:50:53,619 --> 00:50:54,699
+Os setores todos vão quebrar.
+
+943
+00:50:55,139 --> 00:50:56,079
+O meu deputado federal,
+
+944
+00:50:56,199 --> 00:50:56,699
+Kim Kataguiri,
+
+945
+00:50:56,760 --> 00:50:57,720
+foi o único a discursar
+
+946
+00:50:57,720 --> 00:50:58,380
+no Congresso
+
+947
+00:50:58,380 --> 00:50:59,119
+avisando que isso aí
+
+948
+00:50:59,119 --> 00:50:59,820
+era uma farsa,
+
+949
+00:51:00,079 --> 00:51:00,740
+que isso era uma mentira.
+
+950
+00:51:00,940 --> 00:51:02,260
+E eu topo perder voto,
+
+951
+00:51:02,539 --> 00:51:03,440
+mas eu não topo enganar
+
+952
+00:51:03,440 --> 00:51:04,320
+você que está assistindo.
+
+953
+00:51:04,760 --> 00:51:05,720
+Não vai funcionar
+
+954
+00:51:05,720 --> 00:51:06,360
+isso que o governo
+
+955
+00:51:06,360 --> 00:51:07,260
+está fazendo, ponto.
+
+956
+00:51:07,740 --> 00:51:08,280
+Nenhum país
+
+957
+00:51:08,280 --> 00:51:09,079
+que a gente está concorrendo,
+
+958
+00:51:09,420 --> 00:51:10,679
+China, Índia,
+
+959
+00:51:10,940 --> 00:51:11,480
+Vietnã,
+
+960
+00:51:11,679 --> 00:51:12,179
+está fazendo
+
+961
+00:51:12,179 --> 00:51:13,380
+esse tipo de política agora.
+
+962
+00:51:13,820 --> 00:51:14,519
+Você só consegue
+
+963
+00:51:14,519 --> 00:51:15,679
+diminuir a carga de trabalho
+
+964
+00:51:15,679 --> 00:51:16,639
+e eu quero que diminua,
+
+965
+00:51:16,679 --> 00:51:17,159
+eu quero que vocês vivam
+
+966
+00:51:17,159 --> 00:51:18,500
+numa boa, sejam felizes,
+
+967
+00:51:18,559 --> 00:51:19,199
+não tenham burnout,
+
+968
+00:51:19,339 --> 00:51:20,139
+não tenham ansia até nada.
+
+969
+00:51:20,719 --> 00:51:21,299
+Mas eu quero que vocês
+
+970
+00:51:21,299 --> 00:51:21,779
+tenham trabalho.
+
+971
+00:51:22,159 --> 00:51:22,940
+Eu não quero que você caia
+
+972
+00:51:22,940 --> 00:51:23,859
+no Bolsa Família
+
+973
+00:51:23,859 --> 00:51:25,000
+para o Lula te tratar
+
+974
+00:51:25,000 --> 00:51:26,339
+como se fosse um escravo.
+
+975
+00:51:26,679 --> 00:51:27,420
+Isso eu não aceito.
+
+976
+00:51:27,719 --> 00:51:28,619
+E para finalizar aqui,
+
+977
+00:51:28,940 --> 00:51:29,980
+deixando a boa lembrança
+
+978
+00:51:29,980 --> 00:51:30,679
+que foi colocada
+
+979
+00:51:30,679 --> 00:51:32,679
+agora pelo Augusto Cury,
+
+980
+00:51:33,000 --> 00:51:34,000
+vamos lembrar uma coisa aqui,
+
+981
+00:51:34,039 --> 00:51:34,719
+meus queridos amigos.
+
+982
+00:51:35,039 --> 00:51:35,980
+Nesse instante, de fato,
+
+983
+00:51:36,039 --> 00:51:36,920
+o Lula está lá na Record.
+
+984
+00:51:37,599 --> 00:51:38,219
+A Record,
+
+985
+00:51:38,500 --> 00:51:39,199
+uma emissora que está
+
+986
+00:51:39,199 --> 00:51:40,679
+se comportando como moleque,
+
+987
+00:51:41,000 --> 00:51:41,799
+que está se entregando
+
+988
+00:51:41,799 --> 00:51:42,500
+ao Lula agora,
+
+989
+00:51:42,659 --> 00:51:43,359
+porque aparentemente
+
+990
+00:51:43,359 --> 00:51:43,859
+está envolvida
+
+991
+00:51:43,859 --> 00:51:44,859
+no escândalo de corrupção
+
+992
+00:51:44,859 --> 00:51:45,960
+com alguns dos seus donos
+
+993
+00:51:45,960 --> 00:51:47,139
+no escândalo do Digi Mais,
+
+994
+00:51:47,619 --> 00:51:48,500
+ao invés de contribuir
+
+995
+00:51:48,500 --> 00:51:49,320
+com a democracia,
+
+996
+00:51:49,639 --> 00:51:51,059
+chamou aquele bêbado,
+
+997
+00:51:51,500 --> 00:51:52,240
+aquele bêbado,
+
+998
+00:51:52,500 --> 00:51:53,039
+safado,
+
+999
+00:51:53,500 --> 00:51:53,900
+para ir lá
+
+1000
+00:51:53,900 --> 00:51:55,059
+ficar fazendo monólogo.
+
+1001
+00:51:55,320 --> 00:51:55,780
+Eu quero saber
+
+1002
+00:51:55,780 --> 00:51:56,420
+se eles vão perguntar
+
+1003
+00:51:56,420 --> 00:51:56,840
+para o Lula
+
+1004
+00:51:56,840 --> 00:51:57,679
+se o filho dele,
+
+1005
+00:51:57,760 --> 00:51:58,079
+Lulinha,
+
+1006
+00:51:58,320 --> 00:51:59,460
+roubou ou não roubou
+
+1007
+00:51:59,460 --> 00:52:00,440
+o nosso dinheiro no INSS.
+
+1008
+00:52:01,000 --> 00:52:01,539
+Eu quero saber
+
+1009
+00:52:01,539 --> 00:52:02,000
+se a Record
+
+1010
+00:52:02,000 --> 00:52:03,280
+vai perguntar para o Lula
+
+1011
+00:52:03,280 --> 00:52:04,500
+se o governo dele
+
+1012
+00:52:04,500 --> 00:52:05,460
+é ou não é
+
+1013
+00:52:05,460 --> 00:52:06,240
+um lugar em que
+
+1014
+00:52:06,240 --> 00:52:07,400
+a turma do Banco Master
+
+1015
+00:52:07,400 --> 00:52:08,800
+se esconde e se escora,
+
+1016
+00:52:08,940 --> 00:52:09,579
+porque o escândalo
+
+1017
+00:52:09,579 --> 00:52:10,179
+do Banco Master
+
+1018
+00:52:10,179 --> 00:52:11,179
+surgiu no governo dele.
+
+1019
+00:52:11,679 --> 00:52:11,960
+Record,
+
+1020
+00:52:12,079 --> 00:52:12,940
+pergunta as coisas,
+
+1021
+00:52:13,280 --> 00:52:13,880
+senão vão começar
+
+1022
+00:52:13,880 --> 00:52:14,480
+a desconfiar,
+
+1023
+00:52:14,559 --> 00:52:14,960
+Rede Record,
+
+1024
+00:52:15,260 --> 00:52:15,579
+que é ou não
+
+1025
+00:52:15,579 --> 00:52:16,200
+querem me chamar
+
+1026
+00:52:16,200 --> 00:52:16,920
+para as sabatinas?
+
+1027
+00:52:17,340 --> 00:52:18,099
+Vocês querem ajudar
+
+1028
+00:52:18,099 --> 00:52:18,619
+esse cara,
+
+1029
+00:52:18,880 --> 00:52:19,619
+assim como ajudaram
+
+1030
+00:52:19,619 --> 00:52:20,280
+por muito tempo
+
+1031
+00:52:20,280 --> 00:52:23,140
+esse outro cagão aqui
+
+1032
+00:52:23,140 --> 00:52:24,480
+a ficar se escondendo
+
+1033
+00:52:24,480 --> 00:52:25,340
+por tanto tempo,
+
+1034
+00:52:25,420 --> 00:52:25,519
+tá?
+
+1035
+00:52:25,760 --> 00:52:26,519
+Vamos ter trabalho,
+
+1036
+00:52:26,599 --> 00:52:27,559
+vamos ter emprego no Brasil,
+
+1037
+00:52:27,800 --> 00:52:28,300
+mas não vamos ficar
+
+1038
+00:52:28,300 --> 00:52:29,180
+enganando as pessoas
+
+1039
+00:52:29,180 --> 00:52:30,160
+e Rede Record
+
+1040
+00:52:30,160 --> 00:52:31,680
+se comporte como um lugar
+
+1041
+00:52:31,680 --> 00:52:32,900
+amigo da democracia
+
+1042
+00:52:32,900 --> 00:52:34,079
+e não como puxa-saco
+
+1043
+00:52:34,079 --> 00:52:34,519
+de ladrão.
+
+1044
+00:52:34,519 --> 00:52:36,199
+Obrigada,
+
+1045
+00:52:36,280 --> 00:52:37,000
+agradeço aos três
+
+1046
+00:52:37,000 --> 00:52:37,860
+colegas jornalistas
+
+1047
+00:52:37,860 --> 00:52:39,000
+que participaram conosco
+
+1048
+00:52:39,000 --> 00:52:39,780
+aqui nesse bloco.
+
+1049
+00:52:39,860 --> 00:52:40,699
+Nós chegamos então
+
+1050
+00:52:40,699 --> 00:52:42,179
+ao final desse bloco
+
+1051
+00:52:42,179 --> 00:52:43,500
+e antes de irmos
+
+1052
+00:52:43,500 --> 00:52:44,259
+para o intervalo,
+
+1053
+00:52:44,500 --> 00:52:45,480
+vamos dar aquela olhadinha
+
+1054
+00:52:45,480 --> 00:52:46,920
+na sala digital da Band,
+
+1055
+00:52:47,099 --> 00:52:48,159
+que é uma parceria
+
+1056
+00:52:48,159 --> 00:52:48,800
+com o Google,
+
+1057
+00:52:49,119 --> 00:52:50,599
+onde lá são reunidas
+
+1058
+00:52:50,599 --> 00:52:51,599
+todas as informações,
+
+1059
+00:52:51,800 --> 00:52:52,360
+os comentários,
+
+1060
+00:52:52,679 --> 00:52:54,139
+as buscas que você
+
+1061
+00:52:54,139 --> 00:52:55,360
+aí em casa faz
+
+1062
+00:52:55,360 --> 00:52:56,480
+durante o debate,
+
+1063
+00:52:56,739 --> 00:52:57,360
+tudo está sendo
+
+1064
+00:52:57,360 --> 00:52:58,739
+acompanhado da sala digital.
+
+1065
+00:52:59,119 --> 00:53:00,420
+Nós voltamos em instantes
+
+1066
+00:53:00,420 --> 00:53:01,980
+com o segundo confronto
+
+1067
+00:53:01,980 --> 00:53:03,639
+direto entre os candidatos.
+
+1068
+00:53:03,639 --> 00:53:05,639
+Eleições 2026,
+
+1069
+00:53:06,099 --> 00:53:06,900
+olho no voto,
+
+1070
+00:53:07,159 --> 00:53:08,199
+olho na Band.
+
+1071
+00:53:08,199 --> 00:53:33,859
+Estamos de volta,
+
+1072
+00:53:34,039 --> 00:53:34,719
+ao vivo,
+
+1073
+00:53:34,879 --> 00:53:35,739
+para todo o Brasil,
+
+1074
+00:53:35,739 --> 00:53:37,279
+com este que é o primeiro
+
+1075
+00:53:37,279 --> 00:53:39,500
+debate das eleições 2026
+
+1076
+00:53:39,500 --> 00:53:40,979
+entre os candidatos
+
+1077
+00:53:40,979 --> 00:53:42,419
+à presidência da República.
+
+1078
+00:53:42,839 --> 00:53:44,139
+Um encontro promovido
+
+1079
+00:53:44,139 --> 00:53:45,599
+pelo Grupo Bandeirantes
+
+1080
+00:53:45,599 --> 00:53:47,439
+em parceria com o jornal
+
+1081
+00:53:47,439 --> 00:53:48,179
+Estadão,
+
+1082
+00:53:48,519 --> 00:53:50,459
+as TVs Cultura e Gazeta
+
+1083
+00:53:50,459 --> 00:53:52,119
+e a Jovem Pan News.
+
+1084
+00:53:52,539 --> 00:53:54,159
+O debate também é exibido
+
+1085
+00:53:54,159 --> 00:53:55,299
+pela Band News TV,
+
+1086
+00:53:55,759 --> 00:53:57,139
+pelas rádios Bandeirantes
+
+1087
+00:53:57,139 --> 00:53:58,599
+e Band News FM
+
+1088
+00:53:58,599 --> 00:54:00,479
+e pelos canais digitais
+
+1089
+00:54:00,479 --> 00:54:00,979
+da Band.
+
+1090
+00:54:01,199 --> 00:54:02,959
+Os três lugares vazios
+
+1091
+00:54:02,959 --> 00:54:04,199
+aqui no nosso palco
+
+1092
+00:54:04,199 --> 00:54:05,419
+foram reservados
+
+1093
+00:54:05,419 --> 00:54:06,359
+para os candidatos
+
+1094
+00:54:06,359 --> 00:54:07,480
+que não vieram.
+
+1095
+00:54:07,839 --> 00:54:09,559
+Luiz Inácio Lula da Silva,
+
+1096
+00:54:10,059 --> 00:54:11,099
+Flávio Bolsonaro
+
+1097
+00:54:11,099 --> 00:54:12,299
+e Romeu Zema.
+
+1098
+00:54:12,960 --> 00:54:14,159
+Vamos então dar início
+
+1099
+00:54:14,159 --> 00:54:15,439
+ao segundo confronto
+
+1100
+00:54:15,439 --> 00:54:15,980
+desta noite,
+
+1101
+00:54:16,119 --> 00:54:16,899
+confronto direto
+
+1102
+00:54:16,899 --> 00:54:17,799
+entre os candidatos
+
+1103
+00:54:17,799 --> 00:54:19,419
+pelo sorteio realizado
+
+1104
+00:54:19,419 --> 00:54:20,019
+previamente.
+
+1105
+00:54:20,379 --> 00:54:21,599
+Quem começa essa rodada
+
+1106
+00:54:21,599 --> 00:54:22,960
+indicando quem vai responder
+
+1107
+00:54:22,960 --> 00:54:24,599
+é o candidato Renan Santos.
+
+1108
+00:54:24,899 --> 00:54:26,039
+Os tempos são os mesmos
+
+1109
+00:54:26,039 --> 00:54:27,079
+do primeiro confronto,
+
+1110
+00:54:27,139 --> 00:54:28,379
+da primeira rodada de confrontos.
+
+1111
+00:54:28,699 --> 00:54:29,299
+Candidato Renan,
+
+1112
+00:54:29,359 --> 00:54:30,799
+para quem vai a sua pergunta?
+
+1113
+00:54:30,800 --> 00:54:32,340
+Acho que vou pro Cury de novo.
+
+1114
+00:54:33,180 --> 00:54:33,560
+Por favor.
+
+1115
+00:54:33,660 --> 00:54:33,980
+Vamos lá.
+
+1116
+00:54:35,180 --> 00:54:35,900
+Meus amigos,
+
+1117
+00:54:36,060 --> 00:54:36,820
+todos estão vindo aqui.
+
+1118
+00:54:37,240 --> 00:54:38,580
+Essa eleição foi montada
+
+1119
+00:54:38,580 --> 00:54:39,300
+para ser um jogo
+
+1120
+00:54:39,300 --> 00:54:40,400
+de cartas marcadas
+
+1121
+00:54:40,400 --> 00:54:41,200
+entre o Lula
+
+1122
+00:54:41,200 --> 00:54:42,539
+e o Flávio Bolsonaro.
+
+1123
+00:54:43,120 --> 00:54:44,019
+Quem está patrocinando
+
+1124
+00:54:44,019 --> 00:54:45,160
+esse jogo de cartas marcadas?
+
+1125
+00:54:45,660 --> 00:54:46,320
+O Banco Master.
+
+1126
+00:54:46,720 --> 00:54:47,220
+Este é um jogo
+
+1127
+00:54:47,220 --> 00:54:48,500
+construído pelo Banco Master
+
+1128
+00:54:48,500 --> 00:54:49,580
+para que não importe
+
+1129
+00:54:49,580 --> 00:54:50,100
+quem ganha.
+
+1130
+00:54:50,300 --> 00:54:50,940
+E no jogo aí,
+
+1131
+00:54:51,080 --> 00:54:51,740
+quem está sendo montado
+
+1132
+00:54:51,740 --> 00:54:53,100
+é o Flávio que vai perder,
+
+1133
+00:54:53,240 --> 00:54:53,840
+o Lula vai ganhar.
+
+1134
+00:54:54,240 --> 00:54:55,100
+O senhor Vorcaro
+
+1135
+00:54:55,100 --> 00:54:56,680
+tem o seu famoso indulto.
+
+1136
+00:54:56,920 --> 00:54:57,680
+O senhor Vorcaro
+
+1137
+00:54:57,679 --> 00:54:58,799
+não fica preso,
+
+1138
+00:54:58,980 --> 00:54:59,639
+porque este cara
+
+1139
+00:54:59,639 --> 00:55:01,019
+comprou a República inteira.
+
+1140
+00:55:01,339 --> 00:55:02,719
+Se este cara ficar em cana,
+
+1141
+00:55:03,139 --> 00:55:04,059
+cai a República.
+
+1142
+00:55:04,299 --> 00:55:05,259
+Todo mundo sabe disso.
+
+1143
+00:55:05,980 --> 00:55:06,759
+Eu gostaria de saber,
+
+1144
+00:55:07,079 --> 00:55:07,480
+dado que,
+
+1145
+00:55:07,719 --> 00:55:08,539
+na vitória de ambos,
+
+1146
+00:55:09,079 --> 00:55:10,579
+teremos aqui no primeiro dia
+
+1147
+00:55:10,579 --> 00:55:11,819
+não um indulto ao Bolsonaro,
+
+1148
+00:55:12,000 --> 00:55:12,679
+um perdão ao Bolsonaro,
+
+1149
+00:55:13,019 --> 00:55:14,500
+mas um perdão ao Vorcaro,
+
+1150
+00:55:14,699 --> 00:55:15,159
+eu quero saber
+
+1151
+00:55:15,159 --> 00:55:16,179
+qual será o seu papel.
+
+1152
+00:55:16,399 --> 00:55:17,019
+O que você vai fazer
+
+1153
+00:55:17,019 --> 00:55:17,879
+no primeiro dia
+
+1154
+00:55:17,879 --> 00:55:18,619
+do seu mandato?
+
+1155
+00:55:18,919 --> 00:55:20,440
+Como será o dia 5 de janeiro
+
+1156
+00:55:20,440 --> 00:55:21,480
+com Augusto Cury,
+
+1157
+00:55:21,719 --> 00:55:22,460
+presidente da República?
+
+1158
+00:55:23,059 --> 00:55:24,219
+Obrigado por acreditar
+
+1159
+00:55:24,219 --> 00:55:25,699
+na minha candidatura.
+
+1160
+00:55:25,699 --> 00:55:28,899
+Renan,
+
+1161
+00:55:29,599 --> 00:55:32,879
+corrupção no Brasil
+
+1162
+00:55:32,879 --> 00:55:34,139
+é uma vergonha.
+
+1163
+00:55:35,719 --> 00:55:36,379
+Sai governo,
+
+1164
+00:55:36,579 --> 00:55:37,419
+entra governo
+
+1165
+00:55:37,419 --> 00:55:39,219
+e tudo continua o mesmo.
+
+1166
+00:55:39,980 --> 00:55:40,500
+Para mim,
+
+1167
+00:55:41,460 --> 00:55:42,719
+nós teríamos que tratar
+
+1168
+00:55:42,719 --> 00:55:44,019
+a corrupção
+
+1169
+00:55:44,019 --> 00:55:45,719
+como crime hediondo,
+
+1170
+00:55:46,219 --> 00:55:47,399
+crime violento.
+
+1171
+00:55:47,599 --> 00:55:49,259
+E teria que ter um prazo
+
+1172
+00:55:49,259 --> 00:55:49,819
+para julgar.
+
+1173
+00:55:49,819 --> 00:55:50,659
+No máximo,
+
+1174
+00:55:50,839 --> 00:55:51,399
+seis meses.
+
+1175
+00:55:51,799 --> 00:55:52,879
+E para a cadeia mesmo.
+
+1176
+00:55:52,880 --> 00:55:55,860
+O escândalo do Banco Master
+
+1177
+00:55:55,860 --> 00:55:58,340
+foi um dos maiores escândalos
+
+1178
+00:55:58,340 --> 00:55:59,420
+da história do Brasil.
+
+1179
+00:55:59,559 --> 00:56:00,140
+E envolve
+
+1180
+00:56:00,140 --> 00:56:01,440
+tantas pessoas
+
+1181
+00:56:01,440 --> 00:56:02,500
+e tantos políticos
+
+1182
+00:56:02,500 --> 00:56:04,360
+que eu fico pensando,
+
+1183
+00:56:04,539 --> 00:56:04,840
+será
+
+1184
+00:56:04,840 --> 00:56:07,840
+que a política brasileira
+
+1185
+00:56:07,840 --> 00:56:09,099
+está tão doente
+
+1186
+00:56:09,099 --> 00:56:11,380
+que entra nessa política,
+
+1187
+00:56:11,519 --> 00:56:11,960
+pelo menos,
+
+1188
+00:56:12,220 --> 00:56:13,099
+uma boa parte,
+
+1189
+00:56:13,500 --> 00:56:14,220
+aqueles que são
+
+1190
+00:56:14,220 --> 00:56:15,260
+mal resolvidos
+
+1191
+00:56:15,260 --> 00:56:16,559
+intelectualmente,
+
+1192
+00:56:17,059 --> 00:56:18,160
+mal resolvidos
+
+1193
+00:56:18,160 --> 00:56:19,559
+financeiramente
+
+1194
+00:56:19,559 --> 00:56:21,059
+e mal resolvidos
+
+1195
+00:56:21,059 --> 00:56:21,980
+emocionalmente.
+
+1196
+00:56:21,980 --> 00:56:23,340
+A política
+
+1197
+00:56:23,340 --> 00:56:24,960
+deveria ser
+
+1198
+00:56:24,960 --> 00:56:26,639
+uma área
+
+1199
+00:56:26,639 --> 00:56:28,699
+onde cada brasileiro
+
+1200
+00:56:28,699 --> 00:56:30,480
+teria que ser honrado
+
+1201
+00:56:30,480 --> 00:56:31,579
+de maneira
+
+1202
+00:56:31,579 --> 00:56:33,639
+notável.
+
+1203
+00:56:33,980 --> 00:56:35,500
+Porque a dívida
+
+1204
+00:56:35,500 --> 00:56:36,599
+brasileira,
+
+1205
+00:56:36,880 --> 00:56:38,039
+ela tem rosto,
+
+1206
+00:56:38,460 --> 00:56:39,280
+tem o rosto
+
+1207
+00:56:39,280 --> 00:56:40,179
+do seu filho,
+
+1208
+00:56:40,639 --> 00:56:41,619
+de cada criança
+
+1209
+00:56:41,619 --> 00:56:43,059
+e cada adolescente.
+
+1210
+00:56:43,579 --> 00:56:44,820
+Para vocês terem uma ideia,
+
+1211
+00:56:45,740 --> 00:56:46,400
+uma criança
+
+1212
+00:56:46,400 --> 00:56:47,519
+nasce no Brasil,
+
+1213
+00:56:48,380 --> 00:56:49,880
+nasce devendo
+
+1214
+00:56:49,880 --> 00:56:50,680
+R$ 50 mil,
+
+1215
+00:56:51,180 --> 00:56:52,480
+pagando no mínimo
+
+1216
+00:56:52,480 --> 00:56:53,740
+20% de juros
+
+1217
+00:56:53,740 --> 00:56:54,660
+ao ano.
+
+1218
+00:56:55,160 --> 00:56:56,280
+14%
+
+1219
+00:56:56,280 --> 00:56:57,519
+da taxa Selic,
+
+1220
+00:56:57,880 --> 00:56:58,640
+mais o spread
+
+1221
+00:56:58,640 --> 00:57:00,340
+de 5% a 6%.
+
+1222
+00:57:00,340 --> 00:57:01,340
+Portanto,
+
+1223
+00:57:01,860 --> 00:57:02,440
+cuidar
+
+1224
+00:57:02,440 --> 00:57:04,079
+do dinheiro público
+
+1225
+00:57:04,079 --> 00:57:05,140
+é cuidar
+
+1226
+00:57:05,140 --> 00:57:06,320
+do futuro
+
+1227
+00:57:06,320 --> 00:57:07,220
+da nação brasileira.
+
+1228
+00:57:07,219 --> 00:57:08,980
+eu não dependo
+
+1229
+00:57:08,980 --> 00:57:09,459
+do poder,
+
+1230
+00:57:10,519 --> 00:57:11,179
+eu não preciso
+
+1231
+00:57:11,179 --> 00:57:11,639
+do dinheiro
+
+1232
+00:57:11,639 --> 00:57:12,179
+do poder,
+
+1233
+00:57:12,939 --> 00:57:13,399
+não preciso
+
+1234
+00:57:13,399 --> 00:57:13,980
+do prestígio
+
+1235
+00:57:13,980 --> 00:57:14,480
+do poder,
+
+1236
+00:57:15,099 --> 00:57:16,159
+eu tenho mais do que
+
+1237
+00:57:16,159 --> 00:57:18,279
+a grande maioria
+
+1238
+00:57:18,279 --> 00:57:19,159
+dos políticos
+
+1239
+00:57:19,159 --> 00:57:20,779
+jamais sonharam em ter.
+
+1240
+00:57:21,299 --> 00:57:22,459
+E pode ter certeza,
+
+1241
+00:57:22,939 --> 00:57:23,679
+se eu sentar
+
+1242
+00:57:23,679 --> 00:57:24,819
+na cadeira de presidente,
+
+1243
+00:57:25,219 --> 00:57:26,279
+se eu for digno
+
+1244
+00:57:26,279 --> 00:57:27,179
+do seu voto,
+
+1245
+00:57:27,579 --> 00:57:28,319
+nós vamos mudar
+
+1246
+00:57:28,319 --> 00:57:28,939
+essa nação.
+
+1247
+00:57:29,359 --> 00:57:30,179
+A corrupção
+
+1248
+00:57:30,179 --> 00:57:31,199
+vai ser tratada
+
+1249
+00:57:31,199 --> 00:57:32,299
+como crime
+
+1250
+00:57:32,299 --> 00:57:33,359
+violento,
+
+1251
+00:57:33,359 --> 00:57:34,159
+porque é um crime
+
+1252
+00:57:34,159 --> 00:57:35,440
+contra o seu filho,
+
+1253
+00:57:35,719 --> 00:57:36,460
+a sua família
+
+1254
+00:57:36,460 --> 00:57:37,480
+e o seu futuro.
+
+1255
+00:57:42,699 --> 00:57:43,339
+Obrigado, Cury.
+
+1256
+00:57:43,940 --> 00:57:44,659
+Em resumo,
+
+1257
+00:57:45,079 --> 00:57:45,759
+o primeiro dia
+
+1258
+00:57:45,759 --> 00:57:46,759
+de governo Renan Santos,
+
+1259
+00:57:46,879 --> 00:57:47,500
+acho que o Cury vai falar
+
+1260
+00:57:47,500 --> 00:57:48,259
+que eu sou muito agressivo
+
+1261
+00:57:48,259 --> 00:57:48,579
+novamente,
+
+1262
+00:57:48,699 --> 00:57:49,179
+faz parte,
+
+1263
+00:57:49,759 --> 00:57:50,219
+eu vou iniciar
+
+1264
+00:57:50,219 --> 00:57:51,079
+um banho de sangue
+
+1265
+00:57:51,079 --> 00:57:51,699
+contra os membros
+
+1266
+00:57:51,699 --> 00:57:52,319
+das facções.
+
+1267
+00:57:52,940 --> 00:57:53,500
+Nós vamos passar
+
+1268
+00:57:53,500 --> 00:57:54,359
+a rapa nesses caras.
+
+1269
+00:57:54,639 --> 00:57:55,139
+Se você mora
+
+1270
+00:57:55,139 --> 00:57:55,719
+no Rio de Janeiro,
+
+1271
+00:57:55,940 --> 00:57:56,659
+as tropas vão subir
+
+1272
+00:57:56,659 --> 00:57:57,159
+as favelas
+
+1273
+00:57:57,159 --> 00:57:57,739
+e vão libertar
+
+1274
+00:57:57,739 --> 00:57:58,279
+as favelas
+
+1275
+00:57:58,279 --> 00:57:58,839
+que hoje estão
+
+1276
+00:57:58,839 --> 00:57:59,839
+na mão do Comando Vermelho.
+
+1277
+00:58:00,239 --> 00:58:00,859
+Lá no Ceará,
+
+1278
+00:58:00,980 --> 00:58:01,779
+eu vou em Santa Quitéria
+
+1279
+00:58:01,779 --> 00:58:02,519
+tirar o Comando Vermelho
+
+1280
+00:58:02,519 --> 00:58:03,599
+e vou libertar a Fortaleza.
+
+1281
+00:58:03,599 --> 00:58:04,619
+A Bahia,
+
+1282
+00:58:04,920 --> 00:58:05,519
+que hoje está na mão
+
+1283
+00:58:05,519 --> 00:58:06,319
+até de facção,
+
+1284
+00:58:06,400 --> 00:58:06,880
+que se você usar
+
+1285
+00:58:06,880 --> 00:58:07,679
+uma roupa da Adidas
+
+1286
+00:58:07,679 --> 00:58:08,579
+e eles vão matar você,
+
+1287
+00:58:09,019 --> 00:58:09,579
+nós vamos passar
+
+1288
+00:58:09,579 --> 00:58:10,139
+por cima deles.
+
+1289
+00:58:10,380 --> 00:58:11,279
+Se eles se entregarem,
+
+1290
+00:58:11,519 --> 00:58:12,139
+ficaram presos
+
+1291
+00:58:12,139 --> 00:58:13,920
+por 30, 40, 50,
+
+1292
+00:58:14,059 --> 00:58:15,279
+60, 70 anos.
+
+1293
+00:58:16,179 --> 00:58:17,119
+Se quiserem lutar,
+
+1294
+00:58:17,639 --> 00:58:18,219
+vão encontrar
+
+1295
+00:58:18,219 --> 00:58:19,199
+algo que eles nunca
+
+1296
+00:58:19,199 --> 00:58:19,759
+viram na vida.
+
+1297
+00:58:20,239 --> 00:58:21,139
+Forças federais,
+
+1298
+00:58:21,799 --> 00:58:22,839
+guardas municipais
+
+1299
+00:58:22,839 --> 00:58:24,539
+e as polícias estaduais
+
+1300
+00:58:24,539 --> 00:58:25,920
+atirando em vagabundo
+
+1301
+00:58:25,920 --> 00:58:26,799
+como se não houvesse amanhã.
+
+1302
+00:58:27,139 --> 00:58:27,779
+O que eu preciso?
+
+1303
+00:58:28,059 --> 00:58:29,279
+Retomar o território brasileiro,
+
+1304
+00:58:29,339 --> 00:58:29,779
+isso se inicia
+
+1305
+00:58:29,779 --> 00:58:30,900
+no dia 1 do nosso mandato,
+
+1306
+00:58:31,319 --> 00:58:31,980
+e logo em seguida
+
+1307
+00:58:31,980 --> 00:58:32,940
+fazer as reformas
+
+1308
+00:58:32,940 --> 00:58:33,639
+econômicas,
+
+1309
+00:58:33,720 --> 00:58:34,200
+vão permitir.
+
+1310
+00:58:34,460 --> 00:58:34,800
+Aí sim,
+
+1311
+00:58:35,019 --> 00:58:36,159
+que você consiga comprar um celular
+
+1312
+00:58:36,159 --> 00:58:36,820
+e não se dividar
+
+1313
+00:58:36,820 --> 00:58:38,019
+e depois andar na rua
+
+1314
+00:58:38,019 --> 00:58:39,059
+sem ninguém roubar ele.
+
+1315
+00:58:39,220 --> 00:58:40,300
+Se a gente conseguir fazer isso
+
+1316
+00:58:40,300 --> 00:58:41,240
+no meu primeiro ano de mandato,
+
+1317
+00:58:41,559 --> 00:58:42,200
+teremos um país
+
+1318
+00:58:42,200 --> 00:58:43,260
+indo para o caminho certo.
+
+1319
+00:58:43,260 --> 00:58:45,400
+muito obrigado, Renan.
+
+1320
+00:58:47,140 --> 00:58:49,140
+Pior do que o crime organizado
+
+1321
+00:58:49,140 --> 00:58:51,160
+é o Estado desorganizado.
+
+1322
+00:58:52,000 --> 00:58:52,780
+Eu sou membro da
+
+1323
+00:58:52,780 --> 00:58:55,240
+International Policy Association,
+
+1324
+00:58:55,920 --> 00:58:57,380
+onde reúne mais de 500 mil
+
+1325
+00:58:57,380 --> 00:58:59,440
+policiais federais do mundo
+
+1326
+00:58:59,440 --> 00:59:01,000
+pelos relevantes serviços
+
+1327
+00:59:01,000 --> 00:59:03,460
+que eu prestei já há muitos anos
+
+1328
+00:59:03,460 --> 00:59:04,980
+para a Polícia Federal,
+
+1329
+00:59:05,140 --> 00:59:06,560
+treinando-os em gestão da emoção,
+
+1330
+00:59:06,640 --> 00:59:08,320
+e também o fiz várias vezes
+
+1331
+00:59:08,320 --> 00:59:10,680
+e gratuitamente para a Associação
+
+1332
+00:59:10,679 --> 00:59:11,899
+de Magistrados do Brasil,
+
+1333
+00:59:12,259 --> 00:59:13,179
+para o Ministério Público
+
+1334
+00:59:13,179 --> 00:59:13,940
+e assim por diante.
+
+1335
+00:59:14,579 --> 00:59:16,079
+Eu tenho um projeto chamado
+
+1336
+00:59:16,079 --> 00:59:16,559
+Fato,
+
+1337
+00:59:16,659 --> 00:59:18,739
+Força de Alerta Total.
+
+1338
+00:59:19,199 --> 00:59:20,500
+Nós temos que incorporar,
+
+1339
+00:59:21,000 --> 00:59:21,559
+valorizar,
+
+1340
+00:59:22,139 --> 00:59:23,940
+trabalhar a nossa Polícia Federal,
+
+1341
+00:59:24,339 --> 00:59:25,219
+que, na minha opinião,
+
+1342
+00:59:25,460 --> 00:59:26,139
+é uma das melhores
+
+1343
+00:59:26,139 --> 00:59:27,480
+Polícias Federais do mundo.
+
+1344
+00:59:27,839 --> 00:59:30,980
+O FBI tem 38 mil policiais,
+
+1345
+00:59:31,159 --> 00:59:33,419
+a nossa Polícia tem menos de 15 mil
+
+1346
+00:59:33,419 --> 00:59:35,500
+e faz todo o trabalho que tem
+
+1347
+00:59:35,500 --> 00:59:37,380
+de maneira heróica,
+
+1348
+00:59:38,059 --> 00:59:39,440
+mas não pode ter interferência
+
+1349
+00:59:39,440 --> 00:59:40,820
+política como está tendo.
+
+1350
+00:59:41,260 --> 00:59:42,079
+Vai se entregar,
+
+1351
+00:59:42,260 --> 00:59:43,900
+integrar a Polícia Federal
+
+1352
+00:59:43,900 --> 00:59:45,500
+com a Polícia Militar,
+
+1353
+00:59:45,659 --> 00:59:47,800
+cheque de 400 a 410 mil
+
+1354
+00:59:47,800 --> 00:59:49,099
+policiais militares,
+
+1355
+00:59:49,360 --> 00:59:50,300
+com a Polícia Civil,
+
+1356
+00:59:50,880 --> 00:59:53,619
+com a Polícia também rodoviária,
+
+1357
+00:59:54,099 --> 00:59:55,760
+e uma Polícia que eu quero criar,
+
+1358
+00:59:56,139 --> 00:59:57,179
+a Polícia Foco.
+
+1359
+00:59:57,300 --> 00:59:59,840
+5% da força de trabalho
+
+1360
+00:59:59,840 --> 01:00:01,119
+de todos os municípios,
+
+1361
+01:00:01,480 --> 01:00:04,340
+convertidos numa Polícia de combate.
+
+1362
+01:00:04,340 --> 01:00:06,039
+Foco, vamos acrescentar
+
+1363
+01:00:06,039 --> 01:00:08,260
+mais 400 mil policiais,
+
+1364
+01:00:08,600 --> 01:00:10,640
+que serão treinados pela elite
+
+1365
+01:00:10,640 --> 01:00:12,460
+dessas forças de segurança.
+
+1366
+01:00:12,840 --> 01:00:13,660
+Assim, de fato,
+
+1367
+01:00:13,780 --> 01:00:15,180
+vamos ter um ecossistema
+
+1368
+01:00:15,180 --> 01:00:16,320
+tão poderoso
+
+1369
+01:00:16,320 --> 01:00:18,100
+que vamos chegar antes do crime.
+
+1370
+01:00:18,680 --> 01:00:20,600
+Pior do que, reitero,
+
+1371
+01:00:20,860 --> 01:00:22,059
+o crime organizado
+
+1372
+01:00:22,059 --> 01:00:23,680
+é o Estado desorganizado,
+
+1373
+01:00:23,960 --> 01:00:25,280
+porque se o corpo é saudável,
+
+1374
+01:00:25,559 --> 01:00:27,120
+é muito menos factivo
+
+1375
+01:00:27,120 --> 01:00:28,140
+de ser contaminado
+
+1376
+01:00:28,140 --> 01:00:30,340
+por vírus e bactérias
+
+1377
+01:00:30,340 --> 01:00:31,220
+e, consequentemente,
+
+1378
+01:00:31,559 --> 01:00:33,340
+um paralelismo contra a criminalidade.
+
+1379
+01:00:33,340 --> 01:00:34,340
+Obrigada.
+
+1380
+01:00:34,980 --> 01:00:36,700
+Agora, pelo sorteio prévio,
+
+1381
+01:00:36,780 --> 01:00:37,640
+quem segue fazendo
+
+1382
+01:00:37,640 --> 01:00:38,320
+a próxima pergunta
+
+1383
+01:00:38,320 --> 01:00:39,280
+é o próprio candidato
+
+1384
+01:00:39,280 --> 01:00:40,000
+Augusto Cury,
+
+1385
+01:00:40,300 --> 01:00:41,160
+que tem que, necessariamente,
+
+1386
+01:00:41,320 --> 01:00:42,400
+dirigir a pergunta
+
+1387
+01:00:42,400 --> 01:00:43,820
+ao candidato Ronaldo Caiado.
+
+1388
+01:00:44,160 --> 01:00:45,480
+Por favor, um minuto.
+
+1389
+01:00:46,579 --> 01:00:47,700
+Querido Ronaldo Caiado,
+
+1390
+01:00:48,539 --> 01:00:49,680
+a vida é bela e breve
+
+1391
+01:00:49,680 --> 01:00:51,300
+como gotas de orvalha.
+
+1392
+01:00:52,160 --> 01:00:53,059
+Parece que nós dormimos
+
+1393
+01:00:53,059 --> 01:00:54,460
+e acordamos com essa idade, né?
+
+1394
+01:00:55,340 --> 01:00:56,140
+É muito tempo.
+
+1395
+01:00:56,139 --> 01:00:56,699
+pela frente.
+
+1396
+01:00:57,699 --> 01:00:59,420
+É, nós acreditamos
+
+1397
+01:00:59,420 --> 01:01:00,519
+que vamos morrer
+
+1398
+01:01:00,519 --> 01:01:01,779
+com 120 anos, né?
+
+1399
+01:01:03,379 --> 01:01:03,859
+Caiado,
+
+1400
+01:01:04,519 --> 01:01:05,420
+nós sabemos
+
+1401
+01:01:05,420 --> 01:01:08,539
+que a educação brasileira,
+
+1402
+01:01:08,879 --> 01:01:10,539
+ela é cruel
+
+1403
+01:01:10,539 --> 01:01:11,960
+em alguns aspectos.
+
+1404
+01:01:12,559 --> 01:01:13,519
+Temos 7 milhões
+
+1405
+01:01:13,519 --> 01:01:14,440
+de jovens
+
+1406
+01:01:14,440 --> 01:01:15,759
+no ensino médio
+
+1407
+01:01:15,759 --> 01:01:19,219
+e apenas 20% deles
+
+1408
+01:01:19,219 --> 01:01:21,299
+fazem ensino técnico.
+
+1409
+01:01:21,859 --> 01:01:22,879
+Técnico de enfermagem,
+
+1410
+01:01:22,880 --> 01:01:24,860
+técnico de tecnologia
+
+1411
+01:01:24,860 --> 01:01:25,420
+de informação,
+
+1412
+01:01:25,760 --> 01:01:27,559
+técnico de inteligência artificial
+
+1413
+01:01:27,559 --> 01:01:29,820
+e técnico também
+
+1414
+01:01:29,820 --> 01:01:30,860
+de marketing digital
+
+1415
+01:01:30,860 --> 01:01:31,559
+e assim por diante.
+
+1416
+01:01:31,860 --> 01:01:32,680
+Do seu governo,
+
+1417
+01:01:33,220 --> 01:01:34,320
+você pensa em fazer
+
+1418
+01:01:34,320 --> 01:01:35,660
+uma revolução
+
+1419
+01:01:35,660 --> 01:01:36,640
+no ensino técnico?
+
+1420
+01:01:36,920 --> 01:01:38,240
+Porque fazer 3 anos
+
+1421
+01:01:38,240 --> 01:01:38,960
+de ensino médio
+
+1422
+01:01:38,960 --> 01:01:40,539
+sem o ensino técnico
+
+1423
+01:01:40,539 --> 01:01:42,320
+é quase que uma atrocidade.
+
+1424
+01:01:42,420 --> 01:01:43,340
+O que você acha disso?
+
+1425
+01:01:44,579 --> 01:01:44,840
+Bom,
+
+1426
+01:01:45,660 --> 01:01:46,680
+esse tema
+
+1427
+01:01:46,680 --> 01:01:48,640
+é de uma relevância ímpar.
+
+1428
+01:01:49,220 --> 01:01:50,000
+Eu sempre
+
+1429
+01:01:50,000 --> 01:01:51,400
+me dediquei
+
+1430
+01:01:51,400 --> 01:01:52,320
+à educação.
+
+1431
+01:01:52,880 --> 01:01:53,800
+Eu não tenho dúvida
+
+1432
+01:01:53,800 --> 01:01:54,940
+que construir,
+
+1433
+01:01:55,099 --> 01:01:55,579
+porque tudo
+
+1434
+01:01:55,579 --> 01:01:56,360
+que eu estou falando
+
+1435
+01:01:56,360 --> 01:01:56,940
+aqui, gente,
+
+1436
+01:01:57,280 --> 01:01:57,940
+de educação,
+
+1437
+01:01:58,059 --> 01:01:58,500
+de saúde,
+
+1438
+01:01:58,660 --> 01:01:59,340
+de segurança,
+
+1439
+01:01:59,740 --> 01:02:00,780
+de emancipação
+
+1440
+01:02:00,780 --> 01:02:02,300
+do ponto de vista social,
+
+1441
+01:02:02,720 --> 01:02:04,539
+amanhã de inteligência artificial,
+
+1442
+01:02:04,860 --> 01:02:05,880
+que é o Centro de Excelência
+
+1443
+01:02:05,880 --> 01:02:07,000
+de Inteligência Artificial
+
+1444
+01:02:07,000 --> 01:02:07,599
+em Goiás,
+
+1445
+01:02:08,039 --> 01:02:09,079
+é em desenvolvimento
+
+1446
+01:02:09,079 --> 01:02:10,099
+na área de parceria
+
+1447
+01:02:10,099 --> 01:02:10,960
+em terras raras.
+
+1448
+01:02:11,099 --> 01:02:11,579
+Tudo isso
+
+1449
+01:02:11,579 --> 01:02:12,820
+eu já realizei
+
+1450
+01:02:12,820 --> 01:02:13,640
+em Goiás.
+
+1451
+01:02:13,740 --> 01:02:14,300
+É por isso
+
+1452
+01:02:14,300 --> 01:02:15,360
+que eu quero dizer
+
+1453
+01:02:15,360 --> 01:02:16,260
+a cada pessoa
+
+1454
+01:02:16,260 --> 01:02:17,260
+que está me assistindo
+
+1455
+01:02:17,260 --> 01:02:17,880
+nesse momento.
+
+1456
+01:02:17,980 --> 01:02:19,360
+A senhora dona de casa
+
+1457
+01:02:19,360 --> 01:02:20,900
+que hoje não tem coragem
+
+1458
+01:02:20,900 --> 01:02:21,960
+de sair com o seu telefone,
+
+1459
+01:02:21,960 --> 01:02:23,360
+a senhora dona de casa
+
+1460
+01:02:23,360 --> 01:02:24,559
+que sabe que não tem como
+
+1461
+01:02:24,559 --> 01:02:25,679
+montar sua feira,
+
+1462
+01:02:26,240 --> 01:02:27,199
+a senhora pode ter certeza
+
+1463
+01:02:27,199 --> 01:02:28,159
+que o caiado lá
+
+1464
+01:02:28,159 --> 01:02:28,900
+a senhora vai viver
+
+1465
+01:02:28,900 --> 01:02:29,980
+tranquilamente,
+
+1466
+01:02:30,079 --> 01:02:31,099
+a senhora vai poder viver
+
+1467
+01:02:31,099 --> 01:02:31,619
+em paz,
+
+1468
+01:02:31,740 --> 01:02:32,179
+a senhora vai viver
+
+1469
+01:02:32,179 --> 01:02:33,099
+num outro mundo.
+
+1470
+01:02:33,380 --> 01:02:34,320
+E se tiverem dúvida,
+
+1471
+01:02:34,460 --> 01:02:35,599
+peguem o número 62,
+
+1472
+01:02:35,960 --> 01:02:36,940
+que é o Código de Goiás,
+
+1473
+01:02:37,019 --> 01:02:38,220
+liga para qualquer pessoa
+
+1474
+01:02:38,220 --> 01:02:39,760
+e vejam se isso não é realidade.
+
+1475
+01:02:40,099 --> 01:02:40,480
+É por isso
+
+1476
+01:02:40,480 --> 01:02:41,179
+que eu quero pedir
+
+1477
+01:02:41,179 --> 01:02:41,659
+a vocês
+
+1478
+01:02:41,659 --> 01:02:43,059
+essa oportunidade,
+
+1479
+01:02:43,519 --> 01:02:44,900
+para que vocês entendam
+
+1480
+01:02:44,900 --> 01:02:45,980
+que quando tem
+
+1481
+01:02:45,980 --> 01:02:47,139
+autoridade moral,
+
+1482
+01:02:47,400 --> 01:02:48,619
+coragem pessoal,
+
+1483
+01:02:49,000 --> 01:02:49,940
+a gente resgata
+
+1484
+01:02:49,940 --> 01:02:50,700
+essa condição.
+
+1485
+01:02:51,240 --> 01:02:51,639
+Mas aí,
+
+1486
+01:02:51,960 --> 01:02:52,840
+eu rapidamente,
+
+1487
+01:02:53,220 --> 01:02:54,320
+voltando a esse assunto,
+
+1488
+01:02:54,780 --> 01:02:55,619
+dizer a vocês,
+
+1489
+01:02:56,039 --> 01:02:56,840
+educação
+
+1490
+01:02:56,840 --> 01:02:57,920
+é aquilo
+
+1491
+01:02:57,920 --> 01:02:59,260
+que eu me empenhei
+
+1492
+01:02:59,260 --> 01:03:00,680
+desde o segundo ano
+
+1493
+01:03:00,680 --> 01:03:01,840
+do ensino fundamental.
+
+1494
+01:03:02,940 --> 01:03:04,300
+Eu criei uma criança
+
+1495
+01:03:04,300 --> 01:03:05,460
+junto aos prefeitos
+
+1496
+01:03:05,460 --> 01:03:06,200
+e prefeitas
+
+1497
+01:03:06,200 --> 01:03:07,079
+para levá-los
+
+1498
+01:03:07,079 --> 01:03:07,740
+em condições
+
+1499
+01:03:07,740 --> 01:03:08,900
+de terem competitivos.
+
+1500
+01:03:10,599 --> 01:03:10,860
+Gente,
+
+1501
+01:03:11,280 --> 01:03:11,480
+olha,
+
+1502
+01:03:11,480 --> 01:03:12,440
+nós ganhamos
+
+1503
+01:03:12,440 --> 01:03:14,460
+os maiores concursos
+
+1504
+01:03:14,460 --> 01:03:15,139
+no Estado,
+
+1505
+01:03:15,559 --> 01:03:16,579
+fora do Estado
+
+1506
+01:03:16,579 --> 01:03:18,000
+comparativamente.
+
+1507
+01:03:18,440 --> 01:03:19,179
+Temos os melhores
+
+1508
+01:03:19,179 --> 01:03:20,280
+colégios estaduais
+
+1509
+01:03:20,280 --> 01:03:20,960
+do Brasil.
+
+1510
+01:03:21,360 --> 01:03:22,400
+Eu me empenhei
+
+1511
+01:03:22,400 --> 01:03:23,199
+em dar a eles
+
+1512
+01:03:23,199 --> 01:03:23,960
+dignidade,
+
+1513
+01:03:24,099 --> 01:03:24,559
+dar a eles
+
+1514
+01:03:24,559 --> 01:03:25,820
+alimentação correta,
+
+1515
+01:03:25,960 --> 01:03:26,679
+segurança.
+
+1516
+01:03:27,199 --> 01:03:27,400
+Olha,
+
+1517
+01:03:27,780 --> 01:03:29,240
+acabou a criminalidade
+
+1518
+01:03:29,240 --> 01:03:30,079
+nas escolas.
+
+1519
+01:03:30,300 --> 01:03:31,260
+As crianças hoje
+
+1520
+01:03:31,260 --> 01:03:32,420
+têm laboratório
+
+1521
+01:03:32,420 --> 01:03:32,880
+de física,
+
+1522
+01:03:33,059 --> 01:03:33,400
+química,
+
+1523
+01:03:33,500 --> 01:03:34,000
+biologia,
+
+1524
+01:03:34,179 --> 01:03:34,860
+informática.
+
+1525
+01:03:35,199 --> 01:03:35,820
+Hoje nós temos
+
+1526
+01:03:35,820 --> 01:03:36,679
+uma preparação
+
+1527
+01:03:36,679 --> 01:03:38,639
+junto ao sistema
+
+1528
+01:03:38,639 --> 01:03:39,900
+S brasileiro,
+
+1529
+01:03:40,280 --> 01:03:40,860
+que é o que você
+
+1530
+01:03:40,860 --> 01:03:41,460
+perguntou,
+
+1531
+01:03:41,480 --> 01:03:42,800
+para que essas pessoas
+
+1532
+01:03:42,800 --> 01:03:43,780
+pudessem ter
+
+1533
+01:03:43,780 --> 01:03:45,840
+uma profissionalização.
+
+1534
+01:03:46,440 --> 01:03:47,740
+Hoje ampliarei
+
+1535
+01:03:47,740 --> 01:03:48,300
+muito isso,
+
+1536
+01:03:48,360 --> 01:03:48,960
+ele vai sair
+
+1537
+01:03:48,960 --> 01:03:50,179
+com dois diplomas.
+
+1538
+01:03:50,599 --> 01:03:51,159
+Isto aí
+
+1539
+01:03:51,159 --> 01:03:52,260
+não foi levado
+
+1540
+01:03:52,260 --> 01:03:52,840
+adiante,
+
+1541
+01:03:53,159 --> 01:03:53,840
+porque realmente
+
+1542
+01:03:53,840 --> 01:03:54,840
+o governo Lula
+
+1543
+01:03:54,840 --> 01:03:55,599
+simplesmente
+
+1544
+01:03:55,599 --> 01:03:56,719
+não prestigiou
+
+1545
+01:03:56,719 --> 01:03:57,659
+essa situação
+
+1546
+01:03:57,659 --> 01:03:58,460
+e a pessoa
+
+1547
+01:03:58,460 --> 01:03:59,079
+já começar
+
+1548
+01:03:59,079 --> 01:03:59,599
+a ganhar
+
+1549
+01:03:59,599 --> 01:04:00,300
+o seu próprio
+
+1550
+01:04:00,300 --> 01:04:00,800
+dinheiro
+
+1551
+01:04:00,800 --> 01:04:01,679
+exatamente
+
+1552
+01:04:01,679 --> 01:04:02,340
+no final
+
+1553
+01:04:02,340 --> 01:04:03,179
+do ensino médio.
+
+1554
+01:04:04,460 --> 01:04:05,059
+Obrigado,
+
+1555
+01:04:05,139 --> 01:04:05,460
+Caiada.
+
+1556
+01:04:07,059 --> 01:04:08,280
+Os professores,
+
+1557
+01:04:08,360 --> 01:04:08,820
+como eu disse,
+
+1558
+01:04:08,860 --> 01:04:09,420
+são cozinheiros
+
+1559
+01:04:09,420 --> 01:04:10,079
+do conhecimento
+
+1560
+01:04:10,079 --> 01:04:11,079
+que preparam alimento
+
+1561
+01:04:11,079 --> 01:04:11,940
+que não têm
+
+1562
+01:04:11,940 --> 01:04:12,699
+mais apetite
+
+1563
+01:04:12,699 --> 01:04:13,719
+devido à intoxicação
+
+1564
+01:04:13,719 --> 01:04:14,299
+digital.
+
+1565
+01:04:14,860 --> 01:04:15,219
+Nós temos
+
+1566
+01:04:15,219 --> 01:04:16,019
+que repaginar
+
+1567
+01:04:16,019 --> 01:04:16,940
+os currículos
+
+1568
+01:04:16,940 --> 01:04:18,239
+do ensino fundamental,
+
+1569
+01:04:18,659 --> 01:04:19,940
+ter aula de empreendedorismo,
+
+1570
+01:04:20,400 --> 01:04:21,779
+aula de gestão
+
+1571
+01:04:21,779 --> 01:04:22,480
+financeira,
+
+1572
+01:04:22,819 --> 01:04:23,340
+oratória,
+
+1573
+01:04:23,400 --> 01:04:24,739
+porque 75%
+
+1574
+01:04:24,739 --> 01:04:25,619
+dos jovens
+
+1575
+01:04:25,619 --> 01:04:26,219
+têm
+
+1576
+01:04:26,219 --> 01:04:27,019
+glossofobia
+
+1577
+01:04:27,019 --> 01:04:27,840
+ou medo
+
+1578
+01:04:27,840 --> 01:04:28,699
+de falar em público.
+
+1579
+01:04:28,860 --> 01:04:28,940
+E,
+
+1580
+01:04:29,039 --> 01:04:29,519
+além disso,
+
+1581
+01:04:30,000 --> 01:04:30,619
+nós precisamos
+
+1582
+01:04:30,619 --> 01:04:31,619
+ter muito esporte
+
+1583
+01:04:31,619 --> 01:04:32,519
+para prevenir
+
+1584
+01:04:32,519 --> 01:04:33,340
+duas drogas,
+
+1585
+01:04:33,719 --> 01:04:34,819
+a droga química,
+
+1586
+01:04:35,139 --> 01:04:35,980
+cocaína e crack,
+
+1587
+01:04:36,099 --> 01:04:36,579
+por exemplo,
+
+1588
+01:04:36,819 --> 01:04:37,840
+e a droga digital,
+
+1589
+01:04:37,840 --> 01:04:38,700
+porque o digital
+
+1590
+01:04:38,700 --> 01:04:39,960
+mexe com o ciclo
+
+1591
+01:04:39,960 --> 01:04:40,600
+da dopamina
+
+1592
+01:04:40,600 --> 01:04:41,380
+e da serotonina
+
+1593
+01:04:41,380 --> 01:04:42,920
+e gera alta dependência.
+
+1594
+01:04:43,000 --> 01:04:43,140
+Agora,
+
+1595
+01:04:43,220 --> 01:04:43,579
+Caiada,
+
+1596
+01:04:43,860 --> 01:04:44,680
+eu quero saber
+
+1597
+01:04:44,680 --> 01:04:46,240
+quais são os índices
+
+1598
+01:04:46,240 --> 01:04:47,760
+do ensino técnico
+
+1599
+01:04:47,760 --> 01:04:49,260
+no seu governo.
+
+1600
+01:04:50,460 --> 01:04:51,600
+20% é a média
+
+1601
+01:04:51,600 --> 01:04:52,100
+do Brasil.
+
+1602
+01:04:52,620 --> 01:04:53,780
+Quantos por cento
+
+1603
+01:04:53,780 --> 01:04:54,700
+dos jovens
+
+1604
+01:04:54,700 --> 01:04:55,600
+do seu estado
+
+1605
+01:04:55,600 --> 01:04:56,500
+têm feito
+
+1606
+01:04:56,500 --> 01:04:57,740
+ensino técnico
+
+1607
+01:04:57,740 --> 01:04:58,700
+para poder ter
+
+1608
+01:04:58,700 --> 01:04:59,519
+um lugar ao sol
+
+1609
+01:04:59,519 --> 01:05:00,480
+numa sociedade
+
+1610
+01:05:00,480 --> 01:05:02,180
+altamente competitiva
+
+1611
+01:05:02,180 --> 01:05:03,340
+e que vai ser virada
+
+1612
+01:05:03,340 --> 01:05:04,519
+de cabeça para baixo
+
+1613
+01:05:04,519 --> 01:05:05,539
+com a robótica
+
+1614
+01:05:05,539 --> 01:05:06,000
+Iaiá?
+
+1615
+01:05:07,320 --> 01:05:07,559
+Olha,
+
+1616
+01:05:07,699 --> 01:05:08,259
+nós sabemos
+
+1617
+01:05:08,259 --> 01:05:09,019
+que tem coisas
+
+1618
+01:05:09,019 --> 01:05:10,000
+distintas.
+
+1619
+01:05:10,759 --> 01:05:11,279
+Percentual
+
+1620
+01:05:11,279 --> 01:05:12,739
+é muito relativo.
+
+1621
+01:05:12,840 --> 01:05:13,559
+O que eu posso dizer
+
+1622
+01:05:13,559 --> 01:05:13,960
+a você
+
+1623
+01:05:13,960 --> 01:05:14,619
+é que,
+
+1624
+01:05:14,800 --> 01:05:15,420
+quando eu cheguei
+
+1625
+01:05:15,420 --> 01:05:16,420
+no governo do estado,
+
+1626
+01:05:16,739 --> 01:05:17,980
+nós tínhamos exatamente
+
+1627
+01:05:17,980 --> 01:05:19,239
+pouco mais de 250
+
+1628
+01:05:19,239 --> 01:05:20,779
+jovens fazendo isso.
+
+1629
+01:05:21,059 --> 01:05:21,519
+Nós fizemos
+
+1630
+01:05:21,519 --> 01:05:22,880
+uma grande parceria,
+
+1631
+01:05:22,980 --> 01:05:23,159
+alguns,
+
+1632
+01:05:23,219 --> 01:05:24,219
+com o sistema S.
+
+1633
+01:05:24,639 --> 01:05:24,840
+Então,
+
+1634
+01:05:24,920 --> 01:05:26,019
+as coisas não acontecem
+
+1635
+01:05:26,019 --> 01:05:26,800
+do dia para a noite.
+
+1636
+01:05:27,000 --> 01:05:28,360
+E nós reestruturamos
+
+1637
+01:05:28,360 --> 01:05:29,059
+esse apoio
+
+1638
+01:05:29,059 --> 01:05:30,380
+e fizemos também
+
+1639
+01:05:30,380 --> 01:05:31,820
+um processo de tutoria
+
+1640
+01:05:31,820 --> 01:05:33,519
+acompanhando esses jovens
+
+1641
+01:05:33,519 --> 01:05:34,480
+e tivemos aí, sim,
+
+1642
+01:05:34,480 --> 01:05:35,659
+a necessidade
+
+1643
+01:05:35,659 --> 01:05:36,920
+de ter as oficinas
+
+1644
+01:05:36,920 --> 01:05:37,719
+para qualificar
+
+1645
+01:05:37,719 --> 01:05:38,480
+essas pessoas.
+
+1646
+01:05:38,900 --> 01:05:39,099
+Então,
+
+1647
+01:05:39,159 --> 01:05:40,000
+é isto que a gente
+
+1648
+01:05:40,000 --> 01:05:40,900
+não pode colocar
+
+1649
+01:05:40,900 --> 01:05:41,780
+como sendo
+
+1650
+01:05:41,780 --> 01:05:43,280
+abrangência total
+
+1651
+01:05:43,280 --> 01:05:44,480
+de todos os alunos,
+
+1652
+01:05:44,740 --> 01:05:45,960
+porque nós precisamos
+
+1653
+01:05:45,960 --> 01:05:47,240
+que a escola técnica
+
+1654
+01:05:47,240 --> 01:05:48,559
+tenha uma estrutura
+
+1655
+01:05:48,559 --> 01:05:49,179
+que só hoje
+
+1656
+01:05:49,179 --> 01:05:50,320
+o sistema S
+
+1657
+01:05:50,320 --> 01:05:51,380
+tem no Brasil.
+
+1658
+01:05:51,760 --> 01:05:52,039
+Então,
+
+1659
+01:05:52,119 --> 01:05:53,199
+isto tem uma certa
+
+1660
+01:05:53,199 --> 01:05:53,960
+limitação.
+
+1661
+01:05:54,320 --> 01:05:55,000
+Mas eu vou dizer
+
+1662
+01:05:55,000 --> 01:05:55,820
+mais a vocês.
+
+1663
+01:05:56,119 --> 01:05:57,159
+Eu acredito tanto
+
+1664
+01:05:57,159 --> 01:05:58,000
+na educação
+
+1665
+01:05:58,000 --> 01:05:59,159
+que os resultados
+
+1666
+01:05:59,159 --> 01:05:59,780
+de Goiás,
+
+1667
+01:05:59,860 --> 01:06:00,699
+eu tenho certeza
+
+1668
+01:06:00,699 --> 01:06:02,280
+que daqui 10 anos
+
+1669
+01:06:02,280 --> 01:06:03,800
+será uma outra geração.
+
+1670
+01:06:03,800 --> 01:06:04,820
+uma geração
+
+1671
+01:06:04,820 --> 01:06:05,800
+que terá acesso
+
+1672
+01:06:05,800 --> 01:06:06,560
+àquilo, gente,
+
+1673
+01:06:06,840 --> 01:06:08,240
+que é o Centro de Excelência
+
+1674
+01:06:08,240 --> 01:06:09,340
+e Inteligência Artificial.
+
+1675
+01:06:09,840 --> 01:06:10,680
+Naquele momento
+
+1676
+01:06:10,680 --> 01:06:11,460
+em que eu entrei
+
+1677
+01:06:11,460 --> 01:06:11,900
+no governo,
+
+1678
+01:06:11,980 --> 01:06:12,900
+no governo quebrado,
+
+1679
+01:06:13,260 --> 01:06:14,580
+eu repassei 12 milhões
+
+1680
+01:06:14,580 --> 01:06:15,620
+da Universidade Federal
+
+1681
+01:06:15,620 --> 01:06:16,080
+de Goiás
+
+1682
+01:06:16,080 --> 01:06:17,400
+e construí o maior centro
+
+1683
+01:06:17,400 --> 01:06:18,120
+de referência
+
+1684
+01:06:18,120 --> 01:06:19,200
+da América Latina.
+
+1685
+01:06:19,580 --> 01:06:19,900
+Hoje,
+
+1686
+01:06:20,300 --> 01:06:20,880
+nós criamos
+
+1687
+01:06:20,880 --> 01:06:21,600
+a primeira
+
+1688
+01:06:21,600 --> 01:06:22,740
+Universidade
+
+1689
+01:06:22,740 --> 01:06:23,880
+de Inteligência Artificial
+
+1690
+01:06:23,880 --> 01:06:24,720
+do Brasil.
+
+1691
+01:06:25,160 --> 01:06:25,860
+A primeira.
+
+1692
+01:06:26,400 --> 01:06:26,720
+Hoje,
+
+1693
+01:06:26,840 --> 01:06:27,860
+quando você acessa
+
+1694
+01:06:27,860 --> 01:06:29,340
+qualquer iFood,
+
+1695
+01:06:29,640 --> 01:06:30,980
+é plataforma de Goiás.
+
+1696
+01:06:30,980 --> 01:06:32,220
+Quando você acessa
+
+1697
+01:06:32,220 --> 01:06:33,400
+hoje uma seguradora,
+
+1698
+01:06:33,400 --> 01:06:34,700
+quando você acessa
+
+1699
+01:06:34,700 --> 01:06:35,920
+hoje o serviço
+
+1700
+01:06:35,920 --> 01:06:36,680
+da Natura,
+
+1701
+01:06:37,019 --> 01:06:37,880
+quando você acessa
+
+1702
+01:06:37,880 --> 01:06:38,960
+vários serviços,
+
+1703
+01:06:39,220 --> 01:06:40,480
+você tem exatamente
+
+1704
+01:06:40,480 --> 01:06:41,519
+o desenvolvimento
+
+1705
+01:06:41,519 --> 01:06:42,740
+da Inteligência Artificial,
+
+1706
+01:06:43,220 --> 01:06:44,160
+do conhecimento,
+
+1707
+01:06:44,360 --> 01:06:45,440
+que nós demos conta
+
+1708
+01:06:45,440 --> 01:06:46,380
+de fazer chegar
+
+1709
+01:06:46,380 --> 01:06:47,760
+e sermos referência
+
+1710
+01:06:47,760 --> 01:06:48,340
+no Brasil
+
+1711
+01:06:48,340 --> 01:06:49,380
+em parceria
+
+1712
+01:06:49,380 --> 01:06:50,300
+com a NVIDIA.
+
+1713
+01:06:50,420 --> 01:06:51,139
+Obrigada.
+
+1714
+01:06:51,720 --> 01:06:52,860
+Candidato Ronaldo Caiado,
+
+1715
+01:06:52,940 --> 01:06:53,639
+o senhor agora fecha
+
+1716
+01:06:53,639 --> 01:06:54,720
+essa rodada de confronto
+
+1717
+01:06:54,720 --> 01:06:55,900
+dirigindo a sua pergunta
+
+1718
+01:06:55,900 --> 01:06:56,960
+para o candidato
+
+1719
+01:06:56,960 --> 01:06:57,619
+Renan Santos,
+
+1720
+01:06:57,720 --> 01:06:58,099
+que é o único
+
+1721
+01:06:58,099 --> 01:06:59,139
+que ainda não respondeu
+
+1722
+01:06:59,139 --> 01:07:00,000
+nesse bloco.
+
+1723
+01:07:00,079 --> 01:07:00,440
+Por favor,
+
+1724
+01:07:00,579 --> 01:07:01,000
+um minuto.
+
+1725
+01:07:01,000 --> 01:07:02,460
+sou eu?
+
+1726
+01:07:02,619 --> 01:07:03,559
+É, o senhor pergunta
+
+1727
+01:07:03,559 --> 01:07:04,079
+para o candidato
+
+1728
+01:07:04,079 --> 01:07:04,519
+Renan Santos.
+
+1729
+01:07:04,519 --> 01:07:05,380
+Eu vou perguntar
+
+1730
+01:07:05,380 --> 01:07:05,780
+ao Renan.
+
+1731
+01:07:07,460 --> 01:07:07,900
+Renan,
+
+1732
+01:07:08,500 --> 01:07:09,119
+o que nós estamos
+
+1733
+01:07:09,119 --> 01:07:10,059
+assistindo hoje
+
+1734
+01:07:10,059 --> 01:07:10,559
+é o seguinte,
+
+1735
+01:07:10,719 --> 01:07:11,599
+como é que pode
+
+1736
+01:07:11,599 --> 01:07:14,480
+o eleitor
+
+1737
+01:07:14,480 --> 01:07:15,239
+ser obrigado
+
+1738
+01:07:15,239 --> 01:07:15,920
+a votar?
+
+1739
+01:07:17,500 --> 01:07:17,860
+Ele está lá
+
+1740
+01:07:17,860 --> 01:07:18,699
+obrigado a votar,
+
+1741
+01:07:18,780 --> 01:07:19,820
+senão ele vai ser multado,
+
+1742
+01:07:19,900 --> 01:07:20,639
+vai ter penalidade.
+
+1743
+01:07:20,739 --> 01:07:21,579
+E de repente,
+
+1744
+01:07:22,880 --> 01:07:24,260
+os dois candidatos,
+
+1745
+01:07:24,360 --> 01:07:25,000
+o Flávio
+
+1746
+01:07:25,000 --> 01:07:26,460
+e o Lula,
+
+1747
+01:07:27,260 --> 01:07:27,820
+está certo?
+
+1748
+01:07:28,340 --> 01:07:29,320
+Que são os maiores
+
+1749
+01:07:29,320 --> 01:07:30,320
+em rejeição,
+
+1750
+01:07:31,880 --> 01:07:33,619
+tem a disfarçatez
+
+1751
+01:07:33,619 --> 01:07:34,639
+de realmente
+
+1752
+01:07:34,639 --> 01:07:35,739
+não respeitar
+
+1753
+01:07:35,739 --> 01:07:36,900
+a opinião pública,
+
+1754
+01:07:37,760 --> 01:07:39,059
+de virar as costas
+
+1755
+01:07:39,059 --> 01:07:40,039
+para a população,
+
+1756
+01:07:40,260 --> 01:07:41,780
+achando que já estão eleitos.
+
+1757
+01:07:42,619 --> 01:07:43,619
+E de repente,
+
+1758
+01:07:43,619 --> 01:07:44,659
+eu pergunto a você,
+
+1759
+01:07:45,099 --> 01:07:46,019
+eu pretendo,
+
+1760
+01:07:46,340 --> 01:07:46,780
+está certo?
+
+1761
+01:07:46,920 --> 01:07:47,679
+Chegando ao governo,
+
+1762
+01:07:47,780 --> 01:07:49,519
+encaminhar ao Congresso Nacional
+
+1763
+01:07:49,519 --> 01:07:50,679
+uma lei
+
+1764
+01:07:50,679 --> 01:07:52,699
+para que todo candidato,
+
+1765
+01:07:52,760 --> 01:07:53,460
+da mesma maneira
+
+1766
+01:07:53,460 --> 01:07:54,420
+que ele registre
+
+1767
+01:07:54,420 --> 01:07:56,099
+o programa de governo dele,
+
+1768
+01:07:56,440 --> 01:07:57,500
+ele tenha que estar
+
+1769
+01:07:57,500 --> 01:07:59,519
+presente nos debates.
+
+1770
+01:07:59,619 --> 01:08:00,800
+O que você pensa
+
+1771
+01:08:00,800 --> 01:08:01,300
+em relação
+
+1772
+01:08:01,300 --> 01:08:02,320
+a essa proposta?
+
+1773
+01:08:03,199 --> 01:08:04,220
+Posso te falar, Caiado,
+
+1774
+01:08:04,360 --> 01:08:05,099
+adorei a proposta.
+
+1775
+01:08:05,760 --> 01:08:06,260
+A gente não precisava
+
+1776
+01:08:06,260 --> 01:08:06,780
+nem esperar
+
+1777
+01:08:06,780 --> 01:08:07,820
+você ganhar a eleição,
+
+1778
+01:08:07,980 --> 01:08:09,159
+porque naturalmente
+
+1779
+01:08:09,159 --> 01:08:09,599
+eu irei ganhar,
+
+1780
+01:08:10,139 --> 01:08:10,880
+mas nós podemos pegar
+
+1781
+01:08:10,880 --> 01:08:11,679
+a bancada do meu partido
+
+1782
+01:08:11,679 --> 01:08:12,639
+do seu e já protocolar
+
+1783
+01:08:12,639 --> 01:08:13,599
+isso no Congresso Nacional,
+
+1784
+01:08:13,980 --> 01:08:14,500
+porque o que a gente
+
+1785
+01:08:14,500 --> 01:08:15,240
+está assistindo agora
+
+1786
+01:08:15,240 --> 01:08:15,940
+nessas eleições
+
+1787
+01:08:15,940 --> 01:08:17,420
+é uma piada,
+
+1788
+01:08:17,819 --> 01:08:18,520
+é um absurdo.
+
+1789
+01:08:18,840 --> 01:08:19,619
+E o que eu preciso colocar,
+
+1790
+01:08:19,960 --> 01:08:20,880
+eu volto a repetir,
+
+1791
+01:08:21,159 --> 01:08:21,939
+tenho que vir aqui
+
+1792
+01:08:21,939 --> 01:08:23,020
+novamente nos púlitos.
+
+1793
+01:08:23,460 --> 01:08:24,180
+Isto aqui é um jogo
+
+1794
+01:08:24,180 --> 01:08:25,119
+de cartas marcadas.
+
+1795
+01:08:25,659 --> 01:08:27,640
+O Lula quer que o Flávio
+
+1796
+01:08:27,640 --> 01:08:29,520
+Bolsonaro seja candidato,
+
+1797
+01:08:29,600 --> 01:08:30,079
+ele quer,
+
+1798
+01:08:30,560 --> 01:08:31,779
+porque o único candidato
+
+1799
+01:08:31,779 --> 01:08:32,319
+que o Lula é capaz
+
+1800
+01:08:32,319 --> 01:08:33,939
+de vencer é o Flávio.
+
+1801
+01:08:34,579 --> 01:08:35,619
+O Flávio é fraco,
+
+1802
+01:08:35,960 --> 01:08:37,180
+o Flávio não é inteligente,
+
+1803
+01:08:37,420 --> 01:08:38,520
+o Flávio tem gravíssimos
+
+1804
+01:08:38,520 --> 01:08:39,340
+déficits cognitivos.
+
+1805
+01:08:39,480 --> 01:08:40,159
+A última vez que o Flávio
+
+1806
+01:08:40,159 --> 01:08:41,100
+participou de um debate,
+
+1807
+01:08:41,500 --> 01:08:43,039
+ele teve problemas gástricos.
+
+1808
+01:08:43,720 --> 01:08:44,859
+Não quero atrapalhar
+
+1809
+01:08:44,859 --> 01:08:46,340
+a pessoa que está em casa,
+
+1810
+01:08:46,380 --> 01:08:47,100
+às vezes está jantando.
+
+1811
+01:08:47,420 --> 01:08:48,500
+Teve que ser levado embora,
+
+1812
+01:08:48,600 --> 01:08:49,159
+carregado.
+
+1813
+01:08:50,100 --> 01:08:51,840
+O Flávio é aquele cachorrinho
+
+1814
+01:08:51,840 --> 01:08:53,020
+que saiu machucado na ninhada.
+
+1815
+01:08:53,119 --> 01:08:53,880
+E olha que os irmãos dele
+
+1816
+01:08:53,880 --> 01:08:54,600
+são o Carluxo,
+
+1817
+01:08:54,680 --> 01:08:55,140
+o Jay e o Renan.
+
+1818
+01:08:55,720 --> 01:08:56,760
+É difícil a situação ali.
+
+1819
+01:08:56,819 --> 01:08:57,760
+Então o Lula quer que o Flávio
+
+1820
+01:08:57,760 --> 01:08:58,279
+seja candidato.
+
+1821
+01:08:58,520 --> 01:08:59,060
+O Flávio é envolvido
+
+1822
+01:08:59,060 --> 01:08:59,960
+em todos os escândalos
+
+1823
+01:08:59,960 --> 01:09:00,739
+de corrupção possíveis.
+
+1824
+01:09:01,060 --> 01:09:01,840
+O Flávio vê um escândalo
+
+1825
+01:09:01,840 --> 01:09:02,340
+de corrupção e fala,
+
+1826
+01:09:02,440 --> 01:09:03,600
+quero, preciso.
+
+1827
+01:09:03,960 --> 01:09:04,920
+E aí o Lula vê isso e fala,
+
+1828
+01:09:05,000 --> 01:09:07,180
+o único cara que eu me sinto seguro
+
+1829
+01:09:07,180 --> 01:09:09,100
+para concorrer no segundo turno
+
+1830
+01:09:09,100 --> 01:09:09,779
+é o Flávio.
+
+1831
+01:09:09,940 --> 01:09:11,279
+Porque o Flávio consegue competir
+
+1832
+01:09:11,279 --> 01:09:12,100
+com o Lula nos próprios escândalos.
+
+1833
+01:09:12,180 --> 01:09:12,699
+Na verdade,
+
+1834
+01:09:13,000 --> 01:09:13,880
+eles fazem competição,
+
+1835
+01:09:13,880 --> 01:09:14,220
+o Caiado.
+
+1836
+01:09:14,420 --> 01:09:15,400
+Para ver quem consegue,
+
+1837
+01:09:15,699 --> 01:09:15,940
+vamos dizer,
+
+1838
+01:09:15,980 --> 01:09:16,699
+eu estou no Mastro,
+
+1839
+01:09:16,779 --> 01:09:18,819
+meu ministro do Lula,
+
+1840
+01:09:18,980 --> 01:09:19,640
+eu recebi mais.
+
+1841
+01:09:19,720 --> 01:09:20,300
+Aí o Flávio,
+
+1842
+01:09:20,359 --> 01:09:20,680
+não, não, não,
+
+1843
+01:09:20,720 --> 01:09:21,560
+agora eu vou fazer um filme
+
+1844
+01:09:21,560 --> 01:09:22,460
+e vão me dar dinheiro.
+
+1845
+01:09:22,659 --> 01:09:23,600
+Esse é o jogo que eles querem.
+
+1846
+01:09:23,680 --> 01:09:24,460
+No segundo turno,
+
+1847
+01:09:24,640 --> 01:09:25,119
+o que eles querem,
+
+1848
+01:09:25,199 --> 01:09:25,400
+o que eles querem, Caiado,
+
+1849
+01:09:25,600 --> 01:09:26,940
+é fazer uma disputa
+
+1850
+01:09:26,940 --> 01:09:28,199
+para ver quem é mais amigo
+
+1851
+01:09:28,199 --> 01:09:29,000
+do Daniel Vorcaro.
+
+1852
+01:09:29,260 --> 01:09:30,140
+É isso que eles querem fazer.
+
+1853
+01:09:30,420 --> 01:09:32,039
+Nós não podemos permitir isso.
+
+1854
+01:09:32,180 --> 01:09:33,239
+Eles estão fugindo
+
+1855
+01:09:33,239 --> 01:09:34,980
+como cadelas,
+
+1856
+01:09:35,460 --> 01:09:36,680
+fugindo como cadelas,
+
+1857
+01:09:36,960 --> 01:09:37,819
+porque eles sabem muito bem
+
+1858
+01:09:37,819 --> 01:09:38,420
+que quando eles tiverem
+
+1859
+01:09:38,420 --> 01:09:39,159
+um contraditório,
+
+1860
+01:09:39,520 --> 01:09:40,500
+eles estão acabados.
+
+1861
+01:09:40,500 --> 01:09:43,539
+Muito bem.
+
+1862
+01:09:43,699 --> 01:09:44,300
+Por favor,
+
+1863
+01:09:44,399 --> 01:09:45,260
+eu quero, neste momento,
+
+1864
+01:09:45,460 --> 01:09:47,140
+deixar claro que,
+
+1865
+01:09:47,819 --> 01:09:48,060
+olha,
+
+1866
+01:09:48,279 --> 01:09:50,260
+por que eles não vêm ao debate?
+
+1867
+01:09:51,079 --> 01:09:51,500
+Por quê?
+
+1868
+01:09:53,100 --> 01:09:54,539
+Como é que eles vão explicar?
+
+1869
+01:09:55,140 --> 01:09:56,399
+E no primeiro momento,
+
+1870
+01:09:57,279 --> 01:09:57,779
+eu disse,
+
+1871
+01:09:57,920 --> 01:09:59,000
+olha, Flávio,
+
+1872
+01:09:59,239 --> 01:10:01,239
+explique o que estão denunciando
+
+1873
+01:10:01,239 --> 01:10:02,819
+e falando a seu respeito.
+
+1874
+01:10:03,819 --> 01:10:05,560
+Ele realmente não deu satisfação,
+
+1875
+01:10:05,819 --> 01:10:07,800
+não explicou o Dark Horse.
+
+1876
+01:10:08,960 --> 01:10:09,500
+Ou seja,
+
+1877
+01:10:09,500 --> 01:10:11,960
+ele exatamente fugiu
+
+1878
+01:10:11,960 --> 01:10:13,600
+da explicação à sociedade.
+
+1879
+01:10:14,140 --> 01:10:15,500
+Como é que um candidato
+
+1880
+01:10:15,500 --> 01:10:17,819
+à presidência da República
+
+1881
+01:10:17,819 --> 01:10:20,180
+pode querer ter a presunção
+
+1882
+01:10:20,180 --> 01:10:21,359
+da inocência,
+
+1883
+01:10:22,359 --> 01:10:23,560
+sendo que ele não explicou
+
+1884
+01:10:23,560 --> 01:10:24,659
+aonde foi parar
+
+1885
+01:10:24,659 --> 01:10:26,779
+esses milhões e milhões de reais?
+
+1886
+01:10:27,779 --> 01:10:28,659
+Esse é o fato
+
+1887
+01:10:28,659 --> 01:10:30,239
+que realmente já o impede de.
+
+1888
+01:10:30,880 --> 01:10:32,600
+Então, você tem uma característica
+
+1889
+01:10:32,600 --> 01:10:33,479
+de dois candidatos.
+
+1890
+01:10:33,579 --> 01:10:34,640
+O primeiro candidato
+
+1891
+01:10:34,640 --> 01:10:36,199
+tem o Dark Horse,
+
+1892
+01:10:36,520 --> 01:10:37,319
+que é esse que vocês conhecem.
+
+1893
+01:10:37,319 --> 01:10:40,119
+E o Lula tem o Dark Lobby.
+
+1894
+01:10:40,559 --> 01:10:42,460
+Aí é a Roberta,
+
+1895
+01:10:42,819 --> 01:10:43,399
+tá certo?
+
+1896
+01:10:43,519 --> 01:10:45,380
+E também o segundo,
+
+1897
+01:10:45,579 --> 01:10:46,539
+e o Lulinha,
+
+1898
+01:10:46,899 --> 01:10:48,000
+que é o artista.
+
+1899
+01:10:48,000 --> 01:10:48,880
+Obrigada, candidato.
+
+1900
+01:10:48,880 --> 01:10:49,659
+São dois filhos.
+
+1901
+01:10:49,659 --> 01:10:51,399
+Candidato, tempo encerrado já.
+
+1902
+01:10:51,599 --> 01:10:52,420
+Preciso interrompê-lo,
+
+1903
+01:10:52,519 --> 01:10:53,399
+porque o seu tempo encerrou
+
+1904
+01:10:53,399 --> 01:10:54,599
+dois minutos e vinte e dois
+
+1905
+01:10:54,599 --> 01:10:55,639
+para o candidato
+
+1906
+01:10:55,639 --> 01:10:56,439
+Renan Santos
+
+1907
+01:10:56,439 --> 01:10:57,460
+concluir a tréplica.
+
+1908
+01:10:57,939 --> 01:10:58,279
+Maravilhoso,
+
+1909
+01:10:58,340 --> 01:10:59,680
+eu adorei a do Dark Lobby também.
+
+1910
+01:11:00,239 --> 01:11:00,979
+É impressionante.
+
+1911
+01:11:01,399 --> 01:11:01,659
+E assim,
+
+1912
+01:11:02,000 --> 01:11:03,260
+a gente está sendo muito enfático
+
+1913
+01:11:03,260 --> 01:11:04,220
+para ver se na próxima
+
+1914
+01:11:04,220 --> 01:11:05,519
+eles vão ter a dignidade
+
+1915
+01:11:05,519 --> 01:11:06,760
+de comparecer ao debate
+
+1916
+01:11:06,760 --> 01:11:07,739
+para no mínimo se defender.
+
+1917
+01:11:08,300 --> 01:11:08,880
+Porque um homem
+
+1918
+01:11:08,880 --> 01:11:09,639
+que não tem honra
+
+1919
+01:11:09,639 --> 01:11:10,519
+não se defende,
+
+1920
+01:11:10,639 --> 01:11:11,779
+fica fingindo que nada está acontecendo.
+
+1921
+01:11:11,979 --> 01:11:12,340
+O Flávio,
+
+1922
+01:11:12,460 --> 01:11:12,699
+ontem,
+
+1923
+01:11:12,939 --> 01:11:14,159
+foi para Barretos dançar.
+
+1924
+01:11:15,059 --> 01:11:15,760
+Estava dançando,
+
+1925
+01:11:15,859 --> 01:11:17,260
+igual um imbecil lá em Barretos.
+
+1926
+01:11:17,260 --> 01:11:18,539
+O Lula, coitado,
+
+1927
+01:11:18,600 --> 01:11:19,699
+tem que ficar lá com aquela janja.
+
+1928
+01:11:19,900 --> 01:11:21,039
+Era mais certo ter vindo no debate
+
+1929
+01:11:21,039 --> 01:11:22,199
+que ia ter companhias melhores.
+
+1930
+01:11:23,039 --> 01:11:24,340
+A situação é assustadora.
+
+1931
+01:11:25,020 --> 01:11:25,860
+Assustadora para o nosso país.
+
+1932
+01:11:26,119 --> 01:11:27,119
+E proposta nenhum tem.
+
+1933
+01:11:27,500 --> 01:11:28,280
+Preciso lembrar aqui.
+
+1934
+01:11:28,520 --> 01:11:29,239
+O Flávio estava falando
+
+1935
+01:11:29,239 --> 01:11:30,280
+que ia dar celular de graça.
+
+1936
+01:11:30,380 --> 01:11:31,140
+Ah, se você é mulher,
+
+1937
+01:11:31,440 --> 01:11:32,100
+porque todo mundo agora
+
+1938
+01:11:32,100 --> 01:11:33,119
+a mulher vai decidir a eleição.
+
+1939
+01:11:33,220 --> 01:11:33,739
+O Flávio, já sei,
+
+1940
+01:11:33,920 --> 01:11:35,199
+eu vou dar um celular de graça
+
+1941
+01:11:35,199 --> 01:11:35,560
+para a mulher.
+
+1942
+01:11:35,860 --> 01:11:36,260
+Oh, cara,
+
+1943
+01:11:36,560 --> 01:11:37,659
+você é idiota, Flávio.
+
+1944
+01:11:38,380 --> 01:11:39,500
+Vai custar mais de 100 bilhões
+
+1945
+01:11:39,500 --> 01:11:39,960
+de reais por ano
+
+1946
+01:11:39,960 --> 01:11:41,260
+para fazer essa brincadeira imbecil.
+
+1947
+01:11:41,840 --> 01:11:43,119
+A gente não tem dinheiro para isso.
+
+1948
+01:11:43,619 --> 01:11:44,380
+Aí, o Lula,
+
+1949
+01:11:44,380 --> 01:11:45,000
+o que ele vai falar?
+
+1950
+01:11:45,000 --> 01:11:46,340
+Sei lá, eu vou te dar um pé de meia.
+
+1951
+01:11:46,539 --> 01:11:47,319
+O Lula até desistiu
+
+1952
+01:11:47,319 --> 01:11:48,359
+de apresentar proposta.
+
+1953
+01:11:48,699 --> 01:11:49,640
+Ele não está nem com o saco,
+
+1954
+01:11:49,699 --> 01:11:50,279
+porque a maior parte do tempo
+
+1955
+01:11:50,279 --> 01:11:50,880
+ou ele está bêbado
+
+1956
+01:11:50,880 --> 01:11:51,500
+ou ele está com a janja.
+
+1957
+01:11:51,760 --> 01:11:52,560
+Melhor ficar bêbado
+
+1958
+01:11:52,560 --> 01:11:53,359
+nessas horas, né, presidente?
+
+1959
+01:11:53,619 --> 01:11:54,640
+Eu tenho o livro amarelo,
+
+1960
+01:11:54,899 --> 01:11:55,859
+que é um livro de propostas.
+
+1961
+01:11:55,979 --> 01:11:57,500
+460 páginas com propostas
+
+1962
+01:11:57,500 --> 01:11:57,960
+para o Brasil.
+
+1963
+01:11:58,500 --> 01:11:59,760
+Trouxe aqui de maneira ilustrativa
+
+1964
+01:11:59,760 --> 01:12:00,220
+para mostrar.
+
+1965
+01:12:00,680 --> 01:12:02,039
+Tem que acreditar no que faz.
+
+1966
+01:12:02,420 --> 01:12:03,079
+Tem que ter projeto
+
+1967
+01:12:03,079 --> 01:12:04,300
+para todas as áreas do Brasil.
+
+1968
+01:12:04,739 --> 01:12:06,220
+É mais livro amarelo,
+
+1969
+01:12:06,420 --> 01:12:07,340
+é mais construção,
+
+1970
+01:12:07,420 --> 01:12:09,100
+é mais pesquisador fazendo isso
+
+1971
+01:12:09,100 --> 01:12:09,800
+sem ter precisado
+
+1972
+01:12:09,800 --> 01:12:10,579
+de dinheiro público
+
+1973
+01:12:10,579 --> 01:12:11,199
+para ter feito,
+
+1974
+01:12:11,460 --> 01:12:12,659
+usando gente ao redor do Brasil,
+
+1975
+01:12:12,659 --> 01:12:14,119
+de molecada que estuda em Harvard,
+
+1976
+01:12:14,260 --> 01:12:14,859
+brasileiros,
+
+1977
+01:12:15,099 --> 01:12:15,619
+molecada que estuda
+
+1978
+01:12:15,619 --> 01:12:16,840
+nas melhores universidades brasileiras
+
+1979
+01:12:16,840 --> 01:12:17,939
+construindo proposta
+
+1980
+01:12:17,939 --> 01:12:20,579
+e menos ser fujão e preguiçoso.
+
+1981
+01:12:20,800 --> 01:12:21,739
+Eles querem comprar
+
+1982
+01:12:21,739 --> 01:12:22,960
+o voto das pessoas
+
+1983
+01:12:22,960 --> 01:12:23,619
+para as eleições.
+
+1984
+01:12:24,340 --> 01:12:25,119
+É esse o jogo.
+
+1985
+01:12:25,279 --> 01:12:26,199
+Estão comprando o prefeito,
+
+1986
+01:12:26,319 --> 01:12:27,199
+comprando o governador,
+
+1987
+01:12:27,500 --> 01:12:29,199
+indo fazer dancinha ridícula,
+
+1988
+01:12:29,300 --> 01:12:30,119
+constrangedora.
+
+1989
+01:12:30,619 --> 01:12:31,920
+E aí a política brasileira
+
+1990
+01:12:31,920 --> 01:12:32,539
+se torna uma piada.
+
+1991
+01:12:32,739 --> 01:12:34,180
+O nosso país está indo para o buraco.
+
+1992
+01:12:34,439 --> 01:12:35,220
+Está tudo quebrando,
+
+1993
+01:12:35,519 --> 01:12:36,559
+juros está lá no talo,
+
+1994
+01:12:36,760 --> 01:12:37,239
+ano que vem
+
+1995
+01:12:37,239 --> 01:12:38,760
+vem uma quebradeira generalizada
+
+1996
+01:12:38,760 --> 01:12:40,279
+e em vez desses caras
+
+1997
+01:12:40,279 --> 01:12:42,019
+estarem aqui conosco
+
+1998
+01:12:42,020 --> 01:12:43,280
+discutindo na bandeira antes.
+
+1999
+01:12:43,660 --> 01:12:44,460
+Eu volto a repetir.
+
+2000
+01:12:44,960 --> 01:12:45,660
+Eles querem um jogo
+
+2001
+01:12:45,660 --> 01:12:46,500
+de cartas marcadas.
+
+2002
+01:12:46,640 --> 01:12:47,840
+E ainda falo, tá?
+
+2003
+01:12:48,040 --> 01:12:48,700
+É que eles não vão
+
+2004
+01:12:48,700 --> 01:12:49,300
+para o segundo turno.
+
+2005
+01:12:49,580 --> 01:12:50,560
+Se fossem,
+
+2006
+01:12:50,600 --> 01:12:51,440
+nem debate teria,
+
+2007
+01:12:51,740 --> 01:12:52,520
+porque eles fugiriam,
+
+2008
+01:12:52,700 --> 01:12:54,520
+porque tudo que o Flávio Bolsonaro
+
+2009
+01:12:54,520 --> 01:12:56,360
+quer é perder a eleição
+
+2010
+01:12:56,360 --> 01:12:56,840
+para o Lula,
+
+2011
+01:12:57,120 --> 01:12:58,360
+continuar mandando na direita,
+
+2012
+01:12:58,420 --> 01:12:59,280
+porque ele acha que a direita
+
+2013
+01:12:59,280 --> 01:13:00,120
+é um bordel
+
+2014
+01:13:00,120 --> 01:13:00,640
+que eles vão ficar
+
+2015
+01:13:00,640 --> 01:13:01,760
+cafetinando todo mundo,
+
+2016
+01:13:02,240 --> 01:13:02,420
+tá?
+
+2017
+01:13:02,660 --> 01:13:03,660
+E o Lula sabe que tem
+
+2018
+01:13:03,660 --> 01:13:04,960
+esse cara fraco e ganha.
+
+2019
+01:13:05,160 --> 01:13:06,180
+Aí o Flávio não vai preso
+
+2020
+01:13:06,180 --> 01:13:07,180
+fazendo um acordo com o Lula,
+
+2021
+01:13:07,280 --> 01:13:07,740
+com o Xandão
+
+2022
+01:13:07,740 --> 01:13:08,700
+e com o Vorcaro
+
+2023
+01:13:08,700 --> 01:13:09,560
+lá em Brasília.
+
+2024
+01:13:09,560 --> 01:13:11,080
+Eles vão ficando ricos,
+
+2025
+01:13:11,400 --> 01:13:12,440
+você fica pobre,
+
+2026
+01:13:12,700 --> 01:13:13,700
+mas aí vai se encontrar
+
+2027
+01:13:13,700 --> 01:13:14,120
+no domingo
+
+2028
+01:13:14,120 --> 01:13:14,860
+no Churrasco da Família
+
+2029
+01:13:14,860 --> 01:13:15,640
+e todo mundo vai brigar.
+
+2030
+01:13:15,900 --> 01:13:16,580
+Esquerda, direita.
+
+2031
+01:13:16,680 --> 01:13:18,000
+Gente, esquerda e direita
+
+2032
+01:13:18,000 --> 01:13:19,520
+estão roubando você junto.
+
+2033
+01:13:19,640 --> 01:13:20,300
+Não importa a mão,
+
+2034
+01:13:20,539 --> 01:13:21,200
+importa o roubo.
+
+2035
+01:13:22,080 --> 01:13:22,520
+Obrigada.
+
+2036
+01:13:22,620 --> 01:13:24,080
+Esta foi a última resposta
+
+2037
+01:13:24,080 --> 01:13:24,940
+dessa rodada.
+
+2038
+01:13:25,400 --> 01:13:26,320
+A partir de agora,
+
+2039
+01:13:26,460 --> 01:13:27,240
+cada candidato
+
+2040
+01:13:27,240 --> 01:13:28,480
+terá um minuto e meio
+
+2041
+01:13:28,480 --> 01:13:30,520
+para as suas considerações finais.
+
+2042
+01:13:30,820 --> 01:13:31,720
+A gente também segue
+
+2043
+01:13:31,720 --> 01:13:32,740
+a ordem do sorteio
+
+2044
+01:13:32,740 --> 01:13:33,780
+definida previamente.
+
+2045
+01:13:34,160 --> 01:13:35,020
+E quem começa, então,
+
+2046
+01:13:35,060 --> 01:13:35,680
+se despedindo
+
+2047
+01:13:35,680 --> 01:13:37,000
+com as suas considerações finais
+
+2048
+01:13:37,000 --> 01:13:38,600
+é o candidato Ronaldo Caiado.
+
+2049
+01:13:38,680 --> 01:13:39,060
+Por favor,
+
+2050
+01:13:39,180 --> 01:13:39,579
+candidato,
+
+2051
+01:13:39,859 --> 01:13:40,520
+um minuto e meio.
+
+2052
+01:13:41,460 --> 01:13:48,300
+Eu quero me dirigir agora
+
+2053
+01:13:48,300 --> 01:13:50,840
+a toda a população brasileira.
+
+2054
+01:13:51,520 --> 01:13:52,739
+Tudo que eu falei aqui
+
+2055
+01:13:52,739 --> 01:13:54,260
+vem de uma experiência
+
+2056
+01:13:54,260 --> 01:13:55,779
+de 40 anos de vida
+
+2057
+01:13:55,779 --> 01:13:56,500
+na política.
+
+2058
+01:13:57,100 --> 01:13:58,300
+E vocês nunca viram
+
+2059
+01:13:58,300 --> 01:13:59,640
+nada que atingisse
+
+2060
+01:13:59,640 --> 01:14:00,319
+a minha honra.
+
+2061
+01:14:00,920 --> 01:14:01,819
+Vocês nunca me viram
+
+2062
+01:14:01,819 --> 01:14:02,640
+em Rachadinho,
+
+2063
+01:14:02,739 --> 01:14:03,520
+em Petrolão,
+
+2064
+01:14:03,520 --> 01:14:05,040
+em Vocaro,
+
+2065
+01:14:05,160 --> 01:14:05,880
+em Master.
+
+2066
+01:14:06,240 --> 01:14:07,300
+Vocês nunca me viram
+
+2067
+01:14:07,300 --> 01:14:08,240
+aí vinculada
+
+2068
+01:14:08,240 --> 01:14:09,060
+à bandaleira
+
+2069
+01:14:09,060 --> 01:14:10,560
+de roubar aposentado.
+
+2070
+01:14:11,160 --> 01:14:11,920
+Vocês sempre me viram
+
+2071
+01:14:11,920 --> 01:14:12,640
+como médico,
+
+2072
+01:14:12,740 --> 01:14:14,040
+um cirurgião que sou.
+
+2073
+01:14:14,780 --> 01:14:15,800
+Uma pessoa que tem
+
+2074
+01:14:15,800 --> 01:14:16,660
+um orgulho enorme
+
+2075
+01:14:16,660 --> 01:14:17,580
+da minha família,
+
+2076
+01:14:18,220 --> 01:14:19,000
+que eu, minha mulher,
+
+2077
+01:14:19,120 --> 01:14:19,500
+Gracinha,
+
+2078
+01:14:19,580 --> 01:14:20,180
+meus filhos,
+
+2079
+01:14:20,240 --> 01:14:20,840
+Ronaldo Filho,
+
+2080
+01:14:20,920 --> 01:14:21,920
+Maria, Ana Vitória
+
+2081
+01:14:21,920 --> 01:14:24,500
+e também Marcela,
+
+2082
+01:14:24,700 --> 01:14:26,160
+nós andamos com dignidade
+
+2083
+01:14:26,160 --> 01:14:26,980
+pelas ruas.
+
+2084
+01:14:27,160 --> 01:14:28,720
+As pessoas nos respeitam.
+
+2085
+01:14:29,200 --> 01:14:29,600
+Minha senhora,
+
+2086
+01:14:29,740 --> 01:14:30,280
+por favor,
+
+2087
+01:14:30,700 --> 01:14:32,080
+nos ajude a pensar
+
+2088
+01:14:32,080 --> 01:14:32,760
+neste momento.
+
+2089
+01:14:32,760 --> 01:14:33,920
+se esses dois
+
+2090
+01:14:33,920 --> 01:14:34,820
+não têm coragem
+
+2091
+01:14:34,820 --> 01:14:35,980
+de vir a um debate,
+
+2092
+01:14:36,699 --> 01:14:37,460
+eles não têm como
+
+2093
+01:14:37,460 --> 01:14:38,320
+explicar
+
+2094
+01:14:38,320 --> 01:14:40,239
+todos os escândalos
+
+2095
+01:14:40,239 --> 01:14:41,860
+que eles estão envolvidos,
+
+2096
+01:14:42,300 --> 01:14:42,579
+você,
+
+2097
+01:14:42,720 --> 01:14:43,239
+nesse momento,
+
+2098
+01:14:43,360 --> 01:14:43,980
+ao invés de
+
+2099
+01:14:43,980 --> 01:14:45,579
+refletir melhor,
+
+2100
+01:14:45,900 --> 01:14:47,199
+ainda os mantém
+
+2101
+01:14:47,199 --> 01:14:48,560
+num patamar ainda
+
+2102
+01:14:48,560 --> 01:14:49,260
+de chegarem
+
+2103
+01:14:49,260 --> 01:14:50,699
+ao segundo turno?
+
+2104
+01:14:50,860 --> 01:14:51,619
+Como é que vocês
+
+2105
+01:14:51,619 --> 01:14:52,440
+podem aceitar
+
+2106
+01:14:52,440 --> 01:14:54,940
+esse café requentado
+
+2107
+01:14:54,940 --> 01:14:56,680
+que vocês já viram eles,
+
+2108
+01:14:56,800 --> 01:14:57,820
+todos eles já tiveram
+
+2109
+01:14:57,820 --> 01:14:58,820
+oportunidade?
+
+2110
+01:14:59,340 --> 01:15:00,180
+Dê uma chance
+
+2111
+01:15:00,180 --> 01:15:00,920
+para o Brasil
+
+2112
+01:15:00,920 --> 01:15:02,460
+dar para seu filho,
+
+2113
+01:15:02,560 --> 01:15:02,940
+minha senhora,
+
+2114
+01:15:03,079 --> 01:15:05,119
+oportunidade de poder amanhã
+
+2115
+01:15:05,119 --> 01:15:06,699
+ter a chance
+
+2116
+01:15:06,699 --> 01:15:07,359
+de crescer,
+
+2117
+01:15:07,500 --> 01:15:08,260
+ter uma educação
+
+2118
+01:15:08,260 --> 01:15:08,880
+de qualidade,
+
+2119
+01:15:09,359 --> 01:15:10,380
+poder ter saúde
+
+2120
+01:15:10,380 --> 01:15:11,140
+para seus filhos,
+
+2121
+01:15:11,260 --> 01:15:12,300
+poder para sua família,
+
+2122
+01:15:12,420 --> 01:15:13,819
+ter segurança pública,
+
+2123
+01:15:14,399 --> 01:15:15,699
+programas emancipadores,
+
+2124
+01:15:15,859 --> 01:15:17,119
+acreditem no Brasil,
+
+2125
+01:15:17,500 --> 01:15:18,220
+tenham coragem,
+
+2126
+01:15:18,359 --> 01:15:18,980
+vamos juntos
+
+2127
+01:15:18,980 --> 01:15:19,859
+mudar o Brasil.
+
+2128
+01:15:19,859 --> 01:15:21,239
+Obrigada, candidato,
+
+2129
+01:15:21,579 --> 01:15:22,399
+muito obrigada.
+
+2130
+01:15:22,719 --> 01:15:23,339
+Agora o próximo
+
+2131
+01:15:23,339 --> 01:15:24,339
+a fazer suas considerações
+
+2132
+01:15:24,339 --> 01:15:25,539
+finais é o candidato
+
+2133
+01:15:25,539 --> 01:15:26,159
+Renan Santos
+
+2134
+01:15:26,159 --> 01:15:26,960
+em um minuto e meio.
+
+2135
+01:15:27,319 --> 01:15:28,079
+Por favor,
+
+2136
+01:15:28,219 --> 01:15:29,039
+candidato Renan Santos.
+
+2137
+01:15:30,779 --> 01:15:32,139
+Há dez anos atrás,
+
+2138
+01:15:33,299 --> 01:15:34,699
+eu convoquei as manifestações
+
+2139
+01:15:34,699 --> 01:15:35,759
+que derrubaram a Dilma Rousseff.
+
+2140
+01:15:36,319 --> 01:15:37,399
+Aquele governo corrupto
+
+2141
+01:15:37,399 --> 01:15:38,179
+dela caiu.
+
+2142
+01:15:38,639 --> 01:15:39,479
+O Brasil estava todo
+
+2143
+01:15:39,479 --> 01:15:40,159
+cheio de esperança
+
+2144
+01:15:40,159 --> 01:15:41,359
+que o futuro podia ser melhor.
+
+2145
+01:15:42,019 --> 01:15:43,239
+As pessoas saíram às ruas,
+
+2146
+01:15:43,519 --> 01:15:44,239
+as pessoas brigaram,
+
+2147
+01:15:44,339 --> 01:15:45,619
+defenderam a Operação Lava Jato.
+
+2148
+01:15:45,960 --> 01:15:46,779
+O Brasil parecia
+
+2149
+01:15:46,779 --> 01:15:47,559
+que estava mudando.
+
+2150
+01:15:47,560 --> 01:15:48,800
+Aí chegou a família
+
+2151
+01:15:48,800 --> 01:15:49,880
+desse cara aqui ao poder,
+
+2152
+01:15:50,660 --> 01:15:52,180
+trocou toda aquela luta
+
+2153
+01:15:52,180 --> 01:15:53,600
+e trocou toda aquela esperança
+
+2154
+01:15:53,600 --> 01:15:55,600
+pela salvação junto ao STF
+
+2155
+01:15:55,600 --> 01:15:56,620
+deste cara
+
+2156
+01:15:56,620 --> 01:15:57,800
+que cometia o crime
+
+2157
+01:15:57,800 --> 01:15:58,680
+de rachadinha,
+
+2158
+01:15:58,780 --> 01:15:59,680
+que pegava o salário
+
+2159
+01:15:59,680 --> 01:16:00,920
+do funcionário fantasma
+
+2160
+01:16:00,920 --> 01:16:01,400
+no gabinete,
+
+2161
+01:16:01,720 --> 01:16:02,700
+botava um pedaço no bolso
+
+2162
+01:16:02,700 --> 01:16:03,940
+e depois saía comprando casas.
+
+2163
+01:16:04,539 --> 01:16:05,940
+O Brasil não precisa ser traído
+
+2164
+01:16:05,940 --> 01:16:06,580
+por essa gente,
+
+2165
+01:16:06,900 --> 01:16:08,260
+nem ser pautado por essa gente.
+
+2166
+01:16:08,780 --> 01:16:09,440
+O Brasil pode ser
+
+2167
+01:16:09,440 --> 01:16:10,380
+uma das cinco maiores nações
+
+2168
+01:16:10,380 --> 01:16:11,039
+do mundo que vai sentar
+
+2169
+01:16:11,039 --> 01:16:12,220
+com Rússia, China,
+
+2170
+01:16:12,500 --> 01:16:13,200
+Índia e Estados Unidos
+
+2171
+01:16:13,200 --> 01:16:14,060
+para definir tudo
+
+2172
+01:16:14,060 --> 01:16:14,820
+que importa no mundo.
+
+2173
+01:16:15,020 --> 01:16:16,060
+Para falar de terra rara,
+
+2174
+01:16:16,300 --> 01:16:17,000
+de tecnologia,
+
+2175
+01:16:17,000 --> 01:16:18,359
+de inteligência artificial,
+
+2176
+01:16:18,779 --> 01:16:20,140
+que vai debater e discutir,
+
+2177
+01:16:20,199 --> 01:16:21,180
+vai gerar classe média,
+
+2178
+01:16:21,380 --> 01:16:22,399
+vai fazer com que o Nordeste
+
+2179
+01:16:22,399 --> 01:16:23,000
+se desenvolva economicamente,
+
+2180
+01:16:23,920 --> 01:16:24,739
+que vai fazer com que a região
+
+2181
+01:16:24,739 --> 01:16:25,880
+Centro-Oeste tenha infraestrutura
+
+2182
+01:16:25,880 --> 01:16:26,720
+para exportar tudo,
+
+2183
+01:16:26,960 --> 01:16:27,520
+para que a gente volte
+
+2184
+01:16:27,520 --> 01:16:28,319
+a produzir carro,
+
+2185
+01:16:28,579 --> 01:16:29,399
+para que a gente não apenas
+
+2186
+01:16:29,399 --> 01:16:30,960
+exporte nossas matérias-primas,
+
+2187
+01:16:31,039 --> 01:16:32,000
+mas crie marcas internacionais,
+
+2188
+01:16:33,100 --> 01:16:33,760
+para que o Brasil seja
+
+2189
+01:16:33,760 --> 01:16:34,579
+esse grande país
+
+2190
+01:16:34,579 --> 01:16:35,420
+que ele nasceu para ser.
+
+2191
+01:16:35,760 --> 01:16:36,960
+Nós somos a maior experiência
+
+2192
+01:16:36,960 --> 01:16:37,699
+tropical do mundo,
+
+2193
+01:16:38,039 --> 01:16:38,920
+nós nascemos para ser
+
+2194
+01:16:38,920 --> 01:16:40,220
+o maior país do Sul global,
+
+2195
+01:16:40,560 --> 01:16:41,680
+nós nascemos para liderar
+
+2196
+01:16:41,680 --> 01:16:42,859
+e não passar vergonha.
+
+2197
+01:16:43,239 --> 01:16:44,020
+Nós estamos hoje
+
+2198
+01:16:44,020 --> 01:16:45,100
+sendo o país da migalha.
+
+2199
+01:16:45,100 --> 01:16:46,680
+E se você vive de migalha,
+
+2200
+01:16:47,340 --> 01:16:48,360
+é porque você aceita
+
+2201
+01:16:48,360 --> 01:16:49,160
+alguém que te trata
+
+2202
+01:16:49,160 --> 01:16:49,760
+como bicho.
+
+2203
+01:16:50,140 --> 01:16:51,020
+E esse alguém não está fazendo
+
+2204
+01:16:51,020 --> 01:16:51,760
+isso porque é bom para você.
+
+2205
+01:16:52,200 --> 01:16:52,800
+Ele faz isso porque,
+
+2206
+01:16:52,880 --> 01:16:53,400
+acima de tudo,
+
+2207
+01:16:53,880 --> 01:16:54,820
+porque esse cara é um ladrão.
+
+2208
+01:16:55,180 --> 01:16:56,340
+Por favor, candidato,
+
+2209
+01:16:56,420 --> 01:16:57,380
+o senhor não pode apresentar
+
+2210
+01:16:57,380 --> 01:16:58,539
+papéis, documentos,
+
+2211
+01:16:58,560 --> 01:16:58,940
+durante...
+
+2212
+01:16:58,939 --> 01:16:59,779
+Pode concluir.
+
+2213
+01:17:00,239 --> 01:17:01,319
+É, agora o tempo esgotou.
+
+2214
+01:17:01,359 --> 01:17:02,059
+Muito obrigada.
+
+2215
+01:17:02,399 --> 01:17:03,139
+Muito obrigada.
+
+2216
+01:17:03,219 --> 01:17:04,399
+Bom, seguindo a ordem aqui,
+
+2217
+01:17:04,519 --> 01:17:05,199
+quem termina então
+
+2218
+01:17:05,199 --> 01:17:06,339
+com as considerações finais
+
+2219
+01:17:06,339 --> 01:17:08,000
+é o candidato Augusto Cury.
+
+2220
+01:17:08,359 --> 01:17:09,359
+Por favor, um minuto e meio.
+
+2221
+01:17:10,559 --> 01:17:12,739
+Eu sou casado há 43 anos,
+
+2222
+01:17:13,939 --> 01:17:15,559
+sou apaixonado pela minha esposa,
+
+2223
+01:17:16,359 --> 01:17:17,960
+conheci ela na faculdade de medicina.
+
+2224
+01:17:18,579 --> 01:17:19,500
+Minha história foi uma história
+
+2225
+01:17:19,500 --> 01:17:20,279
+muito difícil.
+
+2226
+01:17:21,199 --> 01:17:22,279
+Papai e mamãe, como eu disse,
+
+2227
+01:17:22,379 --> 01:17:23,139
+moravam em...
+
+2228
+01:17:23,139 --> 01:17:24,059
+morávamos em oito,
+
+2229
+01:17:24,119 --> 01:17:24,899
+num quarto só.
+
+2230
+01:17:25,619 --> 01:17:26,779
+Sou filho de escola pública,
+
+2231
+01:17:26,779 --> 01:17:28,599
+em toda a minha trajetória acadêmica,
+
+2232
+01:17:28,960 --> 01:17:30,340
+até na faculdade de medicina.
+
+2233
+01:17:30,899 --> 01:17:32,239
+Fiz mestrado e doutorado.
+
+2234
+01:17:32,960 --> 01:17:34,099
+E tive muito sucesso.
+
+2235
+01:17:34,759 --> 01:17:36,679
+E agradeço a Deus profundamente
+
+2236
+01:17:36,679 --> 01:17:38,460
+pelo sucesso que eu tive.
+
+2237
+01:17:39,079 --> 01:17:40,619
+Não apenas como psiquiatra
+
+2238
+01:17:40,619 --> 01:17:41,699
+mais lido do mundo.
+
+2239
+01:17:42,179 --> 01:17:42,960
+Não mais lindo.
+
+2240
+01:17:43,099 --> 01:17:44,259
+Ela, talvez, minha esposa,
+
+2241
+01:17:44,659 --> 01:17:45,559
+me ache o mais lindo.
+
+2242
+01:17:45,659 --> 01:17:46,899
+Mas o mais lido do mundo.
+
+2243
+01:17:47,619 --> 01:17:49,259
+Publicado em mais de 90 países.
+
+2244
+01:17:49,960 --> 01:17:51,199
+Eu não apenas sou escritor.
+
+2245
+01:17:51,779 --> 01:17:53,139
+Escrevi mais de 70 livros.
+
+2246
+01:17:53,139 --> 01:17:54,819
+Mas estou gestor de empresas.
+
+2247
+01:17:54,819 --> 01:17:58,239
+e também agricultor,
+
+2248
+01:17:58,299 --> 01:17:59,500
+com vários projetos.
+
+2249
+01:18:00,460 --> 01:18:02,099
+Eu quero usar toda a minha experiência,
+
+2250
+01:18:02,460 --> 01:18:03,859
+que eu tive fora da política,
+
+2251
+01:18:04,319 --> 01:18:06,179
+para chamar os melhores profissionais,
+
+2252
+01:18:06,799 --> 01:18:08,019
+os melhores governadores
+
+2253
+01:18:08,019 --> 01:18:09,899
+sem histórico de corrupção,
+
+2254
+01:18:10,539 --> 01:18:11,840
+os melhores economistas
+
+2255
+01:18:11,840 --> 01:18:14,859
+e também os melhores gestores de empresa.
+
+2256
+01:18:15,340 --> 01:18:17,439
+Porque o Brasil merece se desenvolver.
+
+2257
+01:18:17,759 --> 01:18:18,559
+Não com grito,
+
+2258
+01:18:18,880 --> 01:18:19,979
+não com agressividade,
+
+2259
+01:18:20,340 --> 01:18:21,039
+não denegrindo,
+
+2260
+01:18:21,119 --> 01:18:22,219
+não diminuindo as pessoas.
+
+2261
+01:18:22,220 --> 01:18:23,640
+Mas, de fato,
+
+2262
+01:18:24,659 --> 01:18:26,320
+formando um time de ouro
+
+2263
+01:18:26,320 --> 01:18:28,420
+para desenvolver a nação brasileira.
+
+2264
+01:18:28,840 --> 01:18:30,840
+Se você achar que eu mereço o seu voto,
+
+2265
+01:18:31,280 --> 01:18:32,320
+faça um vídeo de apoio.
+
+2266
+01:18:32,740 --> 01:18:34,039
+Porque furar essa bolha
+
+2267
+01:18:34,039 --> 01:18:35,520
+só depende de você.
+
+2268
+01:18:35,900 --> 01:18:36,920
+Um beijo no coração,
+
+2269
+01:18:37,440 --> 01:18:38,199
+de Augusto Cury.
+
+2270
+01:18:38,320 --> 01:18:39,340
+O Brasil tem cura.
+
+2271
+01:18:40,100 --> 01:18:41,340
+Obrigada, candidato.
+
+2272
+01:18:41,340 --> 01:18:42,900
+Bom, então, assim,
+
+2273
+01:18:42,980 --> 01:18:44,119
+a gente termina este,
+
+2274
+01:18:44,260 --> 01:18:45,300
+que é o primeiro debate
+
+2275
+01:18:45,300 --> 01:18:47,279
+entre os candidatos à presidência da República
+
+2276
+01:18:47,279 --> 01:18:49,460
+nas eleições de 2026.
+
+2277
+01:18:49,900 --> 01:18:51,060
+Tradição aqui na Band,
+
+2278
+01:18:51,159 --> 01:18:52,060
+dá a largada,
+
+2279
+01:18:52,420 --> 01:18:53,279
+oferecendo ao eleitor
+
+2280
+01:18:53,279 --> 01:18:54,539
+um espaço de reflexão.
+
+2281
+01:18:54,940 --> 01:18:56,239
+Em nome das empresas do PUL,
+
+2282
+01:18:56,300 --> 01:18:57,520
+eu quero agradecer a presença
+
+2283
+01:18:57,520 --> 01:18:58,880
+de todos os candidatos.
+
+2284
+01:18:58,980 --> 01:19:00,220
+Muito obrigada pela presença,
+
+2285
+01:19:00,279 --> 01:19:01,800
+a todos vocês na plateia,
+
+2286
+01:19:01,960 --> 01:19:03,860
+especialmente a você de casa,
+
+2287
+01:19:03,900 --> 01:19:05,640
+que nos acompanhou até agora.
+
+2288
+01:19:05,640 --> 01:19:07,240
+Em caso de segundo turno,
+
+2289
+01:19:07,340 --> 01:19:09,579
+já está acertado com as campanhas
+
+2290
+01:19:09,579 --> 01:19:11,619
+que o primeiro debate acontece
+
+2291
+01:19:11,619 --> 01:19:12,340
+aqui na Band
+
+2292
+01:19:12,340 --> 01:19:14,500
+e eu vou aparecer com voz.
+
+2293
+01:19:15,480 --> 01:19:16,820
+É isso, a seguir você acompanha
+
+2294
+01:19:16,820 --> 01:19:17,960
+um canal livre especial
+
+2295
+01:19:17,960 --> 01:19:18,980
+aqui na Band.
+
+2296
+01:19:19,240 --> 01:19:20,400
+Uma ótima noite,
+
+2297
+01:19:20,539 --> 01:19:21,140
+ótima semana,
+
+2298
+01:19:21,480 --> 01:19:23,140
+repercussão do debate amanhã
+
+2299
+01:19:23,140 --> 01:19:24,619
+no Jornal da Band também.
+
+2300
+01:19:25,060 --> 01:19:25,820
+Olho no voto,
+
+2301
+01:19:26,140 --> 01:19:27,240
+olho na Band.
+
+2302
+01:19:27,760 --> 01:19:28,119
+Tchau, tchau.
+
+2303
+01:19:28,240 --> 01:19:28,940
+Obrigada demais.
+
+2304
+01:19:29,100 --> 01:19:29,520
+Obrigada.
+
+2305
+01:19:30,520 --> 01:19:31,079
+Um.
+
+2306
+01:19:35,640 --> 01:19:45,700
+E aí
+
+2307
+01:19:45,700 --> 01:19:48,400
+E aí
+
+2308
+01:19:48,400 --> 01:19:49,600
+E
+
+2309
+01:19:49,600 --> 01:19:50,220
+E aí
+
+2310
+01:19:50,220 --> 01:19:52,760
+E
+
+2311
+01:19:52,760 --> 01:19:53,220
+E aí
+
+2312
+01:19:53,220 --> 01:19:53,920
+E aí
+
+2313
+01:19:53,920 --> 01:19:54,960
+E aí
+
+2314
+01:19:54,960 --> 01:19:56,680
+E aí
+
+2315
+01:19:56,680 --> 01:19:57,619
+E aí
+
+2316
+01:19:57,619 --> 01:20:05,180
+E aí
+

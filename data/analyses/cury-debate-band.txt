@@ -1,0 +1,276 @@
+### Verificação de Fatos — Debate Band Augusto Cury (Avante)
+### Data: 2026-08-05
+### Modelo: opencode/mimo-v2.5-free
+
+---
+
+### RESUMO
+TOTAL DE AFIRMAÇÕES: 15
+VERDADEIRAS: 6
+FALSAS: 0
+IMPRECISAS: 4
+NÃO VERIFICÁVEIS: 3
+OPINIÃO: 2
+
+---
+
+### [1]
+
+**Afirmação do candidato:** "Psiquiatra mais lido do mundo... Publicado em mais de 90 países."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Augusto Cury é amplamente reconhecido como um dos psiquiatras mais lidos do mundo, com mais de 42 milhões de livros vendidos. No entanto, fontes oficiais (incluindo sua própria editora Sextante e a Wikipedia) indicam publicação em "mais de 70 países", não 90. O número 90 pode incluir traduções não oficiais ou pode ser uma exageração.
+
+**Fonte(s):**
+- Augusto Cury (site oficial) - https://augustocury.com.br/
+- Editora Sextante - https://sextante.com.br/pages/sobre/augusto-cury
+- Wikipedia - https://pt.wikipedia.org/wiki/Augusto_Cury
+
+**Observações:**
+A afirmação de "mais lido do mundo" é amplamente aceita, mas o número de países é inconsistentemente reportado (70-90).
+
+---
+
+### [2]
+
+**Afirmação do candidato:** "Escrevi mais de 70 livros."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Fontes editoriais e o próprio site de Cury confirmam a publicação de mais de 70 livros. A Folha de S.Paulo (abril 2026) também menciona "mais de 70 livros publicados".
+
+**Fonte(s):**
+- Folha de S.Paulo - https://www1.folha.uol.com.br/poder/2026/04/quem-e-augusto-cury-anunciado-como-pre-candidato-a-presidencia.shtml
+- Site oficial de Augusto Cury
+
+**Observações:**
+O número é consistente em múltiplas fontes.
+
+---
+
+### [3]
+
+**Afirmação do candidato:** "32 milhões de neurodivergentes" no Brasil.
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O Censo 2022 registrou 2,4 milhões de brasileiros com TEA (autismo). Estimativas para todo o espectro neurodivergente (TDAH, dislexia, etc.) variam entre 15-20% da população, ou 30-40 milhões. O número 32 milhões está dentro da faixa estimada, mas não possui uma fonte censitária específica para validação.
+
+**Fonte(s):**
+- Projeto de Lei 3.628/2025 - https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2961898
+- IBGE Censo 2022
+
+**Observações:**
+A estimativa é razoável para o espectro completo, mas não há dado oficial consolidado.
+
+---
+
+### [4]
+
+**Afirmação do candidato:** "A cada cinco ou seis horas, Caiado, uma mulher é morta pelos seus parceiros. 1.571 mulheres no ano passado."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O 20º Anuário Brasileiro de Segurança Pública (2026) registrou 1.571 feminicídios em 2025, equivalente a aproximadamente 1 a cada 5,6 horas. O número é idêntico ao citado por Caiado e confirmado por múltiplas fontes.
+
+**Fonte(s):**
+- O Globo - https://oglobo.globo.com/brasil/noticia/2026/07/23/recorde-da-decada-brasil-tem-mais-de-quatro-feminicidios-por-dia-em-2025.ghtml
+- G1 - https://g1.globo.com/jornal-nacional/noticia/2026/08/07/2025-tem-o-maior-numero-de-feminicidios-desde-a-criacao-desse-tipo-penal-em-2015.ghtml
+
+**Observações:**
+O dado está correto e é consistente entre as fontes.
+
+---
+
+### [5]
+
+**Afirmação do candidato:** "Elas recebem 21% a menos que os homens pelos mesmos trabalhos."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O IBGE (Estatísticas de Gênero 2024, dados de 2022) confirma que as mulheres ganham 21,1% a menos que os homens, com rendimento médio de R$ 2.303 vs R$ 2.920.
+
+**Fonte(s):**
+- Valor Econômico - https://valor.globo.com/brasil/noticia/2024/03/08/ibge-desigualdade-salarial-entre-homens-e-mulheres-cai-mas-elas-ainda-ganham-211percent-a-menos-que-eles.ghtml
+- IBGE
+
+**Observações:**
+O dado é oficial e amplamente divulgado.
+
+---
+
+### [6]
+
+**Afirmação do candidato:** "Elas pagam 4% a mais de juros por ano, embora sejam melhores pagadoras que os homens."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O estudo do Sebrae (2024) mostra diferença de 3,8 pontos percentuais (40,6% vs 36,8% ao ano) para crédito de pequenos negócios. A inadimplência é similar (7,6% vs 7,1%). No crédito pessoal (Banco Central), a diferença é de até 8,2 pontos percentuais. O número "4%" é uma aproximação razoável para o contexto de pequenos negócios.
+
+**Fonte(s):**
+- Agência Sebrae - https://agenciasebrae.com.br/dados/mulheres-empreendedoras-pagam-taxa-de-juros-maior-do-que-homens-na-tomada-de-credito/
+
+**Observações:**
+A diferença real varia conforme a modalidade de crédito. Para crédito pessoal, a disparidade é maior.
+
+---
+
+### [7]
+
+**Afirmação do candidato:** "Criança nasce no Brasil, nasce devendo R$ 50 mil, pagando no mínimo 20% de juros ao ano."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Com a dívida pública de ~R$ 8,8 trilhões (nov/2025) e população de ~213 milhões, o valor per capita é de ~R$ 41 mil. Projeções para 2026 (R$ 9,7-10,3 trilhões) elevam para ~R$ 46-48 mil. O LinkedIn de Ricardo Rangel projeta R$ 47.150 para nascidos em 2025. A taxa Selic está em 14,75% (ago/2026), e o custo efetivo da dívida com spread chega a ~20%. O número R$ 50 mil é uma aproximação aceitável.
+
+**Fonte(s):**
+- Terra - https://www.terra.com.br/noticias/eleicoes/cury-fala-que-brasileiro-ja-nasce-devendo-r-50-mil-da-divida-publica-veja-o-que-dizem-os-especialistas,f8931d76a906b7729167df1901a8ed95wu3om4qn.html
+- Ricardo Rangel (LinkedIn)
+
+**Observações:**
+O valor varia conforme a data de cálculo. A menção a "20% de juros ao ano" refere-se ao custo efetivo da dívida, não à taxa Selic nominal.
+
+---
+
+### [8]
+
+**Afirmação do candidato:** "O índice de depressão entre os agricultores é o dobro da média da população em geral. Cerca de 30% a 36%."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Não foram encontrados dados oficiais que confirmem uma taxa de depressão de 30-36% entre agricultores brasileiros, ou que seja o dobro da média nacional. Estudos isolados podem indicar prevalência mais alta no campo, mas os números específicos não foram verificados.
+
+**Fonte(s):**
+- N/A (sem fonte confiável encontrada)
+
+**Observações:**
+A saúde mental no campo é reconhecida como problema sério, mas os percentuais citados carecem de base epidemiológica verificável.
+
+---
+
+### [9]
+
+**Afirmação do candidato:** "Se nós dobrarmos a produção de alimentos de 350 para 700 milhões de toneladas, nos próximos 10 anos, vamos sentar de igual para igual com a China e com a Índia."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+A produção brasileira de grãos foi de ~320 milhões de toneladas em 2024/25 (CONAB). Duplicar para 700 milhões em 10 anos seria um crescimento extraordinário. A comparação com China e Índia envolve múltiplas variáveis (população, PIB, capacidade produtiva). A afirmação é uma projeção ambiciosa, mas não verificável.
+
+**Fonte(s):**
+- CONAB (Companhia Nacional de Abastecimento)
+
+**Observações:**
+O Brasil já é um dos maiores exportadores de alimentos do mundo. Duplicar a produção exigiria avanços significativos em produtividade e infraestrutura.
+
+---
+
+### [10]
+
+**Afirmação do candidato:** "O Brasil, cada vez mais, vai ter notoriedade e grandeza... será um país imprescindível para a segurança alimentar da população mundial."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A afirmação expressa uma visão otimista sobre o papel do Brasil no cenário internacional. O país já é um dos maiores exportadores de alimentos, mas seu papel como "imprescindível" depende de fatores geopolíticos e econômicos futuros.
+
+**Fonte(s):**
+- N/A (visão prospectiva)
+
+**Observações:**
+O potencial agrícola do Brasil é reconhecido internacionalmente, mas a realização desse potencial depende de investimentos e políticas públicas.
+
+---
+
+### [11]
+
+**Afirmação do candidato:** "Eu fui gestor de empresas... agricultor, com vários projetos."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Augusto Cury é conhecido como escritor e psiquiatra, mas também atuou como gestor de empresas (consultoria, formação) e possui projetos na área agropecuária. Suas atividades empresariais são documentadas em seu site oficial e em matérias jornalísticas.
+
+**Fonte(s):**
+- Site oficial de Augusto Cury - https://augustocury.com.br/
+- Folha de S.Paulo
+
+**Observações:**
+A diversificação de atividades é consistente com o perfil público de Cury.
+
+---
+
+### [12]
+
+**Afirmação do candidato:** "A política deveria ser uma área onde cada brasileiro teria que ser honrado de maneira notável."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A afirmação expressa um valor moral sobre a conduta dos políticos. Não é um fato verificável.
+
+**Fonte(s):**
+- N/A (julgamento de valor)
+
+**Observações:**
+A ética na política é tema recorrente no debate público.
+
+---
+
+### [13]
+
+**Afirmação do candidato:** "A corrupção vai ser tratada como crime violento, porque é um crime contra o seu filho."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Trata-se de proposta de política pública. A classificação de corrupção como crime hediondo não possui Projeto de Lei registrado em nome de Cury. A viabilidade jurídica de equiparar corrupção a crimes violentos é debatida.
+
+**Fonte(s):**
+- N/A (proposta de campanha)
+
+**Observações:**
+O Brasil já possui leis rigorosas contra corrupção (Lei Anticorrupção, Lei da Ficha Limpa), mas a equiparação a crimes violentos é inédita.
+
+---
+
+### [14]
+
+**Afirmação do candidato:** "Não mais lindo [psiquiatra], ela, talvez, minha esposa, me ache o mais lindo."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+Trata-se de piada pessoal durante o debate. Não constitui afirmação factual verificável.
+
+**Fonte(s):**
+- N/A
+
+**Observações:**
+Comentário humorístico sem valor informativo.
+
+---
+
+### [15]
+
+**Afirmação do candidato:** "Furar essa bolha só depende de você."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+A afirmação é uma chamada para mobilização eleitoral. Não é possível verificar se a "bolha" midiática será ou não superada pela candidatura.
+
+**Fonte(s):**
+- N/A (apelos de campanha)
+
+**Observações:**
+O sucesso eleitoral de candidatos independentes depende de múltiplos fatores.

@@ -1,0 +1,329 @@
+# Verificação de Fatos — Fala de Ronaldo Caiado (PSD)
+# Debate da Band — 05/08/2026
+# Data da análise: 29/08/2026
+
+---
+
+### [1]
+
+**Afirmação do candidato:** "no ensino superior o que se gasta às nações da OCDE, no ensino básico a gente gasta muito pouco. A gente está financiando universidades públicas caríssimas que não estão melhorando o nosso desempenho nos rankings internacionais."
+
+**Timestamp:** [27:02]
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A afirmação contém elementos verdadeiros, mas distorce a realidade dos dados. De acordo com o relatório "Education at a Glance 2025" da OCDE, o Brasil investe US$ 3.872 por aluno na educação básica, contra uma média de US$ 12.438 nos países da OCDE — ou seja, cerca de um terço. Isso confirma que o Brasil gasta pouco na educação básica em comparação com a OCDE. No entanto, a afirmação de que o Brasil gasta no ensino superior "o que se gasta às nações da OCDE" é imprecisa. Segundo o Inep, o Brasil investe US$ 15.600 por aluno em universidades públicas, valor similar à média da OCDE (US$ 15.102). Porém, a edição 2025 do relatório incorreu em erro metodológico ao incluir alunos de universidades privadas na conta brasileira, derrubando o valor para US$ 3.765 — um equívoco reconhecido pela própria OCDE e pelo Inep, que pediu retificação. Portanto, o dado correto é que o Brasil gasta no ensino superior público patamar similar ao da OCDE, mas gasta apenas um terço na educação básica. A generalização de "financiando universidades públicas caríssimas" sem contextualizar que o gasto por aluno superior é justificado por funções de pesquisa e pós-graduação é uma simplificação.
+
+**Fonte(s):**
+- Relatório "Education at a Glance 2025" — OCDE/Inep (https://www.gov.br/inep/)
+- Folha de S. Paulo, 09/09/2025: "OCDE: Brasil gasta por aluno 1/3 do valor de países ricos"
+- O Globo, 09/09/2025: "Brasil gasta mais que a OCDE no ensino superior e só um terço do que países ricos aplicam na educação básica"
+- Estadão, 09/09/2025: "Investimento do Brasil em ensino superior era igual ao dos países ricos — mas agora isso mudou"
+
+**Observações:**
+A afirmação acerta na comparação da educação básica com a OCDE (um terço), mas é imprecisa ao afirmar que o ensino superior gasta "o que se gasta às nações da OCDE" sem qualificar que se trata do setor público. Além disso, o relatório da OCDE de 2025 incorreu em erro metodológico reconhecido, e o valor real para universidades públicas é de US$ 15.600 por aluno — equivalente à média OCDE. A crítica sobre rankings internacionais não invalida o investimento em pesquisa e pós-graduação, que é o que eleva o custo por aluno.
+
+---
+
+### [2]
+
+**Afirmação do candidato:** "O analfabetismo funcional existe no Brasil e ele se tornou, vamos dizer, recorrente."
+
+**Timestamp:** [27:02]
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O analfabetismo funcional de fato existe no Brasil e apresenta estagnação. Segundo o Indicador de Alfabetismo Funcional (Inaf) 2024, divulgado em maio de 2025, 29% dos brasileiros de 15 a 64 anos são analfabetos funcionais — mesmo patamar verificado em 2018. Isso significa que quase 3 em cada 10 brasileiros, embora saibam ler e escrever, têm dificuldade para aplicar essas habilidades em tarefas simples do cotidiano, como interpretar textos, fazer cálculos ou utilizar ferramentas digitais. Entre jovens de 15 a 29 anos, o percentual subiu de 14% em 2018 para 16% em 2024. A caracterização de "recorrente" é adequada, pois o indicador mostra estagnação desde 2009, sem redução significativa nos últimos 15 anos.
+
+**Fonte(s):**
+- Inaf 2024 — Indicador de Alfabetismo Funcional (https://alfabetismofuncional.org.br/)
+- UNICEF, 05/05/2025: "Analfabetismo funcional não apresenta melhora e alcança 29% dos brasileiros"
+- UOL Educação, 05/05/2025: "Brasil tem 29% de analfabetos funcionais; pandemia piorou quadro"
+
+**Observações:**
+O dado é confirmado por pesquisa reconhecida (Inaf), realizada pela Ação Educativa em parceria com a Conhecimento Social, Fundação Itaú, Fundação Roberto Marinho, Instituto Unibanco, UNESCO e UNICEF. A caracterização de "recorrente" é precisa, visto que o índice permanece praticamente inalterado desde 2009.
+
+---
+
+### [3]
+
+**Afirmação do candidato:** "colocar 25%, mais 12,5%, 37,5% e prejudicar a nossa pauta de exportação."
+
+**Timestamp:** [42:27]
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Os percentuais mencionados estão corretos. Em julho de 2026, os Estados Unidos aplicaram duas tarifas sobre produtos brasileiros com base na Seção 301 da Lei de Comércio americana: uma tarifa de 25%, específica para o Brasil (investigação sobre comércio digital, propriedade intelectual, etanol e desmatamento), e uma tarifa adicional de 12,5%, que atingiu o Brasil e outros 59 parceiros comerciais (investigação sobre trabalho forçado nas cadeias de produção). Quando ambas incidem sobre o mesmo produto, a carga total chega a 37,5%. Segundo o Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC), cerca de 16,5% das exportações brasileiras para os EUA (US$ 6,6 bilhões) estão sujeitas à tarifa acumulada de 37,5%. As tarifas prejudicam sim a pauta de exportação brasileira, especialmente nos setores de madeira, móveis, máquinas, equipamentos, calçados, produtos cerâmicos e açúcar.
+
+**Fonte(s):**
+- MDIC — Ministério do Desenvolvimento, Indústria, Comércio e Serviços
+- O Reporter, 24/07/2026: "Tarifaço de Trump: entenda a cronologia"
+- Agência Brasil, 26/08/2026: "Brasil e EUA definem data de reunião para discutir tarifaço"
+- Financial Times, 24/07/2026 (via BBC): "Brasil é o maior perdedor das tarifas adicionais de Trump"
+
+**Observações:**
+Os números estão corretos. A tarifa de 25% entrou em vigor em 22/07/2026 e a de 12,5% em 24/07/2026. O impacto sobre as exportações brasileiras é real, com o Financial Times classificando o Brasil como "de longe o maior perdedor" entre os parceiros comerciais dos EUA atingidos pelas novas medidas.
+
+---
+
+### [4]
+
+**Afirmação do candidato:** "Até as Casas Bahia estão fechando."
+
+**Timestamp:** [49:36]
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+A afirmação é verdadeira. Em agosto de 2026, o Grupo Casas Bahia protocolou pedido de recuperação judicial na Justiça de São Paulo e anunciou o fechamento de 298 lojas (aproximadamente 30% de suas unidades) e a demissão de cerca de 3 mil funcionários. Somadas as duas etapas da reestruturação (2023 e 2026), o grupo reduziu aproximadamente 11,6 mil postos de trabalho e fechou cerca de 355 lojas. O grupo enfrenta uma crise financeira com dívida de R$ 17,3 bilhões e prejuízo de R$ 3 bilhões em 2025.
+
+**Fonte(s):**
+- G1, 17/08/2026: "Casas Bahia demite 3 mil funcionários e fecha quase 300 lojas"
+- O Globo, 17/08/2026: "Casas Bahia demitiu 3 mil funcionários e fechou quase 300 lojas em agosto"
+- Veja, 14/08/2026: "O que levou a Casas Bahia a uma crise histórica"
+
+**Observações:**
+O dado é confirmado por múltiplas fontes jornalísticas e pelo próprio pedido de recuperação judicial da empresa.
+
+---
+
+### [5]
+
+**Afirmação do candidato:** "Temos 7 milhões de jovens no ensino médio e apenas 20% deles fazem ensino técnico."
+
+**Timestamp:** [1:01:12]
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Os números apresentados apresentam imprecisões em relação aos dados oficiais. Segundo a PNAD Educação 2025 (IBGE), divulgada em junho de 2026, havia 8,9 milhões de estudantes no ensino médio brasileiro (não 7 milhões). Desse total, apenas 8,8% frequentavam curso técnico de nível médio ou curso normal (magistério) — ou seja, muito abaixo dos 20% citados. Já o Censo Escolar 2024 (Inep/MEC), divulgado em abril de 2025, mostrou que 17,2% dos alunos de ensino médio estavam matriculados em programas vocacionais da educação profissional e tecnológica (cursos técnicos integrados e concomitantes). A diferença entre os dois levantamentos se explica pelas metodologias distintas: a PNAD considera frequentadores de cursos técnicos de nível médio em geral, enquanto o Censo Escolar considera matrículas em programas vocacionais articulados ao ensino médio. Em qualquer cenário, o número de 7 milhões de jovens no ensino médio é inferior ao real, e o percentual de 20% em ensino técnico é uma superestimação em relação aos dados da PNAD (8,8%) e uma ligeira superestimação em relação ao Censo Escolar (17,2%).
+
+**Fonte(s):**
+- IBGE — PNAD Educação 2025, divulgada em 19/06/2026
+- Valor Econômico, 19/06/2026: "Ensino médio técnico era realidade para 787 mil brasileiros em 2025, mostra IBGE"
+- MEC/Inep — Censo Escolar 2024, divulgado em 23/04/2025
+- Estadão, 26/02/2026: "Brasil tem menor nº de alunos em ensino médio em uma década"
+
+**Observações:**
+O candidato subestimou o número de jovens no ensino médio (7 milhões vs. 8,9 milhões na PNAD) e superestimou a participação no ensino técnico (20% vs. 8,8% na PNAD ou 17,2% no Censo Escolar). O dado do Censo Escolar (17,2%) é mais próximo dos 20% citados, mas ainda assim inferior.
+
+---
+
+### [6]
+
+**Afirmação do candidato:** "criamos a primeira Universidade de Inteligência Artificial do Brasil."
+
+**Timestamp:** [1:01:45]
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A afirmação é uma exagerada. O que foi criado em Goiás não é uma "universidade de Inteligência Artificial" no sentido institucional, mas sim o Centro de Excelência em Inteligência Artificial (CEIA) da Universidade Federal de Goiás (UFG), fundado em 2019. O CEIA-UFG é um centro de pesquisa e inovação, não uma universidade. É correto afirmar que é referência em inteligência artificial na América Latina e que foi pioneiro no Brasil nessa área. O centro foi criado com investimento inicial de R$ 12 milhões do Governo de Goiás via FAPEG e já captou mais de R$ 500 milhões em investimentos. A UFG lançou em 2020 o primeiro curso de graduação em Inteligência Artificial do país, dentro do contexto do CEIA. Portanto, a expressão "primeira Universidade de Inteligência Artificial" é uma imprecisão — trata-se de um centro de excelência vinculado a uma universidade existente, não de uma instituição de ensino superior autônoma dedicada exclusivamente a IA.
+
+**Fonte(s):**
+- CEIA-UFG (https://ceia.ufg.br/)
+- Gazeta do Estado, 27/06/2026: "R$ 78 mi para o Ceia-UFG: maior centro de IA da América Latina"
+- Governo de Goiás, 26/06/2026: "Governo anuncia investimentos de R$ 78 milhões em centro de inteligência artificial"
+- Jornal Opção, 18/06/2025: "Como a UFG conquistou o mundo da Inteligência Artificial"
+
+**Observações:**
+O CEIA-UFG é de fato um centro de referência em IA na América Latina, reconhecido nacional e internacionalmente. A expressão "Universidade de Inteligência Artificial" pode ser interpretada como linguagem informal para designar o conjunto de atividades de ensino, pesquisa e inovação em IA desenvolvidas pelo CEIA-UFG e pela UFG. Não se trata de uma universidade autônoma dedicada exclusivamente a IA.
+
+---
+
+### [7]
+
+**Afirmação do candidato:** "repassei 12 milhões da Universidade Federal de Goiás e construí o maior centro de referência da América Latina."
+
+**Timestamp:** [1:01:45]
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O dado sobre o investimento inicial de R$ 12 milhões é confirmado por múltiplas fontes. O CEIA-UFG foi criado em 2019 com aporte inicial de R$ 12 milhões do Governo de Goiás, via Fundação de Amparo à Pesquisa (FAPEG), com o compromisso de captar contrapartida de pelo menos R$ 12 milhões em cinco anos junto à iniciativa privada. O centro é amplamente reconhecido como referência em inteligência artificial aplicada na América Latina. O então governador Ronaldo Caiado foi o idealizador da política de centros de excelência que deu origem ao CEIA. Até 2026, o centro já havia captado mais de R$ 500 milhões em investimentos e gerado mais de 5 mil empregos.
+
+**Fonte(s):**
+- CEIA-UFG (https://ceia.ufg.br/)
+- Agência Cidades: "Goiás é referência em inteligência artificial na América Latina"
+- Gazeta do Estado, 27/06/2026: "R$ 78 mi para o Ceia-UFG"
+- Governo de Goiás, 26/06/2026: "Governo anuncia investimentos de R$ 78 milhões em centro de inteligência artificial"
+
+**Observações:**
+O dado de R$ 12 milhões como investimento inicial está correto. A afirmação de que é o "maior centro de referência da América Latina" em IA é corroborada por fontes governamentais e jornalísticas. O CEIA foi criado no governo Caiado, embora o governo atual (de Daniel Vilela) tenha ampliado significativamente os investimentos.
+
+---
+
+### [8]
+
+**Afirmação do candidato:** "20% é a média do Brasil." (referindo-se ao ensino técnico no ensino médio)
+
+**Timestamp:** [1:04:29]
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O percentual de 20% não corresponde precisamente a nenhum dos principais levantamentos disponíveis. Conforme já verificado na afirmação [5], a PNAD Educação 2025 (IBGE) aponta que apenas 8,8% dos estudantes do ensino médio frequentavam curso técnico de nível médio ou curso normal. Já o Censo Escolar 2024 (Inep/MEC) mostrou que 17,2% dos alunos de ensino médio estavam matriculados em programas vocacionais da educação profissional e tecnológica. O valor de 20% não corresponde a nenhum desses indicadores oficiais.
+
+**Fonte(s):**
+- IBGE — PNAD Educação 2025
+- MEC/Inep — Censo Escolar 2024
+- Valor Econômico, 19/06/2026
+
+**Observações:**
+O percentual de 20% parece ser uma aproximação ou arredondamento do dado do Censo Escolar (17,2%), mas não corresponde fielmente a nenhum dado oficial disponível. A PNAD aponta percentual ainda menor (8,8%).
+
+---
+
+### [9]
+
+**Afirmação do candidato:** "O Flávio estava falando que ia dar celular de graça. [...] Vai custar mais de 100 bilhões de reais por ano para fazer essa brincadeira imbecil."
+
+**Timestamp:** [1:11:04]
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A afirmação de que Flávio Bolsonaro propôs distribuir celulares gratuitos é parcialmente correta. O pré-candidato do PL afirmou em julho de 2026 que pretendia oferecer internet gratuita a 70 milhões de mulheres e discutia o fornecimento de celulares para quem não tivesse condições de comprar um. No entanto, Flávio posteriormente corrigiu sua fala, afirmando que se trataria de um sistema de "cashback" e não de doação direta de aparelhos. Quanto ao custo de "mais de 100 bilhões de reais por ano", essa estimativa foi citada por Renan Santos (candidato do Missão) ao criticar a proposta, mas não corresponde a um cálculo oficial da campanha de Flávio. Análises independentes estimaram custos variáveis: se o benefício fosse restrito às 28,7 milhões de mulheres do Bolsa Família, com celulares de R$ 700, o custo inicial seria de aproximadamente R$ 20,1 bilhões. O custo anual da internet gratuita foi estimado pela própria equipe de Flávio em R$ 2 bilhões. Portanto, o valor de "mais de 100 bilhões" não tem base em cálculos oficiais ou independentes verificáveis.
+
+**Fonte(s):**
+- VEJA, 21/07/2026: "Como funcionaria o plano de internet e celular grátis de Flávio Bolsonaro"
+- VEJA, 20/07/2026: "Novo Bolsa Família e celular grátis: o que vem no plano Flávio Bolsonaro"
+- Poder360, 18/07/2026: "Flávio Bolsonaro promete celulares e internet de graça para mulheres"
+- Crusoé, 04/08/2026: "Flávio troca 'bolsa celular' por cashback"
+
+**Observações:**
+A proposta original de Flávio foi posteriormente revisada para um modelo de cashback. O custo de "mais de 100 bilhões" parece ser uma extrapolação sem base em cálculos publicados. Estimativas independentes apontam valores significativamente menores, dependendo do público-alvo e do formato do programa.
+
+---
+
+### [10]
+
+**Afirmação do candidato:** "juros está lá no talo."
+
+**Timestamp:** [1:13:02]
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A expressão "juros está lá no talo" é uma avaliação subjetiva. Em 5 de agosto de 2026, data do debate, o Copom reduziu a taxa Selic para 14% ao ano, após quatro cortes consecutivos (de 15% em janeiro para 14% em agosto). Embora 14% seja historicamente um patamar elevado — o Brasil historicamente apresenta uma das maiores taxas de juros reais do mundo —, a tendência era de redução, com o ciclo de cortes iniciado em março de 2026. Portanto, classificar os juros como "no talo" é uma opinião, embora os juros brasileiros permaneçam elevados em comparação internacional.
+
+**Fonte(s):**
+- Banco Central do Brasil — Copom, 05/08/2026
+- G1, 05/08/2026: "Copom corta pela quarta vez seguida a Selic"
+- UOL Economia, 05/08/2026: "BC reduz taxa básica de juros para 14% ao ano"
+- Nubank Blog: "Taxa Selic 2026: acompanhe a variação dos juros ao longo do ano"
+
+**Observações:**
+A afirmação é uma opinião do candidato sobre o patamar dos juros. Embora 14% ao ano seja elevado em termos internacionais, o contexto é de ciclo de redução em andamento. A expressão "no talo" não corresponde a um dado factual verificável, mas a uma percepção subjetiva.
+
+---
+
+### [11]
+
+**Afirmação do candidato:** "Inclusive tem o livro, Solução Pacífica de Conflitos, com grandes juristas desta nação."
+
+**Timestamp:** [42:27]
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O livro "Soluções Pacíficas de Conflitos — Para um Brasil Moderno" existe e foi publicado em 2019 pela Editora Forense. Porém, o livro foi organizado pelo psiquiatra Augusto Cury, e não por Ronaldo Caiado. Caiado não é autor nem coautor do livro. A obra conta com colaborações de juristas como Kazuo Watanabe, Luis Felipe Salomão, Claudio Lamachia, Valeria Ferioli Lagrasta, Grace Maria Fernandes Mendonça (então Advocacia-Geral da União), entre outros. Ao dizer "tem o livro" e "com grandes juristas desta nação", Caiado pode estar se referindo à sua participação como prefaciador ou colaborador, mas a obra não é de sua autoria. Não há registro de que Caiado tenha participado como autor ou organizador da publicação.
+
+**Fonte(s):**
+- Grupo GEN / Editora Forense: "Soluções Pacíficas de Conflitos — Para um Brasil Moderno" (ISBN 9788530982089)
+- Migalhas, 10/06/2019: "Formas de evitar o excesso de judicialização no Brasil"
+
+**Observações:**
+O livro existe e de fato reúne grandes nomes do Direito brasileiro. No entanto, a forma como Caiado se refere à obra ("tem o livro") pode criar a impressão de que é de sua autoria, quando na verdade foi organizado por Augusto Cury. Não há evidência pública de participação de Caiado como autor ou coautor.
+
+---
+
+### [12]
+
+**Afirmação do candidato:** "O Lula está doido para criar esse impasse. Porque ele viu o presidente do Canadá e da Austrália ganhando, então ele está provocando o Trump toda hora."
+
+**Timestamp:** [42:27]
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Não é possível verificar a intenção subjetiva do presidente Lula ("doido para criar impasse") nem a relação causal sugerida entre os resultados eleitorais do Canadá e da Austrália e as provocações a Trump. Não há dados oficiais ou evidências verificáveis que confirmem que Lula "está provocando o Trump toda hora" ou que isso esteja motivado pelos resultados eleitorais de outros países. Trata-se de uma interpretação política do candidato sobre as intenções de outro ator político. Os resultados eleitorais do Canadá (Mark Carney, do Partido Liberal, eleito em abril de 2025) e da Austrália (Anthony Albanese, do Partido Trabalhista, reeleito em maio de 2025) são fatos históricos verificáveis, mas a motivação atribuída a Lula não é.
+
+**Fonte(s):**
+- N/A (afirmação sobre intenções subjetivas, não verificável com dados oficiais)
+
+**Observações:**
+A afirmação mistura fatos (resultados eleitorais no Canadá e Austrália) com interpretações políticas sobre motivações do presidente Lula, que não são verificáveis factualmente.
+
+---
+
+### [13]
+
+**Afirmação do candidato:** "Eu tenho o livro amarelo, que é um livro de propostas. 460 páginas com propostas para o Brasil."
+
+**Timestamp:** [1:11:04]
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Não é possível verificar independentemente se o livro contém exatamente 460 páginas nem se todas as propostas são factíveis. A existência do livro como material de campanha pode ser verificada, mas o número de páginas e o conteúdo das propostas não podem ser confirmados sem acesso ao documento. Trata-se de afirmação sobre material de autoria do candidato.
+
+**Fonte(s):**
+- N/A (material de campanha do candidato)
+
+**Observações:**
+A afirmação é sobre material de campanha de autoria do candidato. Não é possível verificar o número de páginas ou o conteúdo sem acesso ao documento.
+
+---
+
+### [14]
+
+**Afirmação do candidato:** "Nenhum país que a gente está concorrendo, China, Índia, Vietnã, está fazendo esse tipo de política agora." (referindo-se à redução da carga horária de trabalho)
+
+**Timestamp:** [49:36]
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Não há dados comparativos oficiais que permitam verificar se China, Índia e Vietnã implementaram ou não políticas de redução da jornada de trabalho nos mesmos termos propostos no Brasil (escala 5x2). A China tem legislação que prevê jornada de 40 horas semanais desde 1995, mas sua aplicação prática é contestada. A Índia não possui legislação federal uniforme sobre jornada máxima. O Vietnã adota jornada de 48 horas semanais, com discussões sobre redução. Não é possível afirmar categoricamente que "nenhum" desses países está implementando reduções de jornada.
+
+**Fonte(s):**
+- N/A (não há comparação internacional direta disponível sobre políticas de jornada de trabalho em andamento em 2026)
+
+**Observações:**
+A afirmação é difícil de verificar porque depende de informações legislativas e regulatórias de múltiplos países em diferentes estágios de implementação. Não é possível confirmar nem refutar categoricamente.
+
+---
+
+## Resumo
+
+| Nº | Classificação |
+|----|--------------|
+| 1 | IMPRECISO |
+| 2 | VERDADEIRO |
+| 3 | VERDADEIRO |
+| 4 | VERDADEIRO |
+| 5 | IMPRECISO |
+| 6 | IMPRECISO |
+| 7 | VERDADEIRO |
+| 8 | IMPRECISO |
+| 9 | IMPRECISO |
+| 10 | OPINIÃO |
+| 11 | IMPRECISO |
+| 12 | NÃO VERIFICÁVEL |
+| 13 | NÃO VERIFICÁVEL |
+| 14 | NÃO VERIFICÁVEL |
+
+**Legenda:**
+- **VERDADEIRO** (4): Afirmação confirmada por dados oficiais
+- **IMPRECISO** (6): Afirmação com elementos verdadeiros, mas com imprecisões ou distorções
+- **OPINIÃO** (1): Afirmação subjetiva, não verificável como fato
+- **NÃO VERIFICÁVEL** (3): Afirmação sem dados oficiais suficientes para confirmação ou refutação
+- **FALSO** (0): Nenhuma afirmação verificada como completamente falsa
+
+---
+
+*Esta verificação é uma análise técnica de fatos apresentados em debate público televisionado. Não constitui endereçamento, apoio ou oposição a qualquer candidato. O objetivo é fornecer informações verificáveis para que o eleitor tome suas próprias decisões de forma informada.*

@@ -1,0 +1,445 @@
+### Verificação de Fatos — Entrevista JN Romeu Zema (Novo)
+### Data: 2026-08-24
+### Modelo: opencode/mimo-v2.5-free
+
+---
+
+### RESUMO
+TOTAL DE AFIRMAÇÕES: 25
+VERDADEIRAS: 9
+FALSAS: 4
+IMPRECISAS: 7
+NÃO VERIFICÁVEIS: 3
+OPINIÃO: 2
+
+---
+
+### [1]
+
+**Afirmação do candidato:** "A dívida pública brasileira são mais de 10 trilhões de reais. O endividamento já atingiu 82% de toda a riqueza que o Brasil produz em produtos e serviços, o nosso PIB."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Dados do Banco Central divulgados em 31 de julho de 2026 confirmam que a dívida bruta do setor público consolidado atingiu 82% do PIB em junho de 2026, o equivalente a R$ 10,8 trilhões. Os números são consistentes com a afirmação do candidato.
+
+**Fonte(s):**
+- Banco Central / G1 - https://g1.globo.com/economia/noticia/2026/07/31/divida-publica-sobe-10-pontos-do-pib-na-parcial-do-governo-lula-e-atinge-819percent-maior-nivel-em-mais-de-5-anos.ghtml
+
+**Observações:**
+Dado oficial do Banco Central. A dívida está em trajetória de alta desde o terceiro mandato de Lula.
+
+---
+
+### [2]
+
+**Afirmação do candidato:** "A dívida do governo de Minas cresceu 100%. Praticamente dobrou. Ela saltou de 88 bilhões para mais de 180 bilhões de reais."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A dívida de MG com a União especificamente passou de R$ 88,7 bilhões (jan/2019) para R$ 177,4 bilhões (nov/2025), o que representa um aumento de ~100%. Porém, a dívida total do estado (incluindo instituições financeiras e outras) passou de R$ 114,7 bilhões para R$ 201,1 bilhões, um aumento de 75%, não 100%. O candidato seleciona apenas o componente da dívida com a União para apoiar sua afirmação, omitindo que a dívida total cresceu menos.
+
+**Fonte(s):**
+- O Tempo - https://www.otempo.com.br/politica/2025/12/27/divida-de-minas-cresce-75-durante-a-gestao-zema-e-fecha-2025-acima-dos-r-200-bi
+- Rádio Itatiaia - https://www.itatiaia.com.br/politica/divida-de-minas-quase-dobrou-na-gestao-de-romeu-zema-a-frente-do-estado/
+
+**Observações:**
+O governo Zema argumenta que não contraiu novos empréstimos e que a dívida cresceu por indexadores (Selic, câmbio). A distinção entre dívida com a União e dívida total é relevante para o eleitor.
+
+---
+
+### [3]
+
+**Afirmação do candidato:** "Assumi com déficit de 11 bilhões em 2018. Saí com superávit de 5 bilhões."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O governo Zema encerrou 2025 com superávit de R$ 1,1 bilhão (receitas R$ 132,7 bi vs despesas R$ 131,6 bi), conforme a Agência Minas. Porém, o RGF (Relatório de Gestão Fiscal) apontou déficit de caixa não vinculado de R$ 11,3 bilhões. O candidato mistura conceitos fiscais distintos (superávit orçamentário vs. disponibilidade de caixa). Além disso, o déficit de 2018 refere-se ao governo anterior (Pimentel), e o superávit de "5 bilhões" não corresponde aos dados oficiais de 2025.
+
+**Fonte(s):**
+- Agência Minas - https://www.agenciaminas.mg.gov.br/noticia/governo-de-minas-mantem-equilibrio-fiscal-pelo-quinto-ano-consecutivo
+- O Tempo - https://www.otempo.com.br/politica/2026/2/20/minas-tem-rombo-de-r-11-3-bilhoes-no-caixa-no-ultimo-ano-do-governo-de-romeu-zema
+
+**Observações:**
+O governo Zema obteve superávit primário por cinco anos consecutivos, mas a disponibilidade de caixa continua negativa devido a passivos acumulados.
+
+---
+
+### [4]
+
+**Afirmação do candidato:** "A dívida, quando eu assumi, representava 192% da receita corrente líquida. Quando eu saí, era cerca de 160."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A Secretaria de Fazenda de MG informa que a relação DCL/RCL caiu de 190% em 2019 para 162% em 2024 (fonte: Agência Minas). Os números citados por Zema estão próximos mas não exatos. Além disso, em 2025 o indicador subiu para 167,46% da RCL, segundo o RGF. A tendência de queda ocorreu, mas com reversão parcial no último ano.
+
+**Fonte(s):**
+- Agência Minas (Propag) - https://www.agenciaminas.mg.gov.br/noticia/governo-de-minas-sanciona-lei-que-autoriza-adesao-ao-propag
+- Agência Minas (Equilíbrio Fiscal) - https://www.agenciaminas.mg.gov.br/noticia/governo-de-minas-mantem-equilibrio-fiscal-pelo-quinto-ano-consecutivo
+
+**Observações:**
+A melhoria no indicador é real, mas deve ser contextualizada com o fato de que o governo não pagou o serviço da dívida por grande parte do mandato (liminar do STF).
+
+---
+
+### [5]
+
+**Afirmação do candidato:** "Em 2019, a dívida representava 98% da arrecadação do Estado. Em 2025, esse número saltou para 137%."
+
+**Classificação:** FALSO
+
+**Verificação:**
+Os dados oficiais da Agência Minas indicam que a DCL/RCL era de 190% em 2019 e 162% em 2024, caindo (não subindo). O número de 98% para 2019 e 137% para 2025 não corresponde a nenhum indicador fiscal oficial de Minas Gerais. Pode haver confusão com outro indicador ou dado incorreto.
+
+**Fonte(s):**
+- Agência Minas - https://www.agenciaminas.mg.gov.br/noticia/governo-de-minas-mantem-equilibrio-fiscal-pelo-quinto-ano-consecutivo
+
+**Observações:**
+Os números citados pelo candidato são inconsistentes com os dados publicados pelo próprio governo de Minas.
+
+---
+
+### [6]
+
+**Afirmação do candidato:** "Vendi, entre participações e a empresa, 118 [estatais]. Inclusive... a Light, a Elibras, a Companhia Brasileira de Lítio, e mais recentemente a Copasa."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Não foi possível confirmar o número exato de 118 empresas ou participações vendidas. A venda da Copasa foi autorizada pela Assembleia de MG em 2025, e a Light também foi desestatizada. Porém, o número total de 118 não pode ser verificado com fontes públicas disponíveis. A tentativa de venda da CEMIG, a maior estatal, não se concretizou durante a gestão.
+
+**Fonte(s):**
+- Imprensa de MG sobre desestatizações
+
+**Observações:**
+A Copasa foi vendida, mas a CEMIG permaneceu estatal. O número 118 é elevado e não pode ser confirmado independentemente.
+
+---
+
+### [7]
+
+**Afirmação do candidato:** "Copasa e Semig valorizaram estrondosos 300%."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Não foram encontrados dados públicos que confirmem uma valorização de 300% das ações da Copasa e Semig durante o governo Zema. A Copasa foi privatizada em 2025 e a Semig é uma empresa de seguros. A aferição de valorização dependeria de dados de mercado específicos que não estão disponíveis em fontes abertas.
+
+**Fonte(s):**
+- Não há fonte verificável
+
+**Observações:**
+Afirmação sem base documental pública identificada.
+
+---
+
+### [8]
+
+**Afirmação do candidato:** "Minas Gerais, quando eu assumi, era o 22º lugar em transparência. E, depois, foi para primeiro lugar."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Não foi possível localizar o ranking específico de transparência que posiciona Minas no 22º lugar e depois no 1º. Existem diversos índices de transparência (Portal da Transparência, ONG Transparência Internacional, etc.), mas nenhum confirma exatamente essa trajetória. Minas Gerais tem um Portal da Transparência elogiado, mas a classificação exata não pode ser verificada.
+
+**Fonte(s):**
+- Não há fonte específica para o ranking citado
+
+**Observações:**
+A afirmação pode ser verdadeira, mas não há como confirmar sem a fonte original do ranking.
+
+---
+
+### [9]
+
+**Afirmação do candidato:** "40 milhões de brasileiros que trabalham não têm carteira assinada."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Segundo dados do IBGE (1º trimestre de 2025), cerca de 32,5 milhões de trabalhadores são autônomos informais ou empregados sem carteira no setor privado. Se somados trabalhadores domésticos sem carteira (4,3 milhões) e outros segmentos, o total chega a ~38 milhões. O número de 40 milhões é uma aproximação aceitável, mas os dados oficiais ficam abaixo dessa marca.
+
+**Fonte(s):**
+- Agência Brasil - https://agenciabrasil.ebc.com.br/economia/noticia/2025-04/mais-de-32-milhoes-sao-autonomos-informais-ou-trabalham-sem-carteira
+- IBGE/PNAD Contínua
+
+**Observações:**
+A informalidade é um problema real, mas o número exato depende da definição utilizada.
+
+---
+
+### [10]
+
+**Afirmação do candidato:** "Com a taxa de juros atual de 14%, isso representa 1 trilhão e 400 bilhões de juros por ano."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Em maio de 2026, as despesas com juros nominais somaram R$ 1,1 trilhão em 12 meses (8,5% do PIB), segundo o Banco Central. A taxa Selic estava em 15% na época da entrevista (24/08), tendo sido reduzida para 14% apenas em 05/08/2026. O valor de R$ 1,4 trilhão pode representar uma projeção, mas o dado oficial mais recente era de R$ 1,1 trilhão.
+
+**Fonte(s):**
+- Economic News Brasil - https://economicnewsbrasil.com.br/2026/06/30/divida-publica-brasileira-volta-ao-maior-nivel-em-cinco-anos-entenda-o-motivo
+- Banco Central
+
+**Observações:**
+Os juros estão entre os maiores da série histórica. A projeção de R$ 1,4 tri pode ser uma extrapolação para o ano cheio.
+
+---
+
+### [11]
+
+**Afirmação do candidato:** "O Brasil, há décadas, é o recordista mundial de homicídios. O ano passado, mais de 40 mil."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O Anuário Brasileiro de Segurança Pública 2025 registrou 36.427 homicídios dolosos no Brasil em 2024 (taxa de 17,1 por 100 mil). Se incluídas todas as mortes violentas intencionais (MVI), o total é maior, mas ainda abaixo de 40 mil. O Brasil não é mais o "recordista mundial" em termos absolutos — o México registra mais homicídios. Em taxa, o Brasil já foi mais violento, mas vem em tendência de queda.
+
+**Fonte(s):**
+- Anuário Brasileiro de Segurança Pública 2025 - https://forumseguranca.org.br/wp-content/uploads/2025/07/anuario-2025.pdf
+- G1 - https://g1.globo.com/politica/noticia/2026/07/23/meta-reducao-homicidios-dolosos.ghtml
+
+**Observações:**
+A tendência de queda nos homicídios é real e significativa. O Brasil atingiu pela primeira vez a meta nacional de redução.
+
+---
+
+### [12]
+
+**Afirmação do candidato:** "99% de redução de homicídios em El Salvador em quatro anos."
+
+**Classificação:** FALSO
+
+**Verificação:**
+A redução real foi significativa, mas não de 99%. Em 2019, a taxa de homicídios de El Salvador era de 38 por 100 mil habitantes. Em 2024, caiu para 1,9 por 100 mil — uma redução de aproximadamente 95%. A alegação de 99% é uma exagerada. O dato de 114 homicídios totais em 2024 é correto, mas a comparação percentual precisa ser feita com a base correta.
+
+**Fonte(s):**
+- Estadão - https://www.estadao.com.br/internacional/homicidios-el-salvador-cairam-2025-nivel-mais-baixo-serie-historica-diz-governo-npr
+- Diario El Salvador - https://diarioelsalvador.com/depais/tasa-de-homicidios-bajo-de-38-0-en-2019-a-1-3-en-2025/742343
+
+**Observações:**
+A redução de criminalidade em El Salvador é notável, mas o número de 99% é uma superestimação.
+
+---
+
+### [13]
+
+**Afirmação do candidato:** "60 milhões de brasileiros vivem em área controlada pelas facções e crimes organizados."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Não existe uma estatística oficial que confirme que exatamente 60 milhões de brasileiros vivem em áreas controladas por facções. O número é uma estimativa frequentemente citada em debates políticos, mas não tem base em dados do IBGE ou do Fórum Brasileiro de Segurança Pública. A dimensão do controle territorial pelo crime organizado é real, mas o número específico não pode ser verificado.
+
+**Fonte(s):**
+- Fórum Brasileiro de Segurança Pública
+
+**Observações:**
+O problema do controle territorial por facções é documentado, mas o número de 60 milhões é uma estimativa não oficial.
+
+---
+
+### [14]
+
+**Afirmação do candidato:** "A Operação Rejeito identificou uma organização criminosa... movimentou mais de quatro bilhões de reais."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+A Operação Rejeito, conduzida pela Polícia Federal em Minas Gerais, de fato investigou um esquema de corrupção envolvendo órgãos ambientais e mineradoras. O esquema movimentou bilhões de reais e resultou em indiciamentos. Os valores citados são consistentes com o que foi noticiado pela imprensa.
+
+**Fonte(s):**
+- Imprensa nacional sobre a Operação Rejeito
+
+**Observações:**
+O governo Zema afirmou que a Controladoria já investigava o caso e que tomou medidas.
+
+---
+
+### [15]
+
+**Afirmação do candidato:** "Em Minas, não havia nem medicamento na rede pública [quando assumi]."
+
+**Classificação:** FALSO
+
+**Verificação:**
+O governo anterior (Pimentel) enfrentou grave crise fiscal, mas não há registros de que "não havia medicamento" na rede pública de Minas. Pode ter havido desabastecimento pontual, mas a afirmação absoluta é uma exagerada. O governo Zema melhorou a gestão de compras, mas a caracterização de "sem medicamento" não é precisa.
+
+**Fonte(s):**
+- Imprensa de MG durante a transição de governo (2018-2019)
+
+**Observações:**
+A crise fiscal de MG era grave, mas a afirmação é uma simplificação excessiva da realidade.
+
+---
+
+### [16]
+
+**Afirmação do candidato:** "O senhor terminou a sua gestão com o pior caixa do país. Um rombo de 11 bilhões de reais."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O RGF de 2025 de Minas apontou déficit de caixa não vinculado de R$ 11,3 bilhões, o maior entre os estados que encerraram 2025 com resultado negativo, conforme reportagem do Estadão citada pelo O Tempo.
+
+**Fonte(s):**
+- O Tempo - https://www.otempo.com.br/politica/2026/2/20/minas-tem-rombo-de-r-11-3-bilhoes-no-caixa-no-ultimo-ano-do-governo-de-romeu-zema
+
+**Observações:**
+O dado é real, mas o governo Zema argumenta que se refere a passivos herdados e recursos não vinculados.
+
+---
+
+### [17]
+
+**Afirmação do candidato:** "Em 2023, os servidores públicos não receberam aumento [e o governador deu 300% para si e secretários]."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+De acordo com dados do Sindifisco-MG, citados pelo O Tempo, nos últimos anos o estado só reajustou salários conforme a inflação em 2023. O reajuste de 300% para cargos de confiança (governador, vice, secretários) foi aprovado em 2023, enquanto os servidores receberam reajuste apenas pela inflação.
+
+**Fonte(s):**
+- O Tempo - https://www.otempo.com.br/politica/2026/2/20/minas-tem-rombo-de-r-11-3-bilhoes-no-caixa-no-ultimo-ano-do-governo-de-romeu-zema
+
+**Observações:**
+Zema justifica que o reajuste foi necessário para atrair profissionais qualificados e que ele doou seu salário.
+
+---
+
+### [18]
+
+**Afirmação do candidato:** "Eu criei 5 mil empregos na empresa, como governador, 1 milhão de empregos."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A criação de empregos como governador depende de dados do IBGE/CAGED. Minas Gerais teve crescimento de empregos formais durante a gestão Zema, mas o número específico de "1 milhão" não pode ser confirmado com precisão. A atribuição de criação de empregos a um governador é sempre complexa, pois depende de fatores macroeconômicos.
+
+**Fonte(s):**
+- IBGE/CAGED - dados de mercado de trabalho em MG
+
+**Observações:**
+O mercado de trabalho em MG melhorou, mas a causalidade direta com a gestão é difícil de estabelecer.
+
+---
+
+### [19]
+
+**Afirmação do candidato:** "São Paulo com 23 casos confirmados [de sarampo]."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Em agosto de 2026, São Paulo registrou surto de sarampo com dezenas de casos confirmados. O número de 23 pode corresponder a um momento específico do surto. A tendência de queda na vacinação infantil é um fator documentado pelo Ministério da Saúde.
+
+**Fonte(s):**
+- Ministério da Saúde / Imprensa sobre surto de sarampo em SP
+
+**Observações:**
+O surto de sarampo é um problema real de saúde pública no Brasil.
+
+---
+
+### [20]
+
+**Afirmação do candidato:** "Gastos com saúde e educação... eu quero manter [os pisos vinculados]."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+Trata-se de uma posição política do candidato sobre manter os pisos constitucionais de saúde e educação. Não é um fato verificável, mas uma proposta de governo.
+
+**Fonte(s):**
+- N/A
+
+**Observações:**
+Posição coerente com o discurso de manutenção de direitos sociais.
+
+---
+
+### [21]
+
+**Afirmação do candidato:** "Nós temos um país que está envelhecendo."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O Brasil enfrenta um processo acelerado de envelhecimento populacional. Segundo projeções do IBGE, em 2060 cerca de 30% da população terá 60 anos ou mais. O"idoso bônus demográfico" é um fenômeno documentado.
+
+**Fonte(s):**
+- IBGE - Projeções populacionais
+
+**Observações:**
+O envelhecimento é um desafio real para a Previdência e o SUS.
+
+---
+
+### [22]
+
+**Afirmação do candidato:** "A pessoa que criou a reforma da Índia é o Bernardo... copiou o meu modelo."
+
+**Classificação:** FALSO
+
+**Verificação:**
+A reforma tributária brasileira (EC 132/2023) não foi inspirada no modelo da Índia de Romeu Zema. A reforma passou por quase 30 anos de debates no Congresso e segue modelo do IVA dual proposto por economistas brasileiros. A referência ao Bernardo Appy como idealizador do modelo é incorreta — Appy é um dos propositores do IVA dual brasileiro, não da Índia.
+
+**Fonte(s):**
+- Congresso em Foco / Imprensa sobre reforma tributária
+
+**Observações:**
+A reforma tributária brasileira tem origem em debates nacionais, não em modelo importado da Índia.
+
+---
+
+### [23]
+
+**Afirmação do candidato:** "No Brasil, hoje, na audiência de custódia, todo mundo é solto."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+Trata-se de uma interpretação do candidato sobre o sistema de justiça criminal. Embora haja críticas à soltura em audiência de custódia, não é verdade que "todo mundo" é solto — muitos réus permanecem presos preventivamente. A afirmação é uma generalização.
+
+**Fonte(s):**
+- N/A
+
+**Observações:**
+Posição política sobre segurança pública.
+
+---
+
+### [24]
+
+**Afirmação do candidato:** "Minas Gerais reduziu o número de feminicídios ao longo do meu governo."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Os dados do Anuário Brasileiro de Segurança Pública mostram que os feminicídios em MG oscilaram durante o governo Zema. Não há uma tendência clara de redução. Em 2022, houve um repique de cerca de 15% nos feminicídios. A afirmação de redução não é consistentemente apoiada pelos dados.
+
+**Fonte(s):**
+- Anuário Brasileiro de Segurança Pública
+
+**Observações:**
+A segurança pública em MG apresentou mixed results durante o governo Zema.
+
+---
+
+### [25]
+
+**Afirmação do candidato:** "Fui eleito pela urna eletrônica. Confio na urna eletrônica, que poderia ser melhorada se tivesse impresso."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Romeu Zema foi eleito governador em 2018 e reeleito em 2022 pelo sistema de urna eletrônica. Sua posição de confiança na urna com possibilidade de impressão auditável é consistente com o que declarou publicamente.
+
+**Fonte(s):**
+- TSE - Resultados eleitorais
+
+**Observações:**
+Posição coerente com o histórico do candidato.

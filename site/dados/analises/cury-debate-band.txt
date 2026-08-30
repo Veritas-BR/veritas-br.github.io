@@ -1,0 +1,223 @@
+VERIFICACAO DE FATOS - FALAS DE AUGUSTO CURY (AVANTE)
+Debate da Band - 05/08/2026
+Metodologia: verificacao de afirmações factuais com base em fontes oficiais
+
+=========================================================================
+
+### 1
+
+**Afirmação:** "Nós temos 32 milhões de neurodivergentes."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O termo "neurodivergente" não possui definição padronizada em fontes oficiais brasileiras. O Censo Demográfico 2022 do IBGE contabilizou 14,4 milhões de pessoas com deficiência (7,3% da população) e 2,4 milhões de pessoas diagnosticadas com Transtorno do Espectro Autista (TEA), correspondendo a 1,2% da população. Caso se incluam todas as condições de deficiência mental/intelectual permanente investigadas pelo Censo, o número chega a aproximadamente 2,8 milhões de pessoas. O número de 32 milhões pode incluir condições como TDAH, dislexia, transtornos de aprendizagem e outros diagnósticos não contemplados diretamente pelo Censo, mas não há base em dados oficiais que confirme essa cifra específica.
+
+**Fonte(s):**
+- IBGE - Censo Demográfico 2022: Pessoas com Deficiência e Pessoas Diagnosticadas com TEA (maio de 2025)
+- IBGE Educa - "Censo 2022 contou 2,4 milhões de pessoas diagnosticadas com autismo no Brasil" (01/07/2025)
+
+**Observações:** O termo "neurodivergente" é uma categorização ampla que pode variar conforme a fonte. Não existem dados oficiais do IBGE ou do Ministério da Saúde que consolidem uma estimativa de 32 milhões de neurodivergentes no Brasil.
+
+---
+
+### 2
+
+**Afirmação:** "A cada cinco ou seis horas, uma mulher é morta pelos seus parceiros."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo o 20º Anuário Brasileiro de Segurança Pública (julho de 2026), o Brasil registrou 1.571 feminicídios consumados em 2025, o que equivale a aproximadamente 4,3 mortes por dia. Considerando que os parceiros e ex-parceiros respondem por 79,8% dos casos (dados do Estadão, julho de 2026), temos 1.254 mortes por parceiros/ex-parceiros ao longo do ano. Dividindo 8.760 horas do ano por 1.254 mortes, resulta em aproximadamente 6,98 horas por morte. Entretanto, se considerarmos todos os feminicídios (1.571), a média é de 5,6 horas por morte, o que se enquadra na afirmação de "a cada cinco ou seis horas".
+
+**Fonte(s):**
+- Fórum Brasileiro de Segurança Pública - 20º Anuário Brasileiro de Segurança Pública (julho de 2026)
+- G1 - "Feminicídios batem recorde no Brasil" (23/07/2026)
+
+**Observações:** A média de 4,3 mulheres mortas por dia é referente a todos os feminicídios. A partnership entre parceiros e ex-parceiros responde por quase 80% dos casos.
+
+---
+
+### 3
+
+**Afirmação:** "1.571 mulheres no ano passado."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O 20º Anuário Brasileiro de Segurança Pública, divulgado em 23 de julho de 2026 pelo Fórum Brasileiro de Segurança Pública, registrou exatamente 1.571 vítimas de feminicídio em 2025, representando alta de 4% em relação a 2024 (1.504 casos). É o maior número desde a tipificação do crime de feminicídio em 2015.
+
+**Fonte(s):**
+- Fórum Brasileiro de Segurança Pública - 20º Anuário Brasileiro de Segurança Pública (julho de 2026)
+- Agência Brasil - "Mortes violentas caem 8,2% no país em 2025; feminicídios aumentam 4%" (23/07/2026)
+
+**Observações:** O dado é preciso e corresponde ao total de feminicídios consumados registrados em 2025.
+
+---
+
+### 4
+
+**Afirmação:** "Elas recebem 21% a menos que os homens pelos mesmos trabalhos."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo o Relatório de Transparência Salarial e Critérios Remuneratórios, divulgado pelo Ministério do Trabalho e Emprego (MTE) em novembro de 2025, as mulheres recebem 21,2% menos que os homens no setor privado. Dados posteriores, do 5º Relatório (abril de 2026), indicaram 21,3%. A afirmação de "21%" está alinhada com os dados oficiais do MTE.
+
+**Fonte(s):**
+- Ministério do Trabalho e Emprego (MTE) - Relatório de Transparência Salarial e Critérios Remuneratórios (novembro de 2025)
+- G1 - "Desigualdade salarial: mulheres recebem 21% menos que homens no setor privado" (03/11/2025)
+- Folha de S. Paulo - "Igualdade Salarial: mulher ganha 21,3% menos que homem" (27/04/2026)
+
+**Observações:** A desigualdade salarial de gênero tem piorado连续amente desde o início da série histórica dos relatórios do MTE, que começou em 2024 com 19,4%.
+
+---
+
+### 5
+
+**Afirmação:** "Elas pagam 4% a mais de juros por ano, embora sejam melhores pagadoras que os homens."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Margarete Coelho, diretora de administração e finanças do Sebrae, afirmou em entrevista ao SBT News (agosto de 2024) que "as mulheres pagam 4% a mais [de juros] que os homens". Dados do Sebrae com base em informações do Banco Central confirmam que, no primeiro trimestre de 2024, a taxa média de juros para financiamentos de pequenos negócios liderados por mulheres foi de 40,6% ao ano, frente a 36,8% para homens - uma diferença de 3,8 pontos percentuais, aproximadamente 4%. Estudo do Banco Central publicado na Folha de S. Paulo (setembro de 2025) mostrou que mulheres pagam até 8,2 pontos percentuais a mais em juros de empréstimos pessoais, mesmo com o mesmo risco de inadimplência. A taxa de inadimplência entre mulheres (7,6%) é praticamente igual à dos homens (7,1%), confirmando que são "melhores pagadoras" ou, no mínimo, pagadoras igualmente confiáveis.
+
+**Fonte(s):**
+- Sebrae Nacional - "O financiamento do empreendedorismo feminino no Brasil" (agosto de 2024)
+- SBT News - "Mulheres pagam mais juros do que os homens" (26/08/2024)
+- Banco Central do Brasil / Folha de S. Paulo - "Mais pobres e mulheres têm mais juros no crédito pessoal" (07/09/2025)
+
+**Observações:** A diferença exata varia conforme a modalidade de crédito. No crédito pessoal, a diferença pode chegar a 8,2 pontos percentuais. Nos financiamentos para pequenos negócios, a diferença é de aproximadamente 3,8 a 4 pontos percentuais.
+
+---
+
+### 6
+
+**Afirmação:** "O índice de depressão entre os agricultores é o dobro da média da população em geral. Cerca de 30% a 36%."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Levantamento intitulado "Saúde Mental no Agronegócio: uma crise silenciosa", realizado pela Great People Mental Health com base em revisão de literatura e dados epidemiológicos oficiais, divulgado em abril de 2026, aponta que a depressão atinge 36 em cada 100 trabalhadores rurais (36%), acima da média da população geral estimada em 15%. Isso corresponde a mais que o dobro da média nacional. A faixa de "30% a 36%" mencionada por Cury está coerente com diferentes estudos: o levantamento da Great People Mental Health aponta 36%, enquanto estudo acadêmico da Serra Gaúcha (publicado na Revista de Saúde Pública) encontrou prevalência de 38% de transtornos psiquíquicos menores entre agricultores.
+
+**Fonte(s):**
+- Globo Rural - "Agro vive 'crise silenciosa' de saúde mental" (abril de 2026)
+- O Presente Rural - "Depressão afeta 36 em cada 100 trabalhadores rurais no Brasil" (28/05/2026)
+- Scielo / Revista de Saúde Pública - "Estudo transversal sobre saúde mental de agricultores da Serra Gaúcha"
+
+**Observações:** O dado de 36% refere-se especificamente a trabalhadores rurais/trabalhadores do campo, não necessariamente apenas "agricultores" no sentido estrito de produtores. A média de depressão na população geral brasileira é estimada em 15%.
+
+---
+
+### 7
+
+**Afirmação:** "Se nós dobrarmos a produção de alimentos de 350 para 700 milhões de toneladas, nos próximos 10 anos, vamos sentar de igual para igual com a China e com a Índia e com os Estados Unidos."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A safra de grãos brasileira de 2025 foi recorde, com 346,1 milhões de toneladas (IBGE/LSPA, janeiro de 2026). A estimativa da Conab para a safra 2025/26 é de 360,1 milhões de toneladas. O IBGE projeta para 2026 uma safra de 339,8 milhões de toneladas, com retração de 1,8%. A produção de grãos brasileira cresceu, em média, entre 3% e 5% ao ano na última década. Para atingir 700 milhões de toneladas em 10 anos a partir de ~350 milhões, seria necessário um crescimento composto de aproximadamente 7,2% ao ano, significativamente superior à taxa histórica. Não é impossível, mas exigiria um aceleração significativa do crescimento produtivo. A previsão do Ministério da Agricultura e de entidades setoriais aponta que o Brasil poderia atingir 500 milhões de toneladas até 2050, e não 700 milhões em 10 anos.
+
+**Fonte(s):**
+- IBGE - Levantamento Sistemático da Produção Agrícola (janeiro de 2026): safra 2025 de 346,1 milhões de toneladas
+- Conab - 10º Levantamento da Safra de Grãos 2025/26 (julho de 2026): 360,1 milhões de toneladas
+- Embrapa - "O Agro brasileiro alimenta 800 milhões de pessoas"
+
+**Observações:** A meta de dobrar a produção em 10 anos é extremamente ambiciosa e não encontra respaldo em projeções oficiais ou do setor. O Brasil é o quarto produtor mundial de grãos, atrás da China, dos Estados Unidos e da Índia.
+
+---
+
+### 8
+
+**Afirmação:** "Nós alimentaremos cerca de 2 bilhões a 2 bilhões e meio de seres humanos."
+
+**Classificação:** FALSO
+
+**Verificação:**
+Segundo estudo da Embrapa ("O Agro Brasileiro alimenta 800 milhões de pessoas"), o Brasil alimentou aproximadamente 800 milhões de pessoas em 2020, sendo 212 milhões de população brasileira e cerca de 560 milhões no exterior via exportações. Dados mais recentes da Secretaria de Comércio e Relações Internacionais (2026) indicam que o agro brasileiro atende "cerca de 10% da população mundial", o que equivale a aproximadamente 800 milhões a 1 bilhão de pessoas. O número de 2 a 2,5 bilhões é mais que o dobro do que as fontes oficiais e acadêmicas indicam.
+
+**Fonte(s):**
+- Embrapa - "O Agro Brasileiro alimenta 800 milhões de pessoas" (2021)
+- AgroAnalysis / Fundação Getulio Vargas - "Agro do Brasil alimenta quase 10% da população mundial"
+- Secretaria de Comércio e Relações Internacionais - dados de exportações agropecuárias (2026)
+
+**Observações:** A conta da Embrapa considera a produção de grãos convertida em calorias e a exportação de carne bovina convertida em equivalentes de grãos. Mesmo com projeções de crescimento da produção, não se chega a 2 bilhões de pessoas alimentadas.
+
+---
+
+### 9
+
+**Afirmação:** "Psiquiatra mais lido do mundo."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O site oficial de Augusto Cury e múltiplas fontes editoriais (incluindo Wikipedia, Editora Sextante, Folha de S. Paulo e Forbes) confirmam que ele é reconhecido como o psiquiatra mais lido do mundo. A Forbes, em 2017, classificou-o como o autor mais lido do Brasil no século XXI, com mais de 30 milhões de exemplares vendidos. Fontes editoriais mais recentes citam mais de 40 milhões de livros vendidos.
+
+**Fonte(s):**
+- Augusto Cury - site oficial (augustocury.com.br)
+- Wikipedia - "Augusto Cury"
+- Forbes (2017) - sobre autores brasileiros mais vendidos
+- Editora Sextante - perfil do autor
+
+**Observações:** Trata-se de reconhecimento editorial amplamente divulgado, embora a expressão "mais lido do mundo" seja uma classificação comercial e não um ranking oficial de instituto de pesquisa.
+
+---
+
+### 10
+
+**Afirmação:** "Publicado em mais de 90 países."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O site oficial de Augusto Cury afirma que seus livros são "publicados em mais de 70 países". A Wikipedia registra presença em "pelo menos 70 países". A Folha de S. Paulo (abril de 2026) menciona "obras traduzidas em 70 países". A Editora Sextante também indica "mais de 70 países". Não foi encontrada nenhuma fonte que confirme a cifra de 90 países. A informação de Cury de "mais de 90 países" parece superestimar os dados disponíveis.
+
+**Fonte(s):**
+- Augusto Cury - site oficial: "mais de 70 países"
+- Wikipedia - "Augusto Cury": "pelo menos 70 países"
+- Folha de S. Paulo - "Quem é Augusto Cury, pré-candidato à Presidência" (08/04/2026)
+
+**Observações:** A diferença entre 70 e 90 países é significativa. Não há evidência de que o número tenha crescido de 70 para 90 desde as últimas divulgações oficiais.
+
+---
+
+### 11
+
+**Afirmação:** "Escrevi mais de 70 livros."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Múltiplas fontes confirmam que Augusto Cury escreveu mais de 70 livros. O site oficial afirma "mais de 70 obras". A Folha de S. Paulo (abril de 2026) registra "mais de 70 livros publicados". A Wikipedia indica que, até 2017, a Forbes registrou "mais de 50 livros publicados", e fontes posteriores documentam mais de 70. O site Amor por Livros lista 73 livros até 2023.
+
+**Fonte(s):**
+- Augusto Cury - site oficial
+- Folha de S. Paulo - "Quem é Augusto Cury" (08/04/2026)
+- Wikipedia - "Augusto Cury"
+- Valor Econômico - "Quem é Augusto Cury, candidato a presidente" (28/08/2026)
+
+**Observações:** Dado confirmado por múltiplas fontes independentes.
+
+---
+
+=========================================================================
+
+RESUMO ESTATISTICO
+
+Total de afirmações factuais verificadas: 11
+- VERDADEIRO: 7
+- IMPRECISO: 3
+- FALSO: 1
+- NAO VERIFICAVEL: 0
+- OPINIAO: 0
+
+=========================================================================
+
+NOTA METODOLOGICA
+
+Esta verificação de fatos foi realizada com base em fontes oficiais e veículos jornalísticos de credibilidade comprovada, incluindo IBGE, Conab, Banco Central do Brasil, Ministério do Trabalho e Emprego, Fórum Brasileiro de Segurança Pública, Sebrae, Embrapa, Folha de S. Paulo, G1, Valor Econômico, Agência Brasil e Wikipedia.
+
+O objetivo é fornecer informações verificáveis para que o eleitor tome suas próprias decisões de forma informada. Esta análise não constitui endereçamento, apoio ou oposição a qualquer candidato.
+
+Data de corte das fontes: agosto de 2026.

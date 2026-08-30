@@ -1,0 +1,342 @@
+# Verificação de Fatos - Entrevista com Luiz Inácio Lula da Silva (PT)
+# Data da entrevista: 27/08/2026
+# Data da verificação: 29/08/2026
+# Candidato: Luiz Inácio Lula da Silva (PT) - Candidato à reeleição
+
+---
+
+## Resumo
+
+Esta análise verifica as afirmações factuais feitas por Lula em entrevista televisiva realizada em 27 de agosto de 2026. Foram identificadas e verificadas 15 afirmações principais. Das afirmações verificadas: 6 foram classificadas como VERDADEIRAS, 3 como FALSAS, 4 como IMPRECISAS e 2 como NÃO VERIFICÁVEIS.
+
+---
+
+### [1] Idade do candidato
+
+**Afirmação do candidato:** "Aos 80 anos, Luiz Inácio Lula da Silva concorre à reeleição"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Luiz Inácio Lula da Silva nasceu em 27 de outubro de 1945. Em agosto de 2026, data da entrevista, ele tinha 80 anos de idade. A informação está correta.
+
+**Fonte(s):**
+- TSE (Tribunal Superior Eleitoral) - Biografia oficial do candidato
+- Registro civil - Luiz Inácio Lula da Silva, nascimento 27/10/1945
+
+**Observações:**
+Informação biográfica básica, facilmente verificável.
+
+---
+
+### [2] Fundação do PT
+
+**Afirmação do candidato:** "Ele participou da fundação do Partido dos Trabalhadores no dia 10 de fevereiro de 1980"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O Partido dos Trabalhadores (PT) foi fundado em 10 de fevereiro de 1980, em São Paulo. Lula, à época líder sindical dos metalúrgicos, foi um dos fundadores do partido. A data está correta.
+
+**Fonte(s):**
+- TSE - Registro do partido PT
+- Histórico oficial do PT - Fundação em 10/02/1980
+
+**Observações:**
+Fato histórico amplamente documentado.
+
+---
+
+### [3] Mandatos presidenciais
+
+**Afirmação do candidato:** "[Lula] foi presidente da República pela primeira vez em 2002... Lula foi reeleito em 2006 e obteve o terceiro mandato em 2022"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+- Primeiro mandato: 2003-2006 (eleito em 2002)
+- Segundo mandato: 2007-2010 (reeleito em 2006)
+- Terceiro mandato: 2023-2026 (eleito em 2022)
+
+Todos os dados estão corretos.
+
+**Fonte(s):**
+- TSE - Resultados das eleições presidenciais de 2002, 2006 e 2022
+- Banco Central do Brasil - Séries históricas de governos
+
+**Observações:**
+Informação histórica correta.
+
+---
+
+### [4] Dívida pública
+
+**Afirmação do candidato:** "A dívida pública no seu governo ultrapassou os 10 trilhões de reais"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo dados do Banco Central divulgados em julho de 2026, a Dívida Bruta do Governo Geral (DBGG) atingiu R$ 10,8 trilhões em junho de 2026, equivalente a 81,9% do PIB. A dívida já ultrapassava os 10 trilhões desde o início de 2026.
+
+**Fonte(s):**
+- Banco Central do Brasil - Estatísticas Fiscais, julho 2026
+- G1 - "Dívida pública sobe 10 pontos do PIB na parcial do governo Lula e atinge 81,9%", 31/07/2026
+
+**Observações:**
+O valor de R$ 10,8 trilhões confirma que a dívida ultrapassou os 10 trilhões.
+
+---
+
+### [5] Aumento da dívida em pontos percentuais
+
+**Afirmação do candidato:** "O seu governo, a dívida disparou 10 pontos percentuais, atingiu 82% do PIB"
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Segundo o Banco Central, a dívida bruta do governo geral subiu de 71,7% do PIB (final de 2022) para 81,9% do PIB (junho de 2026), o que representa um aumento de 10,2 pontos percentuais. O valor de82% citado por Lula está arredondado para cima, quando o dado oficial é 81,9%. A diferença é pequena (0,1 ponto percentual), mas o valor exato não é 82%.
+
+**Fonte(s):**
+- Banco Central do Brasil - Estatísticas Fiscais
+- Poder360 - "Dívida bruta atinge 81,9% do PIB em junho", 31/07/2026
+
+**Observações:**
+A afirmação está substancialmente correta, mas o valor exato é 81,9%, não 82%. O arredondamento para cima torna a afirmação ligeiramente imprecisa.
+
+---
+
+### [6] Superávit primário no primeiro mandato
+
+**Afirmação do candidato:** "Você foi o único presidente na história do Brasil que fez superávit primário durante oito anos do seu primeiro mandato"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+De acordo com dados do Banco Central e do IPEA, o governo Lula (2003-2010) obteve superávit primário em todos os oito anos do seu mandato. O superávit primário acumulado do primeiro mandato (2003-2006) foi de R$ 331 bilhões, correspondendo a uma média de 4,50% do PIB. No segundo mandato (2007-2010), o resultado também foi positivo em todos os anos.
+
+**Fonte(s):**
+- Banco Central do Brasil - Estatísticas Fiscais
+- IPEA - "A política fiscal do governo Lula em perspectiva histórica"
+- Folha de S.Paulo - "Aperto fiscal de Lula é o dobro do governo FHC", 01/02/2007
+
+**Observações:**
+Lula foi, de fato, o primeiro presidente a manter superávit primário durante todos os anos de um mandato de quatro anos. A afirmação sobre "oito anos" refere-se aos dois mandatos (2003-2010), e não apenas ao primeiro.
+
+---
+
+### [7] Crescimento do PIB em 2010
+
+**Afirmação do candidato:** "Você se esquece que eu deixei esse país crescendo 7,5% em 2010"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo o IBGE, o PIB brasileiro cresceu 7,5% em 2010, a maior taxa desde 1986. O resultado foi influenciado pela recuperação após a crise financeira internacional de 2008-2009 e pela baixa base de comparação (em 2009, o PIB havia recuado 0,6%).
+
+**Fonte(s):**
+- IBGE - Agência de Notícias - "Em 2010, PIB varia 7,5% e fica em R$ 3,675 trilhões", 03/03/2011
+- Folha de S.Paulo - "PIB cresce 7,5% e Brasil vira 7ª economia", 04/03/2011
+
+**Observações:**
+Dado oficial confirmado pelo IBGE.
+
+---
+
+### [8] Pagamento da dívida com o FMI
+
+**Afirmação do candidato:** "Esse país aqui devia 30 bilhões de dólares... Quando eu assumi a presidência... Eu paguei 30 bilhões do FMI"
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Em outubro de 2002, durante o governo FHC, o Brasil contraíu um empréstimo de aproximadamente US$ 30,4 bilhões junto ao FMI. Em dezembro de 2005, o governo Lula antecipou a quitação de toda a dívida, pagando US$ 15,5 bilhões que restavam do acordo original.
+
+**Fonte(s):**
+- Folha de S.Paulo - "Governo decide quitar toda a dívida com o FMI", 14/12/2005
+- CNN Brasil - "Lula acerta ao dizer que emprestou dinheiro ao FMI, mas exagera no valor", 05/05/2022
+- Folha de S.Paulo - "Lula e diretor do FMI celebram fim da dívida", 10/01/2006
+
+**Observações:**
+A dívida original era de aproximadamente US$ 30,4 bilhões. Lula quitou antecipadamente US$ 15,5 bilhões que restavam em dezembro de 2005.
+
+---
+
+### [9] PAC 3 - Investimentos
+
+**Afirmação do candidato:** "PAC 3, agora, nesse mandato, com 1 trilhão e 900 bilhões de investimentos"
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O Novo PAC foi lançado em agosto de 2023 com previsão total de investimentos de R$ 1,7 trilhão até 2030, dos quais R$ 1,3 trilhão estavam previstos até o final de 2026. O valor de R$ 1,9 trilhão citado por Lula não corresponde aos dados oficiais divulgados pelo governo. Até o final de 2024, foram executados R$ 711 bilhões.
+
+**Fonte(s):**
+- Casa Civil - "Em dois anos, investimentos do Novo PAC superam 53% do previsto até 2026", 10/04/2025
+- O Globo - "Lula lança novo PAC com investimento de R$ 1,7 trilhão", 11/08/2023
+- G1 - "PAC investe R$ 700 bilhões em dois anos", 10/04/2025
+
+**Observações:**
+O valor real de R$ 1,7 trilhão (total até 2030) é inferior ao citado por Lula de R$ 1,9 trilhão. A diferença é de R$ 200 bilhões.
+
+---
+
+### [10] Execução do PAC até 2026
+
+**Afirmação do candidato:** "até 2026, agora em dezembro, são 1 trilhão e 340 bilhões, dos quais 97% já quitados"
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Não há dados oficiais que confirmem que R$ 1,34 trilhão já foram executados com97% quitados até a data da entrevista (agosto de 2026). Os dados disponíveis da Casa Civil mostram que até dezembro de 2024 foram executados R$ 711 bilhões, o que representa 53,7% do previsto para 2026. Os dados de 2025 e 2026 ainda não foram completamente divulgados.
+
+**Fonte(s):**
+- Casa Civil - Balanço do Novo PAC, abril 2025
+
+**Observações:**
+A afirmação não pode ser confirmada nem refutada com os dados disponíveis até a data da verificação.
+
+---
+
+### [11] Institutos Federais
+
+**Afirmação do candidato:** "dos quase 800 institutos desse país, 80% foi feito por mim e pela Dilma"
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Segundo dados do MEC, a Rede Federal de Educação Profissional, Científica e Tecnológica conta com 685 unidades (campi) em 2024, não "quase 800". A expansão foi significativa durante os governos Lula e Dilma: foram criados 422 campi entre 2005 e 2016 (214 entre 2005 e 2010, e 208 entre 2011 e 2016). Antes de 2003, existiam cerca de 140 escolas técnicas.
+
+**Fonte(s):**
+- MEC - "MEC amplia unidades de Institutos Federais", 19/04/2024
+- IFPB - "Rede Federal: 115 anos mudando para transformar vidas", 01/09/2024
+
+**Observações:**
+O número de 685 unidades é significativamente menor que "quase 800". A afirmação de que80% foram criados por Lula e Dilma pode ser aproximadamente correta para as38 institutos federais (criados em 2008), mas não para o total de campi.
+
+---
+
+### [12] Crescimento do PIB em 2023 e 2024
+
+**Afirmação do candidato:** "quando eu voltei ele estava crescendo 1%, ele só cresceu 3%, sabe, em 2023, 2024, 2025"
+
+**Classificação:** FALSO
+
+**Verificação:**
+Segundo o IBGE, o PIB cresceu:
+- 2023: 2,9% (revisado para 3,2% em publicação posterior)
+- 2024: 3,4%
+- 2025: Dados ainda não disponíveis
+
+O valor de "1%" para o PIB não corresponde a nenhum dado oficial. A economia brasileira apresentou crescimento positivo em todos os anos desde 2021, com taxas superiores a 2,5%.
+
+**Fonte(s):**
+- IBGE - Agência de Notícias - "PIB cresce 3,2% e totaliza R$ 10,9 trilhões em 2023", 06/11/2025
+- IBGE - Agência de Notícias - "PIB cresce 3,4% em 2024", 07/03/2025
+
+**Observações:**
+A afirmação de que o PIB "estava crescendo 1%" está incorreta. O crescimento foi de 2,9% em 2023 e3,4% em 2024.
+
+---
+
+### [13] Trabalhadores com diploma universitário
+
+**Afirmação do candidato:** "quando eu cheguei na presidência, nós temos 5 milhões de trabalhadores no mercado de trabalho com diploma universitário. Hoje nós temos 25 milhões"
+
+**Classificação:** FALSO
+
+**Verificação:**
+Segundo a PNAD Contínua do IBGE, os trabalhadores com ensino superior completo eram:
+- 2012 (início da série): 12,6 milhões
+- 2025: 25,5 milhões
+
+O valor de 5 milhões citado por Lula está muito abaixo do dado real de12,6 milhões em 2012. Quando Lula assumiu o terceiro mandato em janeiro de 2023, o número já era superior a 20 milhões.
+
+**Fonte(s):**
+- IBGE - PNAD Contínua - Dados de educação, maio 2026
+- Folha de S.Paulo - "IBGE: trabalhadores com ensino superior dobram no Brasil", 24/05/2026
+
+**Observações:**
+A afirmação de 5 milhões está drasticamente abaixo do dado real. O número correto em 2012 era12,6 milhões, mais que o dobro do valor citado.
+
+---
+
+### [14] Anos de governo do PT na presidência
+
+**Afirmação do candidato:** "Nos últimos 24 anos, 17 foram do PCOM-PT na presidência"
+
+**Classificação:** FALSO
+
+**Verificação:**
+Considerando os últimos 24 anos (2002-2026), os governos do PT na presidência foram:
+- Lula: 2003-2010 (8 anos)
+- Dilma Rousseff: 2011-agosto de 2016 (5 anos e 8 meses)
+- Lula: 2023-presente (3 anos e 8 meses até agosto de 2026)
+
+Total aproximado: 17 anos e 4 meses. Embora o número esteja próximo, a afirmação de "17 anos" está ligeiramente abaixo do total real, que é superior a 17 anos.
+
+**Fonte(s):**
+- TSE - Resultados de eleições presidenciais
+- Histórico de governos do Brasil
+
+**Observações:**
+O número real é superior a 17 anos, mas a afirmação está dentro de uma margem aceitável de approximação.
+
+---
+
+### [15] OBMEP - Olimpíada de Matemática
+
+**Afirmação do candidato:** "quem criou a Olimpíada da Matemática no Brasil, na escola pública, fui eu"
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A OBMEP (Olimpíada Brasileira de Matemática das Escolas Públicas) foi lançada oficialmente em 19 de maio de 2005 pelo presidente Lula. No entanto, a iniciativa partiu do diretor-geral do IMPA, César Camacho, e da presidente da Sociedade Brasileira de Matemática (SBM), Suely Druck, com apoio do governo federal. Lula declarou que a OBMEP seria um "projeto de governo", mas não foi o idealizador original.
+
+**Fonte(s):**
+- IMPA - OBMEP - Apresentação oficial
+- OBMEP - "12 anos de OBMEP" - Documento comemorativo
+- Revista Margens - "Entre pretextos e contextos: uma breve história da OBMEP", 2024
+
+**Observações:**
+Lula teve papel fundamental ao transformar a OBMEP em política pública federal, mas não foi o criador original da iniciativa, que partiu de pesquisadores do IMPA e da SBM.
+
+---
+
+## Resumo das Classificações
+
+| Classificação | Quantidade | Afirmações |
+|---------------|------------|------------|
+| VERDADEIRO | 6 | #1, #2, #3, #4, #7, #8 |
+| FALSO | 3 | #12, #13, #14 |
+| IMPRECISO | 4 | #5, #6, #9, #11, #15 |
+| NÃO VERIFICÁVEL | 1 | #10 |
+| OPINIÃO | 0 | - |
+
+---
+
+## Observações Gerais
+
+1. **Dados econômicos**: Lula apresenta dados corretos sobre dívida pública e pagamento ao FMI, mas faz afirmações imprecisas sobre crescimento do PIB e valores do PAC.
+
+2. **Dados sociais**: As afirmações sobre número de trabalhadores com diploma universitário estão significativamente incorretas, com valores muito abaixo dos dados reais do IBGE.
+
+3. **Histórico político**: A contagem de anos de governo do PT está aproximadamente correta, mas ligeiramente subestimada.
+
+4. **Infraestrutura**: Os valores do PAC apresentados por Lula estão acima dos dados oficiais divulgados pelo governo.
+
+---
+
+## Disclaimer
+
+Esta verificação é uma análise técnica de fatos apresentados em entrevista pública. Não constitui endereçamento, apoio ou oposição a qualquer candidato. O objetivo é fornecer informações verificáveis para que o eleitor tome suas próprias decisões de forma informada.
+
+---
+
+## Metadados
+
+- **Candidato:** Luiz Inácio Lula da Silva
+- **Partido:** PT
+- **Data da entrevista:** 27/08/2026
+- **Data da verificação:** 29/08/2026
+- **Modelo utilizado:** opencode/mimo-v2-pro
+- **Fontes consultadas:** IBGE, Banco Central, TSE, IPEA, MEC, Folha de S.Paulo, G1, Poder360

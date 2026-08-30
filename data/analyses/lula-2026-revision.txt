@@ -1,0 +1,117 @@
+### Revisão de Fatos — Rodada 2 — Entrevista JN Luiz Inácio Lula da Silva (PT)
+### Data da revisão: 30/08/2026
+### Modelo: opencode/mimo-v2.5-free
+
+---
+
+### 4
+
+**Afirmação:** "dos países do G20 eu fui o único que fez superávit primário durante oito anos"
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "superávit primário Brasil Lula 2003 2010 oito anos G20 comparação internacional" → Encontrado artigo do Poder360 (26/06/2025) com fact-check: "Lula erra e diz que só Brasil teve superávit primário de 2003 a 2010"
+- Consulta 2: "Lula erra superávit único país mundo Argentina 2003 2010" → Revista Oeste e Poder360 confirmam: Argentina também registrou resultados positivos no período
+
+**Evidência encontrada:**
+O Poder360 publicou verificação de fatos em 26/06/2025 mostrando que a afirmação de que o Brasil foi o "único" país do G20 a ter superávit primário de 2003 a 2010 é incorreta. A Argentina também registrou superávits primários anuais sucessivos entre 2003 e 2010, com saldos positivos variando de 8,69 a 32,53 bilhões de pesos argentinos. A Revista Oeste também confirmou que dados oficiais do Ministério da Economia argentino mostram superávits primários anuais no período. Portanto, a afirmação é factualmente incorreta — não era o "único".
+
+**Classificação revisada:** RETIFICADO PARA FALSO
+
+**Justificativa:**
+A busca adicional revelou que a afirmação é falsa. A Argentina também registrou superávits primários durante o período 2003-2010, segundo dados do Ministério da Economia argentino. A afirmação de "único" está errada. A classificação original como NÃO VERIFICÁVEL foi inadequada, pois existem dados oficiais disponíveis que contradizem a afirmação.
+
+**Fonte(s) adicional(is):**
+- Poder360 - "Lula erra e diz que só Brasil teve superávit primário de 2003 a 2010" (26/06/2025) - https://www.poder360.com.br/poder-governo/lula-erra-e-diz-que-so-brasil-teve-superavit-primario-de-2003-a-2010/
+- Revista Oeste - "Lula erra ao afirmar dado econômico do período entre 2003 e 2010" (26/06/2025) - https://revistaoeste.com/politica/lula-erra-ao-afirmar-dado-economico-do-brasil-do-periodo-entre-2003-e-2010/
+
+---
+
+### 7
+
+**Afirmação:** "a fila do INSS... vai estar apenas em 250 mil pessoas"
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "fila INSS 2024 2025 2026 milhões pessoas espera benefício dado oficial" → Agência Brasil (25/08/2026): fila caiu para 1,2 milhão; G1 (23/07/2026): fila de 1,6 milhão
+- Consulta 2: "Lula promessa zerar fila INSS setembro 2026" → G1 confirma que Lula prometeu zerar fila até setembro
+
+**Evidência encontrada:**
+A afirmação é uma promessa de campanha. Segundo dados do Ministério da Previdência Social divulgados em agosto de 2026, a fila do INSS estava em 1,2 milhão de requerimentos (menor patamar do governo Lula 3), tendo atingido o pico recorde de 3,128 milhões em fevereiro de 2026. A promessa de reduzir para 250 mil pessoas não pôde ser confirmada nem refutada, pois se trata de meta futura.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+A afirmação continua sendo uma promessa de campanha que não pode ser verificada como fato consumado. Os dados atuais mostram fila de 1,2 milhão, muito acima da meta de 250 mil.
+
+**Fonte(s) adicional(is):**
+- Agência Brasil - "Fila de espera do INSS cai para 1,2 milhão de requerimentos" (25/08/2026)
+- G1 - "Fila do INSS cai 74% em 2026; Lula quer zerar pedidos até setembro" (23/07/2026)
+- Valor Econômico - "Fila do INSS cai para 1,28 milhão" (25/08/2026)
+
+---
+
+### 8
+
+**Afirmação:** "Nós chegamos a ter 3 milhões de pessoas na fila" [do INSS]
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "fila INSS recorde 3 milhões 2025 2026 dado oficial Boletim Estatístico" → Gazeta Digital (03/08/2026): fila atingiu quase 3 milhões em novembro; Poder360: fila bateu 2,96 milhões em novembro 2025
+- Consulta 2: "fila INSS 3,1 milhões fevereiro 2026 recorde" → Valor Econômico (25/08/2026): fila atingiu patamar recorde de 3,128 milhões em fevereiro de 2026
+
+**Evidência encontrada:**
+A fila do INSS de fato atingiu e ultrapassou a marca de 3 milhões de pessoas. Segundo o Boletim Estatístico da Previdência Social (BEPS) e dados divulgados pela imprensa, a fila atingiu 2,96 milhões em novembro de 2025 e bateu o recorde de 3,128 milhões de pedidos em fevereiro de 2026. A afirmação do candidato de que "chegamos a ter 3 milhões" é confirmada pelos dados oficiais.
+
+**Classificação revisada:** RETIFICADO PARA VERDADEIRO
+
+**Justificativa:**
+A evidência adicional confirma que a fila do INSS atingiu mais de 3 milhões de requerimentos, atingindo o patamar recorde de 3,128 milhões em fevereiro de 2026. A afirmação do candidato é factualmente correta.
+
+**Fonte(s) adicional(is):**
+- Gazeta Digital - "Fila do INSS bate recorde e chega a 3 milhões" (03/08/2026)
+- Poder360 - "Fila do INSS com Lula bate recorde e tem quase 3 milhões"
+- Valor Econômico - "Fila do INSS cai para 1,28 milhão, menor patamar no governo Lula 3" (25/08/2026): confirma pique de 3,128 milhões em fevereiro de 2026
+
+---
+
+### 25
+
+**Afirmação:** "Nós vamos fazer superávit esse ano"
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "superávit primário governo Lula 2026 previsão déficit julho agosto dados Tesouro" → G1 (27/08/2026): superávit de R$ 10,8 bilhões em julho, mas déficit acumulado de R$ 81,3 bilhões
+- Consulta 2: "meta fiscal 2026 governo Lula superávit previsão atual" → Valor Econômico (22/05/2026): governo elevou previsão de superávit para R$ 4,1 bilhões
+
+**Evidência encontrada:**
+Em julho de 2026, o governo registrou superávit primário de R$ 10,8 bilhões (melhor resultado para julho desde 2022). No entanto, no acumulado dos sete primeiros meses de 2026, o déficit primário foi de R$ 81,3 bilhões. A meta fiscal de 2026 é de superávit de R$ 34,3 bilhões (com tolerância). A previsão atualizada do governo é de superávit de R$ 4,1 bilhões para o ano. A afirmação de que "vamos fazer superávit" é uma previsão de governo, não um fato consumado até a data da entrevista (27/08/2026).
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+A afirmação continua sendo uma projeção/meta do governo. Embora o resultado de julho tenha sido positivo, o acumulado do ano ainda mostrava déficit de R$ 81,3 bilhões na data da entrevista. Não há como confirmar se a meta será atingida até o fim do ano.
+
+**Fonte(s) adicional(is):**
+- G1 - "Contas do governo tem superávit primário de R$ 10,8 bilhões em julho" (27/08/2026)
+- Valor Econômico - "Governo eleva previsão de superávit primário para 2026 a R$ 4,1 bilhões" (22/05/2026)
+- Folha de S.Paulo - "Governo central tem superávit primário de R$ 10,78 bi em julho" (27/08/2026)
+
+---
+
+### RESUMO DA REVISÃO
+
+Total de afirmações revisadas: 4
+Mantidas: 2
+Retificadas: 2
+
+| Afirmação | Original | Revisada | Mudou? |
+|-----------|----------|----------|--------|
+| #4 | NÃO VERIFICÁVEL | FALSO | Sim |
+| #7 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #8 | NÃO VERIFICÁVEL | VERDADEIRO | Sim |
+| #25 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |

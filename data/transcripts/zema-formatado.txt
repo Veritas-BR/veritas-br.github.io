@@ -1,0 +1,1004 @@
+# Transcrição: Romeu Zema (Novo) - Globo 2026-08-24
+# Modelo: Whisper large-v3-turbo
+
+[00:00] Olá, boa noite.
+
+[00:14] Boa noite.
+
+[00:20] Começa agora a série de entrevistas com os candidatos à presidência da República nas eleições 2026.
+
+[00:23] Foram convidados os seis candidatos mais bem colocados na pesquisa Quest de 14 de agosto.
+
+[00:28] A ordem das entrevistas foi decidida num sorteio com a presença de representantes das campanhas.
+
+[00:35] Nosso convidado hoje, então, é Romeu Zema, do Partido Novo.
+
+[00:39] Amanhã vamos receber Ronaldo Caiado, do PSD.
+
+[00:42] Na quarta-feira, Renan Santos, do Missão.
+
+[00:44] Na quinta, é a vez de Luiz Inácio Lula da Silva, do PT.
+
+[00:48] Na sexta, Flávio Bolsonaro, do PL.
+
+[00:51] E no sábado, Augusto Cury, do Avante.
+
+[00:54] Cada entrevista vai ter 40 minutos de duração com dois blocos.
+
+[00:58] E as considerações finais dos candidatos.
+
+[01:01] Então, vamos começar relembrando a trajetória política de Romeu Zema.
+
+[01:05] Romeu Zema tem 61 anos.
+
+[01:08] Nasceu em Araxá, Minas Gerais.
+
+[01:10] É administrador de empresas.
+
+[01:16] Foi presidente do Conselho de Administração do Grupo Zema, conglomerado familiar com atuação nos setores de varejo, serviços financeiros, seguros e concessionárias.
+
+[01:23] Entrou para a política em 2018, quando se candidatou ao governo de Minas.
+
+[01:27] E se tornou o primeiro governador eleito pelo Partido Novo.
+
+[01:32] Em 2022, se reelegeu no primeiro turno com 56% dos votos válidos.
+
+[01:38] Em março deste ano, renunciou ao cargo para concorrer à presidência da República.
+
+[01:43] Romeu Zema é candidato pelo Novo.
+
+[01:45] E tem como vice o senador licenciado Eduardo Girão, do mesmo partido.
+
+[01:49] Candidato Romeu Zema, boa noite.
+
+[01:53] Obrigada pela sua presença.
+
+[01:55] Boa noite, Renata.
+
+[01:56] Boa noite, Trale.
+
+[01:57] Boa noite para quem está nos acompanhando.
+
+[01:59] Um prazer estar aqui com vocês.
+
+[02:01] Muito obrigado, candidato.
+
+[02:02] Boa noite.
+
+[02:03] Mais uma vez, agradecemos aqui a presença do senhor.
+
+[02:06] O tempo da entrevista começa a ser contado a partir de agora.
+
+[02:09] Candidato Romeu Zema, o próximo presidente da República tem uma tarefa inadiável na economia.
+
+[02:16] Enfrentar o problema da dívida pública brasileira.
+
+[02:26] Por isso, cada candidato precisa explicar para o eleitor como é que pretende equilibrar os gastos e conter o crescimento dessa dívida.
+
+[02:28] São mais de 10 trilhões de reais.
+
+[02:30] O endividamento já atingiu 82% de toda a riqueza que o Brasil produz em produtos e serviços, o nosso PIB.
+
+[02:39] E o mais grave, essa dívida está em trajetória de alta, ela está com tendência de alta.
+
+[02:45] O senhor governou Minas Gerais nos últimos quase oito anos.
+
+[02:49] E a dívida do governo de Minas cresceu 100%.
+
+[02:54] Praticamente dobrou.
+
+[02:55] Ela saltou de 88 bilhões para mais de 180 bilhões de reais.
+
+[03:09] Eu pergunto ao senhor por que o eleitor deve acreditar que o senhor, se for eleito presidente, vai conter o crescimento da dívida pública federal, se o senhor não conseguiu diminuir o tamanho da dívida do governo de Minas?
+
+[03:14] Perfeito, Renata.
+
+[03:15] Então, eu quero explicar aqui para quem está nos acompanhando.
+
+[03:19] A dívida de Minas, ela foi toda feita no passado.
+
+[03:24] Eu, que fui governador por quase oito anos, não fiz um empréstimo, um financiamento.
+
+[03:31] Ela foi herdada lá dos anos 90.
+
+[03:35] E cresceu muito devido os juros de agiota do governo federal.
+
+[03:41] Agora, ninguém conta a outra parte.
+
+[03:45] Eu paguei 23 bilhões de reais para aposentado, que não recebia aposentadoria, Renata.
+
+[03:55] Eu paguei 13 bilhões para o governo federal, funcionários públicos.
+
+[04:03] E hoje, a dívida representa muito menos para a economia de Minas do que representava quando eu assumi.
+
+[04:11] Eu gosto muito de dar aqui um exemplo simples para quem está nos acompanhando aqui entender muito bem.
+
+[04:18] Alguém deve 10 mil reais.
+
+[04:21] Se ele ganha 3 mil reais por mês, essa dívida pode ser considerada elevada.
+
+[04:28] Mas se ele ganha 40 mil por mês, talvez ele tenha condição de pagar com mais facilidade essa dívida.
+
+[04:35] Agora, candidato, sobre isso, a dívida, o fato é que ela ainda existe e ela precisa ser paga.
+
+[04:47] O senhor passou a maior parte da sua gestão com a dívida, o pagamento da dívida em suspenso, por uma decisão do Supremo Tribunal Federal.
+
+[04:50] O senhor ficou 43 meses sem pagar essa dívida.
+
+[04:53] E considerando toda a sua gestão, o senhor pagou menos de 10% da dívida.
+
+[04:57] 13 bilhões de uma dívida de mais de 180 bilhões.
+
+[05:05] Se a gente usar o seu raciocínio, é como se uma família extremamente endividada decidisse parar de pagar o cartão de crédito e dissesse que está com as contas em dia.
+
+[05:10] A dívida existe e ela precisa ser paga.
+
+[05:13] Tá.
+
+[05:14] Renata, eu ia completar.
+
+[05:17] Quando eu assumi, a dívida de Minas representava 192% da receita corrente líquida.
+
+[05:25] Quando eu saí, era cerca de 160.
+
+[05:29] Ela está em trajetória de queda, diferente da dívida de Brasília, que está em trajetória de alta.
+
+[05:36] A gente fez um levantamento com os números oficiais do governo de Minas Gerais.
+
+[05:40] Em 2019, no seu primeiro ano como governador, a dívida representava 98% da arrecadação do Estado.
+
+[05:48] Em 2025, ela saltou, esse número saltou para 137%.
+
+[05:52] Ou seja, é preciso bem mais do que tudo que entra em caixa para poder honrar isso.
+
+[05:58] Renata, os dados que eu tenho, e hoje qualquer construtora, qualquer fornecedor, vende para Minas Gerais.
+
+[06:07] Nós temos hoje uma dívida que proporcionalmente é menor do que era há oito anos atrás.
+
+[06:15] A economia de Minas ganhou participação no PIB do Brasil.
+
+[06:20] Nós temos hoje uma economia muito mais dinâmica.
+
+[06:22] Isso teve reflexo na arrecadação.
+
+[06:26] E um dado muito importante.
+
+[06:28] Eu assumi, Renata, não sei se você tem esse dado aí, com um déficit de 11 bilhões em 2018.
+
+[06:36] Eu saí com superávit de 5 bilhões.
+
+[06:39] Ou seja, o Estado gastando menos do que arrecada.
+
+[06:44] E antes gastava-se muito mais do que arrecadava.
+
+[06:47] O ajuste foi feito.
+
+[06:49] Hoje, todo fornecedor do Estado, todo funcionário, todo aposentado recebe em dia.
+
+[06:56] E a dívida está parcelada em 30 anos.
+
+[07:00] Então, agora nós temos um fluxo de caixa.
+
+[07:03] Antes, o que nós tínhamos era a dívida vencida.
+
+[07:07] Ninguém vendia.
+
+[07:08] Quando eu assumi, não havia nem medicamento na rede pública.
+
+[07:12] Agora, candidato, o senhor terminou a sua gestão com o pior caixa do país.
+
+[07:16] Um rombo de 11 bilhões de reais.
+
+[07:24] O coordenador de políticas econômicas da sua campanha, o Carlos da Costa, ele promete um ajuste fiscal de 2% do PIB, algo em torno aí de 260 bilhões de reais.
+
+[07:38] Para atingir essa meta, entre outras medidas, o senhor está prometendo privatizar Petrobras, Banco do Brasil, Caixa Econômica Federal e todas as outras estatais.
+
+[07:50] Só que durante os sete anos da sua gestão em Minas, o senhor tentou e não conseguiu vender a CEMIG, que é a maior estatal do Estado.
+
+[07:59] Se não foi possível vender a CEMIG, como é que o senhor pretende conseguir maioria no Congresso Nacional para vender, repito, estatais do porte do Banco do Brasil, da Caixa e da Petrobras?
+
+[08:06] Quem acompanhou o meu governo em Minas sabe que eu vendi, entre participações e a empresa, 118.
+
+[08:17] Inclusive, algumas muito conhecidas aqui no Rio de Janeiro, onde eu estou, que foi a Light.
+
+[08:31] A Elibras, que o Estado tinha participação, a Companhia Brasileira de Lítio, no Nordeste de Minas Gerais, e mais recentemente a Copasa.
+
+[08:40] Lembrando que nós tivemos um governador no passado, que fez uma mudança na Constituição Mineira, que fazia com que qualquer estatal que fosse ser vendida, precisava de três quintos de aprovação da Assembleia.
+
+[08:49] E nós conseguimos esses três quintos recentemente e vendemos a Copasa.
+
+[08:55] Ficou faltando uma empresa só, que é o que você falou.
+
+[08:59] Todas as outras foram vendidas.
+
+[09:02] E lembrando um detalhe importantíssimo.
+
+[09:10] Durante a minha gestão, a empresa de saneamento de Minas, que é a Copasa, e a empresa de energia de Minas, que é a Semig, valorizaram estrondosos 300%.
+
+[09:18] Porque não teve roubalheira, não teve corrupção.
+
+[09:21] Foi uma gestão profissional, valorizando o patrimônio do mineiro.
+
+[09:26] E eu vou fazer o mesmo no Brasil.
+
+[09:28] As empresas brasileiras hoje estão subavaliadas porque tem uma gestão muito ruim.
+
+[09:40] Agora, candidato, falando em gestão, eu quero entrar mais detalhes para saber da sua proposta sobre justamente ajuste fiscal.
+
+[09:41] E a gente precisa falar de salário mínimo.
+
+[09:44] O senhor ser eleito presidente mudaria a atual política de ganho real do salário mínimo?
+
+[09:49] Renata, eu garanto que ninguém vai ter perda.
+
+[09:53] Se tiver inflação, nós daremos toda a inflação.
+
+[10:09] É um absurdo um aposentado não ter a reposição inflacionária, ou pior, ficar sem receber a aposentadoria, como aconteceu em Minas Gerais, com mais de 300 mil.
+
+[10:12] Mas além da inflação, teria o ganho com relação ao crescimento dos dois anos anteriores, como é atualmente?
+
+[10:17] Se a economia estiver indo bem, se nós tivermos as contas equilibradas, sim.
+
+[10:23] Porque o que eu quero muito é que a taxa de juros caia.
+
+[10:27] Você disse muito bem, a dívida do Brasil só tem crescido, cerca de 10 trilhões de reais.
+
+[10:34] Com a taxa de juros atual 14%, isso representa 1 trilhão e 400 bilhões de juros por ano.
+
+[10:43] Com um governo sério, com credibilidade, combatendo corrupção, fraudes, essa taxa cai para 6%.
+
+[10:52] Só aí nós vamos ter uma economia de 800 bilhões por ano.
+
+[10:56] É uma questão de credibilidade.
+
+[10:59] Um governo com gestão consegue avançar na redução de gastos.
+
+[11:03] Gastos com saúde e educação.
+
+[11:05] O senhor pretende manter as regras que vinculam os pisos às receitas?
+
+[11:09] Quero manter e quero debater também.
+
+[11:13] Nós temos um país que está envelhecendo.
+
+[11:15] Nós temos cidades que têm uma diferença brutal.
+
+[11:19] Cidades do interior de onde eu venho, que às vezes ficam idosos.
+
+[11:23] E temos cidades no centro-oeste, onde tem as novas fronteiras agrícolas, onde tem muita gente jovem.
+
+[11:30] E os prefeitos, principalmente os prefeitos, que são mais de 5.500 em todo o Brasil, têm tido muita dificuldade.
+
+[11:40] Tem lugar que não tem criança e jovem e ele está inventando programa para a educação.
+
+[11:46] E tem lugar que tem muito mais aposentados.
+
+[11:49] Nós temos que fazer algo balanceado.
+
+[11:52] O Brasil fez algo que é assim, uma roupa única para todo mundo.
+
+[11:56] Mas tem gente muito magro e gente que não é tão magro assim.
+
+[12:00] Fica muito difícil para os prefeitos, principalmente, estarem fazendo essa gestão.
+
+[12:05] O senhor defende um Estado mais enxuto.
+
+[12:18] Mas em 2023, durante a sua gestão, o senhor concedeu um reajuste de salário de 300% para o seu salário, para o salário do vice e também para todos os secretários.
+
+[12:21] E nesse mesmo ano, 2023, os servidores públicos não receberam aumento.
+
+[12:27] Eu pergunto ao senhor por que essa diferença de tratamento?
+
+[12:31] Bom, tem que ficar muito claro essa questão.
+
+[12:35] Primeiro, eu não recebi nenhum aumento porque sempre fui um governador voluntário.
+
+[12:43] Desde o primeiro dia, em janeiro de 2019, tudo aquilo que eu recebi, eu repassei para as APAES.
+
+[12:50] Mais de 70, 80 APAES em Minas Gerais receberam essa doação minha.
+
+[12:56] E eu tinha de fazer e fui o único que tive coragem.
+
+[13:11] Porque o que acontecia em Minas é que um secretário de educação, cuja pasta tem 200 mil funcionários, isso mesmo, 200 mil, recebia menos do que o secretário de educação de uma cidade desse tamanzinho aqui.
+
+[13:17] ninguém queria ir trabalhar no governo de Minas.
+
+[13:21] É como se um sargento da polícia militar recebesse mais do que um coronel.
+
+[13:27] Ninguém quer ser coronel.
+
+[13:28] Eu fui o único que teve coragem.
+
+[13:30] Agora, o senhor está dizendo que o senhor doou o seu salário.
+
+[13:33] Mas e o vice-governador e todos os outros secretários devolveram os salários?
+
+[13:39] Não.
+
+[13:40] Esse reajuste de 300%?
+
+[13:42] Então, eu assumi esse compromisso e o levei adiante.
+
+[13:46] Agora, é o que eu estava dizendo.
+
+[13:56] Se nós não tivéssemos um salário que é a média do Brasil, lembrando que ninguém, ninguém ficou acima da média do Brasil, se pegar hoje o salário de um secretário de Minas,
+
+[14:11] de educação, de cultura, etc., é o mesmo, e pegar estados vizinhos, São Paulo, Rio, Espírito Santo, Paraná, Goiás, eles ganham praticamente igual a mesma coisa.
+
+[14:16] E foi necessário porque, caso contrário, nós não teríamos como atrair pessoas boas.
+
+[14:30] O que adianta eu estar consertando o estado e falar para um secretário de educação e para Minas Gerais, o que ele ganhar lá é menos do que ele ganharia em uma cidade de 5 mil habitantes.
+
+[14:41] Mas, candidato, sobre esse aumento que o senhor deu para o governador, para o senhor, para o vice, para os secretários de 300%, o senhor disse que não tinha feito um reajuste desde 2007 a 2023.
+
+[14:45] Mas, nesse período, os servidores receberam um aumento só de 54%.
+
+[14:51] Por que essa diferença, 300% para 54% dos demais servidores?
+
+[15:02] Exatamente porque os salários dos secretários, teve um governador em Minas que reduziu o salário dele e dos secretários pela metade.
+
+[15:13] Lá em 2002, 2004, não sei exatamente a data, numa medida populista.
+
+[15:15] E, desde então, o que passou a acontecer?
+
+[15:18] Um detalhe importantíssimo aqui.
+
+[15:21] Secretário, antes de eu ser governador, recebia penduricalhos.
+
+[15:26] Constava lá que ele recebia 7 mil reais.
+
+[15:29] Mas, ele tinha mais isso, mais aquilo.
+
+[15:32] Comigo, não teve penduricalho, não.
+
+[15:38] Hoje, se um secretário de Minas recebe 28 mil, é mais ou menos isso, é aquele valor e pronto.
+
+[15:42] Antes, ele recebia 7 mil e mais 50 mil de penduricalhos.
+
+[15:47] Resolve alguma coisa?
+
+[15:48] Então, hoje tem transparência.
+
+[15:50] Inclusive, um dado importantíssimo.
+
+[15:54] Minas Gerais, quando eu assumi o governo, era o 22º lugar em transparência.
+
+[15:58] E, depois, foi para primeiro lugar, porque nós gostamos de fazer o certo.
+
+[16:07] Candidato, vamos falar de reformas, porque elas também interessam muito ao eleitor, são importantes para o país.
+
+[16:16] O senhor está propondo uma reforma da Previdência que faça um reajuste automático na idade mínima, à medida que a expectativa de vida aumentar.
+
+[16:19] E o senhor também defende mudança nas regras para trabalhadores rurais e militares.
+
+[16:27] Então, quero começar perguntando para o senhor, o que é que o senhor prevê para a idade mínima de homens e mulheres?
+
+[16:32] O seu plano não traz detalhes em relação a isso.
+
+[16:35] O que eu quero, em primeiro lugar, é aumentar o grau de formalização do mercado de trabalho.
+
+[16:55] Hoje, 40 milhões de brasileiros que trabalham não têm carteira assinada, não está contando o tempo, ele não contribui, se ele fica doente, ele não tem o auxílio doença que dá garantia para ele.
+
+[17:06] Eu quero simplificar as leis trabalhistas, criar um regime de trabalho por hora, como existe em todo o país sério, desenvolvido, e com isso formalizar.
+
+[17:19] Hoje, eu conheço uma série de estudantes que estudam de segunda a sexta, querem ter uma atividade no fim de semana, eles só conseguem bico.
+
+[17:28] Mas, candidato, falando sobre a reforma da Previdência, respondendo a pergunta do Tralho, o senhor vai mexer na idade mínima?
+
+[17:30] Por hora, não.
+
+[17:31] Nós vamos mexer à medida que a expectativa de vida aumentar.
+
+[17:36] E é importante em tempos de eleição...
+
+[17:37] E depois de ver se não conseguimos arrecadar mais, com maior formalização, entende?
+
+[17:42] É importante a gente trazer, então, os detalhes.
+
+[17:44] E para o trabalhador rural, e que mudanças o senhor faria se for presidente na Previdência dos militares?
+
+[17:50] Militar teria uma idade mínima para se aposentar, se o senhor for eleito?
+
+[17:56] Tudo isso vai depender do sucesso no ajuste das contas.
+
+[18:01] Como eu falei, só de juros nós vamos conseguir uma economia de R$ 800 bilhões por ano.
+
+[18:17] Com essa projeção de um governo sério, que vai combater fraudes, que vai combater corrupção, cujo bom exemplo vai vir de cima, eu venho do setor privado.
+
+[18:22] Eu pulei para o outro lado do balcão.
+
+[18:25] Eu vi como o Estado carece de boa gestão e pode melhorar a eficiência.
+
+[18:32] O que eu vi de desperdício, contratos que eu consegui na renovação, reduzia às vezes o valor em 90%.
+
+[18:40] Dá para fazer um ajuste muito grande e a aposentadoria vai depender muito disso.
+
+[18:47] Agora o brasileiro já trabalha muito.
+
+[18:49] Eu não quero o brasileiro trabalhando mais, eu quero é a renda do brasileiro aumentando.
+
+[18:54] O brasileiro só tem tido más notícias do governo federal.
+
+[19:00] E eu vou levar notícias boas.
+
+[19:09] Na minha vida, eu criei 5 mil empregos na empresa, como governador, 1 milhão de empregos, eu sei levar prosperidade.
+
+[19:11] Eu ralo desde criança.
+
+[19:13] Eu sei qual que é a vida real do brasileiro.
+
+[19:16] Nunca tivemos um presidente empreendedor que teve de ralar tanto quanto eu.
+
+[19:22] Eu venho do mundo real.
+
+[19:24] Agora há pouco o senhor falou em corrupção.
+
+[19:32] Durante a sua gestão, a Polícia Federal revelou um esquema bilionário de corrupção infiltrado em órgãos estaduais.
+
+[19:42] A Operação Rejeito, ela identificou uma organização criminosa que atuou para obter vantagens econômicas por meio de crimes ambientais, por meio de lavagem de dinheiro, de corrupção também.
+
+[19:55] E a Polícia Federal, ao longo dessa investigação, afirmou que esse esquema, ele se intensificou no segundo ano do seu primeiro mandato e nos seguintes órgãos.
+
+[20:00] Vou ler aqui para o senhor.
+
+[20:08] Secretaria de Meio Ambiente, Fundação Estadual do Meio Ambiente, Instituto Estadual de Florestas, Instituto Estadual de Patrimônio e mais de 20 mineradoras ou empresas com projetos de mineração.
+
+[20:22] Pergunta então ao senhor como é que um esquema criminoso desse tamanho passou despercebido em pelo menos cinco anos da sua gestão.
+
+[20:26] Movimentou mais de quatro bilhões de reais esse esquema criminoso.
+
+[20:38] Fica aqui o meu repúdio a esses bandidos que, além de estarem recebendo dinheiro, estavam destruindo o meio ambiente.
+
+[20:49] A Controladoria Geral do Estado, que é subordinada a mim, já havia levantado suspeitas e estava investigando essa quadrilha.
+
+[20:52] A minha secretária de meio ambiente, na ocasião, Amarília Melo, foi inclusive ameaçada de morte.
+
+[21:00] E eu quero que tudo seja apurado e que esses bandidos morfem na prisão.
+
+[21:13] Num Estado que tem 300 mil funcionários, como é o caso do Estado que eu administrei, sempre está sujeito a surgir algumas frutas podres.
+
+[21:18] E lembrando que nós tomamos todas as medidas.
+
+[21:21] Eu não quero que nada seja encoberto, ninguém seja protegido, como muitas vezes acontece lá em Brasília.
+
+[21:28] Investigação, polícia, prisão, punição.
+
+[21:32] Agora, candidato, uma dessas mineradoras envolvidas nesse escândalo de corrupção já tinha 17 autuações por crimes ambientais.
+
+[21:42] E mesmo assim, em 2024, o seu governo autorizou que ela operasse numa área tombada, a Serra do Curral.
+
+[21:50] Então, eu pergunto ao senhor se já não existiam indícios suficientes para alertar sobre possíveis irregularidades.
+
+[21:58] Toda decisão que foi tomada no meu governo, nós levamos ela para o lado técnico.
+
+[22:06] Um motorista que tem diversas autuações por excesso de velocidade, muitas vezes ele continua dirigindo.
+
+[22:20] Lembrando que eu fui o governador da tragédia de Brumadinho e falei, Minas não vai mais passar por nenhuma tragédia.
+
+[22:25] E nós tomamos todas as medidas necessárias para reduzir o risco.
+
+[22:31] Das 54 barragens que ofereciam risco, 18 já foram desmontadas, descomissionadas, que é o nome que se usa.
+
+[22:40] Minas Gerais, em termos ambientais, é cada vez um estado mais seguro hoje.
+
+[22:47] E aplicamos as maiores multas da história para as empresas que causaram essas tragédias também.
+
+[22:54] Candidato, a Polícia Federal, nesse escândalo ainda, indiciou 34 pessoas.
+
+[23:00] Entre elas, Rodrigo Gonçalves Franco.
+
+[23:04] Ele era presidente da Fundação Estadual do Meio Ambiente e foi nomeado pelo senhor.
+
+[23:09] Pergunta ao senhor se não chegou ao seu conhecimento que ele estava fazendo coisa errada.
+
+[23:15] Não chegou.
+
+[23:15] E quando chegou, eu falei, demissão agora, investigação, polícia, prisão, se possível.
+
+[23:23] É o que eu quero.
+
+[23:25] Eu trabalhei em empresa, eu fui roubado na empresa também.
+
+[23:28] O ser humano sempre tem alguém que às vezes te decepciona.
+
+[23:32] E aconteceu nesse caso.
+
+[23:34] Agora que fique muito, muito claro.
+
+[23:37] Eu falei, quero tudo investigado.
+
+[23:40] Quero todas as frutas podres colocadas para fora.
+
+[23:44] Diferente do que acontece.
+
+[23:46] E no meu governo, tirando talvez esse escândalo, não teve outro não.
+
+[23:51] Tanto é que eu acho que ele aparece tanto, porque foi o único.
+
+[23:54] Candidato, eu quero a sua avaliação sobre um outro tema muito relevante.
+
+[24:04] O Supremo Tribunal Federal julgou que houve uma tentativa de golpe de Estado para impedir a alternância de poder depois das eleições de 2022.
+
+[24:08] O senhor já questionou publicamente essa decisão do Supremo Tribunal Federal.
+
+[24:12] Prometeu, inclusive, anistia aos envolvidos nos ataques em Brasília se o senhor foi eleito.
+
+[24:24] Diante das evidências descobertas pela Polícia Federal, o Supremo condenou o ex-presidente Jair Bolsonaro, entre outros réus, por tentativa de golpe de Estado.
+
+[24:27] O senhor já disse que discorda desse veredito.
+
+[24:30] O senhor pode explicar por quê?
+
+[24:31] Explico sim.
+
+[24:42] Eu discordo porque não existe na história da humanidade uma tentativa de golpe ou um golpe de Estado que tenha sido um movimento de vandalismo, de depredação, como aquele que aconteceu em janeiro de 2023.
+
+[24:52] Exatamente.
+
+[24:55] Eu darei anistia ou pelo menos, no mínimo, um tribunal que não seja político, um tribunal que seja judicial.
+
+[25:07] Porque o que nós vimos no Brasil foi perseguição.
+
+[25:10] Uma moça que sujou um monumento público pegar 14 anos de prisão.
+
+[25:15] Candidato, a justiça determinou que houve sete crimes.
+
+[25:19] Eu vou ler aqui para o senhor.
+
+[25:20] Tentativa de abolição do Estado Democrático de Direito.
+
+[25:24] Golpe de Estado.
+
+[25:25] Dano qualificado.
+
+[25:27] Associação criminosa.
+
+[25:29] Incitação ao crime.
+
+[25:30] Organização criminosa armada.
+
+[25:33] Deteroração do patrimônio tombado.
+
+[25:35] Foram 1.400 condenações.
+
+[25:38] Eu discordo.
+
+[25:40] Na minha opinião, comete crime quem leva o crime adiante.
+
+[25:45] Quem fez, pensou ou até idealizou, mas não levou, para mim, não cometeu crime.
+
+[25:51] O senhor acha que esses crimes que eu enumerei aqui todos não foram adiante?
+
+[25:56] O de sujar o monumento foi adiante, sim.
+
+[25:58] A moça Débora, que inclusive eu conheci a irmã, o dela foi adiante.
+
+[26:03] Ela foi lá...
+
+[26:04] Não foi apenas sujar o monumento.
+
+[26:06] Não foi apenas sujar o monumento.
+
+[26:08] E os outros todos?
+
+[26:10] O senhor quer que eu leia novamente?
+
+[26:11] Por favor.
+
+[26:18] Incitação ao crime, organização criminosa armada, deterioração de patrimônio tombado, dano qualificado...
+
+[26:19] Deteroração.
+
+[26:20] Tudo bem.
+
+[26:21] Eu acho, Renata, que deve se punir pela depredação, pelo vandalismo.
+
+[26:27] Agora, teve tiro disparado?
+
+[26:30] Não teve nenhum movimento.
+
+[26:33] Na minha opinião, foi um julgamento nitidamente político.
+
+[26:38] Vale lembrar, eu sou totalmente democrata.
+
+[26:42] Fui eleito pela urna eletrônica.
+
+[26:45] Confio na urna eletrônica, que poderia ser melhorada se tivesse impresso, mas confio.
+
+[26:57] Agora, o que nós temos no Brasil hoje, nós estamos vendo, são tribunais que estão fazendo mais política do que propriamente justiça.
+
+[27:01] O senhor está em alerta por causa da queda nos índices de vacinação infantil.
+
+[27:11] O Ministério da Saúde informou que nenhum estado bateu todas as metas de imunização.
+
+[27:21] O senhor já disse que é contra a vacinação obrigatória de crianças, que essa decisão cabe aos pais.
+
+[27:30] Mas eu pergunto ao senhor se essa decisão ou um descuido pessoal de não vacinar acaba colocando em risco todo o conjunto da sociedade, como está acontecendo agora no surto de sarampo.
+
+[27:36] Coloca assim.
+
+[27:38] Quem está nos acompanhando aqui fique sabendo.
+
+[27:42] Eu tomei todas as vacinas da Covid.
+
+[27:46] Acredito na ciência.
+
+[27:48] Recomendo que tome.
+
+[27:50] Em Minas, eu recomendei que as crianças tomassem.
+
+[28:00] Agora, eu não posso permitir que uma família, uma criança seja perseguida porque alguém não tomou a vacina.
+
+[28:10] Então, eu tenho em mim essa questão de que ser obrigatório, se transformar num crime e isso não é o que pode acontecer num país democrático.
+
+[28:20] Agora, candidato, diante, repito aqui, de um surto de sarampo, São Paulo com 23 casos confirmados, qual é o papel do governo?
+
+[28:22] E se a maioria não se vacinar, a vacina perde o efeito, né?
+
+[28:37] O papel do governo é fazer campanha de conscientização, é vacinar o maior número de pessoas possíveis, porque caso contrário, podemos ter um surto.
+
+[28:40] Agora, o que me preocupa muito é a questão da segurança pública.
+
+[28:44] O que esse governo tem feito com relação a bandidos, né?
+
+[28:47] Que estão matando sem parar muito mais do que qualquer doença.
+
+[28:51] Então, o que eu quero é o governo ir atrás de bandido, não ir atrás de quem falou.
+
+[28:58] Eu não concordo com a vacina.
+
+[29:00] É um direito num país democrático.
+
+[29:01] Candidato, a gente vai tratar de segurança pública daqui a pouco.
+
+[29:05] Nós vamos agora para um rápido intervalo.
+
+[29:07] Vamos parar o cronômetro para fazer esse rápido intervalo.
+
+[29:12] Estamos entrevistando o candidato Romeu Zema, presidência da República.
+
+[29:16] Voltamos em instantes.
+
+[29:34] Estamos de volta com o segundo bloco da entrevista com o candidato a presidente da República, Romeu Zema, do Partido Novo.
+
+[29:36] Candidato, segurança pública.
+
+[29:38] O senhor se diz um admirador da política de segurança do presidente Naíbe Bukele.
+
+[29:44] Ele reduziu a violência em El Salvador.
+
+[29:47] Mas essa política de segurança é alvo de graves denúncias.
+
+[29:52] Há relatos de prisões arbitrárias em massa, de tortura, desaparecimento, morte sob custódia do Estado.
+
+[30:01] Então, eu pergunto ao senhor se esse modelo inspira as suas propostas para a segurança pública.
+
+[30:15] Eu fui a El Salvador, inclusive sou o único candidato que esteve lá em maio do ano passado para conhecer o avanço extraordinário que aquele país teve na redução de homicídios.
+
+[30:23] 99% de redução de homicídios em quatro anos.
+
+[30:28] O Brasil, há décadas, é o recordista mundial de homicídios.
+
+[30:34] O ano passado, mais de 40 mil.
+
+[30:37] É como se aqui no Brasil, todos os dias, um avião de grande porte caísse.
+
+[30:43] E isso está normalizado.
+
+[30:45] Não sei se só pelo governo ou até pela sociedade.
+
+[30:49] Eu vou mudar isso.
+
+[30:51] É um desperdício, é uma tragédia humana.
+
+[30:55] 40 mil famílias vivem uma tragédia no Brasil.
+
+[30:59] Perde o filho, perde o pai.
+
+[31:07] É uma tragédia social, uma tragédia econômica, porque depois é a Previdência que paga, é o sistema de saúde sobrecarregado.
+
+[31:10] O que foi feito lá pode ser adaptado e servir ao Brasil.
+
+[31:15] Eu vou levar segurança para os brasileiros.
+
+[31:19] Eu já fui assaltado três vezes, porque eu não fico em gabinete em Brasília.
+
+[31:23] Eu ando nas ruas.
+
+[31:24] Então, três vezes levar meu notebook, celular.
+
+[31:28] Eu já passei por essa experiência que muitos brasileiros já passaram.
+
+[31:33] Para mim, bandido é atrás das grades.
+
+[31:36] No Brasil, hoje, na audiência de custódia, todo mundo é solto.
+
+[31:40] O que eu quero é que na terceira ocorrência seja já decretada uma prisão preventiva.
+
+[31:45] E vou levar paz às comunidades que hoje são vítimas de extorsão.
+
+[31:59] Tem estatísticas que apontam que 60 milhões de brasileiros vivem em área controlada pelas facções e crimes organizados, que eu vou enquadrar como organizações terroristas.
+
+[32:06] Esse povo vai passar a ter acesso à cidadania.
+
+[32:10] Fala-se tanto em soberania do Brasil, o Brasil não foi invadido por um outro país, não.
+
+[32:16] Mas foi dado um terço dele ao crime organizado.
+
+[32:22] E vou fazer todo o esforço.
+
+[32:24] Quero retomar a pergunta que eu fiz ao senhor e vou citar algumas decisões do Naíbe Bukele.
+
+[32:29] O senhor concorda com essas medidas?
+
+[32:52] Não concordo.
+
+[33:00] Nós temos no Brasil um sistema judiciário robusto, só que extremamente caro e lerdo, que eu também quero reformar.
+
+[33:09] No dia que nós tivermos aqui uma justiça ágil, uma justiça que julgue rápido, nós vamos ter condição de colocar bandido atrás da grade.
+
+[33:13] Está aí tanto recurso tecnológico, inteligência artificial, etc.
+
+[33:18] E o judiciário mais caro do mundo e um dos mais lentos.
+
+[33:23] O que eu quero é que a justiça seja feita para os brasileiros de bem.
+
+[33:28] 40 mil mortos não é pouca coisa.
+
+[33:31] Mas se o senhor não concorda com essas medidas, por que o senhor se inspira na política do Naíbe Bukele?
+
+[33:37] O que eu vi lá foi o seguinte.
+
+[33:39] Colocaram os bandidos atrás das grades e, com isso, os homicídios caíram 99%.
+
+[33:48] Será que não é isso que nós queremos aqui no Brasil?
+
+[33:50] Com essas medidas?
+
+[33:52] Nós podemos fazer prisões aqui dentro da nossa lei.
+
+[33:56] As leis de lá são outras.
+
+[33:57] Agora, por que que aqui, muitas vezes, um estuprador, um serial killer, tem benefício para a saídinha e mata e estupra mais alguém?
+
+[34:09] Isso eu sou o contrário.
+
+[34:10] Mas esse modelo é o modelo de El Salvador do Naíbe Bukele.
+
+[34:15] O que eu vi lá foram as pessoas vivendo muito melhor.
+
+[34:20] Eu fui em comunidades lá e as pessoas falaram, a minha vida saiu da água para o vinho.
+
+[34:27] É até algo que eu acho que a nossa imprensa deveria ir estar mostrando para o brasileiro.
+
+[34:32] Porque El Salvador, 300 mil salvadoreños que moravam fora voltaram para El Salvador.
+
+[34:39] Será que o país piorou?
+
+[34:40] Nós temos 5 milhões de brasileiros fora hoje.
+
+[34:43] Muitos foram embora por causa da violência.
+
+[34:45] Para mim, não tem nenhum indício que fala mais que o país melhorou do que o retorno das pessoas.
+
+[34:51] E o Brasil continua mandando gente para fora.
+
+[34:54] Candidato, continuando em segurança pública, a gente sabe que é fundamental investir em informação e inteligência.
+
+[35:08] Mas o anuário, no entanto, o anuário brasileiro mostra que os investimentos nesse setor, informação e inteligência, no seu governo de Minas Gerais, caíram de 533 milhões para 200 milhões.
+
+[35:13] Por que reduzir esse tipo de investimento que é tão importante para combater os crimes que assolam os milhões de brasileiros?
+
+[35:22] Renata, durante todo o meu governo, nós tivemos quedas contínuas na criminalidade do Estado.
+
+[35:31] Mas o senhor não acha importante essa rubrica?
+
+[35:33] Acho importantíssimo.
+
+[35:35] A contabilidade do Estado, até muitas vezes eu já fui questionado, o investimento pode cair numa outra sigla e não ser considerado.
+
+[35:48] Você disse inteligência, não é isso?
+
+[35:50] Na área de segurança pública.
+
+[35:52] Talvez o investimento no ano em que se comparou foram em viaturas e não inteligência.
+
+[35:59] E muitas vezes se levanta aquele ano ali.
+
+[36:02] Os investimentos em segurança pública em Minas Gerais cresceram ao longo do meu governo.
+
+[36:07] Talvez nesse período, numa rúbrica, tenha caído.
+
+[36:10] Foi durante o governo todo, é uma formação e inteligência.
+
+[36:13] Especificamente essas rubricas caíram os investimentos.
+
+[36:16] Tem outra questão também.
+
+[36:17] Quem constrói uma casa nesse ano, o ano que vem a despesa com construção diminui.
+
+[36:24] Talvez a implantação tenha sido no início do meu governo e depois foram manutenções.
+
+[36:30] Então tem toda essa questão que não pode ser simplesmente a despesa que caiu não está investindo.
+
+[36:38] Mas se enquanto a despesa foi alta você estava adquirindo o sistema implantando, é lógico que ela vai cair depois.
+
+[36:44] Mas o que interessa é o resultado.
+
+[36:47] E um detalhe importantíssimo.
+
+[36:49] Minas sempre foi, como eu encontrei agora ali uma pessoa que me atendeu, um estado de onde os mineiros iam embora.
+
+[36:58] E no meu governo brasileiro que vai mais para Minas numa proporção muito maior do que mineiros.
+
+[37:04] Saindo, as pessoas vão para onde tem segurança pública, para onde tem prosperidade.
+
+[37:08] Candidato, e políticas contra o feminicídio?
+
+[37:10] Em cinco anos do seu governo, o número de mulheres assassinadas?
+
+[37:14] Pelo fato de serem mulheres, só cresceu.
+
+[37:17] Diante desses números, qual é o seu plano?
+
+[37:19] Qual é, se o senhor for eleito candidato a presidente, que compromisso o senhor assumiria no combate à violência contra as mulheres?
+
+[37:27] Eu tenho uma série de programas contra as mulheres que inclusive eu levei adiante.
+
+[37:32] Primeiro ampliar o número de delegacias especializadas no atendimento às mulheres.
+
+[37:40] Ter lá pessoas, mulheres capacitadas a estar dando esse atendimento.
+
+[37:45] Casas de acolhimento.
+
+[37:46] Uma mulher que foi vítima de violência doméstica precisa ter um lugar para onde ficar, não pode voltar para casa.
+
+[37:56] Recursos tecnológicos.
+
+[38:10] Colocamos tornozeleiras eletrônicas nos agressores e as mulheres, cujo agressor se aproxima menos de 200 metros, tem o alarme soado e automaticamente já chama a polícia.
+
+[38:15] E principalmente conscientização nas escolas.
+
+[38:19] Toda criança deve ser conscientizada de que caso tenha violência em casa, precisa considerar isso anormal.
+
+[38:30] Como é que o senhor explica então esses números que cresceram em cinco anos do seu governo de feminicídio?
+
+[38:36] Mais uma vez, talvez você pegou um período em que os dados demonstram isso, mas ao longo do tempo...
+
+[38:44] Em 2020, 2021, 2022, 2023 e 2025.
+
+[38:49] O meu governo começou...
+
+[38:51] Em 2022 subiu quase 15% o número de feminicídios no seu governo.
+
+[38:55] Em 2018, quando eu assumi, eu sempre pego a estatística antes do meu governo e no meu governo.
+
+[39:04] E eu posso te assegurar que nós reduzimos.
+
+[39:06] Reduzimos.
+
+[39:07] Algum repique sempre pode acontecer.
+
+[39:10] Agora, o que vale é a tendência ao longo do tempo.
+
+[39:14] Mas todas as medidas, todos esses planos foram feitos e Minas, vale lembrar, tem uma taxa menor do que a média Brasil.
+
+[39:23] Candidato, falar agora sobre educação.
+
+[39:26] A sua proposta de governo promete ampliar a oferta de ensino integral.
+
+[39:32] Mas em Minas, este ano, 10% de todos os alunos da rede estadual estão em escolas desse tipo.
+
+[39:39] A meta nacional era de pelo menos 25%.
+
+[39:43] Na nossa série do JN Brasil que ensina, o Todos pela Educação afirmou que é fundamental universalizar o ensino integral.
+
+[39:52] Pergunto por que no seu governo em Minas, o senhor não conseguiu atingir nem metade da meta brasileira?
+
+[40:00] Por um motivo muito simples.
+
+[40:04] Quando eu assumi o governo, em janeiro de 2019, 70 escolas em Minas tinham ensino médio em tempo integral.
+
+[40:13] Quando eu saí, 800.
+
+[40:15] Acho que nenhum estado no Brasil teve esse avanço.
+
+[40:19] Eu herdei um estado arruinado, massa falida, em que teto das escolas, telhado, estavam desabando.
+
+[40:28] Saímos de 70 para 800.
+
+[40:31] Posso te mandar esses dados que, inclusive, a Todos pela Educação confirma.
+
+[40:37] Foi o estado que mais teve esse avanço.
+
+[40:40] Alfabetização.
+
+[40:41] O estado que mais avançou.
+
+[40:44] E criamos ainda o Trilhas de Futuro, que é ensino técnico profissionalizante em escola privada particular para os jovens.
+
+[40:54] De acordo com aquilo que ele quer.
+
+[40:56] O estado dá a bolsa de estudo.
+
+[40:59] E fomos um dos estados que mais avançou na nota da avaliação do Ministério da Educação.
+
+[41:08] Que compromisso, então, que o senhor estabelece para o governo federal se eleito em relação ao ensino integral, que é tão importante para o Brasil hoje?
+
+[41:15] A universalização.
+
+[41:18] Países desenvolvidos, países sérios.
+
+[41:22] A criança fica na escola o dia todo.
+
+[41:25] É o que nós estamos fazendo em Minas.
+
+[41:27] O que o senhor consegue fazer em quatro anos?
+
+[41:30] Em Minas nós multiplicamos.
+
+[41:32] Não, no país, caso eleito.
+
+[41:34] Eu vou avançar o que for possível.
+
+[41:36] Eu não sei quantas escolas hoje no Brasil nós temos que ainda não tem o ensino integral.
+
+[41:42] Mas, como eu falei, em Minas nós multiplicamos por 12, de 70 para mais de 800.
+
+[41:49] Ou seja, a meta é a universalização, mas em quatro anos o senhor se compromete a aumentar em quantos por cento as escolas de tempo integral?
+
+[41:57] Me comprometo, como eu fiz em Minas, dez vezes.
+
+[42:02] Dez vezes.
+
+[42:03] Porque em Minas não tinha, igual eu disse.
+
+[42:07] Em Minas nós não tínhamos.
+
+[42:09] Então, no mínimo isso.
+
+[42:10] O avanço que eu fiz em Minas, eu assumo o compromisso no Brasil.
+
+[42:15] Ou seja, vai universalizar.
+
+[42:17] Candidato, nós gostaríamos que o senhor tivesse agora um momento para as suas considerações finais.
+
+[42:22] Perfeito.
+
+[42:23] Primeiro, eu quero agradecer aqui mais uma vez.
+
+[42:29] Lembrar quem nos acompanhou aqui que eu sou do Partido Novo, o partido que mais combate corrupção no Brasil.
+
+[42:33] Temos um partido pequeno, mas que faz toda a diferença.
+
+[42:38] Temos candidatos em todos os estados do Brasil.
+
+[42:47] E eu quero lembrar que, com ótimos nomes, Marcelo Van Raten, Ricardo Salles, Deltan Dallagnol, vamos fazer a diferença como já fizemos em Minas Gerais.
+
+[42:57] Eu venho do setor privado, sempre criei empregos, mais de 5 mil.
+
+[43:03] A empresa que eu constituí está lá funcionando sem a minha presença.
+
+[43:08] Sou empreendedor, como a maioria dos brasileiros.
+
+[43:11] E vou combater, como ninguém, privilégios, corrupção, como eu fiz como governador de Minas Gerais.
+
+[43:25] Os privilégios do judiciário, o luxo de Brasília, o pagador de impostos, que rala tanto, merece ter mais consideração no Brasil.
+
+[43:30] Não quero mais essa história de político rico e povo pobre.
+
+[43:36] Muito obrigado.
+
+[43:37] Muito obrigado, candidato, pela presença do senhor aqui.
+
+[43:41] O nosso próximo entrevistado será amanhã.
+
+[43:45] Ronaldo Caiado, do PSD, candidato à presidência da República.
+
+[43:49] Muito obrigado aqui também pela sua companhia.
+
+[43:52] E uma boa noite para você e até amanhã.
+
+[43:54] Obrigada, boa noite e até amanhã.
+
+[44:00] E aí

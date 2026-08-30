@@ -1,0 +1,173 @@
+### Revisão de Fatos — Rodada 2 — Entrevista JN Flávio Bolsonaro (PL)
+### Data da revisão: 30/08/2026
+### Modelo: opencode/mimo-v2.5-free
+
+---
+
+### 2
+
+**Afirmação:** "Lá em outubro de 2022, a previsão do mercado era que, neste momento, a taxa de juros no Brasil, se fosse o governo do presidente Bolsonaro, ia estar em torno de 7%, metade"
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "Boletim Focus outubro 2022 taxa Selic previsão 2026 mercado financeiro" → Boletim Focus de outubro de 2022 não está disponível retrospectivamente com essa granularidade
+- Consulta 2: "Focus previsão Selic 2026 outubro 2022 7%" → Nenhum resultado confirma previsão de 7% para 2026
+
+**Evidência encontrada:**
+Não foi possível encontrar registros públicos do Boletim Focus de outubro de 2022 que confirmem a projeção de taxa Selic de 7% para 2026. As projeções de mercado para a Selic em 2026 variaram significativamente ao longo do tempo, e em outubro de 2022 as expectativas de longo prazo eram de grande incerteza. A projeção de 7% não foi encontrada em fontes disponíveis.
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+A afirmação continua não podendo ser verificada. Projeções de mercado de longo prazo (4 anos) são notoriamente incertas e o Boletim Focus de outubro de 2022 não está disponível online com a granularidade necessária para confirmar ou refutar o valor de 7%.
+
+**Fonte(s) adicional(is):**
+- Banco Central do Brasil - Boletim Focus (série histórica disponível apenas a partir de 2023 online)
+- Tribuna Financeira - "Boletim Focus atualiza a Taxa Selic: veja o que esperar até 2027" (20/04/2026) - https://tribunafinanceira.com.br/noticias/economia/selic-2026-projecao-boletim-focus.html
+
+---
+
+### 5
+
+**Afirmação:** "mais de 30 impostos criados ou aumentados só nesse atual governo"
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "mais de 30 impostos governo Lula criados aumentados 2023 2024 2025 tributária" → Poder360 (09/10/2025): "Lula aumentou impostos 27 vezes em 3 anos"
+- Consulta 2: "lista impostos governo Lula 2023 2024 2025 CNN Gazeta do Povo" → CNN Brasil (06/08/2025): lista detalhada de impostos; Gazeta do Povo: "24 vezes desde 2023"; Estadão: "30 aumentos ou criação"
+- Consulta 3: "Quantos impostos governo Lula aumentou Exame levantamento 37 medidas" → Exame (17/06/2025): "37 medidas para elevar arrecadação desde 2023"
+
+**Evidência encontrada:**
+O levantamento mais abrangente foi feito pela revista Exame (17/06/2025), que identificou 37 medidas para elevar arrecadação desde 2023. O Poder360 contabilizou 27 aumentos de impostos significativos entre 2023 e 2025. A Gazeta do Povo listou 24 aumentos. O Estadão verificou 30 aumentos ou criações. A diferença entre os números depende da metodologia (se contam apenas aumentos significativos ou também medidas menores). A afirmação de "mais de 30" é consistente com several levantamentos jornalísticos.
+
+**Classificação revisada:** RETIFICADO PARA IMPRECISO
+
+**Justificativa:**
+A afirmação de "mais de 30 impostos" é parcialmente suportada. Diversos levantamentos jornalísticos independently contaram entre 27 e 37 medidas tributárias desde 2023. O número varia conforme a metodologia: o Poder360 contou 27 aumentos significativos; o Estadão verificou 30; a Exame identificou 37 medidas. A afirmação é approximadamente correta, mas depende de como se define "imposto criado ou aumentado" vs. "medida tributária".
+
+**Fonte(s) adicional(is):**
+- Poder360 - "Lula aumentou impostos 27 vezes em 3 anos no Planalto" (09/10/2025) - https://www.poder360.com.br/poder-governo/lula-aumentou-impostos-27-vezes-em-3-anos-no-planalto
+- Exame - "Com MP dos impostos, governo Lula adotou 37 medidas para elevar arrecadação desde 2023" (17/06/2025) - https://exame.com/economia/com-mp-dos-impostos-governo-lula-adotou-ao-menos-37-medidas-para-elevar-arrecadacao-desde-2023/
+- CNN Brasil - "Veja todos os impostos e taxas que governo Lula aumentou desde a posse" (06/08/2025)
+- Estadão - "Quantos impostos o governo Lula reduziu ou eliminou?" (12/03/2026): 30 aumentos ou criações
+
+---
+
+### 14
+
+**Afirmação:** "Ele [Vorcaro] deu um patrocínio de 160 milhões de reais para um programa do Luciano Huck aqui da Globo"
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "Daniel Vorcaro patrocínio Luciano Huck Globoplay 160 milhões Editora Globo" → SBT News (29/08/2026): Flávio mencionou R$ 160 milhões na sabatina; DCM (29/08/2026): Will Bank patrocinou Domingão com Huck entre R$ 120 milhões e R$ 160 milhões
+- Consulta 2: "Vorcaro Will Bank Master patrocínio Domingão Huck Globo valor" → Revista Fórum (09/04/2026): Vorcaro patrocinou quadro no Domingão do Huck; Congresso em Foco: patrocínio estimado entre R$ 120 milhões e R$ 160 milhões
+
+**Evidência encontrada:**
+Há comprovação parcial do patrocínio. O Will Bank (controlado pelo grupo Master de Vorcaro) patrocinou o "Domingão com Huck" em acordo cujo custo foi estimado entre R$ 120 milhões e R$ 160 milhões, segundo o Diário do Centro do Mundo e o Congresso em Foco. O valor exato de R$ 160 milhões citado por Flávio está no limite superior das estimativas. Não há contrato público que confirme o valor exato.
+
+**Classificação revisada:** RETIFICADO PARA IMPRECISO
+
+**Justificativa:**
+Há comprovação de que o Will Bank (do grupo Master/Vorcaro) patrocinou o programa de Luciano Huck na Globo, com valores estimados entre R$ 120 milhões e R$ 160 milhões. O valor exato de R$ 160 milhões citado por Flávio está no limite superior das estimativas disponíveis, mas não há contrato público que confirme o montante preciso. A afirmação é approximadamente correta quanto à existência do patrocínio, mas o valor específico não está confirmado.
+
+**Fonte(s) adicional(is):**
+- Diário do Centro do Mundo - "No JN, Flávio Bolsonaro cita patrocínio de R$ 50 milhões e joga Vorcaro no colo da Globo" (29/08/2026) - https://www.diariodocentrodomundo.com.br/no-jn-flavio-bolsonaro-cita-patrocinio-de-r-r-50-milhoes-e-joga-vorcaro-no-colo-da-globo/
+- Congresso em Foco - "Flávio diz que Vorcaro deu R$ 160 milhões a Huck" (15/05/2026)
+- SBT News - "Flávio minimiza caso Vorcaro e cita patrocínio a Globo" (29/08/2026)
+
+---
+
+### 15
+
+**Afirmação:** "Patrocínio de 50 milhões reais no Grupo Globo, na Editora Globo mais especificamente"
+
+**Classificação original:** NÃO VERIFICÁVEL
+
+**Busca realizada:**
+- Consulta 1: "Vorcaro Editora Globo 50 milhões palestras Valor Econômico Nova York" → DCM: "Não há, porém, comprovação pública de um pagamento específico de R$ 50 milhões à Editora Globo nos termos apresentados por Flávio"
+- Consulta 2: "Vorcaro evento Valor Econômico Nova York patrocínio" → Revista Fórum: Vorcaro patrocinou evento do Valor Econômico em Nova York
+
+**Evidência encontrada:**
+Vorcaro efetivamente patrocinou um evento do jornal Valor Econômico (do Grupo Globo) em Nova York, conforme confirmado pela Revista Fórum e pelo Diário do Centro do Mundo. No entanto, não há comprovação pública de um pagamento específico de R$ 50 milhões à Editora Globo, conforme afirmado por Flávio. O Diário do Centro do Mundo afirmou explicitamente: "Não há, porém, comprovação pública de um pagamento específico de R$ 50 milhões à Editora Globo nos termos apresentados por Flávio."
+
+**Classificação revisada:** MANTÉM NÃO VERIFICÁVEL
+
+**Justificativa:**
+Embora haja comprovação de que Vorcaro patrocinou eventos do Grupo Globo (incluindo evento do Valor Econômico em Nova York), o valor específico de R$ 50 milhões para a Editora Globo não foi confirmado por fontes públicas. A afirmação continua não verificável com as evidências disponíveis.
+
+**Fonte(s) adicional(is):**
+- Diário do Centro do Mundo - "No JN, Flávio Bolsonaro cita patrocínio de R$ 50 milhões e joga Vorcaro no colo da Globo" (29/08/2026)
+- Revista Fórum - "Vorcaro patrocinou quadro no Domingão do Huck" (09/04/2026)
+- Jornal de Brasília - "Flávio Bolsonaro compara filme com negócios da Globo em sabatina" (29/08/2026)
+
+---
+
+### 20
+
+**Afirmação:** "O governo Lula não mandou umzinho para fazer a defesa no momento adequado" [referindo-se ao tarifaço dos EUA]
+
+**Classificação original:** FALSO
+
+**Busca realizada:**
+- Consulta 1: "governo Lula delegação Washington negociação tarifas EUA tarifaço Flávio Bolsonaro" → O Globo (21/08/2026): Lula telefonou para Trump; Aos Fatos (16/07/2026): "É falso que Lula não negociou com EUA para evitar tarifaço"
+- Consulta 2: "governo Lula reunião USTR negociação tarifas 2025 2026" → Poder360 (02/07/2026): governo apresentou plano de negociação aos EUA; G1 (02/07/2026): delegação brasileira foi a Washington
+
+**Evidência encontrada:**
+O site de verificação Aos Fatos publicou análise detalhada em 16/07/2026 concluindo que "É falso que Lula não negociou com EUA para evitar tarifaço". O governo brasileiro realizou dezenas de reuniões com autoridades americanas desde 2025. Uma delegação brasileira foi a Washington para apresentar dados. O Itamaraty confirmou que foram feitas "dezenas de reuniões com autoridades americanas". O próprio Lula telefonou para Trump em 21/08/2026 para discutir o tarifaço. A afirmação de que "não mandou umzinho" é falsa.
+
+**Classificação revisada:** MANTÉM FALSO
+
+**Justificativa:**
+A evidência adicional confirma que o governo Lula realizou múltiplas ações diplomáticas e negociadoras para enfrentar o tarifaço, incluindo delegações a Washington, reuniões com o USTR, apresentação de plano de negociação e telefonema direto de Lula com Trump. A afirmação de que "não mandou umzinho" é inequivocamente falsa.
+
+**Fonte(s) adicional(is):**
+- Aos Fatos - "É falso que Lula não negociou com EUA para evitar tarifaço" (16/07/2026) - https://www.aosfatos.org/noticias/lula-negociou-eua-evitar-tarifaco/
+- O Globo - "Lula liga para Trump, defende negociação" (21/08/2026)
+- Poder360 - "Governo Lula apresenta aos EUA plano de negociação para evitar tarifaço" (02/07/2026)
+- G1 - "Ministro cita 'atropelos' em negociação com Trump" (02/07/2026)
+
+---
+
+### 21
+
+**Afirmação:** "O único representante público, o único agente público brasileiro que foi para os Estados Unidos defender o Brasil foi Flávio Bolsonaro"
+
+**Classificação original:** FALSO
+
+**Busca realizada:**
+- Consulta 1: "Flávio Bolsonaro único representante EUA tarifaço governo Lula delegação" → O Globo (21/08/2026): ministros e equipe negociaram com EUA; Aos Fatos (16/07/2026): governo fez dezenas de reuniões
+- Consulta 2: "delegação brasileira Washington tarifas 2025 2026 ministros" → O Globo (23/07/2025): governo avalia ida de delegação a Washington; G1: delegação foi a Washington
+
+**Evidência encontrada:**
+Múltiplos representantes do governo brasileiro atuaram em Washington para negociar a redução das tarifas. O ministro da Fazenda Fernando Haddad visitou Washington em diversas ocasiões. Uma delegação composta por integrantes das áreas econômica e ambiental do Itamaraty foi a Washington. O governo apresentou defesas escritas ao USTR e realizou reuniões de consultas governamentais. A afirmação de que Flávio foi o "único" é falsa.
+
+**Classificação revisada:** MANTÉM FALSO
+
+**Justificativa:**
+A evidência adicional confirma que múltiplos representantes do governo brasileiro viajaram aos Estados Unidos para negociar a redução das tarifas, incluindo o ministro da Fazenda e delegações do Itamaraty. A afirmação de Flávio Bolsonaro de que ele foi o "único" é inequivocamente falsa.
+
+**Fonte(s) adicional(is):**
+- Aos Fatos - "É falso que Lula não negociou com EUA para evitar tarifaço" (16/07/2026)
+- O Globo - "Governo Lula vê chance remota de adiamento de tarifaço e avalia ida de delegação a Washington" (23/07/2025)
+- O Globo - "Lula liga para Trump" (21/08/2026)
+- Vermelho - "Flávio Bolsonaro tenta reverter imagem de traidor em audiência nos EUA" (25/06/2026): confirma que governo enviou delegações
+
+---
+
+### RESUMO DA REVISÃO
+
+Total de afirmações revisadas: 6
+Mantidas: 4
+Retificadas: 2
+
+| Afirmação | Original | Revisada | Mudou? |
+|-----------|----------|----------|--------|
+| #2 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #5 | NÃO VERIFICÁVEL | IMPRECISO | Sim |
+| #14 | NÃO VERIFICÁVEL | IMPRECISO | Sim |
+| #15 | NÃO VERIFICÁVEL | NÃO VERIFICÁVEL | Não |
+| #20 | FALSO | FALSO | Não |
+| #21 | FALSO | FALSO | Não |

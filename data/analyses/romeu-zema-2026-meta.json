@@ -1,0 +1,10 @@
+{
+  "candidate": "Romeu Zema",
+  "party": "Novo",
+  "interview_date": "2026-08-24",
+  "transcript_file": "data/transcripts/zema.txt",
+  "analysis_file": "data/analyses/romeu-zema-2026.txt",
+  "model_used": "opencode/mimo-v2.5-free",
+  "analysis_date": "2026-08-30",
+  "version": "2.0"
+}

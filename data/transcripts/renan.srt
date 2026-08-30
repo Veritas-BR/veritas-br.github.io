@@ -1,0 +1,7840 @@
+1
+00:00:00,000 --> 00:00:12,000
+Olá, boa noite.
+
+2
+00:00:12,000 --> 00:00:13,000
+Boa noite.
+
+3
+00:00:14,000 --> 00:00:19,000
+Nós estamos entrevistando esta semana os candidatos à presidência da República nas eleições 2026.
+
+4
+00:00:20,000 --> 00:00:25,000
+Foram convidados os seis candidatos mais bem colocados na pesquisa Quest de 14 de agosto.
+
+5
+00:00:25,000 --> 00:00:31,000
+A ordem das entrevistas foi decidida num sorteio com a presença de representantes das campanhas.
+
+6
+00:00:32,000 --> 00:00:36,000
+Hoje, então, nós recebemos aqui no estúdio o candidato Renan Santos, do Missão.
+
+7
+00:00:37,000 --> 00:00:40,000
+Amanhã será a vez de Luiz Inácio Lula da Silva, do PT.
+
+8
+00:00:41,000 --> 00:00:43,000
+Na sexta, Flávio Bolsonaro, do PL.
+
+9
+00:00:43,000 --> 00:00:46,000
+E no sábado, Augusto Cury, do Avante.
+
+10
+00:00:46,000 --> 00:00:50,000
+Nós já entrevistamos Romeu Zema, do Novo, e Ronaldo Caiado, do PSD.
+
+11
+00:00:50,000 --> 00:00:58,000
+Cada entrevista vai ter 40 minutos de duração com dois blocos e as considerações finais dos candidatos.
+
+12
+00:00:58,000 --> 00:01:02,000
+Vamos começar, então, relembrando a trajetória política de Renan Santos.
+
+13
+00:01:03,000 --> 00:01:05,000
+Renan Santos tem 42 anos.
+
+14
+00:01:06,000 --> 00:01:08,000
+Nasceu no bairro da Moca, em São Paulo.
+
+15
+00:01:08,000 --> 00:01:10,000
+Cursou o direito na USP.
+
+16
+00:01:10,000 --> 00:01:16,000
+Não concluiu a faculdade porque decidiu trabalhar com o pai e o irmão num escritório de recuperação de empresas.
+
+17
+00:01:16,000 --> 00:01:20,000
+Ele foi um dos fundadores do movimento Brasil Livre, em 2014.
+
+18
+00:01:21,000 --> 00:01:27,000
+Nas eleições de 2018, o MBL elegeu dois deputados, um federal e um estadual.
+
+19
+00:01:28,000 --> 00:01:33,000
+Integrantes do movimento decidiram, em 2023, criar um partido, o Missão.
+
+20
+00:01:33,000 --> 00:01:40,000
+E conseguiram um registro no TSE ano passado, depois de reunir quase 590 mil assinaturas.
+
+21
+00:01:40,000 --> 00:01:44,000
+Nas eleições deste ano, Renan Santos concorre à presidência.
+
+22
+00:01:44,000 --> 00:01:48,000
+Tem como candidato a vice, Haroldo Medina, do mesmo partido.
+
+23
+00:01:49,000 --> 00:01:52,000
+Candidato Renan Santos, boa noite. Obrigada pela sua presença.
+
+24
+00:01:53,000 --> 00:01:53,000
+Boa noite.
+
+25
+00:01:53,000 --> 00:01:54,000
+Boa noite, candidato.
+
+26
+00:01:54,000 --> 00:01:56,000
+Agradeço. Uma honra estar aqui com vocês.
+
+27
+00:01:56,000 --> 00:01:59,000
+Posso mandar um beijo para minha mãe e para minha sobrinha Angelina.
+
+28
+00:02:00,000 --> 00:02:01,000
+Titio está aqui, Angelina. Tamo junto.
+
+29
+00:02:02,000 --> 00:02:04,000
+O tempo da entrevista começa a contar a partir de agora.
+
+30
+00:02:05,000 --> 00:02:09,000
+Candidato, ao anunciar a candidatura no evento do seu partido,
+
+31
+00:02:09,000 --> 00:02:12,000
+o senhor declarou uma prioridade na área da defesa.
+
+32
+00:02:12,000 --> 00:02:15,000
+Desenvolver uma bomba atômica no Brasil.
+
+33
+00:02:16,000 --> 00:02:18,000
+O senhor, em entrevistas, foi categórico.
+
+34
+00:02:18,000 --> 00:02:23,000
+Disse que é obrigatório que o Brasil esteja armado e tenha bomba atômica.
+
+35
+00:02:24,000 --> 00:02:31,000
+Candidato, o mundo enfrenta as consequências graves, severas, da guerra no Oriente Médio.
+
+36
+00:02:31,000 --> 00:02:39,000
+Os Estados Unidos e Israel atacaram o Irã com a justificativa de que o país desenvolvia um arsenal nuclear.
+
+37
+00:02:40,000 --> 00:02:45,000
+Um momento de muita incerteza militar, política, econômica.
+
+38
+00:02:45,000 --> 00:02:52,000
+Por que motivo, então, o Brasil deveria, nesse momento, enveredar para uma corrida nuclear, na sua opinião?
+
+39
+00:02:52,000 --> 00:02:54,000
+Bom, excelente pergunta.
+
+40
+00:02:54,000 --> 00:02:58,000
+O mundo está passando por uma mudança muito grande, como a Renata descreveu.
+
+41
+00:02:58,000 --> 00:03:03,000
+O mundo está vivendo o fim do pacto pós-45, pós a Segunda Guerra Mundial,
+
+42
+00:03:04,000 --> 00:03:07,000
+quando os Estados Unidos disputavam primeiro com a União Soviética, quem mandava no mundo,
+
+43
+00:03:07,000 --> 00:03:11,000
+e depois os Estados Unidos, após a queda do Muro de Berlim, se tornaram a grande potência global.
+
+44
+00:03:12,000 --> 00:03:15,000
+Hoje, entretanto, os Estados Unidos vê a ascensão da China, uma outra superpotência,
+
+45
+00:03:15,000 --> 00:03:17,000
+que vai formando novos blocos.
+
+46
+00:03:17,000 --> 00:03:18,000
+O BRICS é um deles.
+
+47
+00:03:18,000 --> 00:03:20,000
+O Brasil acabou se alinhando através do PT ao bloco do BRICS.
+
+48
+00:03:20,000 --> 00:03:24,000
+E essas duas forças começam a se degladear em cenário internacional.
+
+49
+00:03:24,000 --> 00:03:26,000
+Primeiro, em guerras em que eles não participam diretamente.
+
+50
+00:03:26,000 --> 00:03:29,000
+Um exemplo é Rússia versus Ucrânia, outra Israel versus Irã.
+
+51
+00:03:30,000 --> 00:03:37,000
+E o Brasil começa a ver que está sujeito, de uma maneira passiva, submissa, como um agente menor, a essas disputas.
+
+52
+00:03:37,000 --> 00:03:40,000
+No futuro, se o Brasil quiser ser uma das cinco maiores nações do mundo
+
+53
+00:03:40,000 --> 00:03:46,000
+que se presta a sentar na mesa com Estados Unidos, Índia, Rússia e China,
+
+54
+00:03:46,000 --> 00:03:51,000
+ele vai precisar ter soberania sobre seu próprio território, soberania militar
+
+55
+00:03:51,000 --> 00:03:53,000
+e vai ter que discutir ter bombas atômicas.
+
+56
+00:03:53,000 --> 00:03:55,000
+Dentre as principais nações do mundo, esse aqui é um ponto bem importante,
+
+57
+00:03:56,000 --> 00:03:59,000
+que tem muito território, muita população e grande economia,
+
+58
+00:03:59,000 --> 00:04:04,000
+e a gente blocar União Europeia, Rússia, Índia, Estados Unidos, China e Brasil,
+
+59
+00:04:04,000 --> 00:04:07,000
+essas são as maiores nações, a União que não dispõe de armas nucleares é o Brasil.
+
+60
+00:04:07,000 --> 00:04:11,000
+Eu não acho que o Brasil dispõe de condições, nos próximos dez anos, de ter armas nucleares.
+
+61
+00:04:11,000 --> 00:04:14,000
+Nem tem condição de fazer ainda a pesquisa e desenvolver isso.
+
+62
+00:04:14,000 --> 00:04:18,000
+Mas o Brasil tem que iniciar um processo de recuperação de soberania, de pesquisa,
+
+63
+00:04:18,000 --> 00:04:20,000
+para ele poder sentar à mesa e discutir com o mundo.
+
+64
+00:04:20,000 --> 00:04:25,000
+O Brasil quer sentar no Conselho de Segurança da ONU e o Brasil tem que ter condições de ter uma arma atômica.
+
+65
+00:04:25,000 --> 00:04:27,000
+Até porque, pelas razões que foram levantadas, Renata,
+
+66
+00:04:27,000 --> 00:04:31,000
+o mundo vai olhar para o Brasil de maneira muito cheia de cobiça.
+
+67
+00:04:31,000 --> 00:04:36,000
+O Brasil possui recursos naturais, recursos alimentares, energia, terras raras
+
+68
+00:04:36,000 --> 00:04:38,000
+e, portanto, o mundo não vai ver o Brasil de maneira passiva.
+
+69
+00:04:38,000 --> 00:04:43,000
+Você sabe que a Constituição brasileira determina que a atividade nuclear em território nacional
+
+70
+00:04:43,000 --> 00:04:45,000
+só é admitido para fins pacíficos.
+
+71
+00:04:46,000 --> 00:04:49,000
+Em outubro do ano passado, o deputado do seu partido, Kim Kataguiri,
+
+72
+00:04:49,000 --> 00:04:53,000
+ele protocolou no Congresso uma proposta para alterar esse artigo da Constituição
+
+73
+00:04:53,000 --> 00:04:55,000
+e autorizar o Brasil a ter armas nucleares.
+
+74
+00:04:56,000 --> 00:05:00,000
+Eu queria saber, na sua avaliação, como é que reagiriam os países da América do Sul,
+
+75
+00:05:00,000 --> 00:05:01,000
+os Estados Unidos?
+
+76
+00:05:02,000 --> 00:05:05,000
+Isso não tensionaria ainda mais a relação com o governo americano?
+
+77
+00:05:05,000 --> 00:05:09,000
+Definitivamente, se eu imaginar que vou tensionar a relação com os Estados Unidos
+
+78
+00:05:09,000 --> 00:05:12,000
+impondo ao mundo, olha, o Brasil terá uma arma atômica agora?
+
+79
+00:05:13,000 --> 00:05:15,000
+Sim, o Brasil não estará em uma posição de exigir nada dos Estados Unidos,
+
+80
+00:05:16,000 --> 00:05:17,000
+nem da China, porque o Brasil está fraco.
+
+81
+00:05:17,000 --> 00:05:20,000
+O que eu vejo é que o Brasil tem que fazer uma construção de soberania.
+
+82
+00:05:20,000 --> 00:05:24,000
+A construção de soberania passa em reaver o respeito internacional pelo Brasil.
+
+83
+00:05:24,000 --> 00:05:28,000
+O Brasil hoje é um vassalo da China, de acordo com a ação política do Lula,
+
+84
+00:05:28,000 --> 00:05:29,000
+no cenário global.
+
+85
+00:05:29,000 --> 00:05:32,000
+Onde há uma briga internacional envolvendo o interesse chinês,
+
+86
+00:05:32,000 --> 00:05:34,000
+o Lula se pronuncia favoravelmente à China.
+
+87
+00:05:34,000 --> 00:05:36,000
+Basta ver o conflito de Israel com o Irã,
+
+88
+00:05:36,000 --> 00:05:38,000
+em que o Lula sai se pronunciando se o Brasil tem nenhum ganho
+
+89
+00:05:38,000 --> 00:05:42,000
+a favor do Irã ou a favor, por exemplo, da causa palestina.
+
+90
+00:05:42,000 --> 00:05:46,000
+Mas mesmo que o senhor demorasse para desenvolver essa arma nuclear,
+
+91
+00:05:47,000 --> 00:05:50,000
+essa intenção, esse começo mudando a Constituição brasileira,
+
+92
+00:05:50,000 --> 00:05:53,000
+o senhor não veria problemas com relação aos outros países?
+
+93
+00:05:53,000 --> 00:05:54,000
+Não, não, de maneira alguma.
+
+94
+00:05:55,000 --> 00:05:58,000
+Os Estados Unidos da América, ele vai ter que sentar com o Brasil,
+
+95
+00:05:58,000 --> 00:05:59,000
+a partir de agora, para a questão das terras raras,
+
+96
+00:05:59,000 --> 00:06:02,000
+para negociar a própria soberania americana em parceria com o Brasil.
+
+97
+00:06:02,000 --> 00:06:04,000
+Os Estados Unidos, a título de comparação para todo mundo entender,
+
+98
+00:06:05,000 --> 00:06:07,000
+os Estados Unidos para fazer um avião F-35,
+
+99
+00:06:07,000 --> 00:06:08,000
+que é o principal jato deles,
+
+100
+00:06:08,000 --> 00:06:10,000
+precisa de meia tonelada de terra rara.
+
+101
+00:06:10,000 --> 00:06:13,000
+Os Estados Unidos não dispõem nem das terras raras no seu território,
+
+102
+00:06:13,000 --> 00:06:15,000
+nem da extração, nem do processamento.
+
+103
+00:06:15,000 --> 00:06:16,000
+Ele precisa comprar da China, que é o seu maior rival.
+
+104
+00:06:17,000 --> 00:06:20,000
+Quem é o país que dispõe das segundas maiores reservas globais de terras raras?
+
+105
+00:06:20,000 --> 00:06:21,000
+É justamente o Brasil.
+
+106
+00:06:21,000 --> 00:06:23,000
+Os Estados Unidos vão ter que sentar com o Brasil
+
+107
+00:06:23,000 --> 00:06:26,000
+para ter a própria soberania militar nas próximas décadas.
+
+108
+00:06:26,000 --> 00:06:31,000
+Isso nos coloca numa posição muito interessante
+
+109
+00:06:31,000 --> 00:06:34,000
+para negociar com os Estados Unidos a construção de uma soberania regional.
+
+110
+00:06:34,000 --> 00:06:38,000
+Mas sobre negociação mesmo, por exemplo, teria que convencer a Argentina,
+
+111
+00:06:38,000 --> 00:06:41,000
+porque a base do acordo que fundou o Mercosul, por exemplo,
+
+112
+00:06:41,000 --> 00:06:45,000
+estabelece que Brasil e a Argentina devem renunciar a armas nucleares.
+
+113
+00:06:45,000 --> 00:06:50,000
+O senhor quebraria esse acordo e apostar numa bomba atômica
+
+114
+00:06:50,000 --> 00:06:52,000
+é a melhor maneira de negociar com a Argentina?
+
+115
+00:06:52,000 --> 00:06:54,000
+Eu acho, no médio e longo prazo, sim.
+
+116
+00:06:54,000 --> 00:06:57,000
+A não ser que o Brasil queira abdicar de ser uma potência.
+
+117
+00:06:58,000 --> 00:07:00,000
+Eu vejo o Brasil como uma das cinco maiores nações do mundo nos próximos 30 anos.
+
+118
+00:07:01,000 --> 00:07:03,000
+E uma nação que será uma das mais importantes do mundo nos próximos 30 anos
+
+119
+00:07:03,000 --> 00:07:05,000
+precisa ter armas nucleares.
+
+120
+00:07:05,000 --> 00:07:07,000
+Nós precisamos fazer uma retrospectiva de trás para frente.
+
+121
+00:07:08,000 --> 00:07:09,000
+O que nós seremos daqui 30 anos?
+
+122
+00:07:09,000 --> 00:07:11,000
+Daqui 30 anos nós temos que ser uma nação soberana,
+
+123
+00:07:11,000 --> 00:07:14,000
+que destrói o crime organizado, que lidera a América do Sul
+
+124
+00:07:14,000 --> 00:07:15,000
+e que vai ter força para negociar com seus vizinhos,
+
+125
+00:07:16,000 --> 00:07:18,000
+para estabelecer, olha, se nós vamos liderar junto com nossos vizinhos,
+
+126
+00:07:18,000 --> 00:07:21,000
+o nosso continente, para poder negociar em bloco, por exemplo,
+
+127
+00:07:21,000 --> 00:07:23,000
+com os Estados Unidos ou China, nós vamos precisar ter força militar.
+
+128
+00:07:24,000 --> 00:07:26,000
+Nós vamos precisar juntos trabalhar para a desconstrução
+
+129
+00:07:26,000 --> 00:07:29,000
+dessa indústria do crime organizado que toma o nosso continente.
+
+130
+00:07:29,000 --> 00:07:32,000
+E nesse sentido, sim, vamos ter que discutir a construção de armas nucleares.
+
+131
+00:07:32,000 --> 00:07:34,000
+Isso é passo de uma construção de uma nação soberana.
+
+132
+00:07:34,000 --> 00:07:35,000
+Eu volto a repetir.
+
+133
+00:07:35,000 --> 00:07:38,000
+Se o Brasil quiser ser uma nação importante nos próximos 30 anos,
+
+134
+00:07:38,000 --> 00:07:39,000
+o Brasil precisa ser uma nação poderosa.
+
+135
+00:07:39,000 --> 00:07:41,000
+Se o Brasil não quiser ser poderoso,
+
+136
+00:07:41,000 --> 00:07:44,000
+o Brasil vai ser submisso a projetos internacionais.
+
+137
+00:07:44,000 --> 00:07:45,000
+Assim como o Brasil vem sendo submisso.
+
+138
+00:07:45,000 --> 00:07:49,000
+Agora, candidato, uma decisão dessa magnitude,
+
+139
+00:07:49,000 --> 00:07:55,000
+ela não depende apenas de uma declaração de intenção.
+
+140
+00:07:55,000 --> 00:07:58,000
+E o programa do senhor não traz detalhes em relação a isso.
+
+141
+00:07:58,000 --> 00:07:59,000
+Então, eu pergunto ao senhor,
+
+142
+00:08:00,000 --> 00:08:05,000
+em que estudo científico, técnico, o senhor se baseia
+
+143
+00:08:05,000 --> 00:08:10,000
+para defender que o país deve desenvolver uma bomba atômica?
+
+144
+00:08:10,000 --> 00:08:13,000
+Qual a autoria dessa pesquisa, desse estudo?
+
+145
+00:08:13,000 --> 00:08:17,000
+E também, para concluir, de que maneira o senhor implantaria isso?
+
+146
+00:08:17,000 --> 00:08:19,000
+Eu não preciso de um estudo científico para determinar
+
+147
+00:08:19,000 --> 00:08:21,000
+que uma nação tem que ter força política
+
+148
+00:08:21,000 --> 00:08:22,000
+para se proteger de outras nações.
+
+149
+00:08:23,000 --> 00:08:24,000
+Eu posso trazer apenas dados da realidade.
+
+150
+00:08:25,000 --> 00:08:26,000
+A realidade é muito clara.
+
+151
+00:08:26,000 --> 00:08:29,000
+As nações mais poderosas do mundo dispõem de armas nucleares.
+
+152
+00:08:29,000 --> 00:08:31,000
+E elas se fazem respeitadas por causa disso.
+
+153
+00:08:31,000 --> 00:08:34,000
+A sua ideia é retirar o Brasil do Tratado de Não Coliferação de Armas?
+
+154
+00:08:34,000 --> 00:08:36,000
+Necessariamente, e no momento certo.
+
+155
+00:08:36,000 --> 00:08:39,000
+Apenas um país fez isso até agora, desde a Coreia do Norte.
+
+156
+00:08:39,000 --> 00:08:42,000
+Sim, mas pelo menos a Coreia do Norte,
+
+157
+00:08:42,000 --> 00:08:43,000
+por mais que seja um regime que eu considero opressivo
+
+158
+00:08:43,000 --> 00:08:44,000
+e que eu não o respeite,
+
+159
+00:08:45,000 --> 00:08:46,000
+pelo menos ele é respeitado internacionalmente
+
+160
+00:08:46,000 --> 00:08:48,000
+de maneira que a Venezuela não foi.
+
+161
+00:08:48,000 --> 00:08:51,000
+Ter armas nucleares é uma forma de defender a sua própria soberania.
+
+162
+00:08:51,000 --> 00:08:53,000
+O Brasil tem um dos maiores territórios do mundo.
+
+163
+00:08:53,000 --> 00:08:55,000
+O Brasil tem recursos naturais infindáveis.
+
+164
+00:08:55,000 --> 00:08:57,000
+Se a gente quiser ser o eterno Zé Carioca no mundo,
+
+165
+00:08:58,000 --> 00:09:00,000
+personagem engraçado em que os gringos vêm aqui para fazer festa
+
+166
+00:09:00,000 --> 00:09:03,000
+e que a gente exporta matéria-prima e recebe produto pronto,
+
+167
+00:09:04,000 --> 00:09:05,000
+tudo bem, não fazemos armas nucleares,
+
+168
+00:09:06,000 --> 00:09:07,000
+aceitamos nossa posição submissa.
+
+169
+00:09:07,000 --> 00:09:10,000
+Agora, se a gente quiser ser uma nação séria e respeitada,
+
+170
+00:09:10,000 --> 00:09:12,000
+nos próximos 30 anos nós vamos ter armas nucleares,
+
+171
+00:09:13,000 --> 00:09:13,000
+não para ficar arrumando briga,
+
+172
+00:09:14,000 --> 00:09:15,000
+mas ter poder de dissuasão,
+
+173
+00:09:15,000 --> 00:09:17,000
+para as nossas riquezas serem respeitadas.
+
+174
+00:09:17,000 --> 00:09:18,000
+Se os Estados Unidos da América,
+
+175
+00:09:19,000 --> 00:09:20,000
+que são uma nação hoje mais poderosa do mundo,
+
+176
+00:09:20,000 --> 00:09:22,000
+não fizeram a lição de casa,
+
+177
+00:09:22,000 --> 00:09:24,000
+deixaram a China ficar com todo o processamento
+
+178
+00:09:24,000 --> 00:09:25,000
+de terra rara do mundo nesse instante
+
+179
+00:09:25,000 --> 00:09:27,000
+e ver de maneira cobiçosa o Brasil,
+
+180
+00:09:28,000 --> 00:09:29,000
+nós vamos ter que olhar para os americanos e entender.
+
+181
+00:09:30,000 --> 00:09:31,000
+Se nós não tivermos meios de se defender,
+
+182
+00:09:31,000 --> 00:09:32,000
+o que nós vamos fazer?
+
+183
+00:09:32,000 --> 00:09:34,000
+Ora, nós vamos ter que reconstruir
+
+184
+00:09:34,000 --> 00:09:36,000
+uma rede de alianças internacionais
+
+185
+00:09:36,000 --> 00:09:37,000
+no mundo que vai se reconfigurar.
+
+186
+00:09:37,000 --> 00:09:38,000
+Isso é muito importante.
+
+187
+00:09:38,000 --> 00:09:39,000
+É que, Sérgio, eu preciso terminar isso aqui.
+
+188
+00:09:40,000 --> 00:09:41,000
+O mundo vai mudar muito.
+
+189
+00:09:41,000 --> 00:09:42,000
+O mundo vai se reconfigurar.
+
+190
+00:09:42,000 --> 00:09:44,000
+Se nós não reconstruímos essa rede
+
+191
+00:09:44,000 --> 00:09:46,000
+e o Brasil se colocar de maneira soberana
+
+192
+00:09:46,000 --> 00:09:47,000
+nesse mundo em conflito,
+
+193
+00:09:47,000 --> 00:09:49,000
+o Brasil vai ser vítima desse novo mundo que vem aí.
+
+194
+00:09:50,000 --> 00:09:52,000
+A ordem mundial pacífica acabou.
+
+195
+00:09:52,000 --> 00:09:54,000
+As guerras escritas pela NATO estão acontecendo.
+
+196
+00:09:54,000 --> 00:09:55,000
+E o Brasil vai ter que ser capaz
+
+197
+00:09:55,000 --> 00:09:57,000
+de se defender nas próximas décadas.
+
+198
+00:09:57,000 --> 00:10:00,000
+Na segurança pública, o senhor tem defendido
+
+199
+00:10:00,000 --> 00:10:03,000
+recorrer a estados de defesa, GLO e intervenções federais.
+
+200
+00:10:04,000 --> 00:10:05,000
+A promessa do senhor é, em um ano,
+
+201
+00:10:06,000 --> 00:10:08,000
+recuperar todos os territórios dominados
+
+202
+00:10:08,000 --> 00:10:11,000
+pelo crime organizado, facções criminosas,
+
+203
+00:10:11,000 --> 00:10:13,000
+no Brasil, ou seja, em todo o país.
+
+204
+00:10:14,000 --> 00:10:17,000
+Essa promessa, portanto, já foi feita pelo senhor.
+
+205
+00:10:17,000 --> 00:10:19,000
+Eu quero lembrar o caso aqui do Rio de Janeiro.
+
+206
+00:10:19,000 --> 00:10:23,000
+Em 2018, o Rio ficou sob intervenção federal,
+
+207
+00:10:23,000 --> 00:10:24,000
+durou 10 meses e meio.
+
+208
+00:10:24,000 --> 00:10:29,000
+O custo dessa intervenção foi de 1 bilhão e 200 milhões de reais.
+
+209
+00:10:29,000 --> 00:10:34,000
+E de lá para cá, o crime organizado expandiu ainda mais
+
+210
+00:10:34,000 --> 00:10:37,000
+a dominação sobre territórios do Estado.
+
+211
+00:10:37,000 --> 00:10:41,000
+Então, eu pergunto ao senhor o que permite ao senhor
+
+212
+00:10:41,000 --> 00:10:45,000
+dizer que é possível implantar esse seu plano
+
+213
+00:10:45,000 --> 00:10:49,000
+ao mesmo tempo em todo o país e nesse prazo de um ano?
+
+214
+00:10:50,000 --> 00:10:51,000
+Grande pergunta, César.
+
+215
+00:10:51,000 --> 00:10:51,000
+Vamos lá.
+
+216
+00:10:51,000 --> 00:10:53,000
+O Brasil vive uma guerra.
+
+217
+00:10:53,000 --> 00:10:55,000
+É uma guerra que foi declarada unilateralmente.
+
+218
+00:10:55,000 --> 00:10:57,000
+O crime organizado está em guerra com você,
+
+219
+00:10:57,000 --> 00:10:58,000
+que está nos assistindo,
+
+220
+00:10:58,000 --> 00:11:00,000
+e você fica considerando, vamos dizer,
+
+221
+00:11:00,000 --> 00:11:02,000
+que a tua vida é ser refém.
+
+222
+00:11:02,000 --> 00:11:04,000
+Se você mora numa favela, o crime organizado
+
+223
+00:11:04,000 --> 00:11:06,000
+manda em você, pode te desalojar da tua casa,
+
+224
+00:11:07,000 --> 00:11:10,000
+pode, eventualmente, se interessar de maneira sexual
+
+225
+00:11:10,000 --> 00:11:12,000
+pela tua filha e você não tem como se defender.
+
+226
+00:11:12,000 --> 00:11:14,000
+A vida no país que está em guerra
+
+227
+00:11:14,000 --> 00:11:15,000
+é uma vida triste.
+
+228
+00:11:16,000 --> 00:11:17,000
+Hoje, quase 40 milhões de brasileiros
+
+229
+00:11:17,000 --> 00:11:19,000
+vivem direta ou indiretamente
+
+230
+00:11:19,000 --> 00:11:20,000
+sob a influência do crime organizado.
+
+231
+00:11:20,000 --> 00:11:22,000
+Portanto, o que eu defendo é a criação
+
+232
+00:11:22,000 --> 00:11:26,000
+e a declaração de uma guerra contra o crime organizado.
+
+233
+00:11:26,000 --> 00:11:29,000
+É a aceitação de uma realidade que já é verdadeira para os brasileiros.
+
+234
+00:11:29,000 --> 00:11:30,000
+Precisamos de uma guerra contra eles.
+
+235
+00:11:31,000 --> 00:11:31,000
+Esse é o primeiro ponto.
+
+236
+00:11:32,000 --> 00:11:34,000
+Vou voltar um pouco no tempo para te responder.
+
+237
+00:11:34,000 --> 00:11:35,000
+Antes da GLO do Temer,
+
+238
+00:11:36,000 --> 00:11:37,000
+nós tivemos as UPPs aqui no Rio de Janeiro,
+
+239
+00:11:38,000 --> 00:11:40,000
+que foram uma outra tentativa de entrar em áreas
+
+240
+00:11:40,000 --> 00:11:42,000
+tomadas pelo crime organizado,
+
+241
+00:11:42,000 --> 00:11:44,000
+que no início obtiveram sucesso com as operações do BOPE
+
+242
+00:11:44,000 --> 00:11:46,000
+e depois não deram certo.
+
+243
+00:11:46,000 --> 00:11:46,000
+Por quê?
+
+244
+00:11:46,000 --> 00:11:48,000
+Porque o Brasil não fez um arcabouço legal
+
+245
+00:11:48,000 --> 00:11:51,000
+para permitir a continuidade desse processo.
+
+246
+00:11:51,000 --> 00:11:53,000
+Pois é, sobre esse arcabouço legal,
+
+247
+00:11:53,000 --> 00:11:56,000
+o seu plano fala em decretar sucessivos estados de defesa,
+
+248
+00:11:57,000 --> 00:11:59,000
+mas não explica que sequência seria essa,
+
+249
+00:11:59,000 --> 00:12:01,000
+porque a Constituição autoriza 30 dias,
+
+250
+00:12:01,000 --> 00:12:03,000
+prorrogável por mais 30 dias, uma única vez.
+
+251
+00:12:03,000 --> 00:12:06,000
+O senhor vai propor uma mudança na Constituição para isso?
+
+252
+00:12:06,000 --> 00:12:07,000
+É que não é isso o arcabouço legal.
+
+253
+00:12:08,000 --> 00:12:09,000
+O arcabouço legal é...
+
+254
+00:12:10,000 --> 00:12:10,000
+Nós precisamos...
+
+255
+00:12:10,000 --> 00:12:13,000
+E já passou um pedaço disso agora, no ano passado,
+
+256
+00:12:13,000 --> 00:12:17,000
+que foi essa legislação que converte as facções criminosas
+
+257
+00:12:17,000 --> 00:12:21,000
+em entes especiais similares a organizações terroristas
+
+258
+00:12:21,000 --> 00:12:23,000
+que vão ter um tratamento jurídico diferente.
+
+259
+00:12:23,000 --> 00:12:26,000
+Agora, nós temos que alterar também as leis de execuções penais,
+
+260
+00:12:26,000 --> 00:12:28,000
+o Código de Processo Penal e o aumento de penas,
+
+261
+00:12:28,000 --> 00:12:30,000
+especialmente para crimes violentos cometidos com armas,
+
+262
+00:12:31,000 --> 00:12:33,000
+que é basicamente uma parte dos crimes que assolam a vida dos brasileiros.
+
+263
+00:12:34,000 --> 00:12:36,000
+Quando houve a experiência dos UPPs no Rio de Janeiro,
+
+264
+00:12:36,000 --> 00:12:39,000
+por mais que eles tenham derrotado inicialmente o crime organizado
+
+265
+00:12:39,000 --> 00:12:40,000
+e feito a ocupação nas favelas,
+
+266
+00:12:40,000 --> 00:12:43,000
+não houve a posteriori a mudança nas leis
+
+267
+00:12:43,000 --> 00:12:45,000
+que permitiam que o enfrentamento continuasse com sucesso.
+
+268
+00:12:46,000 --> 00:12:46,000
+Esse é o problema.
+
+269
+00:12:47,000 --> 00:12:49,000
+O governo nosso tem que passar essas leis
+
+270
+00:12:49,000 --> 00:12:51,000
+e essas medidas têm que passar antes de entrar com o Estado de Defesa.
+
+271
+00:12:51,000 --> 00:12:52,000
+Agora, candidato...
+
+272
+00:12:52,000 --> 00:12:53,000
+Espera, César, que isso é muito importante,
+
+273
+00:12:53,000 --> 00:12:55,000
+é para responder a tua pergunta.
+
+274
+00:12:55,000 --> 00:12:56,000
+Se eu altero essa legislação
+
+275
+00:12:56,000 --> 00:12:59,000
+e aí eu entro com as medidas ligadas ao Estado de Defesa,
+
+276
+00:12:59,000 --> 00:13:01,000
+eu consigo fazer a ocupação,
+
+277
+00:13:01,000 --> 00:13:04,000
+a desconstrução do espaço político
+
+278
+00:13:04,000 --> 00:13:06,000
+das facções criminosas
+
+279
+00:13:06,000 --> 00:13:09,000
+e aí sim, com um regime diferenciado para os criminosos,
+
+280
+00:13:10,000 --> 00:13:11,000
+porque a legislação, dentro desse princípio
+
+281
+00:13:11,000 --> 00:13:13,000
+que eu chamo de direito penal do inimigo...
+
+282
+00:13:13,000 --> 00:13:15,000
+Mas, candidato, no Rio de Janeiro não deu certo.
+
+283
+00:13:15,000 --> 00:13:16,000
+Então, assim, se a gente pegar...
+
+284
+00:13:16,000 --> 00:13:18,000
+Como eu disse, não havia certo abuso, César.
+
+285
+00:13:18,000 --> 00:13:20,000
+Pegar um pouco da história recente, olha só.
+
+286
+00:13:21,000 --> 00:13:24,000
+Eu trouxe os números aqui da intervenção feita no Complexo da Maré.
+
+287
+00:13:25,000 --> 00:13:26,000
+O senhor deve se lembrar,
+
+288
+00:13:26,000 --> 00:13:28,000
+abril de 2014 ela começou,
+
+289
+00:13:28,000 --> 00:13:30,000
+foi até junho de 2015.
+
+290
+00:13:31,000 --> 00:13:33,000
+Ou seja, um ano e três meses de ocupação.
+
+291
+00:13:33,000 --> 00:13:36,000
+23 mil militares no Complexo da Maré.
+
+292
+00:13:36,000 --> 00:13:38,000
+Custou mais de 500 milhões de reais na época.
+
+293
+00:13:39,000 --> 00:13:40,000
+11 anos depois,
+
+294
+00:13:41,000 --> 00:13:44,000
+o Complexo da Maré continua dominado pelas mesmas facções.
+
+295
+00:13:45,000 --> 00:13:47,000
+Então, o que eu pergunto ao senhor é
+
+296
+00:13:47,000 --> 00:13:49,000
+o que o senhor faria de diferente?
+
+297
+00:13:49,000 --> 00:13:51,000
+E claro que, para o eleitor,
+
+298
+00:13:51,000 --> 00:13:52,000
+é muito importante saber também
+
+299
+00:13:52,000 --> 00:13:55,000
+se existe viabilidade econômica, financeira.
+
+300
+00:13:56,000 --> 00:13:57,000
+Quanto é que custaria fazer isso
+
+301
+00:13:57,000 --> 00:13:59,000
+se não deu certo no Rio,
+
+302
+00:14:00,000 --> 00:14:02,000
+no Brasil todo, como o senhor promete,
+
+303
+00:14:02,000 --> 00:14:02,000
+em um ano,
+
+304
+00:14:03,000 --> 00:14:06,000
+recuperar todas as áreas dominadas por facções?
+
+305
+00:14:06,000 --> 00:14:07,000
+De maneira muito clara, como eu falei,
+
+306
+00:14:07,000 --> 00:14:09,000
+se você não altera a legislação penal
+
+307
+00:14:09,000 --> 00:14:10,000
+e a lei de execuções penais,
+
+308
+00:14:10,000 --> 00:14:12,000
+de nada de anta fazer a prisão de um traficante
+
+309
+00:14:12,000 --> 00:14:13,000
+que vai ser solto logo depois.
+
+310
+00:14:14,000 --> 00:14:15,000
+Não há, hoje,
+
+311
+00:14:15,000 --> 00:14:17,000
+meios de você manter uma pessoa
+
+312
+00:14:17,000 --> 00:14:19,000
+que comete um crime sendo membro de uma facção
+
+313
+00:14:19,000 --> 00:14:20,000
+presa por tanto tempo.
+
+314
+00:14:20,000 --> 00:14:22,000
+A mudança da legislação é essencial.
+
+315
+00:14:22,000 --> 00:14:24,000
+A legislação que eu chamo de direito penal do inimigo,
+
+316
+00:14:24,000 --> 00:14:26,000
+e isso explicando para quem está nos ouvindo,
+
+317
+00:14:26,000 --> 00:14:27,000
+é uma legislação que trata
+
+318
+00:14:27,000 --> 00:14:29,000
+uma pessoa que é diferente de um cidadão comum,
+
+319
+00:14:29,000 --> 00:14:31,000
+ou seja, um traficante, um membro de uma facção,
+
+320
+00:14:31,000 --> 00:14:33,000
+como um ente anômalo.
+
+321
+00:14:33,000 --> 00:14:35,000
+Ou seja, a legislação vai ser muito dura,
+
+322
+00:14:35,000 --> 00:14:37,000
+o direito vai ser mais rápido com ele,
+
+323
+00:14:37,000 --> 00:14:41,000
+nós vamos poder atingir ele de maneira mais veloz,
+
+324
+00:14:41,000 --> 00:14:43,000
+ou seja, o Estado vai poder montar operações,
+
+325
+00:14:43,000 --> 00:14:45,000
+a tutela antecipada das operações vai acontecer.
+
+326
+00:14:46,000 --> 00:14:47,000
+Ou seja, o Estado é muito veloz,
+
+327
+00:14:47,000 --> 00:14:48,000
+e o uso da velocidade,
+
+328
+00:14:48,000 --> 00:14:50,000
+que é a ideia de direito de terceira velocidade,
+
+329
+00:14:50,000 --> 00:14:52,000
+o uso dessa velocidade para buscar o inimigo,
+
+330
+00:14:52,000 --> 00:14:54,000
+o uso de operações mais velozes,
+
+331
+00:14:54,000 --> 00:14:55,000
+o uso de penas maiores,
+
+332
+00:14:55,000 --> 00:14:57,000
+a construção de mais presídios,
+
+333
+00:14:57,000 --> 00:14:59,000
+e isso vai permitir que, depois da ocupação,
+
+334
+00:15:00,000 --> 00:15:01,000
+a facção seja destruída,
+
+335
+00:15:01,000 --> 00:15:02,000
+que é o que precisamos fazer.
+
+336
+00:15:03,000 --> 00:15:04,000
+A facção precisa ser...
+
+337
+00:15:04,000 --> 00:15:05,000
+Sobre essas leis mais duras,
+
+338
+00:15:05,000 --> 00:15:06,000
+mas é sobre isso que o senhor...
+
+339
+00:15:06,000 --> 00:15:08,000
+É que, Renata, eu não tenho que terminar esse ponto dele,
+
+340
+00:15:08,000 --> 00:15:09,000
+porque senão eu não vou terminar o argumento.
+
+341
+00:15:09,000 --> 00:15:10,000
+Eu tenho uma pergunta para fazer sobre esse argumento.
+
+342
+00:15:11,000 --> 00:15:13,000
+Ele perguntou a questão financeira.
+
+343
+00:15:13,000 --> 00:15:14,000
+Então, primeiro é,
+
+344
+00:15:14,000 --> 00:15:16,000
+é óbvio que dá para você fazer a recuperação territorial,
+
+345
+00:15:17,000 --> 00:15:18,000
+e é óbvio que o Estado não pode permitir
+
+346
+00:15:18,000 --> 00:15:19,000
+o retorno das facções.
+
+347
+00:15:19,000 --> 00:15:22,000
+E, dois, não há outro meio além de reocupar o território.
+
+348
+00:15:22,000 --> 00:15:24,000
+Ou seja, você vai ter que aceitar que você vai fazer a guerra.
+
+349
+00:15:24,000 --> 00:15:27,000
+Senão a gente vai ficar aceitando que vão vir aqui perto da Globo,
+
+350
+00:15:27,000 --> 00:15:29,000
+não sei se foi aqui, foi no Jardim Botânico,
+
+351
+00:15:29,000 --> 00:15:31,000
+o pessoal vai ficar jogando bomba ali na frente,
+
+352
+00:15:31,000 --> 00:15:31,000
+como aconteceu essa semana.
+
+353
+00:15:32,000 --> 00:15:33,000
+A gente não vai poder ficar aceitando
+
+354
+00:15:33,000 --> 00:15:34,000
+que o crime organizado tem,
+
+355
+00:15:34,000 --> 00:15:36,000
+nos bairros e favelas, fortalezas.
+
+356
+00:15:36,000 --> 00:15:37,000
+A guerra é uma necessidade.
+
+357
+00:15:38,000 --> 00:15:39,000
+O que altera do que aconteceu
+
+358
+00:15:39,000 --> 00:15:40,000
+nesses exemplos que você deu,
+
+359
+00:15:40,000 --> 00:15:41,000
+que são bons exemplos,
+
+360
+00:15:41,000 --> 00:15:43,000
+é haverá uma nova legislação especial
+
+361
+00:15:43,000 --> 00:15:46,000
+tratando o membro da facção como um ente anônomo.
+
+362
+00:15:46,000 --> 00:15:46,000
+Quanto custaria?
+
+363
+00:15:47,000 --> 00:15:47,000
+Foi a pergunta do Trale.
+
+364
+00:15:48,000 --> 00:15:48,000
+Quanto custaria?
+
+365
+00:15:48,000 --> 00:15:50,000
+Vou dar um exemplo só na parte de presídio.
+
+366
+00:15:50,000 --> 00:15:50,000
+Quanto custaria?
+
+367
+00:15:50,000 --> 00:15:52,000
+Só na parte de presídio, 6 bilhões de reais
+
+368
+00:15:52,000 --> 00:15:54,000
+nós precisamos fazer para abrir vagas,
+
+369
+00:15:55,000 --> 00:15:56,000
+para construir 10 presídios,
+
+370
+00:15:57,000 --> 00:15:59,000
+cada um de 30 a 40 mil vagas.
+
+371
+00:16:00,000 --> 00:16:02,000
+Esse processo precisa se iniciar desde já.
+
+372
+00:16:03,000 --> 00:16:04,000
+Uma operação dessas,
+
+373
+00:16:04,000 --> 00:16:06,000
+para você tocar no estado do Rio de Janeiro,
+
+374
+00:16:07,000 --> 00:16:09,000
+coisa de 5 bilhões estimado por ano,
+
+375
+00:16:09,000 --> 00:16:10,000
+numa operação,
+
+376
+00:16:10,000 --> 00:16:12,000
+só para você sustentar não só a base militar,
+
+377
+00:16:12,000 --> 00:16:14,000
+e depois a operação das polícias.
+
+378
+00:16:14,000 --> 00:16:16,000
+E depois as operações não vão ser demoradas,
+
+379
+00:16:16,000 --> 00:16:17,000
+as operações precisam ser rápidas.
+
+380
+00:16:17,000 --> 00:16:20,000
+Primeiro você faz a ocupação junto com as forças policiais,
+
+381
+00:16:20,000 --> 00:16:23,000
+e não serão forças militares com o Exército.
+
+382
+00:16:23,000 --> 00:16:25,000
+O Exército vai servir como força auxiliar.
+
+383
+00:16:25,000 --> 00:16:28,000
+Quem vai organizar as operações são as forças policiais.
+
+384
+00:16:29,000 --> 00:16:30,000
+São forças policiais.
+
+385
+00:16:30,000 --> 00:16:31,000
+O Exército atua de maneira auxiliar.
+
+386
+00:16:32,000 --> 00:16:33,000
+E o grande custo que você tem nessas operações
+
+387
+00:16:33,000 --> 00:16:36,000
+é o custo ligado à atividade dos militares,
+
+388
+00:16:36,000 --> 00:16:37,000
+das Forças Armadas,
+
+389
+00:16:37,000 --> 00:16:38,000
+que são custosos.
+
+390
+00:16:38,000 --> 00:16:39,000
+O nosso modelo,
+
+391
+00:16:39,000 --> 00:16:40,000
+que está descrito no nosso livro,
+
+392
+00:16:40,000 --> 00:16:42,000
+ele utiliza e empodera as forças policiais.
+
+393
+00:16:43,000 --> 00:16:44,000
+Inclusive, ele não precisa, em diversos estados,
+
+394
+00:16:45,000 --> 00:16:46,000
+entrar com um estado de defesa.
+
+395
+00:16:46,000 --> 00:16:47,000
+Vou dar um exemplo.
+
+396
+00:16:47,000 --> 00:16:48,000
+Sobre isso, antes do seu exemplo,
+
+397
+00:16:48,000 --> 00:16:51,000
+eu gostaria de entender que o senhor falou em penas mais duras,
+
+398
+00:16:51,000 --> 00:16:52,000
+porque durante a sua pré-campanha,
+
+399
+00:16:52,000 --> 00:16:55,000
+o senhor exaltou e disse que se inspirava
+
+400
+00:16:55,000 --> 00:16:57,000
+na política do presidente de El Salvador,
+
+401
+00:16:57,000 --> 00:16:57,000
+Naebi Bukele.
+
+402
+00:16:58,000 --> 00:17:00,000
+O governo dele reduziu os índices de criminalidade,
+
+403
+00:17:00,000 --> 00:17:02,000
+mas usando medidas de exceção.
+
+404
+00:17:03,000 --> 00:17:04,000
+Recentemente, o senhor passou a dizer
+
+405
+00:17:04,000 --> 00:17:05,000
+eu não sou Bukele,
+
+406
+00:17:05,000 --> 00:17:08,000
+mas manteve pontos centrais da política dele,
+
+407
+00:17:08,000 --> 00:17:08,000
+como, por exemplo,
+
+408
+00:17:09,000 --> 00:17:11,000
+o fim da prosunção da inocência
+
+409
+00:17:11,000 --> 00:17:14,000
+para pessoas que foram classificadas como inimigas da nação.
+
+410
+00:17:14,000 --> 00:17:17,000
+Quem é que vai definir quem é um inimigo da nação?
+
+411
+00:17:18,000 --> 00:17:20,000
+E como é que o senhor garantiria
+
+412
+00:17:20,000 --> 00:17:22,000
+que não haveria arbitrariedades
+
+413
+00:17:22,000 --> 00:17:24,000
+na classificação de uma pessoa que é inimiga da nação?
+
+414
+00:17:24,000 --> 00:17:26,000
+Renata, isso já acontece hoje.
+
+415
+00:17:27,000 --> 00:17:29,000
+Quando há uma investigação tocada por uma polícia
+
+416
+00:17:29,000 --> 00:17:30,000
+ou um Ministério Público
+
+417
+00:17:30,000 --> 00:17:33,000
+que demonstra que há uma formação de quadrilha,
+
+418
+00:17:33,000 --> 00:17:36,000
+que demonstra que há membros de uma facção como o PCC
+
+419
+00:17:36,000 --> 00:17:39,000
+tocando uma operação na Baixada Santista,
+
+420
+00:17:39,000 --> 00:17:41,000
+a autoridade policial determina isso.
+
+421
+00:17:42,000 --> 00:17:43,000
+Isso é uma determinação que já é feita,
+
+422
+00:17:43,000 --> 00:17:44,000
+isso já é bem tradicional.
+
+423
+00:17:44,000 --> 00:17:45,000
+Prisões sem mandato,
+
+424
+00:17:45,000 --> 00:17:47,000
+tortura e desaparecimentos,
+
+425
+00:17:47,000 --> 00:17:49,000
+violação do devido processo legal.
+
+426
+00:17:49,000 --> 00:17:50,000
+Eu vou fazer tortura?
+
+427
+00:17:50,000 --> 00:17:51,000
+Prisões arbitrárias.
+
+428
+00:17:52,000 --> 00:17:53,000
+Estou perguntando ao senhor.
+
+429
+00:17:53,000 --> 00:17:53,000
+Não.
+
+430
+00:17:53,000 --> 00:17:56,000
+Essas são as políticas do Bukele.
+
+431
+00:17:56,000 --> 00:17:58,000
+Eu gostaria de saber qual tortura.
+
+432
+00:17:58,000 --> 00:17:59,000
+Você poderia demonstrar o caso,
+
+433
+00:17:59,000 --> 00:18:00,000
+porque eu não tenho...
+
+434
+00:18:00,000 --> 00:18:01,000
+Ele suspendeu direitos,
+
+435
+00:18:01,000 --> 00:18:03,000
+promoveu detenções arbitrárias.
+
+436
+00:18:03,000 --> 00:18:04,000
+Vamos fazer então, Renata,
+
+437
+00:18:04,000 --> 00:18:05,000
+para a gente ser preciso.
+
+438
+00:18:06,000 --> 00:18:07,000
+Me dá o exemplo um a um
+
+439
+00:18:07,000 --> 00:18:07,000
+que eu digo se eu vou fazer
+
+440
+00:18:07,000 --> 00:18:08,000
+ou se ele mesmo fez.
+
+441
+00:18:09,000 --> 00:18:11,000
+Não, são denúncias graves
+
+442
+00:18:11,000 --> 00:18:14,000
+de violações lá em El Salvador.
+
+443
+00:18:14,000 --> 00:18:15,000
+Eu tenho que saber qual foi a denúncia,
+
+444
+00:18:15,000 --> 00:18:16,000
+porque eu acompanho o caso de El Salvador.
+
+445
+00:18:16,000 --> 00:18:18,000
+Suspensão de direitos, por exemplo,
+
+446
+00:18:18,000 --> 00:18:19,000
+como a presunção da inocência,
+
+447
+00:18:19,000 --> 00:18:20,000
+que o senhor acabou de dizer.
+
+448
+00:18:21,000 --> 00:18:21,000
+Sim.
+
+449
+00:18:21,000 --> 00:18:22,000
+E quem classificaria
+
+450
+00:18:22,000 --> 00:18:24,000
+quem é o inimigo da nossa...
+
+451
+00:18:24,000 --> 00:18:25,000
+As autoridades policiais...
+
+452
+00:18:25,000 --> 00:18:26,000
+Vou dar um exemplo.
+
+453
+00:18:26,000 --> 00:18:27,000
+Agora passou uma legislação
+
+454
+00:18:27,000 --> 00:18:29,000
+que trata membros de facções criminosas.
+
+455
+00:18:29,000 --> 00:18:30,000
+Autoridade policial.
+
+456
+00:18:30,000 --> 00:18:32,000
+As autoridades policiais,
+
+457
+00:18:32,000 --> 00:18:33,000
+o Ministério Público,
+
+458
+00:18:33,000 --> 00:18:34,000
+a Polícia Federal,
+
+459
+00:18:34,000 --> 00:18:35,000
+o processo investigativo.
+
+460
+00:18:35,000 --> 00:18:36,000
+E como evitar arbitrariedades
+
+461
+00:18:36,000 --> 00:18:37,000
+na classificação?
+
+462
+00:18:37,000 --> 00:18:39,000
+O devido processo legal.
+
+463
+00:18:39,000 --> 00:18:41,000
+O devido processo legal existe para isso.
+
+464
+00:18:41,000 --> 00:18:41,000
+Mas, Renata,
+
+465
+00:18:41,000 --> 00:18:42,000
+eu estou surpreso,
+
+466
+00:18:42,000 --> 00:18:43,000
+porque isso já acontece hoje.
+
+467
+00:18:44,000 --> 00:18:45,000
+Hoje existem investigações
+
+468
+00:18:45,000 --> 00:18:46,000
+que determinam que uma pessoa
+
+469
+00:18:46,000 --> 00:18:47,000
+é membro de uma facção
+
+470
+00:18:47,000 --> 00:18:48,000
+ou há uma influência
+
+471
+00:18:48,000 --> 00:18:49,000
+chamada Deolani.
+
+472
+00:18:49,000 --> 00:18:50,000
+Descobriram que a Deolani
+
+473
+00:18:50,000 --> 00:18:52,000
+ela era não apenas
+
+474
+00:18:52,000 --> 00:18:52,000
+uma influenciadora,
+
+475
+00:18:52,000 --> 00:18:54,000
+mas uma advogada ligada ao PCC.
+
+476
+00:18:55,000 --> 00:18:56,000
+Ora, a investigação pegou ela,
+
+477
+00:18:56,000 --> 00:18:57,000
+ela foi presa.
+
+478
+00:18:57,000 --> 00:18:58,000
+Isso é o básico,
+
+479
+00:18:58,000 --> 00:18:59,000
+isso já existe.
+
+480
+00:18:59,000 --> 00:18:59,000
+Candidato,
+
+481
+00:18:59,000 --> 00:19:00,000
+não há nenhuma novidade.
+
+482
+00:19:00,000 --> 00:19:01,000
+Declarações do senhor.
+
+483
+00:19:01,000 --> 00:19:03,000
+Mas é que esses pontos
+
+484
+00:19:03,000 --> 00:19:03,000
+sobre El Salvador,
+
+485
+00:19:04,000 --> 00:19:04,000
+muitos elementos
+
+486
+00:19:04,000 --> 00:19:05,000
+que foram adotados em El Salvador,
+
+487
+00:19:05,000 --> 00:19:07,000
+e de maneira muito similar
+
+488
+00:19:07,000 --> 00:19:08,000
+vão ser adotados por mim.
+
+489
+00:19:08,000 --> 00:19:09,000
+Por exemplo?
+
+490
+00:19:10,000 --> 00:19:10,000
+Lista.
+
+491
+00:19:10,000 --> 00:19:11,000
+Eu vou dar um exemplo
+
+492
+00:19:11,000 --> 00:19:14,000
+a ideia de enfrentamento
+
+493
+00:19:14,000 --> 00:19:15,000
+usando um regime especial,
+
+494
+00:19:15,000 --> 00:19:16,000
+aqui o Estado de Defesa,
+
+495
+00:19:16,000 --> 00:19:17,000
+em áreas dominadas pelo crime,
+
+496
+00:19:18,000 --> 00:19:18,000
+eu vou adotar.
+
+497
+00:19:19,000 --> 00:19:20,000
+Vai ter um regime de exceção
+
+498
+00:19:20,000 --> 00:19:20,000
+em favelas
+
+499
+00:19:20,000 --> 00:19:21,000
+para eu retomar a favela.
+
+500
+00:19:21,000 --> 00:19:23,000
+Julgamento coletivo de réus,
+
+501
+00:19:23,000 --> 00:19:24,000
+centenas de réus.
+
+502
+00:19:24,000 --> 00:19:24,000
+Prisões baseadas
+
+503
+00:19:24,000 --> 00:19:25,000
+em denúncia anônima.
+
+504
+00:19:26,000 --> 00:19:27,000
+O Brasil hoje existe
+
+505
+00:19:27,000 --> 00:19:27,000
+prisão baseada
+
+506
+00:19:27,000 --> 00:19:28,000
+em denúncia anônima.
+
+507
+00:19:28,000 --> 00:19:29,000
+Eu disse que denúncia existe.
+
+508
+00:19:30,000 --> 00:19:30,000
+A questão é,
+
+509
+00:19:30,000 --> 00:19:32,000
+não só em denúncia anônima.
+
+510
+00:19:32,000 --> 00:19:33,000
+Julgamento coletivo
+
+511
+00:19:33,000 --> 00:19:35,000
+de centenas de réus.
+
+512
+00:19:35,000 --> 00:19:35,000
+Vou dar um exemplo.
+
+513
+00:19:35,000 --> 00:19:36,000
+Vou dar um exemplo.
+
+514
+00:19:36,000 --> 00:19:37,000
+Denúncia anônima.
+
+515
+00:19:37,000 --> 00:19:38,000
+Hoje, se você fizer
+
+516
+00:19:38,000 --> 00:19:39,000
+uma denúncia anônima
+
+517
+00:19:39,000 --> 00:19:39,000
+de que uma pessoa
+
+518
+00:19:39,000 --> 00:19:41,000
+é membro de uma facção
+
+519
+00:19:41,000 --> 00:19:42,000
+e há um processo de investigação
+
+520
+00:19:42,000 --> 00:19:43,000
+que leve esse investigado
+
+521
+00:19:43,000 --> 00:19:44,000
+à cadeia
+
+522
+00:19:44,000 --> 00:19:45,000
+porque encontraram outras provas,
+
+523
+00:19:45,000 --> 00:19:46,000
+é tudo normal.
+
+524
+00:19:46,000 --> 00:19:47,000
+Isso existe na legislação brasileira.
+
+525
+00:19:47,000 --> 00:19:48,000
+Isso não é novidade.
+
+526
+00:19:48,000 --> 00:19:49,000
+Julgamento coletivo
+
+527
+00:19:49,000 --> 00:19:50,000
+de centenas de réus.
+
+528
+00:19:50,000 --> 00:19:50,000
+É um caso...
+
+529
+00:19:50,000 --> 00:19:51,000
+Você conhece esse caso?
+
+530
+00:19:52,000 --> 00:19:53,000
+É o Salvador.
+
+531
+00:19:53,000 --> 00:19:53,000
+É um caso...
+
+532
+00:19:53,000 --> 00:19:54,000
+Eu vou te narrar o caso.
+
+533
+00:19:54,000 --> 00:19:56,000
+É um caso de 456 pessoas,
+
+534
+00:19:56,000 --> 00:19:57,000
+lideranças de um movimento
+
+535
+00:19:57,000 --> 00:19:59,000
+chamado MS-13,
+
+536
+00:20:00,000 --> 00:20:01,000
+que é basicamente
+
+537
+00:20:01,000 --> 00:20:02,000
+a principal facção de El Salvador,
+
+538
+00:20:02,000 --> 00:20:03,000
+em que eles foram julgados
+
+539
+00:20:03,000 --> 00:20:05,000
+num modelo similar ao de Nuremberg
+
+540
+00:20:05,000 --> 00:20:06,000
+pelo assassinato
+
+541
+00:20:06,000 --> 00:20:08,000
+de 29 mil pessoas.
+
+542
+00:20:08,000 --> 00:20:08,000
+Ou seja,
+
+543
+00:20:08,000 --> 00:20:10,000
+eles foram corresponsabilizados
+
+544
+00:20:10,000 --> 00:20:11,000
+pela cadeia de comando
+
+545
+00:20:11,000 --> 00:20:12,000
+num modelo muito similar
+
+546
+00:20:12,000 --> 00:20:13,000
+ao julgamento de Nuremberg.
+
+547
+00:20:13,000 --> 00:20:14,000
+Creio que todos aqui
+
+548
+00:20:14,000 --> 00:20:16,000
+que rejeitam o Holocausto
+
+549
+00:20:16,000 --> 00:20:17,000
+creiam que o julgamento
+
+550
+00:20:17,000 --> 00:20:17,000
+de Nuremberg
+
+551
+00:20:17,000 --> 00:20:18,000
+foi um julgamento correto.
+
+552
+00:20:18,000 --> 00:20:19,000
+Turturas e desaparecimentos?
+
+553
+00:20:20,000 --> 00:20:20,000
+Não.
+
+554
+00:20:20,000 --> 00:20:21,000
+Não conheço
+
+555
+00:20:21,000 --> 00:20:21,000
+as torturas e desaparecimentos
+
+556
+00:20:21,000 --> 00:20:22,000
+que você está falando, Renata.
+
+557
+00:20:23,000 --> 00:20:23,000
+Eu acho que isso aí
+
+558
+00:20:23,000 --> 00:20:24,000
+é um clichê
+
+559
+00:20:24,000 --> 00:20:24,000
+que a mídia internacional
+
+560
+00:20:24,000 --> 00:20:25,000
+fala sobre o caso.
+
+561
+00:20:25,000 --> 00:20:27,000
+Candidato, em relação a declarações
+
+562
+00:20:27,000 --> 00:20:29,000
+em relação a declarações
+
+563
+00:20:29,000 --> 00:20:29,000
+do senhor.
+
+564
+00:20:30,000 --> 00:20:31,000
+Por favor.
+
+565
+00:20:31,000 --> 00:20:32,000
+É que eu preciso comentar
+
+566
+00:20:32,000 --> 00:20:32,000
+o ponto dela.
+
+567
+00:20:33,000 --> 00:20:34,000
+Tortura e desaparecimento
+
+568
+00:20:34,000 --> 00:20:35,000
+acontece todos os dias no Brasil.
+
+569
+00:20:36,000 --> 00:20:36,000
+O crime organizado
+
+570
+00:20:36,000 --> 00:20:37,000
+está torturando
+
+571
+00:20:37,000 --> 00:20:38,000
+e matando as pessoas diariamente.
+
+572
+00:20:38,000 --> 00:20:39,000
+Além das mortes
+
+573
+00:20:39,000 --> 00:20:40,000
+na casa das 40 mil pessoas
+
+574
+00:20:40,000 --> 00:20:41,000
+que acontecem todos os anos,
+
+575
+00:20:42,000 --> 00:20:43,000
+desaparecem outros milhares.
+
+576
+00:20:44,000 --> 00:20:45,000
+São corpos que não são encontrados.
+
+577
+00:20:45,000 --> 00:20:47,000
+Não era para institucionalizar isso, né?
+
+578
+00:20:47,000 --> 00:20:48,000
+Esse é o problema.
+
+579
+00:20:48,000 --> 00:20:50,000
+Já está institucionalizado.
+
+580
+00:20:50,000 --> 00:20:51,000
+Se você vai numa favela
+
+581
+00:20:51,000 --> 00:20:52,000
+em que não há Estado democrático de direito,
+
+582
+00:20:53,000 --> 00:20:53,000
+em que as pessoas
+
+583
+00:20:53,000 --> 00:20:54,000
+não dispõem de guia e direito,
+
+584
+00:20:55,000 --> 00:20:57,000
+as pessoas precisam ser libertas
+
+585
+00:20:57,000 --> 00:20:58,000
+e elas podem ser torturadas
+
+586
+00:20:58,000 --> 00:20:58,000
+nesses lugares.
+
+587
+00:20:59,000 --> 00:20:59,000
+Cabe ao Estado
+
+588
+00:20:59,000 --> 00:21:00,000
+recuperar essas áreas.
+
+589
+00:21:00,000 --> 00:21:01,000
+São todas denúncias
+
+590
+00:21:01,000 --> 00:21:02,000
+que vieram de famílias
+
+591
+00:21:02,000 --> 00:21:03,000
+de El Salvador.
+
+592
+00:21:03,000 --> 00:21:04,000
+São denúncias levantadas
+
+593
+00:21:04,000 --> 00:21:05,000
+pelo jornalismo profissional
+
+594
+00:21:05,000 --> 00:21:07,000
+fazendo reportagens
+
+595
+00:21:07,000 --> 00:21:07,000
+em El Salvador
+
+596
+00:21:07,000 --> 00:21:08,000
+e até mesmo
+
+597
+00:21:08,000 --> 00:21:10,000
+por parte de entidades
+
+598
+00:21:10,000 --> 00:21:11,000
+independentes
+
+599
+00:21:11,000 --> 00:21:12,000
+que fiscalizam
+
+600
+00:21:12,000 --> 00:21:13,000
+segurança pública
+
+601
+00:21:13,000 --> 00:21:14,000
+também em El Salvador.
+
+602
+00:21:15,000 --> 00:21:15,000
+Então, só para a gente
+
+603
+00:21:15,000 --> 00:21:16,000
+seguir aqui, por favor,
+
+604
+00:21:17,000 --> 00:21:18,000
+declarações do senhor.
+
+605
+00:21:19,000 --> 00:21:20,000
+Matar quem roubar
+
+606
+00:21:20,000 --> 00:21:22,000
+e fazer um banho de sangue.
+
+607
+00:21:22,000 --> 00:21:24,000
+O senhor diz que o senhor
+
+608
+00:21:24,000 --> 00:21:24,000
+não é o Bukele.
+
+609
+00:21:25,000 --> 00:21:25,000
+Mas então,
+
+610
+00:21:25,000 --> 00:21:26,000
+por que o senhor mantém
+
+611
+00:21:26,000 --> 00:21:28,000
+esse tom
+
+612
+00:21:28,000 --> 00:21:28,000
+defendido
+
+613
+00:21:28,000 --> 00:21:30,000
+pelo Naí Bukele?
+
+614
+00:21:31,000 --> 00:21:32,000
+Na última
+
+615
+00:21:32,000 --> 00:21:33,000
+segunda-feira,
+
+616
+00:21:33,000 --> 00:21:33,000
+um rapaz
+
+617
+00:21:33,000 --> 00:21:34,000
+chamado Eduardo
+
+618
+00:21:34,000 --> 00:21:34,000
+lá em São Paulo,
+
+619
+00:21:35,000 --> 00:21:36,000
+ele viu sua namorada
+
+620
+00:21:36,000 --> 00:21:37,000
+sendo assaltada
+
+621
+00:21:37,000 --> 00:21:37,000
+no meio da rua,
+
+622
+00:21:38,000 --> 00:21:38,000
+aparece o bandido,
+
+623
+00:21:39,000 --> 00:21:40,000
+ele tenta evitar o assalto.
+
+624
+00:21:40,000 --> 00:21:41,000
+O bandido
+
+625
+00:21:41,000 --> 00:21:41,000
+olha para o Eduardo,
+
+626
+00:21:42,000 --> 00:21:43,000
+puxa a arma,
+
+627
+00:21:43,000 --> 00:21:43,000
+tum,
+
+628
+00:21:43,000 --> 00:21:44,000
+dá um tiro na cabeça
+
+629
+00:21:44,000 --> 00:21:44,000
+do Eduardo.
+
+630
+00:21:45,000 --> 00:21:45,000
+A cabeça do Eduardo
+
+631
+00:21:45,000 --> 00:21:46,000
+explode
+
+632
+00:21:46,000 --> 00:21:47,000
+e o sangue
+
+633
+00:21:47,000 --> 00:21:47,000
+vaza na rua.
+
+634
+00:21:48,000 --> 00:21:49,000
+Houve um banho de sangue
+
+635
+00:21:49,000 --> 00:21:49,000
+na segunda-feira
+
+636
+00:21:49,000 --> 00:21:50,000
+de um inocente.
+
+637
+00:21:51,000 --> 00:21:52,000
+Eu acho que o sangue
+
+638
+00:21:52,000 --> 00:21:53,000
+que tem que jorrar
+
+639
+00:21:53,000 --> 00:21:54,000
+não é dele,
+
+640
+00:21:54,000 --> 00:21:54,000
+o sangue que tem que jorrar
+
+641
+00:21:54,000 --> 00:21:55,000
+é do bandido.
+
+642
+00:21:55,000 --> 00:21:56,000
+Eu acho que as pessoas
+
+643
+00:21:56,000 --> 00:21:56,000
+no Brasil,
+
+644
+00:21:56,000 --> 00:21:57,000
+e eu rodeio o Brasil
+
+645
+00:21:57,000 --> 00:21:58,000
+a pé e de carro
+
+646
+00:21:58,000 --> 00:21:59,000
+nos últimos meses todos,
+
+647
+00:22:00,000 --> 00:22:00,000
+as pessoas no Brasil
+
+648
+00:22:00,000 --> 00:22:01,000
+estão implorando
+
+649
+00:22:01,000 --> 00:22:03,000
+para que a gente faça justiça
+
+650
+00:22:03,000 --> 00:22:03,000
+contra essas figuras
+
+651
+00:22:03,000 --> 00:22:04,000
+terríveis,
+
+652
+00:22:04,000 --> 00:22:05,000
+esses demônios
+
+653
+00:22:05,000 --> 00:22:06,000
+que estão matando a gente.
+
+654
+00:22:06,000 --> 00:22:07,000
+E cabe ao presidente
+
+655
+00:22:07,000 --> 00:22:07,000
+da república
+
+656
+00:22:07,000 --> 00:22:08,000
+liderar as pessoas
+
+657
+00:22:08,000 --> 00:22:09,000
+nessa guerra.
+
+658
+00:22:09,000 --> 00:22:10,000
+Os brasileiros morrem
+
+659
+00:22:10,000 --> 00:22:12,000
+como se fosse bicho.
+
+660
+00:22:12,000 --> 00:22:13,000
+Ninguém liga,
+
+661
+00:22:13,000 --> 00:22:13,000
+ninguém sabe o nome.
+
+662
+00:22:14,000 --> 00:22:15,000
+A maior parte são meninos,
+
+663
+00:22:15,000 --> 00:22:15,000
+em geral,
+
+664
+00:22:15,000 --> 00:22:16,000
+negros,
+
+665
+00:22:16,000 --> 00:22:17,000
+que morrem nas favelas
+
+666
+00:22:17,000 --> 00:22:18,000
+e nas cidades mais pobres.
+
+667
+00:22:18,000 --> 00:22:19,000
+Pessoas são vítimas
+
+668
+00:22:19,000 --> 00:22:20,000
+de latrocínio diariamente.
+
+669
+00:22:21,000 --> 00:22:21,000
+Desde que a gente começou
+
+670
+00:22:21,000 --> 00:22:22,000
+esse programa,
+
+671
+00:22:22,000 --> 00:22:22,000
+no mínimo,
+
+672
+00:22:22,000 --> 00:22:23,000
+uma pessoa já foi assassinada
+
+673
+00:22:23,000 --> 00:22:24,000
+e, em geral,
+
+674
+00:22:24,000 --> 00:22:25,000
+vítima dessas facções criminosas.
+
+675
+00:22:25,000 --> 00:22:26,000
+Agora, candidato,
+
+676
+00:22:26,000 --> 00:22:27,000
+eu gostaria de abordar também
+
+677
+00:22:27,000 --> 00:22:27,000
+um tema importante.
+
+678
+00:22:27,000 --> 00:22:28,000
+Eu não respondo o César ainda.
+
+679
+00:22:29,000 --> 00:22:30,000
+Deixa eu só terminar.
+
+680
+00:22:30,000 --> 00:22:30,000
+Por favor, Renata.
+
+681
+00:22:30,000 --> 00:22:31,000
+Para que a gente possa abordar
+
+682
+00:22:31,000 --> 00:22:32,000
+vários temas.
+
+683
+00:22:32,000 --> 00:22:32,000
+Eu também quero.
+
+684
+00:22:33,000 --> 00:22:34,000
+Eu falo rápido
+
+685
+00:22:34,000 --> 00:22:35,000
+justamente para ajudar a abordar.
+
+686
+00:22:36,000 --> 00:22:37,000
+Falo do banho de sangue.
+
+687
+00:22:38,000 --> 00:22:38,000
+Pode não ser a palavra
+
+688
+00:22:38,000 --> 00:22:39,000
+mais bonita
+
+689
+00:22:39,000 --> 00:22:39,000
+para a pessoa
+
+690
+00:22:39,000 --> 00:22:40,000
+que está assistindo em casa,
+
+691
+00:22:40,000 --> 00:22:41,000
+mas é a única coisa
+
+692
+00:22:41,000 --> 00:22:42,000
+que eu posso fazer
+
+693
+00:22:42,000 --> 00:22:42,000
+como resposta
+
+694
+00:22:42,000 --> 00:22:42,000
+para alguém que está
+
+695
+00:22:42,000 --> 00:22:43,000
+com uma arma apontada
+
+696
+00:22:43,000 --> 00:22:44,000
+para uma pessoa.
+
+697
+00:22:44,000 --> 00:22:45,000
+Uma pessoa que aponta
+
+698
+00:22:45,000 --> 00:22:45,000
+uma arma para você
+
+699
+00:22:45,000 --> 00:22:46,000
+no meio da rua
+
+700
+00:22:46,000 --> 00:22:47,000
+para te cometer um assalto
+
+701
+00:22:47,000 --> 00:22:48,000
+é a pessoa que pode matar você
+
+702
+00:22:48,000 --> 00:22:49,000
+por latrocínio.
+
+703
+00:22:50,000 --> 00:22:51,000
+Ela se torna juiz da tua vida.
+
+704
+00:22:51,000 --> 00:22:52,000
+Ela se torna juiz
+
+705
+00:22:52,000 --> 00:22:52,000
+dos teus sonhos.
+
+706
+00:22:52,000 --> 00:22:53,000
+Ela se torna juiz
+
+707
+00:22:53,000 --> 00:22:53,000
+do teu futuro.
+
+708
+00:22:54,000 --> 00:22:54,000
+Ela não tem o direito
+
+709
+00:22:54,000 --> 00:22:55,000
+de se comportar
+
+710
+00:22:55,000 --> 00:22:56,000
+como juiz da tua vida.
+
+711
+00:22:56,000 --> 00:22:56,000
+Se um policial
+
+712
+00:22:56,000 --> 00:22:57,000
+estiver na tua frente,
+
+713
+00:22:57,000 --> 00:22:58,000
+e por isso que um slogan
+
+714
+00:22:58,000 --> 00:23:00,000
+de maneira automática
+
+715
+00:23:00,000 --> 00:23:00,000
+surgiu o meu respeito
+
+716
+00:23:00,000 --> 00:23:01,000
+na internet,
+
+717
+00:23:01,000 --> 00:23:02,000
+que era prender ou matou,
+
+718
+00:23:02,000 --> 00:23:03,000
+se um policial
+
+719
+00:23:03,000 --> 00:23:03,000
+estiver ali na frente,
+
+720
+00:23:03,000 --> 00:23:04,000
+ele tem que atirar
+
+721
+00:23:04,000 --> 00:23:05,000
+para matar nessa pessoa.
+
+722
+00:23:05,000 --> 00:23:06,000
+E eu falo isso
+
+723
+00:23:06,000 --> 00:23:08,000
+porque eu sou um pacifista,
+
+724
+00:23:08,000 --> 00:23:09,000
+nem sei atirar.
+
+725
+00:23:09,000 --> 00:23:10,000
+E esse tema
+
+726
+00:23:10,000 --> 00:23:11,000
+nem foi central para mim.
+
+727
+00:23:11,000 --> 00:23:12,000
+Agora, eu já tive minha mãe
+
+728
+00:23:12,000 --> 00:23:14,000
+alvo de sequestro relâmpago.
+
+729
+00:23:14,000 --> 00:23:15,000
+Todo mundo já no Brasil
+
+730
+00:23:15,000 --> 00:23:16,000
+passou por uma experiência traumática.
+
+731
+00:23:16,000 --> 00:23:17,000
+Todo mundo sabe
+
+732
+00:23:17,000 --> 00:23:17,000
+que tem um bandido
+
+733
+00:23:17,000 --> 00:23:18,000
+com a arma na cabeça
+
+734
+00:23:18,000 --> 00:23:19,000
+de um parente seu.
+
+735
+00:23:19,000 --> 00:23:20,000
+A gente não pode aceitar
+
+736
+00:23:20,000 --> 00:23:21,000
+mais ser refém dessas pessoas.
+
+737
+00:23:22,000 --> 00:23:23,000
+E o povo brasileiro
+
+738
+00:23:23,000 --> 00:23:24,000
+está pedindo uma guerra.
+
+739
+00:23:24,000 --> 00:23:25,000
+É uma guerra o brasileiro quer.
+
+740
+00:23:26,000 --> 00:23:26,000
+Em 2022,
+
+741
+00:23:27,000 --> 00:23:28,000
+o senhor e um dos principais
+
+742
+00:23:28,000 --> 00:23:29,000
+nomes do seu partido,
+
+743
+00:23:30,000 --> 00:23:30,000
+o Missão,
+
+744
+00:23:30,000 --> 00:23:32,000
+um aliado seu e amigo
+
+745
+00:23:32,000 --> 00:23:32,000
+Arthur Duval,
+
+746
+00:23:33,000 --> 00:23:34,000
+estiveram juntos na Ucrânia
+
+747
+00:23:34,000 --> 00:23:35,000
+e vieram a público áudios
+
+748
+00:23:35,000 --> 00:23:36,000
+em que Duval
+
+749
+00:23:36,000 --> 00:23:37,000
+fez declarações
+
+750
+00:23:37,000 --> 00:23:38,000
+machistas
+
+751
+00:23:38,000 --> 00:23:39,000
+sobre mulheres ucranianas.
+
+752
+00:23:40,000 --> 00:23:40,000
+Ele disse o seguinte,
+
+753
+00:23:41,000 --> 00:23:41,000
+abre aspas,
+
+754
+00:23:42,000 --> 00:23:43,000
+elas são fáceis
+
+755
+00:23:43,000 --> 00:23:44,000
+porque são pobres.
+
+756
+00:23:45,000 --> 00:23:46,000
+Essas falas tiveram
+
+757
+00:23:46,000 --> 00:23:47,000
+uma forte repercussão,
+
+758
+00:23:47,000 --> 00:23:48,000
+levaram até a perda
+
+759
+00:23:48,000 --> 00:23:49,000
+do mandato,
+
+760
+00:23:49,000 --> 00:23:50,000
+a cassação do mandato dele.
+
+761
+00:23:51,000 --> 00:23:51,000
+E numa live
+
+762
+00:23:51,000 --> 00:23:53,000
+no dia 9 de março de 22,
+
+763
+00:23:53,000 --> 00:23:53,000
+o senhor disse
+
+764
+00:23:53,000 --> 00:23:54,000
+que estava ao lado dele
+
+765
+00:23:54,000 --> 00:23:55,000
+quando ele fez
+
+766
+00:23:55,000 --> 00:23:56,000
+essas declarações.
+
+767
+00:23:56,000 --> 00:23:56,000
+Gostaria de saber
+
+768
+00:23:56,000 --> 00:23:57,000
+como é que o senhor
+
+769
+00:23:57,000 --> 00:23:58,000
+avalia elas hoje.
+
+770
+00:23:58,000 --> 00:23:59,000
+Foram declarações ruins.
+
+771
+00:24:00,000 --> 00:24:01,000
+Vamos contextualizar.
+
+772
+00:24:01,000 --> 00:24:02,000
+Eu não ouvi ele
+
+773
+00:24:02,000 --> 00:24:03,000
+quando ele emitiu o áudio.
+
+774
+00:24:04,000 --> 00:24:05,000
+Eu vi que ele estava
+
+775
+00:24:05,000 --> 00:24:06,000
+fazendo um áudio ali
+
+776
+00:24:06,000 --> 00:24:06,000
+com o celular na mão.
+
+777
+00:24:06,000 --> 00:24:08,000
+gostaria de ter evitado.
+
+778
+00:24:09,000 --> 00:24:10,000
+O áudio que ele mandou
+
+779
+00:24:10,000 --> 00:24:10,000
+em defesa dele
+
+780
+00:24:10,000 --> 00:24:11,000
+foi um áudio
+
+781
+00:24:11,000 --> 00:24:12,000
+em um ambiente privado
+
+782
+00:24:12,000 --> 00:24:13,000
+com amigos dele.
+
+783
+00:24:13,000 --> 00:24:14,000
+Não era nem dentro
+
+784
+00:24:14,000 --> 00:24:15,000
+do nosso grupo político.
+
+785
+00:24:15,000 --> 00:24:16,000
+E esse áudio vazou
+
+786
+00:24:16,000 --> 00:24:17,000
+e após vazar
+
+787
+00:24:17,000 --> 00:24:18,000
+ele sofreu as consequências
+
+788
+00:24:18,000 --> 00:24:19,000
+políticas dele.
+
+789
+00:24:19,000 --> 00:24:20,000
+O áudio é muito ruim.
+
+790
+00:24:20,000 --> 00:24:21,000
+se a pessoa ouve o áudio
+
+791
+00:24:21,000 --> 00:24:22,000
+a pessoa realmente
+
+792
+00:24:22,000 --> 00:24:23,000
+qualquer mulher
+
+793
+00:24:23,000 --> 00:24:24,000
+ou homem mesmo
+
+794
+00:24:24,000 --> 00:24:24,000
+fica
+
+795
+00:24:24,000 --> 00:24:26,000
+esse áudio não é adequado.
+
+796
+00:24:26,000 --> 00:24:27,000
+Dito isso
+
+797
+00:24:27,000 --> 00:24:28,000
+foi um áudio privado
+
+798
+00:24:28,000 --> 00:24:28,000
+no ambiente privado
+
+799
+00:24:28,000 --> 00:24:29,000
+e ele perdeu o mandato dele.
+
+800
+00:24:30,000 --> 00:24:30,000
+Ele sendo um deputado
+
+801
+00:24:30,000 --> 00:24:31,000
+estadual
+
+802
+00:24:31,000 --> 00:24:32,000
+muito combativo
+
+803
+00:24:32,000 --> 00:24:33,000
+na Lespe
+
+804
+00:24:33,000 --> 00:24:34,000
+não por conta do áudio em si.
+
+805
+00:24:35,000 --> 00:24:35,000
+Ele perdeu o mandato
+
+806
+00:24:35,000 --> 00:24:36,000
+porque ele era
+
+807
+00:24:36,000 --> 00:24:38,000
+basicamente de oposição
+
+808
+00:24:38,000 --> 00:24:39,000
+ao grupo político dominante
+
+809
+00:24:39,000 --> 00:24:40,000
+na Assembleia Legislativa
+
+810
+00:24:40,000 --> 00:24:40,000
+de São Paulo.
+
+811
+00:24:41,000 --> 00:24:41,000
+Dito isso
+
+812
+00:24:41,000 --> 00:24:42,000
+não foi um bom áudio
+
+813
+00:24:42,000 --> 00:24:42,000
+de maneira alguma.
+
+814
+00:24:42,000 --> 00:24:44,000
+candidato
+
+815
+00:24:44,000 --> 00:24:46,000
+92% dos filiados
+
+816
+00:24:46,000 --> 00:24:47,000
+do seu partido
+
+817
+00:24:47,000 --> 00:24:48,000
+são homens
+
+818
+00:24:48,000 --> 00:24:49,000
+muito acima
+
+819
+00:24:49,000 --> 00:24:50,000
+da média
+
+820
+00:24:50,000 --> 00:24:51,000
+dos outros partidos.
+
+821
+00:24:52,000 --> 00:24:53,000
+Episódios como esse
+
+822
+00:24:53,000 --> 00:24:54,000
+que a Renata relatou
+
+823
+00:24:54,000 --> 00:24:55,000
+aqui envolvendo o senhor
+
+824
+00:24:55,000 --> 00:24:56,000
+o Arthur Duval
+
+825
+00:24:56,000 --> 00:24:58,000
+não afastam as mulheres
+
+826
+00:24:58,000 --> 00:24:59,000
+do seu partido
+
+827
+00:24:59,000 --> 00:25:00,000
+ou missão?
+
+828
+00:25:00,000 --> 00:25:00,000
+De maneira alguma.
+
+829
+00:25:02,000 --> 00:25:02,000
+Em 2022
+
+830
+00:25:02,000 --> 00:25:03,000
+o ano que aconteceu
+
+831
+00:25:03,000 --> 00:25:03,000
+Por que então
+
+832
+00:25:03,000 --> 00:25:05,000
+92% de homens?
+
+833
+00:25:06,000 --> 00:25:06,000
+Vou te contar
+
+834
+00:25:06,000 --> 00:25:06,000
+uma história
+
+835
+00:25:06,000 --> 00:25:07,000
+que o Brasil
+
+836
+00:25:07,000 --> 00:25:07,000
+precisa saber
+
+837
+00:25:07,000 --> 00:25:08,000
+uma história muito triste.
+
+838
+00:25:09,000 --> 00:25:10,000
+O ano que aconteceu
+
+839
+00:25:10,000 --> 00:25:11,000
+isso com o Arthur
+
+840
+00:25:11,000 --> 00:25:11,000
+foi o ano que a gente tinha
+
+841
+00:25:11,000 --> 00:25:12,000
+na nossa academia
+
+842
+00:25:12,000 --> 00:25:12,000
+de formação
+
+843
+00:25:12,000 --> 00:25:13,000
+um mau número de mulheres
+
+844
+00:25:13,000 --> 00:25:15,000
+a proporção era 60 a 40.
+
+845
+00:25:15,000 --> 00:25:16,000
+No ano seguinte
+
+846
+00:25:16,000 --> 00:25:18,000
+às vésperas da eleição
+
+847
+00:25:18,000 --> 00:25:19,000
+para vereador
+
+848
+00:25:19,000 --> 00:25:20,000
+e prefeito em São Paulo
+
+849
+00:25:20,000 --> 00:25:21,000
+a nossa candidata principal
+
+850
+00:25:21,000 --> 00:25:22,000
+Amanda Vettorazo
+
+851
+00:25:22,000 --> 00:25:23,000
+que hoje é coordenadora
+
+852
+00:25:23,000 --> 00:25:23,000
+da minha campanha
+
+853
+00:25:23,000 --> 00:25:25,000
+ela foi
+
+854
+00:25:25,000 --> 00:25:25,000
+isso está na imprensa
+
+855
+00:25:25,000 --> 00:25:26,000
+isso é uma historinha
+
+856
+00:25:26,000 --> 00:25:27,000
+que eu estou contando
+
+857
+00:25:27,000 --> 00:25:28,000
+ela foi primeiro
+
+858
+00:25:28,000 --> 00:25:29,000
+alvo de uma série
+
+859
+00:25:29,000 --> 00:25:30,000
+de ataques de um stalker
+
+860
+00:25:30,000 --> 00:25:31,000
+que perseguiu ela
+
+861
+00:25:31,000 --> 00:25:32,000
+hoje o stalker está preso
+
+862
+00:25:32,000 --> 00:25:34,000
+ela teve o seu endereço
+
+863
+00:25:34,000 --> 00:25:34,000
+revelado
+
+864
+00:25:34,000 --> 00:25:36,000
+pessoas picharam a casa dela
+
+865
+00:25:36,000 --> 00:25:37,000
+um movimento de esquerda
+
+866
+00:25:37,000 --> 00:25:37,000
+que se diz
+
+867
+00:25:37,000 --> 00:25:38,000
+inclusive defensores das mulheres
+
+868
+00:25:38,000 --> 00:25:39,000
+e depois
+
+869
+00:25:39,000 --> 00:25:40,000
+a mãe dela
+
+870
+00:25:40,000 --> 00:25:41,000
+e a tia e a avó dela
+
+871
+00:25:41,000 --> 00:25:42,000
+foram sequestradas
+
+872
+00:25:42,000 --> 00:25:44,000
+meses depois
+
+873
+00:25:44,000 --> 00:25:45,000
+vários deepfakes
+
+874
+00:25:45,000 --> 00:25:46,000
+montagens foram feitas
+
+875
+00:25:46,000 --> 00:25:47,000
+dela pelada
+
+876
+00:25:47,000 --> 00:25:49,000
+e toda sorte de ataque
+
+877
+00:25:49,000 --> 00:25:50,000
+envolvendo a intimidade
+
+878
+00:25:50,000 --> 00:25:51,000
+dela foram feitas
+
+879
+00:25:51,000 --> 00:25:52,000
+o número de moças
+
+880
+00:25:52,000 --> 00:25:54,000
+que atuam politicamente
+
+881
+00:25:54,000 --> 00:25:54,000
+com a gente
+
+882
+00:25:54,000 --> 00:25:55,000
+depois de casos como esse
+
+883
+00:25:55,000 --> 00:25:56,000
+e outros casos
+
+884
+00:25:56,000 --> 00:25:57,000
+acontecem com lideranças nossas
+
+885
+00:25:57,000 --> 00:25:58,000
+eles se repetem
+
+886
+00:25:58,000 --> 00:25:59,000
+e se repetem
+
+887
+00:25:59,000 --> 00:25:59,000
+e se repetem
+
+888
+00:25:59,000 --> 00:26:00,000
+só que eles costumam ser
+
+889
+00:26:00,000 --> 00:26:01,000
+mais silenciados
+
+890
+00:26:01,000 --> 00:26:02,000
+pela mídia
+
+891
+00:26:02,000 --> 00:26:02,000
+do que casos que acontecem
+
+892
+00:26:02,000 --> 00:26:03,000
+no outro bloco
+
+893
+00:26:03,000 --> 00:26:03,000
+que é a esquerda
+
+894
+00:26:03,000 --> 00:26:05,000
+mas o seu plano de governo
+
+895
+00:26:05,000 --> 00:26:05,000
+por exemplo
+
+896
+00:26:05,000 --> 00:26:06,000
+não trata do combate
+
+897
+00:26:06,000 --> 00:26:07,000
+ao feminicídio
+
+898
+00:26:07,000 --> 00:26:08,000
+também não apresenta
+
+899
+00:26:08,000 --> 00:26:10,000
+políticas específicas
+
+900
+00:26:10,000 --> 00:26:10,000
+sobre homicídios
+
+901
+00:26:10,000 --> 00:26:11,000
+de crianças
+
+902
+00:26:11,000 --> 00:26:13,000
+violência sexual infantil
+
+903
+00:26:13,000 --> 00:26:14,000
+e abuso
+
+904
+00:26:14,000 --> 00:26:15,000
+só para informar
+
+905
+00:26:15,000 --> 00:26:16,000
+o telespectador
+
+906
+00:26:16,000 --> 00:26:17,000
+os números do fórum brasileiro
+
+907
+00:26:17,000 --> 00:26:18,000
+de segurança pública
+
+908
+00:26:18,000 --> 00:26:20,000
+mostram que só no ano passado
+
+909
+00:26:20,000 --> 00:26:22,000
+mais de 1500 mulheres
+
+910
+00:26:22,000 --> 00:26:23,000
+foram vítimas
+
+911
+00:26:23,000 --> 00:26:24,000
+de feminicídio
+
+912
+00:26:24,000 --> 00:26:24,000
+no Brasil
+
+913
+00:26:24,000 --> 00:26:25,000
+mais de 2000
+
+914
+00:26:25,000 --> 00:26:27,000
+crianças e jovens
+
+915
+00:26:27,000 --> 00:26:28,000
+foram mortas
+
+916
+00:26:28,000 --> 00:26:29,000
+vítimas da violência
+
+917
+00:26:29,000 --> 00:26:30,000
+o senhor não incluiu
+
+918
+00:26:30,000 --> 00:26:31,000
+políticas específicas
+
+919
+00:26:31,000 --> 00:26:32,000
+para enfrentar
+
+920
+00:26:32,000 --> 00:26:33,000
+esses problemas
+
+921
+00:26:33,000 --> 00:26:34,000
+por quê?
+
+922
+00:26:35,000 --> 00:26:35,000
+posso terminar o Sérgio
+
+923
+00:26:35,000 --> 00:26:36,000
+vou entrar
+
+924
+00:26:36,000 --> 00:26:38,000
+pergunta correlacionada
+
+925
+00:26:38,000 --> 00:26:38,000
+boa
+
+926
+00:26:38,000 --> 00:26:41,000
+a questão dessas mulheres
+
+927
+00:26:41,000 --> 00:26:41,000
+não é
+
+928
+00:26:41,000 --> 00:26:42,000
+das mulheres não entrarem
+
+929
+00:26:42,000 --> 00:26:43,000
+no partido
+
+930
+00:26:43,000 --> 00:26:44,000
+é porque é um medo
+
+931
+00:26:44,000 --> 00:26:45,000
+generalizado
+
+932
+00:26:45,000 --> 00:26:46,000
+nós elegemos uma vereadora
+
+933
+00:26:46,000 --> 00:26:46,000
+e eu preciso trazer
+
+934
+00:26:46,000 --> 00:26:47,000
+esse caso para o Brasil
+
+935
+00:26:47,000 --> 00:26:47,000
+aqui
+
+936
+00:26:47,000 --> 00:26:49,000
+é um palco privilegiado
+
+937
+00:26:49,000 --> 00:26:49,000
+para trazer
+
+938
+00:26:49,000 --> 00:26:50,000
+há uma vereadora
+
+939
+00:26:50,000 --> 00:26:50,000
+nossa eleita
+
+940
+00:26:50,000 --> 00:26:51,000
+na cidade de Chapada
+
+941
+00:26:51,000 --> 00:26:51,000
+Gaúcha
+
+942
+00:26:51,000 --> 00:26:52,000
+chamada Luana
+
+943
+00:26:52,000 --> 00:26:53,000
+essa moça foi alvo
+
+944
+00:26:53,000 --> 00:26:54,000
+da mesma natureza
+
+945
+00:26:54,000 --> 00:26:55,000
+de ataques da Amanda
+
+946
+00:26:55,000 --> 00:26:57,000
+a Câmara dos Vereadores
+
+947
+00:26:57,000 --> 00:26:58,000
+da cidade se reuniu
+
+948
+00:26:58,000 --> 00:26:59,000
+e estão caçando ela
+
+949
+00:26:59,000 --> 00:27:00,000
+por absolutamente nada
+
+950
+00:27:00,000 --> 00:27:02,000
+a violência política
+
+951
+00:27:02,000 --> 00:27:03,000
+de gênero
+
+952
+00:27:03,000 --> 00:27:04,000
+que acontece contra pessoas
+
+953
+00:27:04,000 --> 00:27:05,000
+não só do nosso grupo político
+
+954
+00:27:05,000 --> 00:27:06,000
+mas em geral da direita
+
+955
+00:27:06,000 --> 00:27:07,000
+é muito maior do que imagino
+
+956
+00:27:07,000 --> 00:27:08,000
+mas a gente fez um levantamento
+
+957
+00:27:08,000 --> 00:27:09,000
+nos sete maiores partidos brasileiros
+
+958
+00:27:09,000 --> 00:27:12,000
+46% de filiados
+
+959
+00:27:12,000 --> 00:27:12,000
+são mulheres
+
+960
+00:27:12,000 --> 00:27:13,000
+pois é
+
+961
+00:27:13,000 --> 00:27:14,000
+no Missão
+
+962
+00:27:14,000 --> 00:27:15,000
+8%
+
+963
+00:27:15,000 --> 00:27:15,000
+mas o Missão
+
+964
+00:27:15,000 --> 00:27:16,000
+é um partido novo
+
+965
+00:27:16,000 --> 00:27:17,000
+e o Missão é um partido
+
+966
+00:27:17,000 --> 00:27:18,000
+marcado por esse tipo
+
+967
+00:27:18,000 --> 00:27:19,000
+de perseguição às mulheres
+
+968
+00:27:19,000 --> 00:27:21,000
+a Amanda Vitorazo
+
+969
+00:27:21,000 --> 00:27:22,000
+passou por uma perseguição
+
+970
+00:27:22,000 --> 00:27:23,000
+que eu não conheço
+
+971
+00:27:23,000 --> 00:27:24,000
+nenhum outro grupo político
+
+972
+00:27:24,000 --> 00:27:25,000
+que tem uma mulher
+
+973
+00:27:25,000 --> 00:27:26,000
+que passa por perseguição similar
+
+974
+00:27:26,000 --> 00:27:28,000
+a perseguição que ela passa
+
+975
+00:27:28,000 --> 00:27:28,000
+é gigantesca
+
+976
+00:27:28,000 --> 00:27:29,000
+as meninas que fazem parte
+
+977
+00:27:29,000 --> 00:27:30,000
+da nossa academia de formação
+
+978
+00:27:30,000 --> 00:27:32,000
+tem medo de ser candidata
+
+979
+00:27:32,000 --> 00:27:32,000
+medo
+
+980
+00:27:32,000 --> 00:27:33,000
+medo de filiar
+
+981
+00:27:33,000 --> 00:27:34,000
+políticas específicas
+
+982
+00:27:34,000 --> 00:27:35,000
+sobre feminicídio
+
+983
+00:27:35,000 --> 00:27:36,000
+e sobre também
+
+984
+00:27:36,000 --> 00:27:38,000
+a violência contra as crianças
+
+985
+00:27:38,000 --> 00:27:38,000
+eu só vou chegar nesse ponto
+
+986
+00:27:38,000 --> 00:27:39,000
+porque uma coisa
+
+987
+00:27:39,000 --> 00:27:40,000
+não está correlacionada a outra
+
+988
+00:27:40,000 --> 00:27:41,000
+eu vou deixar isso primeiro
+
+989
+00:27:41,000 --> 00:27:42,000
+bem claro
+
+990
+00:27:42,000 --> 00:27:43,000
+segunda coisa
+
+991
+00:27:43,000 --> 00:27:44,000
+não há
+
+992
+00:27:44,000 --> 00:27:44,000
+como eu te disse
+
+993
+00:27:44,000 --> 00:27:45,000
+nem políticas específicas
+
+994
+00:27:45,000 --> 00:27:46,000
+do nosso livro
+
+995
+00:27:46,000 --> 00:27:47,000
+sobre homicídio
+
+996
+00:27:47,000 --> 00:27:48,000
+homicídio como um todo
+
+997
+00:27:48,000 --> 00:27:49,000
+sobre latrocínio
+
+998
+00:27:49,000 --> 00:27:50,000
+que é o tema que eu mais falo
+
+999
+00:27:50,000 --> 00:27:51,000
+porque a nossa política
+
+1000
+00:27:51,000 --> 00:27:52,000
+de segurança
+
+1001
+00:27:52,000 --> 00:27:52,000
+que está descrito
+
+1002
+00:27:52,000 --> 00:27:53,000
+no nosso livro de propostas
+
+1003
+00:27:53,000 --> 00:27:54,000
+ela é focada
+
+1004
+00:27:54,000 --> 00:27:55,000
+acima de tudo
+
+1005
+00:27:55,000 --> 00:27:56,000
+no combate
+
+1006
+00:27:56,000 --> 00:27:57,000
+ao crime organizado
+
+1007
+00:27:57,000 --> 00:27:58,000
+a guerra ao crime organizado
+
+1008
+00:27:58,000 --> 00:27:59,000
+que nós debatemos bastante
+
+1009
+00:27:59,000 --> 00:28:00,000
+aqui no começo do programa
+
+1010
+00:28:00,000 --> 00:28:01,000
+a guerra ao crime organizado
+
+1011
+00:28:01,000 --> 00:28:03,000
+ela pressupõe uma ação
+
+1012
+00:28:03,000 --> 00:28:03,000
+do governo federal
+
+1013
+00:28:03,000 --> 00:28:05,000
+alteração nas leis penais
+
+1014
+00:28:05,000 --> 00:28:06,000
+alteração nas leis de execução penal
+
+1015
+00:28:06,000 --> 00:28:07,000
+que vão pegar
+
+1016
+00:28:07,000 --> 00:28:08,000
+de maneira extensiva
+
+1017
+00:28:08,000 --> 00:28:09,000
+também
+
+1018
+00:28:09,000 --> 00:28:10,000
+crimes que acontecem
+
+1019
+00:28:10,000 --> 00:28:10,000
+contra mulheres
+
+1020
+00:28:10,000 --> 00:28:11,000
+crianças
+
+1021
+00:28:11,000 --> 00:28:13,000
+o ponto que é
+
+1022
+00:28:13,000 --> 00:28:14,000
+muito importante
+
+1023
+00:28:14,000 --> 00:28:14,000
+é a formulação
+
+1024
+00:28:14,000 --> 00:28:15,000
+de políticas públicas
+
+1025
+00:28:15,000 --> 00:28:17,000
+efetivas no combate
+
+1026
+00:28:17,000 --> 00:28:18,000
+feminicídio
+
+1027
+00:28:18,000 --> 00:28:19,000
+violência contra criança
+
+1028
+00:28:19,000 --> 00:28:20,000
+e é uma correlação direta
+
+1029
+00:28:20,000 --> 00:28:21,000
+o mesmo homem
+
+1030
+00:28:21,000 --> 00:28:22,000
+que costuma ser abusivo
+
+1031
+00:28:22,000 --> 00:28:23,000
+com a sua esposa
+
+1032
+00:28:23,000 --> 00:28:23,000
+ou namorada
+
+1033
+00:28:23,000 --> 00:28:24,000
+costuma ser abusivo
+
+1034
+00:28:24,000 --> 00:28:26,000
+também com seus filhos
+
+1035
+00:28:26,000 --> 00:28:27,000
+e o combate a isso
+
+1036
+00:28:27,000 --> 00:28:29,000
+exige medidas específicas
+
+1037
+00:28:29,000 --> 00:28:29,000
+exige medidas
+
+1038
+00:28:29,000 --> 00:28:30,000
+que são adotadas
+
+1039
+00:28:30,000 --> 00:28:31,000
+majoritariamente
+
+1040
+00:28:31,000 --> 00:28:32,000
+por municípios e estados
+
+1041
+00:28:32,000 --> 00:28:33,000
+porque nós respeitamos
+
+1042
+00:28:33,000 --> 00:28:34,000
+o princípio federativo
+
+1043
+00:28:34,000 --> 00:28:36,000
+um exemplo que nós
+
+1044
+00:28:36,000 --> 00:28:37,000
+respeitamos o princípio federativo
+
+1045
+00:28:37,000 --> 00:28:38,000
+é houve uma votação
+
+1046
+00:28:38,000 --> 00:28:39,000
+recentemente
+
+1047
+00:28:39,000 --> 00:28:39,000
+em que o governo Lula
+
+1048
+00:28:39,000 --> 00:28:40,000
+queria avocar
+
+1049
+00:28:40,000 --> 00:28:41,000
+para o governo federal
+
+1050
+00:28:41,000 --> 00:28:42,000
+mais poderes
+
+1051
+00:28:42,000 --> 00:28:43,000
+sobre a formulação
+
+1052
+00:28:43,000 --> 00:28:43,000
+de políticas públicas
+
+1053
+00:28:43,000 --> 00:28:44,000
+de segurança
+
+1054
+00:28:44,000 --> 00:28:45,000
+nos estados
+
+1055
+00:28:45,000 --> 00:28:46,000
+e nós votamos contra
+
+1056
+00:28:46,000 --> 00:28:47,000
+porque quem tem que fazer
+
+1057
+00:28:47,000 --> 00:28:47,000
+a formulação
+
+1058
+00:28:47,000 --> 00:28:48,000
+das políticas públicas
+
+1059
+00:28:48,000 --> 00:28:49,000
+e das ações
+
+1060
+00:28:49,000 --> 00:28:50,000
+sobre feminicídio
+
+1061
+00:28:50,000 --> 00:28:52,000
+e violência contra crianças
+
+1062
+00:28:52,000 --> 00:28:53,000
+e violência como um todo
+
+1063
+00:28:53,000 --> 00:28:54,000
+são os estados
+
+1064
+00:28:54,000 --> 00:28:55,000
+e de maneira
+
+1065
+00:28:55,000 --> 00:28:57,000
+subsidiar os municípios
+
+1066
+00:28:57,000 --> 00:28:57,000
+eu vou
+
+1067
+00:28:57,000 --> 00:28:59,000
+eu vou seguir aqui
+
+1068
+00:28:59,000 --> 00:28:59,000
+porque esse tema
+
+1069
+00:28:59,000 --> 00:29:00,000
+é bastante importante
+
+1070
+00:29:00,000 --> 00:29:01,000
+o nosso plano de governo
+
+1071
+00:29:01,000 --> 00:29:02,000
+é um plano articulado
+
+1072
+00:29:02,000 --> 00:29:03,000
+ele não foi escrito
+
+1073
+00:29:03,000 --> 00:29:03,000
+para o marqueteiro
+
+1074
+00:29:03,000 --> 00:29:04,000
+porque se eu quiser escrever
+
+1075
+00:29:04,000 --> 00:29:05,000
+um plano de governo
+
+1076
+00:29:05,000 --> 00:29:05,000
+para o marqueteiro
+
+1077
+00:29:05,000 --> 00:29:07,000
+eu botava todos esses casos
+
+1078
+00:29:07,000 --> 00:29:08,000
+para ilustrar de maneira
+
+1079
+00:29:08,000 --> 00:29:09,000
+marquetável
+
+1080
+00:29:09,000 --> 00:29:10,000
+olha esse problema está aqui
+
+1081
+00:29:10,000 --> 00:29:11,000
+esse problema está aqui
+
+1082
+00:29:11,000 --> 00:29:11,000
+eu vendia
+
+1083
+00:29:11,000 --> 00:29:12,000
+não
+
+1084
+00:29:12,000 --> 00:29:13,000
+eu não vou fazer isso
+
+1085
+00:29:13,000 --> 00:29:14,000
+porque o nosso plano
+
+1086
+00:29:14,000 --> 00:29:14,000
+contém
+
+1087
+00:29:14,000 --> 00:29:15,000
+quando a gente segue ele
+
+1088
+00:29:15,000 --> 00:29:17,000
+mais para a terceira parte dele
+
+1089
+00:29:17,000 --> 00:29:18,000
+que é a parte da lei
+
+1090
+00:29:18,000 --> 00:29:19,000
+de responsabilidade gerencial
+
+1091
+00:29:19,000 --> 00:29:20,000
+que é o meu grande legado
+
+1092
+00:29:20,000 --> 00:29:20,000
+para o Brasil
+
+1093
+00:29:20,000 --> 00:29:22,000
+ele estabelece a seguinte regra
+
+1094
+00:29:22,000 --> 00:29:23,000
+prefeitos
+
+1095
+00:29:23,000 --> 00:29:25,000
+e depois governadores
+
+1096
+00:29:25,000 --> 00:29:26,000
+receberão mais recursos
+
+1097
+00:29:26,000 --> 00:29:28,000
+desde que eles batam metas
+
+1098
+00:29:28,000 --> 00:29:29,000
+dentre as metas de desempenho
+
+1099
+00:29:29,000 --> 00:29:30,000
+que incluem
+
+1100
+00:29:30,000 --> 00:29:31,000
+saúde
+
+1101
+00:29:31,000 --> 00:29:32,000
+fornecimento de água
+
+1102
+00:29:32,000 --> 00:29:33,000
+desempenho no IDEB
+
+1103
+00:29:33,000 --> 00:29:34,000
+desempenho no SAEB
+
+1104
+00:29:34,000 --> 00:29:35,000
+estão rankings ligados
+
+1105
+00:29:35,000 --> 00:29:36,000
+a segurança
+
+1106
+00:29:36,000 --> 00:29:37,000
+diminuição do número
+
+1107
+00:29:37,000 --> 00:29:38,000
+de violência contra a mulher
+
+1108
+00:29:38,000 --> 00:29:39,000
+então na casa 250 mil
+
+1109
+00:29:39,000 --> 00:29:40,000
+todos os anos
+
+1110
+00:29:40,000 --> 00:29:41,000
+isso só os reportados
+
+1111
+00:29:41,000 --> 00:29:43,000
+casos de homicídio
+
+1112
+00:29:43,000 --> 00:29:44,000
+casos de latrocínio
+
+1113
+00:29:44,000 --> 00:29:45,000
+roubos e furtos
+
+1114
+00:29:45,000 --> 00:29:46,000
+esses indicadores
+
+1115
+00:29:46,000 --> 00:29:48,000
+que vão ser montados
+
+1116
+00:29:48,000 --> 00:29:49,000
+pelo governo federal
+
+1117
+00:29:49,000 --> 00:29:50,000
+e que vão servir
+
+1118
+00:29:50,000 --> 00:29:51,000
+para você fiscalizar
+
+1119
+00:29:51,000 --> 00:29:52,000
+a atuação dos municípios
+
+1120
+00:29:52,000 --> 00:29:53,000
+eles vão basilar
+
+1121
+00:29:53,000 --> 00:29:54,000
+a formulação
+
+1122
+00:29:54,000 --> 00:29:54,000
+de políticas públicas
+
+1123
+00:29:54,000 --> 00:29:55,000
+dos municípios
+
+1124
+00:29:55,000 --> 00:29:55,000
+por exemplo
+
+1125
+00:29:55,000 --> 00:29:56,000
+São Paulo
+
+1126
+00:29:56,000 --> 00:29:56,000
+tem uma das
+
+1127
+00:29:56,000 --> 00:29:57,000
+São Paulo capital
+
+1128
+00:29:57,000 --> 00:29:58,000
+a cidade
+
+1129
+00:29:58,000 --> 00:29:59,000
+tem uma das melhores
+
+1130
+00:29:59,000 --> 00:30:00,000
+políticas de enfrentamento
+
+1131
+00:30:00,000 --> 00:30:01,000
+a feminicídio
+
+1132
+00:30:01,000 --> 00:30:02,000
+e violência contra a mulher
+
+1133
+00:30:02,000 --> 00:30:03,000
+a Patrulha Maria da Penha
+
+1134
+00:30:03,000 --> 00:30:04,000
+em São Paulo
+
+1135
+00:30:04,000 --> 00:30:04,000
+está funcionando
+
+1136
+00:30:04,000 --> 00:30:05,000
+e quem está
+
+1137
+00:30:05,000 --> 00:30:07,000
+dentro do regime
+
+1138
+00:30:07,000 --> 00:30:08,000
+da Patrulha Maria da Penha
+
+1139
+00:30:08,000 --> 00:30:09,000
+não enfrentou
+
+1140
+00:30:09,000 --> 00:30:10,000
+nenhum caso de feminicídio
+
+1141
+00:30:10,000 --> 00:30:11,000
+mas a gente está falando
+
+1142
+00:30:11,000 --> 00:30:12,000
+de políticas federais
+
+1143
+00:30:12,000 --> 00:30:13,000
+mas o Traile tem uma
+
+1144
+00:30:13,000 --> 00:30:14,000
+pergunta sobre um tema
+
+1145
+00:30:14,000 --> 00:30:15,000
+importante
+
+1146
+00:30:15,000 --> 00:30:15,000
+desculpa
+
+1147
+00:30:15,000 --> 00:30:17,000
+esse tema é muito importante
+
+1148
+00:30:17,000 --> 00:30:18,000
+a principal política federal
+
+1149
+00:30:18,000 --> 00:30:20,000
+ela vai surgir baseada
+
+1150
+00:30:20,000 --> 00:30:20,000
+em quem está executando
+
+1151
+00:30:20,000 --> 00:30:22,000
+a política pública na ponta
+
+1152
+00:30:22,000 --> 00:30:22,000
+que em geral é o município
+
+1153
+00:30:22,000 --> 00:30:23,000
+ou o estado
+
+1154
+00:30:23,000 --> 00:30:25,000
+porque não é o governo federal
+
+1155
+00:30:25,000 --> 00:30:26,000
+que tem o poder de polícia
+
+1156
+00:30:26,000 --> 00:30:26,000
+para executar isso
+
+1157
+00:30:26,000 --> 00:30:28,000
+se tem um marido
+
+1158
+00:30:28,000 --> 00:30:28,000
+que está batendo
+
+1159
+00:30:28,000 --> 00:30:29,000
+na sua esposa
+
+1160
+00:30:29,000 --> 00:30:30,000
+não é o governo federal
+
+1161
+00:30:30,000 --> 00:30:31,000
+que vai colocar alguém
+
+1162
+00:30:31,000 --> 00:30:31,000
+dentro da casa dele
+
+1163
+00:30:31,000 --> 00:30:33,000
+em geral quem está mais próximo
+
+1164
+00:30:33,000 --> 00:30:33,000
+é uma patrulha
+
+1165
+00:30:33,000 --> 00:30:35,000
+envolvendo uma guarda municipal
+
+1166
+00:30:35,000 --> 00:30:36,000
+numa cidade grande
+
+1167
+00:30:36,000 --> 00:30:37,000
+ou uma patrulha rural
+
+1168
+00:30:37,000 --> 00:30:38,000
+numa cidade distante
+
+1169
+00:30:38,000 --> 00:30:40,000
+eu falo isso com preocupação
+
+1170
+00:30:40,000 --> 00:30:41,000
+porque esse tema
+
+1171
+00:30:41,000 --> 00:30:41,000
+é central para a gente
+
+1172
+00:30:41,000 --> 00:30:42,000
+minha irmã quase morreu
+
+1173
+00:30:42,000 --> 00:30:44,000
+por feminicídio na França
+
+1174
+00:30:44,000 --> 00:30:45,000
+minha irmã foi alvo
+
+1175
+00:30:45,000 --> 00:30:45,000
+de uma tentativa
+
+1176
+00:30:45,000 --> 00:30:47,000
+assim de 18 B.O.s
+
+1177
+00:30:47,000 --> 00:30:47,000
+que ela fez
+
+1178
+00:30:47,000 --> 00:30:49,000
+contra um marido agressor
+
+1179
+00:30:49,000 --> 00:30:50,000
+a lei francesa
+
+1180
+00:30:50,000 --> 00:30:51,000
+ela é completamente vazia
+
+1181
+00:30:51,000 --> 00:30:52,000
+a prefeitura de Paris
+
+1182
+00:30:52,000 --> 00:30:52,000
+não fez nada
+
+1183
+00:30:52,000 --> 00:30:53,000
+minha irmã teve que vir
+
+1184
+00:30:53,000 --> 00:30:54,000
+com a filha dela para o Brasil
+
+1185
+00:30:54,000 --> 00:30:55,000
+esse assunto é central
+
+1186
+00:30:55,000 --> 00:30:57,000
+aqui em São Paulo
+
+1187
+00:30:57,000 --> 00:30:57,000
+e isso é a coisa
+
+1188
+00:30:57,000 --> 00:30:58,000
+eu estou falando aqui
+
+1189
+00:30:58,000 --> 00:30:59,000
+tem um outro assunto
+
+1190
+00:30:59,000 --> 00:31:00,000
+central
+
+1191
+00:31:00,000 --> 00:31:01,000
+importante
+
+1192
+00:31:01,000 --> 00:31:03,000
+aqui por favor
+
+1193
+00:31:03,000 --> 00:31:04,000
+para a gente poder
+
+1194
+00:31:04,000 --> 00:31:05,000
+dar continuidade
+
+1195
+00:31:05,000 --> 00:31:05,000
+na entrevista
+
+1196
+00:31:05,000 --> 00:31:05,000
+eu considero esse tema
+
+1197
+00:31:05,000 --> 00:31:06,000
+fundamental
+
+1198
+00:31:06,000 --> 00:31:08,000
+o senhor já declarou
+
+1199
+00:31:08,000 --> 00:31:09,000
+que se eleito
+
+1200
+00:31:09,000 --> 00:31:10,000
+vai descumprir decisões
+
+1201
+00:31:10,000 --> 00:31:11,000
+do Supremo Tribunal Federal
+
+1202
+00:31:11,000 --> 00:31:12,000
+que o senhor
+
+1203
+00:31:12,000 --> 00:31:14,000
+considera ilegais
+
+1204
+00:31:14,000 --> 00:31:15,000
+um presidente da república
+
+1205
+00:31:15,000 --> 00:31:17,000
+assim como qualquer cidadão
+
+1206
+00:31:17,000 --> 00:31:19,000
+se discordar de uma decisão
+
+1207
+00:31:19,000 --> 00:31:20,000
+pode recorrer
+
+1208
+00:31:20,000 --> 00:31:21,000
+exatamente
+
+1209
+00:31:21,000 --> 00:31:22,000
+a justiça
+
+1210
+00:31:22,000 --> 00:31:23,000
+então eu pergunto
+
+1211
+00:31:23,000 --> 00:31:24,000
+ao senhor o seguinte
+
+1212
+00:31:24,000 --> 00:31:25,000
+se como presidente
+
+1213
+00:31:25,000 --> 00:31:26,000
+o senhor passar
+
+1214
+00:31:26,000 --> 00:31:28,000
+a decidir
+
+1215
+00:31:28,000 --> 00:31:28,000
+o que é que o senhor
+
+1216
+00:31:28,000 --> 00:31:30,000
+vai respeitar da justiça
+
+1217
+00:31:30,000 --> 00:31:30,000
+o que é que o senhor
+
+1218
+00:31:30,000 --> 00:31:31,000
+vai ignorar
+
+1219
+00:31:31,000 --> 00:31:32,000
+descumprir
+
+1220
+00:31:32,000 --> 00:31:33,000
+não aceitar
+
+1221
+00:31:33,000 --> 00:31:34,000
+quem é que
+
+1222
+00:31:34,000 --> 00:31:35,000
+determinaria
+
+1223
+00:31:35,000 --> 00:31:37,000
+os limites do senhor
+
+1224
+00:31:37,000 --> 00:31:38,000
+a lei
+
+1225
+00:31:38,000 --> 00:31:39,000
+César Trale
+
+1226
+00:31:39,000 --> 00:31:40,000
+há uma decisão
+
+1227
+00:31:40,000 --> 00:31:40,000
+do STF
+
+1228
+00:31:40,000 --> 00:31:41,000
+que diz o seguinte
+
+1229
+00:31:41,000 --> 00:31:43,000
+decisão ilegal
+
+1230
+00:31:43,000 --> 00:31:44,000
+não se cumpre
+
+1231
+00:31:44,000 --> 00:31:45,000
+é uma decisão
+
+1232
+00:31:45,000 --> 00:31:45,000
+do STF
+
+1233
+00:31:45,000 --> 00:31:46,000
+inclusive
+
+1234
+00:31:46,000 --> 00:31:46,000
+não estou nem falando
+
+1235
+00:31:46,000 --> 00:31:47,000
+da própria constituição
+
+1236
+00:31:47,000 --> 00:31:48,000
+César
+
+1237
+00:31:48,000 --> 00:31:50,000
+recentemente
+
+1238
+00:31:50,000 --> 00:31:52,000
+o Alexandre de Moraes
+
+1239
+00:31:52,000 --> 00:31:53,000
+numa decisão
+
+1240
+00:31:53,000 --> 00:31:54,000
+que eu atribuo
+
+1241
+00:31:54,000 --> 00:31:55,000
+como grotesca
+
+1242
+00:31:55,000 --> 00:31:56,000
+violou
+
+1243
+00:31:56,000 --> 00:31:58,000
+uma cláusula pétrea
+
+1244
+00:31:58,000 --> 00:31:58,000
+da constituição
+
+1245
+00:31:58,000 --> 00:32:00,000
+quebrando o sigilo
+
+1246
+00:32:00,000 --> 00:32:00,000
+de fonte
+
+1247
+00:32:00,000 --> 00:32:00,000
+de jornalistas
+
+1248
+00:32:00,000 --> 00:32:01,000
+lá no Maranhão
+
+1249
+00:32:01,000 --> 00:32:02,000
+ele fez isso agora
+
+1250
+00:32:02,000 --> 00:32:03,000
+jornalistas
+
+1251
+00:32:03,000 --> 00:32:04,000
+do Brasil inteiro
+
+1252
+00:32:04,000 --> 00:32:04,000
+protestaram
+
+1253
+00:32:04,000 --> 00:32:05,000
+porque não existe
+
+1254
+00:32:05,000 --> 00:32:06,000
+democracia
+
+1255
+00:32:06,000 --> 00:32:07,000
+sem sigilo de fonte
+
+1256
+00:32:07,000 --> 00:32:08,000
+não há como ter
+
+1257
+00:32:08,000 --> 00:32:09,000
+imagina se revela
+
+1258
+00:32:09,000 --> 00:32:10,000
+um sigilo de fonte
+
+1259
+00:32:10,000 --> 00:32:12,000
+aqui da Rede Globo
+
+1260
+00:32:12,000 --> 00:32:13,000
+quantas investigações
+
+1261
+00:32:13,000 --> 00:32:14,000
+quantas matérias fundamentais
+
+1262
+00:32:14,000 --> 00:32:15,000
+para manutenção
+
+1263
+00:32:15,000 --> 00:32:15,000
+democracia
+
+1264
+00:32:15,000 --> 00:32:16,000
+não tenham caído
+
+1265
+00:32:16,000 --> 00:32:17,000
+ele derrubou
+
+1266
+00:32:17,000 --> 00:32:18,000
+o sigilo de fonte
+
+1267
+00:32:18,000 --> 00:32:19,000
+isso é cláusula pétrea
+
+1268
+00:32:19,000 --> 00:32:20,000
+só para quem está entendendo
+
+1269
+00:32:20,000 --> 00:32:21,000
+sigilo de fonte
+
+1270
+00:32:21,000 --> 00:32:22,000
+tem o mesmo status
+
+1271
+00:32:22,000 --> 00:32:23,000
+quanto por exemplo
+
+1272
+00:32:23,000 --> 00:32:23,000
+pena de morte
+
+1273
+00:32:23,000 --> 00:32:25,000
+então na mesma linha
+
+1274
+00:32:25,000 --> 00:32:25,000
+o Alexandre de Moraes
+
+1275
+00:32:25,000 --> 00:32:26,000
+podia por decreto
+
+1276
+00:32:26,000 --> 00:32:28,000
+por um ali
+
+1277
+00:32:28,000 --> 00:32:29,000
+da cabeça dele
+
+1278
+00:32:29,000 --> 00:32:29,000
+mandar
+
+1279
+00:32:29,000 --> 00:32:30,000
+por favor se execute
+
+1280
+00:32:30,000 --> 00:32:31,000
+fulano de tal
+
+1281
+00:32:31,000 --> 00:32:32,000
+por descumprimento
+
+1282
+00:32:32,000 --> 00:32:33,000
+de uma regra
+
+1283
+00:32:33,000 --> 00:32:34,000
+tem o mesmo peso
+
+1284
+00:32:34,000 --> 00:32:35,000
+de eliminar o sigilo de fonte
+
+1285
+00:32:35,000 --> 00:32:36,000
+não se deveria
+
+1286
+00:32:36,000 --> 00:32:37,000
+por parte das autoridades
+
+1287
+00:32:37,000 --> 00:32:38,000
+cumprir uma decisão
+
+1288
+00:32:38,000 --> 00:32:39,000
+grotesca
+
+1289
+00:32:39,000 --> 00:32:40,000
+que breca
+
+1290
+00:32:40,000 --> 00:32:41,000
+que quebra
+
+1291
+00:32:41,000 --> 00:32:42,000
+basicamente um princípio
+
+1292
+00:32:42,000 --> 00:32:43,000
+constitucional basilar
+
+1293
+00:32:43,000 --> 00:32:44,000
+não é que eu vou
+
+1294
+00:32:44,000 --> 00:32:46,000
+eu preciso contextualizar
+
+1295
+00:32:46,000 --> 00:32:46,000
+não é que eu falei
+
+1296
+00:32:46,000 --> 00:32:47,000
+que vou sair desrespeitando
+
+1297
+00:32:47,000 --> 00:32:49,000
+todas as decisões do STF
+
+1298
+00:32:49,000 --> 00:32:50,000
+que isso é absurdo
+
+1299
+00:32:50,000 --> 00:32:51,000
+o que eu avisei
+
+1300
+00:32:51,000 --> 00:32:51,000
+num podcast
+
+1301
+00:32:51,000 --> 00:32:52,000
+e depois eu repeti
+
+1302
+00:32:52,000 --> 00:32:53,000
+lá na Globo News
+
+1303
+00:32:53,000 --> 00:32:54,000
+numa ótima entrevista
+
+1304
+00:32:54,000 --> 00:32:54,000
+com a Natuza
+
+1305
+00:32:54,000 --> 00:32:55,000
+foi o seguinte
+
+1306
+00:32:55,000 --> 00:32:57,000
+uma decisão
+
+1307
+00:32:57,000 --> 00:32:58,000
+num caso específico
+
+1308
+00:32:58,000 --> 00:32:58,000
+como por exemplo
+
+1309
+00:32:58,000 --> 00:32:59,000
+eu estou fazendo uma operação
+
+1310
+00:32:59,000 --> 00:33:01,000
+para libertar a população
+
+1311
+00:33:01,000 --> 00:33:02,000
+de uma favela
+
+1312
+00:33:02,000 --> 00:33:03,000
+aqui no Rio de Janeiro
+
+1313
+00:33:03,000 --> 00:33:04,000
+aí no meio dessa operação
+
+1314
+00:33:04,000 --> 00:33:05,000
+quando a própria população
+
+1315
+00:33:05,000 --> 00:33:06,000
+está denunciando casos
+
+1316
+00:33:06,000 --> 00:33:07,000
+de violência que aconteceu
+
+1317
+00:33:07,000 --> 00:33:08,000
+contra elas
+
+1318
+00:33:08,000 --> 00:33:09,000
+vem uma decisão monocrática
+
+1319
+00:33:09,000 --> 00:33:10,000
+do STF
+
+1320
+00:33:10,000 --> 00:33:11,000
+absolutamente legal
+
+1321
+00:33:11,000 --> 00:33:12,000
+dado que eu estarei cumprindo
+
+1322
+00:33:12,000 --> 00:33:14,000
+o devido processo legislativo
+
+1323
+00:33:14,000 --> 00:33:15,000
+devido processo legal
+
+1324
+00:33:15,000 --> 00:33:16,000
+naquela operação
+
+1325
+00:33:16,000 --> 00:33:17,000
+e aí eles mandam
+
+1326
+00:33:17,000 --> 00:33:18,000
+pera pera
+
+1327
+00:33:18,000 --> 00:33:18,000
+mas candidato
+
+1328
+00:33:18,000 --> 00:33:19,000
+por favor
+
+1329
+00:33:19,000 --> 00:33:19,000
+se nós
+
+1330
+00:33:19,000 --> 00:33:20,000
+se eu não te der esse exemplo
+
+1331
+00:33:20,000 --> 00:33:21,000
+eu não vou conseguir
+
+1332
+00:33:21,000 --> 00:33:21,000
+um senador
+
+1333
+00:33:21,000 --> 00:33:22,000
+um prefeito
+
+1334
+00:33:22,000 --> 00:33:24,000
+um governador
+
+1335
+00:33:24,000 --> 00:33:26,000
+poderiam fazer a mesma coisa
+
+1336
+00:33:26,000 --> 00:33:28,000
+ou isso seria uma prerrogativa
+
+1337
+00:33:28,000 --> 00:33:29,000
+só do senhor
+
+1338
+00:33:29,000 --> 00:33:30,000
+caso eleito
+
+1339
+00:33:30,000 --> 00:33:30,000
+presidente da república
+
+1340
+00:33:30,000 --> 00:33:31,000
+não poderiam
+
+1341
+00:33:31,000 --> 00:33:32,000
+poderiam fazer
+
+1342
+00:33:32,000 --> 00:33:33,000
+porque decisão
+
+1343
+00:33:33,000 --> 00:33:34,000
+na verdade qualquer cidadão
+
+1344
+00:33:34,000 --> 00:33:35,000
+diante de uma decisão ilegal
+
+1345
+00:33:35,000 --> 00:33:37,000
+ele pode não cumprir
+
+1346
+00:33:37,000 --> 00:33:38,000
+na verdade ele tem um dever
+
+1347
+00:33:38,000 --> 00:33:38,000
+de não cumprir
+
+1348
+00:33:38,000 --> 00:33:39,000
+decisão ilegal
+
+1349
+00:33:39,000 --> 00:33:40,000
+não se cumpre
+
+1350
+00:33:40,000 --> 00:33:42,000
+decisão ilegal
+
+1351
+00:33:42,000 --> 00:33:42,000
+não se cumpre
+
+1352
+00:33:42,000 --> 00:33:43,000
+se você cumpre
+
+1353
+00:33:43,000 --> 00:33:44,000
+vier com uma decisão ilegal
+
+1354
+00:33:44,000 --> 00:33:45,000
+que faça as pessoas
+
+1355
+00:33:45,000 --> 00:33:46,000
+correm um risco muito grande
+
+1356
+00:33:46,000 --> 00:33:47,000
+você não pode cumprir
+
+1357
+00:33:47,000 --> 00:33:49,000
+uma decisão ilegal
+
+1358
+00:33:49,000 --> 00:33:50,000
+pode acabar com a vida
+
+1359
+00:33:50,000 --> 00:33:50,000
+de uma pessoa
+
+1360
+00:33:50,000 --> 00:33:51,000
+o exemplo que eu estava dando
+
+1361
+00:33:51,000 --> 00:33:52,000
+foi num podcast
+
+1362
+00:33:52,000 --> 00:33:52,000
+do Rodrigo Pimentel
+
+1363
+00:33:52,000 --> 00:33:53,000
+aqui no Rio de Janeiro
+
+1364
+00:33:53,000 --> 00:33:54,000
+foi
+
+1365
+00:33:54,000 --> 00:33:54,000
+se eu estou no meio
+
+1366
+00:33:54,000 --> 00:33:55,000
+de uma operação policial
+
+1367
+00:33:55,000 --> 00:33:57,000
+e vem uma decisão monocrática
+
+1368
+00:33:57,000 --> 00:33:58,000
+e eu cumpri todos os ritos formais
+
+1369
+00:33:58,000 --> 00:34:00,000
+previstos na nossa constituição
+
+1370
+00:34:00,000 --> 00:34:01,000
+e que são basilares
+
+1371
+00:34:01,000 --> 00:34:02,000
+para a nossa democracia
+
+1372
+00:34:02,000 --> 00:34:04,000
+se vem uma decisão monocrática
+
+1373
+00:34:04,000 --> 00:34:04,000
+falando
+
+1374
+00:34:04,000 --> 00:34:05,000
+não
+
+1375
+00:34:05,000 --> 00:34:06,000
+pare tudo
+
+1376
+00:34:06,000 --> 00:34:07,000
+e isso vai colocar em risco
+
+1377
+00:34:07,000 --> 00:34:08,000
+a vida dos moradores
+
+1378
+00:34:08,000 --> 00:34:09,000
+daquela favela
+
+1379
+00:34:09,000 --> 00:34:09,000
+eu não vou cumprir
+
+1380
+00:34:09,000 --> 00:34:11,000
+mas não é que eu vou cumprir
+
+1381
+00:34:11,000 --> 00:34:11,000
+da minha cabeça
+
+1382
+00:34:11,000 --> 00:34:13,000
+porque eu sou apenas eu
+
+1383
+00:34:13,000 --> 00:34:14,000
+eu vou via AGU
+
+1384
+00:34:14,000 --> 00:34:15,000
+a advocacia da Geraldo Anião
+
+1385
+00:34:15,000 --> 00:34:16,000
+vou pedir um parecer
+
+1386
+00:34:16,000 --> 00:34:16,000
+olha
+
+1387
+00:34:16,000 --> 00:34:18,000
+é uma decisão ilegal
+
+1388
+00:34:18,000 --> 00:34:19,000
+ok eu não vou cumprir
+
+1389
+00:34:19,000 --> 00:34:20,000
+e vou por favor
+
+1390
+00:34:20,000 --> 00:34:21,000
+recorrer ao STF
+
+1391
+00:34:21,000 --> 00:34:22,000
+só que o cumprimento disso
+
+1392
+00:34:22,000 --> 00:34:23,000
+pode eventualmente
+
+1393
+00:34:23,000 --> 00:34:24,000
+gerar perdas
+
+1394
+00:34:24,000 --> 00:34:25,000
+e morte para muitas pessoas
+
+1395
+00:34:25,000 --> 00:34:26,000
+eu não vou colocar
+
+1396
+00:34:26,000 --> 00:34:27,000
+a vida das pessoas em risco
+
+1397
+00:34:27,000 --> 00:34:27,000
+candidato
+
+1398
+00:34:27,000 --> 00:34:28,000
+nós vamos agora
+
+1399
+00:34:28,000 --> 00:34:29,000
+fazer um rápido intervalo
+
+1400
+00:34:29,000 --> 00:34:30,000
+e daqui a pouco
+
+1401
+00:34:30,000 --> 00:34:31,000
+voltamos com outros temas
+
+1402
+00:34:31,000 --> 00:34:32,000
+nessa entrevista
+
+1403
+00:34:32,000 --> 00:34:33,000
+com o candidato
+
+1404
+00:34:33,000 --> 00:34:35,000
+à presidência da república
+
+1405
+00:34:35,000 --> 00:34:36,000
+Renan Santos
+
+1406
+00:34:36,000 --> 00:34:37,000
+do partido Missão
+
+1407
+00:34:37,000 --> 00:34:39,000
+a gente volta já já
+
+1408
+00:34:39,000 --> 00:34:50,000
+estamos de volta
+
+1409
+00:34:50,000 --> 00:34:50,000
+com a entrevista
+
+1410
+00:34:50,000 --> 00:34:51,000
+com o candidato
+
+1411
+00:34:51,000 --> 00:34:52,000
+Renan Santos
+
+1412
+00:34:52,000 --> 00:34:53,000
+candidato
+
+1413
+00:34:53,000 --> 00:34:54,000
+eu gostaria de falar
+
+1414
+00:34:54,000 --> 00:34:55,000
+sobre direito ao voto
+
+1415
+00:34:55,000 --> 00:34:56,000
+Orlando Lima
+
+1416
+00:34:56,000 --> 00:34:58,000
+um dos principais colaboradores
+
+1417
+00:34:58,000 --> 00:35:00,000
+do seu plano de governo
+
+1418
+00:35:00,000 --> 00:35:00,000
+disse o seguinte
+
+1419
+00:35:00,000 --> 00:35:01,000
+eu peço licença
+
+1420
+00:35:01,000 --> 00:35:02,000
+aqui para abrir aspas
+
+1421
+00:35:02,000 --> 00:35:04,000
+pessoas que não tem propriedade
+
+1422
+00:35:04,000 --> 00:35:06,000
+que recebem auxílio do governo
+
+1423
+00:35:06,000 --> 00:35:06,000
+essas pessoas
+
+1424
+00:35:06,000 --> 00:35:07,000
+tinham que ter apenas
+
+1425
+00:35:07,000 --> 00:35:09,000
+os direitos básicos
+
+1426
+00:35:09,000 --> 00:35:10,000
+você não teria direito
+
+1427
+00:35:10,000 --> 00:35:10,000
+por exemplo
+
+1428
+00:35:10,000 --> 00:35:12,000
+ao voto
+
+1429
+00:35:12,000 --> 00:35:12,000
+o senhor concorda
+
+1430
+00:35:12,000 --> 00:35:13,000
+com essa ideia
+
+1431
+00:35:13,000 --> 00:35:14,000
+se eleito
+
+1432
+00:35:14,000 --> 00:35:14,000
+o senhor promoveria
+
+1433
+00:35:14,000 --> 00:35:15,000
+alguma medida
+
+1434
+00:35:15,000 --> 00:35:17,000
+para restringir o direito
+
+1435
+00:35:17,000 --> 00:35:18,000
+a voto
+
+1436
+00:35:18,000 --> 00:35:18,000
+do cidadão
+
+1437
+00:35:18,000 --> 00:35:19,000
+não
+
+1438
+00:35:19,000 --> 00:35:20,000
+isso é a opinião dele
+
+1439
+00:35:20,000 --> 00:35:22,000
+eu nem sabia da opinião
+
+1440
+00:35:22,000 --> 00:35:23,000
+mas se ele falou isso
+
+1441
+00:35:23,000 --> 00:35:24,000
+é a opinião dele
+
+1442
+00:35:24,000 --> 00:35:24,000
+e por que Orlando Lima
+
+1443
+00:35:24,000 --> 00:35:26,000
+tem uma participação
+
+1444
+00:35:26,000 --> 00:35:27,000
+tão destacada
+
+1445
+00:35:27,000 --> 00:35:28,000
+no seu programa de governo
+
+1446
+00:35:28,000 --> 00:35:29,000
+porque ele é um grande pesquisador
+
+1447
+00:35:29,000 --> 00:35:33,000
+mesmo com declarações
+
+1448
+00:35:33,000 --> 00:35:33,000
+como essa
+
+1449
+00:35:33,000 --> 00:35:35,000
+sugerindo restrição
+
+1450
+00:35:35,000 --> 00:35:36,000
+ao direito
+
+1451
+00:35:36,000 --> 00:35:36,000
+ao voto
+
+1452
+00:35:36,000 --> 00:35:37,000
+do cidadão
+
+1453
+00:35:37,000 --> 00:35:37,000
+a pessoa pode dar
+
+1454
+00:35:37,000 --> 00:35:38,000
+uma declaração infeliz
+
+1455
+00:35:38,000 --> 00:35:39,000
+e fazer uma pesquisa
+
+1456
+00:35:39,000 --> 00:35:40,000
+sobre história
+
+1457
+00:35:40,000 --> 00:35:41,000
+brilhante
+
+1458
+00:35:41,000 --> 00:35:42,000
+eu conheço grandes
+
+1459
+00:35:42,000 --> 00:35:43,000
+pesquisadores
+
+1460
+00:35:43,000 --> 00:35:43,000
+grandes jornalistas
+
+1461
+00:35:43,000 --> 00:35:43,000
+que às vezes
+
+1462
+00:35:43,000 --> 00:35:44,000
+dão declarações ruins
+
+1463
+00:35:44,000 --> 00:35:46,000
+o planejamento
+
+1464
+00:35:46,000 --> 00:35:47,000
+do livro amarelo
+
+1465
+00:35:47,000 --> 00:35:48,000
+surgiu sobretudo
+
+1466
+00:35:48,000 --> 00:35:49,000
+pelas ideias
+
+1467
+00:35:49,000 --> 00:35:50,000
+de colaboradores
+
+1468
+00:35:50,000 --> 00:35:51,000
+como Orlando Silva
+
+1469
+00:35:51,000 --> 00:35:53,000
+foram mais de 200 colaboradores
+
+1470
+00:35:53,000 --> 00:35:54,000
+Orlando Lima
+
+1471
+00:35:54,000 --> 00:35:55,000
+Orlando Lima
+
+1472
+00:35:55,000 --> 00:35:55,000
+perdão
+
+1473
+00:35:55,000 --> 00:35:55,000
+Orlando Silva
+
+1474
+00:35:55,000 --> 00:35:56,000
+do PCdoB
+
+1475
+00:35:56,000 --> 00:35:57,000
+Orlando Lima
+
+1476
+00:35:57,000 --> 00:35:58,000
+foram mais de 200 pessoas
+
+1477
+00:35:58,000 --> 00:35:59,000
+que trabalharam
+
+1478
+00:35:59,000 --> 00:36:00,000
+na elaboração do livro
+
+1479
+00:36:00,000 --> 00:36:01,000
+são pesquisadores
+
+1480
+00:36:01,000 --> 00:36:01,000
+ao redor do Brasil
+
+1481
+00:36:01,000 --> 00:36:03,000
+inclusive de fora do Brasil
+
+1482
+00:36:03,000 --> 00:36:04,000
+que participaram
+
+1483
+00:36:04,000 --> 00:36:04,000
+desse projeto
+
+1484
+00:36:04,000 --> 00:36:05,000
+o Orlando
+
+1485
+00:36:05,000 --> 00:36:06,000
+é um deles
+
+1486
+00:36:06,000 --> 00:36:08,000
+é um dos mais importantes
+
+1487
+00:36:08,000 --> 00:36:09,000
+mas isso não determina
+
+1488
+00:36:09,000 --> 00:36:11,000
+que uma declaração ruim dele
+
+1489
+00:36:11,000 --> 00:36:12,000
+vai interferir nesse processo
+
+1490
+00:36:12,000 --> 00:36:12,000
+que é colaborativo
+
+1491
+00:36:12,000 --> 00:36:14,000
+nós temos como princípio
+
+1492
+00:36:14,000 --> 00:36:15,000
+o Basilar
+
+1493
+00:36:15,000 --> 00:36:16,000
+a defesa do Estado Democrático
+
+1494
+00:36:16,000 --> 00:36:16,000
+de Direito
+
+1495
+00:36:16,000 --> 00:36:18,000
+eu estudei na faculdade de Direito
+
+1496
+00:36:18,000 --> 00:36:19,000
+mais antiga do Brasil
+
+1497
+00:36:19,000 --> 00:36:21,000
+eu faço e pratico
+
+1498
+00:36:21,000 --> 00:36:21,000
+democracia
+
+1499
+00:36:21,000 --> 00:36:22,000
+desde os meus 18 anos de idade
+
+1500
+00:36:22,000 --> 00:36:23,000
+quando eu comecei
+
+1501
+00:36:23,000 --> 00:36:24,000
+eu montei meu primeiro partido
+
+1502
+00:36:24,000 --> 00:36:25,000
+acadêmico
+
+1503
+00:36:25,000 --> 00:36:26,000
+na faculdade de Direito da USP
+
+1504
+00:36:26,000 --> 00:36:27,000
+no Largo São Francisco
+
+1505
+00:36:27,000 --> 00:36:28,000
+participei da elaboração
+
+1506
+00:36:28,000 --> 00:36:29,000
+da alteração do estatuto
+
+1507
+00:36:29,000 --> 00:36:31,000
+do centro acadêmico
+
+1508
+00:36:31,000 --> 00:36:33,000
+criei o movimento
+
+1509
+00:36:33,000 --> 00:36:33,000
+Brasil Livre
+
+1510
+00:36:33,000 --> 00:36:35,000
+lutei contra movimentos
+
+1511
+00:36:35,000 --> 00:36:35,000
+golpistas
+
+1512
+00:36:35,000 --> 00:36:36,000
+que haviam
+
+1513
+00:36:36,000 --> 00:36:37,000
+nas manifestações
+
+1514
+00:36:37,000 --> 00:36:38,000
+pelo impeachment da Dilma
+
+1515
+00:36:38,000 --> 00:36:39,000
+gente que depois
+
+1516
+00:36:39,000 --> 00:36:39,000
+já estava em 2022
+
+1517
+00:36:39,000 --> 00:36:41,000
+participando de atos
+
+1518
+00:36:41,000 --> 00:36:41,000
+que vocês mesmos
+
+1519
+00:36:41,000 --> 00:36:42,000
+cobriram bastante
+
+1520
+00:36:42,000 --> 00:36:43,000
+nós temos
+
+1521
+00:36:43,000 --> 00:36:44,000
+o nosso pendor democrático
+
+1522
+00:36:44,000 --> 00:36:45,000
+sempre foi gigantesco
+
+1523
+00:36:45,000 --> 00:36:46,000
+o senhor respondeu a pergunta
+
+1524
+00:36:46,000 --> 00:36:48,000
+agora vamos falar de economia
+
+1525
+00:36:48,000 --> 00:36:49,000
+porque a dívida pública
+
+1526
+00:36:49,000 --> 00:36:49,000
+a gente sabe está hoje
+
+1527
+00:36:49,000 --> 00:36:51,000
+em 82% do PIB
+
+1528
+00:36:51,000 --> 00:36:52,000
+e se eleito
+
+1529
+00:36:52,000 --> 00:36:53,000
+o senhor promete cortar
+
+1530
+00:36:53,000 --> 00:36:54,000
+1 trilhão
+
+1531
+00:36:54,000 --> 00:36:56,000
+e 100 bilhões de reais
+
+1532
+00:36:56,000 --> 00:36:58,000
+para que percentual do PIB
+
+1533
+00:36:58,000 --> 00:36:59,000
+o senhor se compromete
+
+1534
+00:36:59,000 --> 00:37:00,000
+a trazer essa dívida
+
+1535
+00:37:00,000 --> 00:37:01,000
+e como o senhor
+
+1536
+00:37:01,000 --> 00:37:02,000
+vai chegar até ela
+
+1537
+00:37:02,000 --> 00:37:02,000
+claro
+
+1538
+00:37:02,000 --> 00:37:04,000
+a beleza do corte
+
+1539
+00:37:04,000 --> 00:37:04,000
+do corte de gastos
+
+1540
+00:37:04,000 --> 00:37:06,000
+é porque a trajetória da dívida
+
+1541
+00:37:06,000 --> 00:37:06,000
+não necessariamente
+
+1542
+00:37:06,000 --> 00:37:08,000
+ela caia
+
+1543
+00:37:08,000 --> 00:37:09,000
+mas ela se mantém estável
+
+1544
+00:37:09,000 --> 00:37:10,000
+existem nações
+
+1545
+00:37:10,000 --> 00:37:12,000
+ela está em trajetória de ar
+
+1546
+00:37:12,000 --> 00:37:12,000
+exato
+
+1547
+00:37:12,000 --> 00:37:12,000
+mas as medidas
+
+1548
+00:37:12,000 --> 00:37:13,000
+que nós vamos adotar
+
+1549
+00:37:13,000 --> 00:37:13,000
+no mínimo
+
+1550
+00:37:13,000 --> 00:37:14,000
+vão deixar ela estável
+
+1551
+00:37:14,000 --> 00:37:14,000
+como?
+
+1552
+00:37:15,000 --> 00:37:16,000
+com corte de gastos
+
+1553
+00:37:16,000 --> 00:37:17,000
+e aumento de PIB
+
+1554
+00:37:17,000 --> 00:37:18,000
+existe uma relação
+
+1555
+00:37:18,000 --> 00:37:18,000
+dívida PIB
+
+1556
+00:37:18,000 --> 00:37:19,000
+o PIB do Brasil
+
+1557
+00:37:19,000 --> 00:37:21,000
+está próximo dos 12 trilhões
+
+1558
+00:37:21,000 --> 00:37:22,000
+a dívida próxima dos 10 trilhões
+
+1559
+00:37:22,000 --> 00:37:24,000
+hoje ela está acelerando
+
+1560
+00:37:24,000 --> 00:37:24,000
+velozmente
+
+1561
+00:37:24,000 --> 00:37:25,000
+nós precisamos cortar
+
+1562
+00:37:25,000 --> 00:37:26,000
+a velocidade
+
+1563
+00:37:26,000 --> 00:37:27,000
+de aceleração dela
+
+1564
+00:37:27,000 --> 00:37:28,000
+ela acelera através
+
+1565
+00:37:28,000 --> 00:37:29,000
+das indexações
+
+1566
+00:37:29,000 --> 00:37:29,000
+e vinculações
+
+1567
+00:37:29,000 --> 00:37:30,000
+que são um tema
+
+1568
+00:37:30,000 --> 00:37:31,000
+muito complicado
+
+1569
+00:37:31,000 --> 00:37:31,000
+para eu explicar
+
+1570
+00:37:31,000 --> 00:37:32,000
+para as pessoas aqui
+
+1571
+00:37:32,000 --> 00:37:33,000
+se eu tiver um minutinho
+
+1572
+00:37:33,000 --> 00:37:33,000
+talvez esse tema
+
+1573
+00:37:33,000 --> 00:37:34,000
+é bem importante
+
+1574
+00:37:34,000 --> 00:37:35,000
+basicamente
+
+1575
+00:37:35,000 --> 00:37:36,000
+para quem está assistindo
+
+1576
+00:37:36,000 --> 00:37:37,000
+as medidas que o Palmeiras
+
+1577
+00:37:37,000 --> 00:37:37,000
+e o Flamengo
+
+1578
+00:37:37,000 --> 00:37:38,000
+adotaram
+
+1579
+00:37:38,000 --> 00:37:39,000
+para salvar esses times
+
+1580
+00:37:40,000 --> 00:37:41,000
+o Palmeiras aqui
+
+1581
+00:37:41,000 --> 00:37:42,000
+para o pessoal assistir
+
+1582
+00:37:42,000 --> 00:37:43,000
+continuem na Globo assistindo
+
+1583
+00:37:43,000 --> 00:37:45,000
+tem que ser adotados
+
+1584
+00:37:45,000 --> 00:37:45,000
+pelo Brasil
+
+1585
+00:37:45,000 --> 00:37:46,000
+para sobreviver
+
+1586
+00:37:46,000 --> 00:37:47,000
+quem não adotou
+
+1587
+00:37:47,000 --> 00:37:47,000
+as medidas
+
+1588
+00:37:47,000 --> 00:37:48,000
+do São Paulo
+
+1589
+00:37:48,000 --> 00:37:48,000
+Corinthians
+
+1590
+00:37:48,000 --> 00:37:49,000
+e outros times
+
+1591
+00:37:49,000 --> 00:37:49,000
+quebraram
+
+1592
+00:37:49,000 --> 00:37:50,000
+o Brasil está tomando
+
+1593
+00:37:50,000 --> 00:37:51,000
+as medidas
+
+1594
+00:37:51,000 --> 00:37:52,000
+para administrar
+
+1595
+00:37:52,000 --> 00:37:52,000
+suas contas públicas
+
+1596
+00:37:52,000 --> 00:37:53,000
+igualzinho
+
+1597
+00:37:53,000 --> 00:37:54,000
+a dos grandes times
+
+1598
+00:37:54,000 --> 00:37:54,000
+de futebol brasileiro
+
+1599
+00:37:54,000 --> 00:37:55,000
+que não fizeram ajuntes
+
+1600
+00:37:55,000 --> 00:37:56,000
+como Vasco
+
+1601
+00:37:56,000 --> 00:37:57,000
+como São Paulo
+
+1602
+00:37:57,000 --> 00:37:57,000
+Corinthians
+
+1603
+00:37:57,000 --> 00:37:58,000
+então o senhor propõe
+
+1604
+00:37:58,000 --> 00:37:59,000
+desindexar
+
+1605
+00:37:59,000 --> 00:38:00,000
+benefícios do salário
+
+1606
+00:38:00,000 --> 00:38:00,000
+desindexar
+
+1607
+00:38:00,000 --> 00:38:01,000
+desvinculações
+
+1608
+00:38:01,000 --> 00:38:02,000
+do piso
+
+1609
+00:38:02,000 --> 00:38:03,000
+da educação
+
+1610
+00:38:03,000 --> 00:38:03,000
+e da saúde
+
+1611
+00:38:03,000 --> 00:38:04,000
+até porque hoje
+
+1612
+00:38:04,000 --> 00:38:04,000
+eles estão irracionais
+
+1613
+00:38:04,000 --> 00:38:05,000
+e estão quebrando
+
+1614
+00:38:05,000 --> 00:38:06,000
+pequenos municípios
+
+1615
+00:38:06,000 --> 00:38:07,000
+tem municípios
+
+1616
+00:38:07,000 --> 00:38:08,000
+do interior do Rio Grande do Sul
+
+1617
+00:38:08,000 --> 00:38:10,000
+que a população envelheceu
+
+1618
+00:38:10,000 --> 00:38:11,000
+não está nascendo gente
+
+1619
+00:38:11,000 --> 00:38:12,000
+então eles precisam
+
+1620
+00:38:12,000 --> 00:38:13,000
+de mais gasto com saúde
+
+1621
+00:38:13,000 --> 00:38:15,000
+e menos gasto com educação
+
+1622
+00:38:15,000 --> 00:38:16,000
+as vinculações
+
+1623
+00:38:16,000 --> 00:38:16,000
+fazem que eles
+
+1624
+00:38:16,000 --> 00:38:17,000
+sejam obrigados
+
+1625
+00:38:17,000 --> 00:38:18,000
+a gastar com educação
+
+1626
+00:38:18,000 --> 00:38:19,000
+mesmo quase não tendo
+
+1627
+00:38:19,000 --> 00:38:20,000
+crianças novas
+
+1628
+00:38:20,000 --> 00:38:21,000
+lugares como Mato Grosso
+
+1629
+00:38:21,000 --> 00:38:23,000
+que tem migração interna
+
+1630
+00:38:23,000 --> 00:38:23,000
+muito grande
+
+1631
+00:38:23,000 --> 00:38:23,000
+eles precisam
+
+1632
+00:38:23,000 --> 00:38:24,000
+de maiores gastos
+
+1633
+00:38:24,000 --> 00:38:24,000
+em educação
+
+1634
+00:38:24,000 --> 00:38:25,000
+essa liberdade
+
+1635
+00:38:25,000 --> 00:38:26,000
+precisa ser gerada
+
+1636
+00:38:26,000 --> 00:38:27,000
+hoje quando a liberdade
+
+1637
+00:38:27,000 --> 00:38:28,000
+não é gerada
+
+1638
+00:38:28,000 --> 00:38:29,000
+você tem basicamente
+
+1639
+00:38:29,000 --> 00:38:30,000
+um gasto ineficiente
+
+1640
+00:38:30,000 --> 00:38:31,000
+pouco inteligente
+
+1641
+00:38:31,000 --> 00:38:31,000
+de dinheiro
+
+1642
+00:38:31,000 --> 00:38:32,000
+esse é o problema
+
+1643
+00:38:32,000 --> 00:38:32,000
+da vinculação
+
+1644
+00:38:32,000 --> 00:38:35,000
+as indexações
+
+1645
+00:38:35,000 --> 00:38:36,000
+as vinculações
+
+1646
+00:38:36,000 --> 00:38:38,000
+somadas a uma nova
+
+1647
+00:38:38,000 --> 00:38:38,000
+reforma da Previdência
+
+1648
+00:38:38,000 --> 00:38:39,000
+e avisando você
+
+1649
+00:38:39,000 --> 00:38:41,000
+eu não sou estelionatário
+
+1650
+00:38:41,000 --> 00:38:41,000
+eleitoral como outros
+
+1651
+00:38:41,000 --> 00:38:42,000
+candidatos que vão vir aqui
+
+1652
+00:38:42,000 --> 00:38:43,000
+e falar que não precisa
+
+1653
+00:38:43,000 --> 00:38:44,000
+vamos precisar fazer
+
+1654
+00:38:44,000 --> 00:38:45,000
+outra reforma da Previdência
+
+1655
+00:38:45,000 --> 00:38:45,000
+senão vai quebrar
+
+1656
+00:38:45,000 --> 00:38:46,000
+e em três anos
+
+1657
+00:38:46,000 --> 00:38:48,000
+você não tem aposentadoria
+
+1658
+00:38:48,000 --> 00:38:49,000
+eu vou deixar claro
+
+1659
+00:38:49,000 --> 00:38:49,000
+porque eu não sou
+
+1660
+00:38:49,000 --> 00:38:50,000
+populista fiscal aqui
+
+1661
+00:38:50,000 --> 00:38:51,000
+um monte de gente
+
+1662
+00:38:51,000 --> 00:38:52,000
+vai ficar mentindo
+
+1663
+00:38:52,000 --> 00:38:53,000
+que não vai precisar
+
+1664
+00:38:53,000 --> 00:38:54,000
+de fazer reforma
+
+1665
+00:38:54,000 --> 00:38:55,000
+e vai precisar fazer reforma
+
+1666
+00:38:55,000 --> 00:38:55,000
+pois bem
+
+1667
+00:38:55,000 --> 00:38:57,000
+todas essas medidas
+
+1668
+00:38:57,000 --> 00:38:58,000
+vão evitar aceleração
+
+1669
+00:38:58,000 --> 00:38:59,000
+e o resto é corte gastos
+
+1670
+00:38:59,000 --> 00:39:00,000
+que nós vamos fazer
+
+1671
+00:39:00,000 --> 00:39:00,000
+só que a beleza
+
+1672
+00:39:00,000 --> 00:39:01,000
+dos cortes gastos
+
+1673
+00:39:01,000 --> 00:39:02,000
+é que eles serão vinculados
+
+1674
+00:39:02,000 --> 00:39:03,000
+aí sim a investimento
+
+1675
+00:39:03,000 --> 00:39:04,000
+em infraestrutura
+
+1676
+00:39:04,000 --> 00:39:05,000
+que é uma coisa
+
+1677
+00:39:05,000 --> 00:39:05,000
+que o Brasil está precisando
+
+1678
+00:39:05,000 --> 00:39:06,000
+para poder voltar a crescer
+
+1679
+00:39:06,000 --> 00:39:07,000
+candidato
+
+1680
+00:39:07,000 --> 00:39:08,000
+outro tema que está tendo
+
+1681
+00:39:08,000 --> 00:39:09,000
+muito impacto hoje
+
+1682
+00:39:09,000 --> 00:39:10,000
+na vida das pessoas
+
+1683
+00:39:10,000 --> 00:39:11,000
+se chama meio ambiente
+
+1684
+00:39:11,000 --> 00:39:13,000
+já tem muito tempo
+
+1685
+00:39:13,000 --> 00:39:14,000
+que o planeta
+
+1686
+00:39:14,000 --> 00:39:15,000
+vem enfrentando
+
+1687
+00:39:15,000 --> 00:39:16,000
+efeitos de fenômenos
+
+1688
+00:39:16,000 --> 00:39:17,000
+climáticos extremos
+
+1689
+00:39:17,000 --> 00:39:19,000
+cientistas reforçando
+
+1690
+00:39:19,000 --> 00:39:20,000
+o alerta cada vez mais
+
+1691
+00:39:20,000 --> 00:39:21,000
+para que as cidades
+
+1692
+00:39:21,000 --> 00:39:22,000
+se preparem
+
+1693
+00:39:22,000 --> 00:39:23,000
+mitiguem
+
+1694
+00:39:23,000 --> 00:39:24,000
+façam investimentos
+
+1695
+00:39:24,000 --> 00:39:25,000
+em prevenção
+
+1696
+00:39:25,000 --> 00:39:27,000
+preparem as populações
+
+1697
+00:39:27,000 --> 00:39:28,000
+salvem as pessoas
+
+1698
+00:39:28,000 --> 00:39:29,000
+de desastres climáticos
+
+1699
+00:39:29,000 --> 00:39:31,000
+agora o programa do senhor
+
+1700
+00:39:31,000 --> 00:39:32,000
+não apresenta
+
+1701
+00:39:32,000 --> 00:39:33,000
+uma política estruturada
+
+1702
+00:39:33,000 --> 00:39:34,000
+de adaptação
+
+1703
+00:39:34,000 --> 00:39:36,000
+a essas mudanças climáticas
+
+1704
+00:39:36,000 --> 00:39:38,000
+e nem de prevenção
+
+1705
+00:39:38,000 --> 00:39:39,000
+a esses desastres
+
+1706
+00:39:39,000 --> 00:39:40,000
+que tem se repetido
+
+1707
+00:39:40,000 --> 00:39:42,000
+de forma muito espantosa
+
+1708
+00:39:42,000 --> 00:39:43,000
+para todos nós
+
+1709
+00:39:43,000 --> 00:39:44,000
+por que que uma emergência
+
+1710
+00:39:44,000 --> 00:39:45,000
+dessa dimensão
+
+1711
+00:39:45,000 --> 00:39:47,000
+não recebeu
+
+1712
+00:39:47,000 --> 00:39:48,000
+uma política específica
+
+1713
+00:39:48,000 --> 00:39:50,000
+no seu programa de governo
+
+1714
+00:39:50,000 --> 00:39:51,000
+porque as políticas específicas
+
+1715
+00:39:51,000 --> 00:39:52,000
+já existem nos planos
+
+1716
+00:39:52,000 --> 00:39:52,000
+de não os planos
+
+1717
+00:39:52,000 --> 00:39:53,000
+de governo
+
+1718
+00:39:53,000 --> 00:39:54,000
+mas nas metas
+
+1719
+00:39:54,000 --> 00:39:55,000
+de infraestrutura
+
+1720
+00:39:55,000 --> 00:39:56,000
+de todos os estados
+
+1721
+00:39:56,000 --> 00:39:56,000
+e municípios
+
+1722
+00:39:56,000 --> 00:39:58,000
+que estão em regiões problemáticas
+
+1723
+00:39:58,000 --> 00:39:58,000
+por exemplo
+
+1724
+00:39:58,000 --> 00:39:59,000
+o Rio Grande do Sul
+
+1725
+00:39:59,000 --> 00:40:01,000
+já tinha todas as manutenções
+
+1726
+00:40:01,000 --> 00:40:01,000
+a serem feitas
+
+1727
+00:40:01,000 --> 00:40:03,000
+no seu sistema de comportas
+
+1728
+00:40:03,000 --> 00:40:03,000
+para evitar o que aconteceu
+
+1729
+00:40:03,000 --> 00:40:04,000
+com aquelas chuvas
+
+1730
+00:40:04,000 --> 00:40:05,000
+todo mundo sabia
+
+1731
+00:40:05,000 --> 00:40:06,000
+o que precisava ser feito
+
+1732
+00:40:06,000 --> 00:40:06,000
+em juízo de fora
+
+1733
+00:40:06,000 --> 00:40:07,000
+para evitar aquele deslize
+
+1734
+00:40:07,000 --> 00:40:08,000
+todo mundo sabia
+
+1735
+00:40:08,000 --> 00:40:09,000
+o que precisava ser feito
+
+1736
+00:40:09,000 --> 00:40:10,000
+em Angra
+
+1737
+00:40:10,000 --> 00:40:12,000
+ou na Baixada Santista
+
+1738
+00:40:12,000 --> 00:40:13,000
+ou no litoral de São Paulo
+
+1739
+00:40:13,000 --> 00:40:13,000
+para evitar os desastres
+
+1740
+00:40:13,000 --> 00:40:14,000
+que houveram
+
+1741
+00:40:14,000 --> 00:40:15,000
+o problema é que não há dinheiro
+
+1742
+00:40:15,000 --> 00:40:16,000
+para investimento
+
+1743
+00:40:16,000 --> 00:40:16,000
+em infraestrutura
+
+1744
+00:40:16,000 --> 00:40:18,000
+os planos inclusive
+
+1745
+00:40:18,000 --> 00:40:18,000
+já existem
+
+1746
+00:40:18,000 --> 00:40:20,000
+a coisa mais desesperadora
+
+1747
+00:40:20,000 --> 00:40:20,000
+é os planos
+
+1748
+00:40:20,000 --> 00:40:21,000
+nos estados e municípios
+
+1749
+00:40:21,000 --> 00:40:21,000
+existem
+
+1750
+00:40:21,000 --> 00:40:22,000
+não tem o dinheiro
+
+1751
+00:40:22,000 --> 00:40:23,000
+e por que não tem o dinheiro?
+
+1752
+00:40:24,000 --> 00:40:24,000
+pela mesma pergunta
+
+1753
+00:40:24,000 --> 00:40:25,000
+muito bem feita
+
+1754
+00:40:25,000 --> 00:40:26,000
+pela Renata
+
+1755
+00:40:26,000 --> 00:40:28,000
+porque não há capacidade
+
+1756
+00:40:28,000 --> 00:40:28,000
+do estado
+
+1757
+00:40:28,000 --> 00:40:29,000
+em reduzir seus gastos
+
+1758
+00:40:29,000 --> 00:40:30,000
+obrigatórios
+
+1759
+00:40:30,000 --> 00:40:31,000
+reduzir despesas
+
+1760
+00:40:31,000 --> 00:40:32,000
+cortar mamata de político
+
+1761
+00:40:32,000 --> 00:40:34,000
+cortar mamata do judiciário
+
+1762
+00:40:34,000 --> 00:40:35,000
+fazer reformas
+
+1763
+00:40:35,000 --> 00:40:36,000
+que vão ser impopulares
+
+1764
+00:40:36,000 --> 00:40:38,000
+que vão fazer sobrar dinheiro
+
+1765
+00:40:38,000 --> 00:40:39,000
+e aí a gente investe
+
+1766
+00:40:39,000 --> 00:40:40,000
+na infraestrutura
+
+1767
+00:40:40,000 --> 00:40:41,000
+então nós ouvimos
+
+1768
+00:40:41,000 --> 00:40:42,000
+vários especialistas
+
+1769
+00:40:42,000 --> 00:40:43,000
+consultamos também
+
+1770
+00:40:43,000 --> 00:40:45,000
+o Observatório do Clima
+
+1771
+00:40:45,000 --> 00:40:46,000
+verificamos o seu
+
+1772
+00:40:46,000 --> 00:40:47,000
+plano de governo
+
+1773
+00:40:47,000 --> 00:40:48,000
+o Observatório do Clima
+
+1774
+00:40:48,000 --> 00:40:49,000
+é uma entidade
+
+1775
+00:40:49,000 --> 00:40:50,000
+de referência no assunto
+
+1776
+00:40:50,000 --> 00:40:52,000
+e na avaliação deles
+
+1777
+00:40:52,000 --> 00:40:53,000
+o programa
+
+1778
+00:40:53,000 --> 00:40:54,000
+ele não informa
+
+1779
+00:40:54,000 --> 00:40:55,000
+quais são as regiões
+
+1780
+00:40:55,000 --> 00:40:56,000
+mais vulneráveis
+
+1781
+00:40:56,000 --> 00:40:57,000
+que medidas adotar
+
+1782
+00:40:57,000 --> 00:40:58,000
+para proteger
+
+1783
+00:40:58,000 --> 00:40:59,000
+essas populações
+
+1784
+00:40:59,000 --> 00:41:00,000
+e também
+
+1785
+00:41:00,000 --> 00:41:02,000
+quanto deveria ser investido
+
+1786
+00:41:02,000 --> 00:41:02,000
+porque
+
+1787
+00:41:02,000 --> 00:41:03,000
+eu volto a repetir
+
+1788
+00:41:03,000 --> 00:41:05,000
+os planos
+
+1789
+00:41:05,000 --> 00:41:05,000
+já existem
+
+1790
+00:41:05,000 --> 00:41:06,000
+nos governos estaduais
+
+1791
+00:41:06,000 --> 00:41:08,000
+e municipais
+
+1792
+00:41:08,000 --> 00:41:08,000
+eu vou repetir
+
+1793
+00:41:08,000 --> 00:41:10,000
+os planos já existem
+
+1794
+00:41:10,000 --> 00:41:10,000
+existe um problema
+
+1795
+00:41:10,000 --> 00:41:11,000
+de dinheiro
+
+1796
+00:41:11,000 --> 00:41:12,000
+mas o senhor
+
+1797
+00:41:12,000 --> 00:41:13,000
+se eleito presidente
+
+1798
+00:41:13,000 --> 00:41:14,000
+da república
+
+1799
+00:41:14,000 --> 00:41:14,000
+qual o papel
+
+1800
+00:41:14,000 --> 00:41:15,000
+do governo federal
+
+1801
+00:41:15,000 --> 00:41:16,000
+na proteção
+
+1802
+00:41:16,000 --> 00:41:17,000
+das populações
+
+1803
+00:41:17,000 --> 00:41:18,000
+em relação
+
+1804
+00:41:18,000 --> 00:41:19,000
+a essas tragédias
+
+1805
+00:41:19,000 --> 00:41:20,000
+dois
+
+1806
+00:41:20,000 --> 00:41:21,000
+dois papéis
+
+1807
+00:41:21,000 --> 00:41:21,000
+o primeiro
+
+1808
+00:41:21,000 --> 00:41:23,000
+fazer sobrar dinheiro
+
+1809
+00:41:23,000 --> 00:41:23,000
+para investimento
+
+1810
+00:41:23,000 --> 00:41:24,000
+em infraestrutura
+
+1811
+00:41:24,000 --> 00:41:25,000
+o governo
+
+1812
+00:41:25,000 --> 00:41:26,000
+não tem dinheiro
+
+1813
+00:41:26,000 --> 00:41:27,000
+o governo
+
+1814
+00:41:27,000 --> 00:41:27,000
+não tem dinheiro
+
+1815
+00:41:27,000 --> 00:41:28,000
+até vi ponte
+
+1816
+00:41:28,000 --> 00:41:29,000
+caindo no Maranhão
+
+1817
+00:41:29,000 --> 00:41:30,000
+o governo
+
+1818
+00:41:30,000 --> 00:41:30,000
+não tem dinheiro
+
+1819
+00:41:30,000 --> 00:41:31,000
+para infraestrutura
+
+1820
+00:41:31,000 --> 00:41:31,000
+com nada
+
+1821
+00:41:31,000 --> 00:41:32,000
+as coisas no Brasil
+
+1822
+00:41:32,000 --> 00:41:33,000
+estão colapsando
+
+1823
+00:41:33,000 --> 00:41:34,000
+por isso é importante
+
+1824
+00:41:34,000 --> 00:41:35,000
+apontar prioridades
+
+1825
+00:41:35,000 --> 00:41:37,000
+mas essa é tão prioritária
+
+1826
+00:41:37,000 --> 00:41:38,000
+quanto uma estrada
+
+1827
+00:41:38,000 --> 00:41:39,000
+no Maranhão
+
+1828
+00:41:39,000 --> 00:41:40,000
+para ligar uma produção
+
+1829
+00:41:40,000 --> 00:41:40,000
+de soja
+
+1830
+00:41:40,000 --> 00:41:41,000
+até o porto de destino
+
+1831
+00:41:41,000 --> 00:41:42,000
+tudo é prioritário
+
+1832
+00:41:42,000 --> 00:41:43,000
+em infraestrutura
+
+1833
+00:41:43,000 --> 00:41:43,000
+porque o Brasil
+
+1834
+00:41:43,000 --> 00:41:44,000
+pode até ter um apagão
+
+1835
+00:41:44,000 --> 00:41:45,000
+e onde é que o senhor
+
+1836
+00:41:45,000 --> 00:41:47,000
+vai buscar esse dinheiro
+
+1837
+00:41:47,000 --> 00:41:48,000
+como eu repeti
+
+1838
+00:41:48,000 --> 00:41:49,000
+aqui para a Renata
+
+1839
+00:41:49,000 --> 00:41:50,000
+nós precisamos fazer
+
+1840
+00:41:50,000 --> 00:41:51,000
+reformas que vão
+
+1841
+00:41:51,000 --> 00:41:51,000
+economizar nos próximos
+
+1842
+00:41:51,000 --> 00:41:52,000
+cinco anos
+
+1843
+00:41:52,000 --> 00:41:53,000
+1.1 trilhão
+
+1844
+00:41:53,000 --> 00:41:54,000
+com essas reformas
+
+1845
+00:41:54,000 --> 00:41:55,000
+vai começar a sobrar
+
+1846
+00:41:55,000 --> 00:41:55,000
+dinheiro
+
+1847
+00:41:55,000 --> 00:41:56,000
+e os juros
+
+1848
+00:41:56,000 --> 00:41:56,000
+vai baixar
+
+1849
+00:41:56,000 --> 00:41:57,000
+juros baixando mais
+
+1850
+00:41:57,000 --> 00:41:58,000
+licença e aumento
+
+1851
+00:41:58,000 --> 00:41:59,000
+ambiental que passou
+
+1852
+00:41:59,000 --> 00:42:00,000
+investimento
+
+1853
+00:42:00,000 --> 00:42:01,000
+investimento vai significar
+
+1854
+00:42:01,000 --> 00:42:01,000
+emprego
+
+1855
+00:42:01,000 --> 00:42:02,000
+aumento da competitividade
+
+1856
+00:42:02,000 --> 00:42:03,000
+e aí atender
+
+1857
+00:42:03,000 --> 00:42:04,000
+esses problemas
+
+1858
+00:42:04,000 --> 00:42:04,000
+que são dramáticos
+
+1859
+00:42:04,000 --> 00:42:05,000
+e um outro tema
+
+1860
+00:42:05,000 --> 00:42:05,000
+que é central
+
+1861
+00:42:05,000 --> 00:42:07,000
+que envolve vidas humanas
+
+1862
+00:42:07,000 --> 00:42:08,000
+o nosso plano nacional
+
+1863
+00:42:08,000 --> 00:42:08,000
+de desfavelização
+
+1864
+00:42:08,000 --> 00:42:10,000
+desfavelizar o Brasil
+
+1865
+00:42:10,000 --> 00:42:11,000
+é salvar as populações
+
+1866
+00:42:11,000 --> 00:42:11,000
+mais pobres
+
+1867
+00:42:11,000 --> 00:42:13,000
+quase todos os grandes
+
+1868
+00:42:13,000 --> 00:42:14,000
+desastres terminam
+
+1869
+00:42:14,000 --> 00:42:14,000
+atingindo pessoas
+
+1870
+00:42:14,000 --> 00:42:15,000
+que moram em regiões
+
+1871
+00:42:15,000 --> 00:42:16,000
+de encosta
+
+1872
+00:42:16,000 --> 00:42:16,000
+e regiões favelizadas
+
+1873
+00:42:16,000 --> 00:42:18,000
+um país que não se desfaveliza
+
+1874
+00:42:18,000 --> 00:42:19,000
+é um país que aceita
+
+1875
+00:42:19,000 --> 00:42:20,000
+que as pessoas mais pobres
+
+1876
+00:42:20,000 --> 00:42:21,000
+são tratadas como animais
+
+1877
+00:42:21,000 --> 00:42:23,000
+eu vou desfavelizar o Brasil
+
+1878
+00:42:23,000 --> 00:42:24,000
+e vai vir através
+
+1879
+00:42:24,000 --> 00:42:24,000
+desses cortes
+
+1880
+00:42:24,000 --> 00:42:25,000
+os cortes que eu estou propondo
+
+1881
+00:42:25,000 --> 00:42:26,000
+são para muita gente
+
+1882
+00:42:26,000 --> 00:42:28,000
+impopulares e dolorosos
+
+1883
+00:42:28,000 --> 00:42:29,000
+quero ver o Lula
+
+1884
+00:42:29,000 --> 00:42:30,000
+falar disso aqui amanhã
+
+1885
+00:42:30,000 --> 00:42:30,000
+gostaria de ver o Flávio
+
+1886
+00:42:30,000 --> 00:42:31,000
+falar disso
+
+1887
+00:42:31,000 --> 00:42:32,000
+eu falo
+
+1888
+00:42:32,000 --> 00:42:32,000
+candidato
+
+1889
+00:42:32,000 --> 00:42:33,000
+chegou o momento
+
+1890
+00:42:33,000 --> 00:42:35,000
+das suas considerações finais
+
+1891
+00:42:35,000 --> 00:42:36,000
+por favor
+
+1892
+00:42:36,000 --> 00:42:37,000
+meus queridos amigos
+
+1893
+00:42:37,000 --> 00:42:39,000
+nós chegamos até aqui
+
+1894
+00:42:39,000 --> 00:42:40,000
+construindo uma campanha
+
+1895
+00:42:40,000 --> 00:42:41,000
+que conversou com o Brasil inteiro
+
+1896
+00:42:41,000 --> 00:42:42,000
+eu rodeio o Brasil mais pobre
+
+1897
+00:42:42,000 --> 00:42:44,000
+eu rodeio o Brasil
+
+1898
+00:42:44,000 --> 00:42:45,000
+com o maior número
+
+1899
+00:42:45,000 --> 00:42:46,000
+de dificuldades
+
+1900
+00:42:46,000 --> 00:42:47,000
+eu amo o nosso país
+
+1901
+00:42:47,000 --> 00:42:48,000
+e eu sei que o nosso país
+
+1902
+00:42:48,000 --> 00:42:48,000
+nasceu para ser
+
+1903
+00:42:48,000 --> 00:42:49,000
+uma das maiores nações do mundo
+
+1904
+00:42:49,000 --> 00:42:51,000
+gostaria de construir um Brasil
+
+1905
+00:42:51,000 --> 00:42:52,000
+que vai declarar
+
+1906
+00:42:52,000 --> 00:42:53,000
+guerra ao crime organizado
+
+1907
+00:42:53,000 --> 00:42:54,000
+que vai permitir que você
+
+1908
+00:42:54,000 --> 00:42:56,000
+ande na rua de maneira segura
+
+1909
+00:42:56,000 --> 00:42:57,000
+que eu sei se você é mãe
+
+1910
+00:42:57,000 --> 00:42:58,000
+você sabe que a sua filha
+
+1911
+00:42:58,000 --> 00:42:59,000
+corre risco
+
+1912
+00:42:59,000 --> 00:43:00,000
+ninguém se sente seguro
+
+1913
+00:43:00,000 --> 00:43:01,000
+a andar numa grande cidade brasileira
+
+1914
+00:43:01,000 --> 00:43:03,000
+eu vou permitir que as favelas
+
+1915
+00:43:03,000 --> 00:43:04,000
+do Brasil se tornem bairros
+
+1916
+00:43:04,000 --> 00:43:05,000
+e que as pessoas que moram lá
+
+1917
+00:43:05,000 --> 00:43:07,000
+se tornem cidadãos
+
+1918
+00:43:07,000 --> 00:43:08,000
+eu vou olhar para o Nordeste
+
+1919
+00:43:08,000 --> 00:43:09,000
+eu vou desenvolver o Nordeste
+
+1920
+00:43:09,000 --> 00:43:10,000
+o Nordeste vai ter um futuro glorioso
+
+1921
+00:43:10,000 --> 00:43:13,000
+ele vai ser a nova locomotiva brasileira
+
+1922
+00:43:13,000 --> 00:43:14,000
+eu vou transformar esse país
+
+1923
+00:43:14,000 --> 00:43:16,000
+num canteiro de obras gigantesco
+
+1924
+00:43:16,000 --> 00:43:18,000
+que vai fazer com que a nossa produtividade
+
+1925
+00:43:18,000 --> 00:43:19,000
+aumente como nunca antes
+
+1926
+00:43:19,000 --> 00:43:20,000
+eu vou fazer com que você
+
+1927
+00:43:20,000 --> 00:43:22,000
+não mais sonhe em se mudar
+
+1928
+00:43:22,000 --> 00:43:23,000
+do Brasil para outro lugar
+
+1929
+00:43:23,000 --> 00:43:24,000
+eu vou fazer com que o Brasil
+
+1930
+00:43:24,000 --> 00:43:25,000
+o Brasil das novas gerações
+
+1931
+00:43:25,000 --> 00:43:26,000
+o Brasil dos mais jovens
+
+1932
+00:43:26,000 --> 00:43:27,000
+seja o país que a gente se orgulhe
+
+1933
+00:43:27,000 --> 00:43:29,000
+não por conta dos campeonatos de futebol
+
+1934
+00:43:29,000 --> 00:43:31,000
+música ou coisa que valha
+
+1935
+00:43:31,000 --> 00:43:33,000
+mas sim por ser uma das maiores nações do mundo
+
+1936
+00:43:33,000 --> 00:43:35,000
+vamos sonhar esse sonho
+
+1937
+00:43:35,000 --> 00:43:36,000
+tem dois projetos de poder
+
+1938
+00:43:36,000 --> 00:43:37,000
+do Lula e do Flávio Bolsonaro
+
+1939
+00:43:37,000 --> 00:43:38,000
+que não valem nada
+
+1940
+00:43:38,000 --> 00:43:39,000
+estão cansados
+
+1941
+00:43:39,000 --> 00:43:41,000
+e eles rifaram o nosso futuro
+
+1942
+00:43:41,000 --> 00:43:43,000
+vamos acreditar que o futuro seja glorioso
+
+1943
+00:43:43,000 --> 00:43:45,000
+acredite em mudar o seu destino
+
+1944
+00:43:45,000 --> 00:43:46,000
+eu estou aqui dando minha vida por isso
+
+1945
+00:43:46,000 --> 00:43:47,000
+eu espero que você
+
+1946
+00:43:47,000 --> 00:43:48,000
+cumpre também essa ideia
+
+1947
+00:43:48,000 --> 00:43:49,000
+muito obrigado a todos
+
+1948
+00:43:49,000 --> 00:43:50,000
+muito obrigado Renato
+
+1949
+00:43:50,000 --> 00:43:52,000
+muito obrigado pela entrevista candidato
+
+1950
+00:43:52,000 --> 00:43:53,000
+obrigada
+
+1951
+00:43:53,000 --> 00:43:55,000
+amanhã o nosso entrevistado
+
+1952
+00:43:55,000 --> 00:43:58,000
+é o candidato Luiz Inácio Lula da Silva
+
+1953
+00:43:58,000 --> 00:43:58,000
+do PT
+
+1954
+00:43:58,000 --> 00:44:00,000
+uma boa noite para você
+
+1955
+00:44:00,000 --> 00:44:00,000
+e até amanhã
+
+1956
+00:44:00,000 --> 00:44:01,000
+boa noite
+
+1957
+00:44:01,000 --> 00:44:02,000
+muito obrigado
+
+1958
+00:44:02,000 --> 00:44:03,000
+e até amanhã
+
+1959
+00:44:03,000 --> 00:44:16,000
+e atam
+
+1960
+00:44:16,000 --> 00:44:30,000
+e atam
+

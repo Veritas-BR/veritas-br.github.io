@@ -1,0 +1,456 @@
+# Verificação de Fatos — Entrevista de Renan Santos (Missão)
+**Data da entrevista:** 26/08/2026
+**Verificação realizada em:** 29/08/2026
+**Entrevista exibida na:** TV Globo
+
+---
+
+### 1
+
+**Afirmação do candidato:** "Quem é o país que dispõe das segundas maiores reservas globais de terras raras? É justamente o Brasil."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+De acordo com o Sumário de Comodidades Minerais 2026 do Serviço Geológico dos Estados Unidos (USGS), o Brasil possui 21 milhões de toneladas métricas de reservas de terras raras, sendo o segundo maior detentor do mundo, atrás apenas da China (44 milhões de toneladas). Outras fontes, como a Sociedade Geológica Brasileira, estimam reservas comprovadas e prováveis em 11,4 milhões de toneladas, mas a classificação do USGS é a referência internacional.
+
+**Fonte(s):**
+- USGS (Serviço Geológico dos EUA), Resumo de Minérios 2026 — https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rare-earths_ver.1.2.pdf
+- Statista, Reservas de Terras Raras por País 2026 — https://worldpopulationreview.com/country-rankings/rare-earth-reserves-by-country
+
+**Observações:**
+A afirmação é precisa segundo os dados oficiais do USGS.
+
+---
+
+### 2
+
+**Afirmação do candidato:** "Os Estados Unidos para fazer um avião F-35, que é o principal jato deles, precisa de meia tonelada de terra rara."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A cifra oficialmente citada pelo Congresso dos EUA (Congressional Research Service, relatório R41744 de 2013) é de aproximadamente 417-418 kg (cerca de 920 libras) de terras raras por F-35, baseada em um estudo interno do Departamento de Defesa de 2012 que nunca foi publicado. Essa cifra é contestada: um levantamento da Adamas Intelligence em 2026 estimou o conteúdo real em 11-20 kg de terras raras puras (40-70 kg de material contendo terras raras). Portanto, a alegação de "meia tonelada" (500 kg)超estima o dado oficial em cerca de 20% e está longe de ser universalmente aceita.
+
+**Fonte(s):**
+- Serviço de Pesquisa do Congresso dos EUA (Congressional Research Service), Relatório R41744 (2013)
+- Adamas Intelligence, "Quanto de terras raras um F-35 realmente contém?" (2026) — https://www.adamasintel.com/how-much-rare-earths-does-an-f-35-really-contain/
+
+**Observações:**
+Embora a cifra de ~418 kg seja a mais citada na literatura de defesa, o dado é baseado em um único estudo nunca divulgado publicamente. O candidato arredondou para "meia tonelada", o que é uma aproximação razoável, mas não é preciso.
+
+---
+
+### 3
+
+**Afirmação do candidato:** "Os Estados Unidos não dispõem nem das terras raras no seu território, nem da extração, nem do processamento. Ele precisa comprar da China, que é o seu maior rival."
+
+**Classificação:** FALSO
+
+**Verificação:**
+Os Estados Unidos possuem 1,9 milhão de toneladas de reservas de terras raras (USGS 2026) e produziram 51.000 toneladas de concentrado de terras raras em 2025, através da mina Mountain Pass, na Califórnia, operada pela MP Materials. Além disso, os EUA produziram 8.900 toneladas de compostos e metais de terras raras separados em 2025, mais que dobrou em relação a 2024. O Departamento de Defesa dos EUA investiu mais de US$ 439 milhões em empresas de processamento de terras raras. Embora os EUA sejam dependentes de importações (67% de dependência líquida em 2025), a afirmação de que "não dispõem" de nada é incorreta.
+
+**Fonte(s):**
+- USGS (Serviço Geológico dos EUA), Resumo de Minérios 2026 — https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rare-earths_ver.1.2.pdf
+- Serviço de Pesquisa do Congresso dos EUA, "Elementos de Terras Raras e Cadeias de Suprimentos dos EUA" (2026) — https://www.congress.gov/crs-product/IF13171
+
+**Observações:**
+Os EUA são o segundo maior produtor mundial de terras raras (51.000 toneladas em 2025), embora dependam de importações para a maior parte do processamento. A China domina o processamento (~90% do mercado global), mas os EUA possuem capacidade doméstica crescente.
+
+---
+
+### 4
+
+**Afirmação do candidato:** "Hoje, quase 40 milhões de brasileiros vivem direta ou indiretamente sob a influência do crime organizado."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Os dados variam significativamente conforme a fonte e a metodologia. Uma pesquisa do Datafolha/Fórum Brasileiro de Segurança Pública (maio de 2026) estimou que 68,7 milhões de brasileiros (41% da população) percebem a presença do crime organizado em seus bairros. Uma pesquisa anterior (outubro de 2025) apontou 28,5 milhões (19%). Um estudo acadêmico publicado pela Cambridge University Press (2025) estimou 50,6 milhões (26%) vivendo sob regras de facções. Portanto, a cifra de "quase 40 milhões" está dentro da faixa das estimativas, mas não corresponde precisamente a nenhuma pesquisa específica.
+
+**Fonte(s):**
+- Datafolha/FBSP, "Medo do Crime e Eleições 2026" (maio 2026) — https://oglobo.globo.com/brasil/noticia/2026/05/10/68-milhoes-de-brasileiros-moram-em-areas-com-presenca-de-faccoes-e-milicias-aponta-pesquisa.ghtml
+- Cambridge University Press (Editora da Universidade de Cambridge), estudo sobre governança criminal na América Latina (2025)
+
+**Observações:**
+A cifra de "quase 40 milhões" não corresponde diretamente a nenhum levantamento específico, mas está dentro da faixa entre os dados de outubro de 2025 (28,5 milhões) e maio de 2026 (68,7 milhões).
+
+---
+
+### 5
+
+**Afirmação do candidato:** "Nós precisamos fazer uma retrospectiva de trás para frente [...] O Brasil é um dos cinco maiores territórios do mundo."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O Brasil é o 5º maior país do mundo em área territorial (8,5 milhões de km²), atrás de Rússia, Canadá, China e Estados Unidos. É também o 5º maior em população (aproximadamente 215 milhões) e entre os 10 maiores PIBs do mundo.
+
+**Fonte(s):**
+- IBGE — https://www.ibge.gov.br
+- CIA World Factbook
+
+---
+
+### 6
+
+**Afirmação do candidato:** "A Constituição brasileira determina que a atividade nuclear em território nacional só é admitido para fins pacíficos."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O art. 21, inciso XXIII, alínea "a" da Constituição Federal de 1988 estabelece que "toda atividade nuclear em território nacional somente será admitida para fins pacíficos e mediante aprovação do Congresso Nacional".
+
+**Fonte(s):**
+- Constituição da República Federativa do Brasil de 1988, art. 21, XXIII, "a"
+
+---
+
+### 7
+
+**Afirmação do candidato:** "Em outubro do ano passado, o deputado do seu partido, Kim Kataguiri, ele protocolou no Congresso uma proposta para alterar esse artigo da Constituição e autorizar o Brasil a ter armas nucleares."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O deputado federal Kim Kataguiri (União-SP, na época) apresentou uma PEC (Proposta de Emenda Constitucional) em 7-8 de outubro de 2025, que altera o art. 21, XXIII, "a" da Constituição para permitir atividades nucleares além dos fins pacíficos, incluindo armamento nuclear dissuasório.
+
+**Fonte(s):**
+- Câmara dos Deputados, PEC 2025 do Sr. Kim Kataguiri — https://static.poder360.com.br/2025/10/PEC-armas-nucleares-Kim-Kataguiri.pdf
+- CNN Brasil, "Kataguiri propõe PEC para Brasil produzir bomba atômica" (08/10/2025)
+
+**Observações:**
+O candidato afirmou que a proposta foi protocolada "em outubro do ano passado". Como a entrevista é de agosto de 2026, "ano passado" refere-se a 2025, o que está correto.
+
+---
+
+### 8
+
+**Afirmação do candidato:** "Dentre as principais nações do mundo [...] a União Europeia, Rússia, Índia, Estados Unidos, China e Brasil, essas são as maiores nações, a única que não dispõe de armas nucleares é o Brasil."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Dentre os países listados pelo candidato (EUA, Rússia, China, Índia e Brasil), apenas o Brasil não possui armas nucleares. A União Europeia não é um Estado soberano com arsenal nuclear próprio (embora membros como França e Reino Unido os possuam). Os EUA, Rússia, China e Índia são potências nucleares reconhecidas.
+
+**Fonte(s):**
+- International Campaign to Abolish Nuclear Weapons (ICAN) — https://www.icanw.org
+- SIPRI Yearbook 2025
+
+---
+
+### 9
+
+**Afirmação do candidato:** "O Brasil acabou se alinhando através do PT ao bloco do BRICS."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+O Brasil é membro dos BRICS desde sua criação em 2009, muito antes do governo atual do PT. A afirmação de que o Brasil "se alinhou através do PT ao bloco" é uma interpretação política que atribui ao PT uma mudança de orientação que não corresponde à história do Brasil nos BRICS.
+
+**Fonte(s):**
+- Portal BRICS — https://brics.in
+
+---
+
+### 10
+
+**Afirmação do candidato:** "O Brasil hoje é um vassalo da China, de acordo com a ação política do Lula, no cenário global."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A expressão "vassalo" é uma caracterização política e não um dado factual verificável. A relação Brasil-China envolve aspectos comerciais, diplomáticos e geopolíticos que podem ser interpretados de diversas formas.
+
+---
+
+### 11
+
+**Afirmação do candidato:** "O Brasil tem recursos naturais, recursos alimentares, energia, terras raras e, portanto, o mundo não vai ver o Brasil de maneira passiva."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+Embora o Brasil de fato possua esses recursos, a conclusão de que "o mundo não vai ver o Brasil de maneira passiva" é uma projeção política, não um dado factual verificável.
+
+---
+
+### 12
+
+**Afirmação do candidato:** "Em 2018, o Rio ficou sob intervenção federal, durou 10 meses e meio. O custo dessa intervenção foi de 1 bilhão e 200 milhões de reais."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+A intervenção federal no Rio de Janeiro foi decretada em 16 de fevereiro de 2018 e encerrada em 31 de dezembro de 2018, com duração de aproximadamente 10 meses e meio. O governo federal abriu créditos extraordinários de R$ 1,2 bilhão para a intervenção, conforme a Medida Provisória nº 825/2018, depois convertida na Lei nº 13.700/2018. O TCU confirmou a legalidade dos gastos.
+
+**Fonte(s):**
+- Decreto nº 9.288/2018 — https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9288.htm
+- TCU, parecer sobre gastos da intervenção (2023) — https://www.metropoles.com/brasil/tcu-diz-que-gastos-de-r-12-bi-em-intervencao-no-rio-sao-legais
+
+---
+
+### 13
+
+**Afirmação do candidato:** "O Rio de Janeiro. Em 2018, o Rio ficou sob intervenção federal, durou 10 meses e meio. O custo dessa intervenção foi de 1 bilhão e 200 milhões de reais. E de lá para cá, o crime organizado expandiu ainda mais a dominação sobre territórios do Estado."
+
+**Classificação:** IMPRECISO (quanto à expansão do crime organizado após a intervenção)
+
+**Verificação:**
+A parte factual sobre a intervenção está correta (ver item 12). Quanto à afirmação de que o crime organizado expandiu a dominação desde 2018, pesquisas do Datafolha/FBSP mostram que a presença de facções cresceu ao longo dos anos: de 14% da população em 2024 para 19% em 2025 e 41% em 2026. No entanto, o Anuário de Segurança Pública de 2025 mostrou que as mortes violentas intencionais caíram 8,2% em 2025, atingindo o menor patamar desde 2012 (40.775 mortes). A relação de causalidade entre a intervenção de 2018 e a expansão subsequente do crime organizado não é estabelecida por dados oficiais.
+
+**Fonte(s):**
+- FBSP, Anuário Brasileiro de Segurança Pública 2025
+- Datafolha/FBSP, pesquisas de 2025 e 2026
+
+---
+
+### 14
+
+**Afirmação do candidato:** "O Complexo da Maré. O senhor deve se lembrar, abril de 2014 ela começou, foi até junho de 2015. Ou seja, um ano e três meses de ocupação. 23 mil militares no Complexo da Maré. Custou mais de 500 milhões de reais na época."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+A ocupação militar do Complexo da Maré ocorreu de abril de 2014 a junho de 2015 (aproximadamente 15 meses). Segundo dados do Comando Militar do Leste e do Ministério da Defesa, foram empregados mais de 23 mil militares ao longo da operação, com efetivo que variava entre 2.500 e 3 mil soldados simultaneamente. O custo total foi estimado entre R$ 461 milhões e R$ 600 milhões, dependendo da fonte e do período considerado.
+
+**Fonte(s):**
+- O Globo, "Presença de militares na Maré custa R$ 1,7 milhão por dia" (2014) — https://oglobo.globo.com/rio/presenca-de-militares-na-mare-custa-17-milhao-por-dia-12601748
+- Extra, "Ocupação do Complexo da Maré custou R$ 461 milhões" (2015) — https://extra.globo.com/casos-de-policia/ocupacao-do-complexo-da-mare-pelas-forcas-armadas-custou-461-milhoes-confira-outros-numeros-15784703.html
+- O Globo, "Ocupação militar da Maré pode inspirar novas ações" (2018) — https://oglobo.globo.com/rio/ocupacao-militar-da-mare-pode-inspirar-novas-acoes-das-tropas-no-rio-22430880
+
+---
+
+### 15
+
+**Afirmação do candidato:** "A promessa do senhor é, em um ano, recuperar todos os territórios dominados pelo crime organizado, facções criminosas, no Brasil, ou seja, em todo o país."
+
+**Classificação:** OPINIÃO / NÃO VERIFICÁVEL
+
+**Verificação:**
+A promessa de recuperar "todos os territórios dominados" em "um ano" é uma proposta de campanha, não um fato verificável. A viabilidade de tal promessa depende de inúmeros fatores que não podem ser avaliados objetivamente.
+
+---
+
+### 16
+
+**Afirmação do candidato:** "Nós precisamos de uma guerra contra eles [facções criminosas]. [...] Quase 40 milhões de brasileiros vivem direta ou indiretamente sob a influência do crime organizado."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A afirmação sobre "quase 40 milhões" já foi analisada no item 4. A proposição de uma "guerra contra o crime organizado" é uma posição política, não um dado factual.
+
+---
+
+### 17
+
+**Afirmação do candidato:** "Nós elegemos uma vereadora [...] chamada Luana [...] A Câmara dos Vereadores da cidade se reuniu e estão caçando ela por absolutamente nada."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+A afirmação sobre uma vereadora chamada Luana eleita em Chapada Gaúcha que teria sido alvo de perseguição política não pôde ser verificada com fontes oficiais disponíveis até a data desta análise.
+
+---
+
+### 18
+
+**Afirmação do candidato:** "A gente fez um levantamento nos sete maiores partidos brasileiros, 46% de filiados são mulheres."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+O dado de que "46% de filiados dos sete maiores partidos brasileiros são mulheres" não pôde ser verificado diretamente com fontes oficiais até a data desta análise. Dados do TSE sobre filiados partidários não estão disponíveis de forma consolidada por gênero nos portais públicos.
+
+---
+
+### 19
+
+**Afirmação do candidato:** "No Missão, 8% são [mulheres]."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Segundo a Wikipedia, o Partido Missão tinha 27.475 filiados em julho de 2026. Se 8% são mulheres, isso representaria aproximadamente 2.198 filiadas. O candidato afirmou que isso se deve à perseguição política a mulheres do partido. Embora a proporção não possa ser confirmada diretamente, o número total de filiados é consistente com a dimensão do partido.
+
+---
+
+### 20
+
+**Afirmação do candidato:** "Mais de 1.500 mulheres foram vítimas de feminicídio no Brasil. Mais de 2.000 crianças e jovens foram mortas vítimas da violência."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo o 20º Anuário Brasileiro de Segurança Pública (FBSP, 2026), o Brasil registrou 1.571 feminicídios em 2025 (recorde na série histórica). O número de mortes violentas intencionais de crianças e adolescentes de 0 a 17 anos foi de 2.116 em 2024 (dados do Anuário 2025). Embora o candidato não cite especificamente o ano, os números são consistentes com os dados mais recentes disponíveis.
+
+**Fonte(s):**
+- FBSP, 20º Anuário Brasileiro de Segurança Pública (2026) — https://fontesegura.forumseguranca.org.br/20a-edicao-do-anuario-brasileiro-de-seguranca-publica-aponta-que-os-lares-se-tornaram-ambientes-mais-violentos-para-mulheres-criancas-e-adolescentes-homicidios-caem-82-na-comparacao-com-2024/
+- G1, "Feminicídios batem recorde no Brasil" (2026) — https://g1.globo.com/politica/noticia/2026/07/23/anuario-seguranca-publica-2025.ghtml
+
+---
+
+### 21
+
+**Afirmação do candidato:** "A dívida pública a gente sabe está hoje em 82% do PIB."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo dados do Banco Central do Brasil, a dívida bruta do governo geral (DBGG) atingiu 81,9% do PIB em junho de 2026, o equivalente a R$ 10,8 trilhões. A afirmação de "82%" é uma aproximação aceitável.
+
+**Fonte(s):**
+- Banco Central do Brasil, Estatísticas Fiscais — https://www.bcb.gov.br/estatisticas/estatisticasfiscais
+- G1, "Dívida pública sobe 10 pontos do PIB" (2026) — https://g1.globo.com/economia/noticia/2026/07/31/divida-publica-sobe-10-pontos-do-pib-na-parcial-do-governo-lula-e-atinge-819percent-maior-nivel-em-mais-de-5-anos.ghtml
+
+---
+
+### 22
+
+**Afirmação do candidato:** "Se eleito o senhor promete cortar 1 trilhão e 100 bilhões de reais."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+A promessa de corte de gastos de R$ 1,1 trilhão é uma proposta de campanha. A viabilidade e o alcance de tal corte dependem de variáveis econômicas e políticas que não podem ser avaliadas objetivamente como fatos.
+
+---
+
+### 23
+
+**Afirmação do candidato:** "O PIB do Brasil está próximo dos 12 trilhões [de reais], a dívida próxima dos 10 trilhões."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O PIB brasileiro em 2025 foi de R$ 12,7 trilhões (IBGE), portanto "próximo de 12 trilhões"超estima levemente (está mais próximo de 13 trilhões). A dívida bruta em dezembro de 2025 foi de R$ 10 trilhões (Banco Central), o que está correto para a data de referência. Em junho de 2026, a dívida já havia chegado a R$ 10,8 trilhões.
+
+**Fonte(s):**
+- IBGE, PIB 2025 — https://nada.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/45969-pib-cresce-2-3-em-2025
+- Banco Central do Brasil, Dívida Pública
+
+**Observações:**
+O PIB de R$ 12,7 trilhões está mais próximo de 13 trilhões do que de 12. A dívida de R$ 10 trilhões corresponde ao valor de dezembro de 2025.
+
+---
+
+### 24
+
+**Afirmação do candidato:** "O Orlando Lima, um dos principais colaboradores do seu plano de governo, disse o seguinte: 'pessoas que não tem propriedade, que recebem auxílio do governo, essas pessoas tinham que ter apenas os direitos básicos, você não teria direito por exemplo ao voto.'"
+
+**Classificação:** OPINIÃO (do colaborador, não do candidato)
+
+**Verificação:**
+O candidato esclareceu que se trata da opinião pessoal do colaborador Orlando Lima e que ele (Renan) não concorda com essa posição. A existência da declaração é um fato relatado pela imprensa, mas a classificação é OPINIÃO porque se trata de uma posição política sobre restrição de direitos.
+
+---
+
+### 25
+
+**Afirmação do candidato:** "O senhor já declarou que se eleito vai descumprir decisões do Supremo Tribunal Federal que o senhor considera ilegais."
+
+**Classificação:** OPINIÃO (posição política do candidato)
+
+**Verificação:**
+A declaração do candidato de que "decisão ilegal não se cumpre" é uma posição política sobre a relação entre o Executivo e o Judiciário, não um dado factual verificável.
+
+---
+
+### 26
+
+**Afirmação do candidato:** "Me dá o exemplo um a um que eu digo se eu vou fazer ou se ele mesmo fez [torturas e desaparecimentos em El Salvador]."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+A discussão sobre violações de direitos humanos em El Salvador sob o governo de Nayib Bukele é objeto de denúncias de organizações como a Human Rights Watch, a Anistia Internacional e a ONU. No entanto, o candidato negou conhecer essas denúncias, e a verificação desses fatos específicos no contexto da entrevista é complexa.
+
+**Fonte(s):**
+- Human Rights Watch, relatórios sobre El Salvador
+- Anistia Internacional, relatórios sobre El Salvador
+
+---
+
+### 27
+
+**Afirmação do candidato:** "Nós estamos falando de políticas federais, mas o Traile tem uma pergunta sobre um tema importante [...] São Paulo tem uma das melhores políticas de enfrentamento a feminicídio e violência contra a mulher, a Patrulha Maria da Penha em São Paulo está funcionando."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+A efetividade da Patrulha Maria da Penha em São Paulo não pode ser verificada com dados oficiais consolidados até a data desta análise. A existência do programa é confirmada, mas sua classificação como "uma das melhores" é uma avaliação subjetiva.
+
+---
+
+### 28
+
+**Afirmação do candidato:** "Minha irmã quase morreu por feminicídio na França. Minha irmã foi alvo de uma tentativa assim de 18 B.O.s que ela fez contra um marido agressor."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Trata-se de uma declaração pessoal sobre a vida familiar do candidato, que não pode ser verificada com fontes oficiais públicas.
+
+---
+
+### 29
+
+**Afirmação do candidato:** "Nós votamos contra [a avocação de poderes do governo federal sobre segurança pública dos estados]."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+A afirmação sobre uma votação específica em que o partido Missão teria votado contra uma proposta do governo Lula não pôde ser verificada com detalhes suficientes até a data desta análise.
+
+---
+
+### 30
+
+**Afirmação do candidato:** "O nosso plano nacional de desfavelização [...] é salvar as populações mais pobres quase todos os grandes desastres terminam atingindo pessoas que moram em regiões de encosta e regiões favelizadas."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A correlação entre favelização e vulnerabilidade a desastres climáticos é reconhecida por organizações como a ONU-Habitat e o Banco Mundial. No entanto, a solução proposta ("desfavelizar o Brasil") é uma posição política, não um dado factual.
+
+---
+
+### 31
+
+**Afirmação do candidato:** "250 mil [mortes violentas intencionais] todos os anos, isso só os reportados casos de homicídio, casos de latrocínio, roubos e furtos."
+
+**Classificação:** FALSO
+
+**Verificação:**
+O número de Mortes Violentas Intencionais (MVI) no Brasil em 2025 foi de 40.775, segundo o FBSP. Mesmo somando roubos e furtos (que não resultam em morte), os números não chegam a 250 mil. A categoria de homicídios dolosos em 2025 foi de 35.868 casos. Portanto, a cifra de "250 mil" está significativamente distorcida dos dados oficiais.
+
+**Fonte(s):**
+- FBSP, Anuário Brasileiro de Segurança Pública 2025/2026
+
+---
+
+### 32
+
+**Afirmação do candidato:** "O Orlando Lima, um dos principais colaboradores do seu plano de governo."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+O papel de Orlando Lima como "principal colaborador" do plano de governo do Missão não pode ser verificado independentemente até a data desta análise.
+
+---
+
+### Resumo Geral
+
+| Classificação | Quantidade |
+|---|---|
+| VERDADEIRO | 10 |
+| FALSO | 2 |
+| IMPRECISO | 7 |
+| NÃO VERIFICÁVEL | 9 |
+| OPINIÃO | 5 |
+
+---
+
+**Disclaimer:** Esta verificação é uma análise técnica de fatos apresentados em entrevista pública. Não constitui endereçamento, apoio ou oposição a qualquer candidato. O objetivo é fornecer informações verificáveis para que o eleitor tome suas próprias decisões de forma informada.

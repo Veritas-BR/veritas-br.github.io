@@ -1,0 +1,10 @@
+{
+  "candidate": "Ronaldo Ramos Caiado",
+  "party": "PSD",
+  "interview_date": "2026-08-25",
+  "transcript_file": "data/transcripts/caiado.txt",
+  "analysis_file": "data/analyses/ronaldo-caiado-2026.txt",
+  "model_used": "opencode/mimo-v2.5-free",
+  "analysis_date": "2026-08-30",
+  "version": "2.0"
+}

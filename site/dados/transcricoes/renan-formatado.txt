@@ -1,0 +1,1650 @@
+# Transcrição: Renan Santos (Missão) - Globo 2026-08-26
+# Modelo: Whisper large-v3-turbo
+
+[00:00] Olá, boa noite.
+
+[00:12] Boa noite.
+
+[00:14] Nós estamos entrevistando esta semana os candidatos à presidência da República nas eleições 2026.
+
+[00:20] Foram convidados os seis candidatos mais bem colocados na pesquisa Quest de 14 de agosto.
+
+[00:25] A ordem das entrevistas foi decidida num sorteio com a presença de representantes das campanhas.
+
+[00:32] Hoje, então, nós recebemos aqui no estúdio o candidato Renan Santos, do Missão.
+
+[00:37] Amanhã será a vez de Luiz Inácio Lula da Silva, do PT.
+
+[00:41] Na sexta, Flávio Bolsonaro, do PL.
+
+[00:43] E no sábado, Augusto Cury, do Avante.
+
+[00:46] Nós já entrevistamos Romeu Zema, do Novo, e Ronaldo Caiado, do PSD.
+
+[00:50] Cada entrevista vai ter 40 minutos de duração com dois blocos e as considerações finais dos candidatos.
+
+[00:58] Vamos começar, então, relembrando a trajetória política de Renan Santos.
+
+[01:03] Renan Santos tem 42 anos.
+
+[01:06] Nasceu no bairro da Moca, em São Paulo.
+
+[01:08] Cursou o direito na USP.
+
+[01:10] Não concluiu a faculdade porque decidiu trabalhar com o pai e o irmão num escritório de recuperação de empresas.
+
+[01:16] Ele foi um dos fundadores do movimento Brasil Livre, em 2014.
+
+[01:21] Nas eleições de 2018, o MBL elegeu dois deputados, um federal e um estadual.
+
+[01:28] Integrantes do movimento decidiram, em 2023, criar um partido, o Missão.
+
+[01:33] E conseguiram um registro no TSE ano passado, depois de reunir quase 590 mil assinaturas.
+
+[01:40] Nas eleições deste ano, Renan Santos concorre à presidência.
+
+[01:44] Tem como candidato a vice, Haroldo Medina, do mesmo partido.
+
+[01:49] Candidato Renan Santos, boa noite. Obrigada pela sua presença.
+
+[01:53] Boa noite.
+
+[01:53] Boa noite, candidato.
+
+[01:54] Agradeço. Uma honra estar aqui com vocês.
+
+[01:56] Posso mandar um beijo para minha mãe e para minha sobrinha Angelina.
+
+[02:00] Titio está aqui, Angelina. Tamo junto.
+
+[02:02] O tempo da entrevista começa a contar a partir de agora.
+
+[02:09] Candidato, ao anunciar a candidatura no evento do seu partido, o senhor declarou uma prioridade na área da defesa.
+
+[02:12] Desenvolver uma bomba atômica no Brasil.
+
+[02:16] O senhor, em entrevistas, foi categórico.
+
+[02:18] Disse que é obrigatório que o Brasil esteja armado e tenha bomba atômica.
+
+[02:24] Candidato, o mundo enfrenta as consequências graves, severas, da guerra no Oriente Médio.
+
+[02:31] Os Estados Unidos e Israel atacaram o Irã com a justificativa de que o país desenvolvia um arsenal nuclear.
+
+[02:40] Um momento de muita incerteza militar, política, econômica.
+
+[02:45] Por que motivo, então, o Brasil deveria, nesse momento, enveredar para uma corrida nuclear, na sua opinião?
+
+[02:52] Bom, excelente pergunta.
+
+[02:54] O mundo está passando por uma mudança muito grande, como a Renata descreveu.
+
+[03:07] O mundo está vivendo o fim do pacto pós-45, pós a Segunda Guerra Mundial, quando os Estados Unidos disputavam primeiro com a União Soviética, quem mandava no mundo, e depois os Estados Unidos, após a queda do Muro de Berlim, se tornaram a grande potência global.
+
+[03:15] Hoje, entretanto, os Estados Unidos vê a ascensão da China, uma outra superpotência, que vai formando novos blocos.
+
+[03:17] O BRICS é um deles.
+
+[03:18] O Brasil acabou se alinhando através do PT ao bloco do BRICS.
+
+[03:20] E essas duas forças começam a se degladear em cenário internacional.
+
+[03:24] Primeiro, em guerras em que eles não participam diretamente.
+
+[03:26] Um exemplo é Rússia versus Ucrânia, outra Israel versus Irã.
+
+[03:30] E o Brasil começa a ver que está sujeito, de uma maneira passiva, submissa, como um agente menor, a essas disputas.
+
+[03:46] No futuro, se o Brasil quiser ser uma das cinco maiores nações do mundo que se presta a sentar na mesa com Estados Unidos, Índia, Rússia e China, ele vai precisar ter soberania sobre seu próprio território, soberania militar
+
+[03:51] e vai ter que discutir ter bombas atômicas.
+
+[03:59] Dentre as principais nações do mundo, esse aqui é um ponto bem importante, que tem muito território, muita população e grande economia, e a gente blocar União Europeia, Rússia, Índia, Estados Unidos, China e Brasil,
+
+[04:04] essas são as maiores nações, a União que não dispõe de armas nucleares é o Brasil.
+
+[04:07] Eu não acho que o Brasil dispõe de condições, nos próximos dez anos, de ter armas nucleares.
+
+[04:11] Nem tem condição de fazer ainda a pesquisa e desenvolver isso.
+
+[04:18] Mas o Brasil tem que iniciar um processo de recuperação de soberania, de pesquisa, para ele poder sentar à mesa e discutir com o mundo.
+
+[04:20] O Brasil quer sentar no Conselho de Segurança da ONU e o Brasil tem que ter condições de ter uma arma atômica.
+
+[04:27] Até porque, pelas razões que foram levantadas, Renata, o mundo vai olhar para o Brasil de maneira muito cheia de cobiça.
+
+[04:36] O Brasil possui recursos naturais, recursos alimentares, energia, terras raras e, portanto, o mundo não vai ver o Brasil de maneira passiva.
+
+[04:43] Você sabe que a Constituição brasileira determina que a atividade nuclear em território nacional só é admitido para fins pacíficos.
+
+[04:53] Em outubro do ano passado, o deputado do seu partido, Kim Kataguiri, ele protocolou no Congresso uma proposta para alterar esse artigo da Constituição e autorizar o Brasil a ter armas nucleares.
+
+[05:00] Eu queria saber, na sua avaliação, como é que reagiriam os países da América do Sul, os Estados Unidos?
+
+[05:02] Isso não tensionaria ainda mais a relação com o governo americano?
+
+[05:09] Definitivamente, se eu imaginar que vou tensionar a relação com os Estados Unidos impondo ao mundo, olha, o Brasil terá uma arma atômica agora?
+
+[05:16] Sim, o Brasil não estará em uma posição de exigir nada dos Estados Unidos, nem da China, porque o Brasil está fraco.
+
+[05:17] O que eu vejo é que o Brasil tem que fazer uma construção de soberania.
+
+[05:20] A construção de soberania passa em reaver o respeito internacional pelo Brasil.
+
+[05:28] O Brasil hoje é um vassalo da China, de acordo com a ação política do Lula, no cenário global.
+
+[05:32] Onde há uma briga internacional envolvendo o interesse chinês, o Lula se pronuncia favoravelmente à China.
+
+[05:38] Basta ver o conflito de Israel com o Irã, em que o Lula sai se pronunciando se o Brasil tem nenhum ganho a favor do Irã ou a favor, por exemplo, da causa palestina.
+
+[05:50] Mas mesmo que o senhor demorasse para desenvolver essa arma nuclear, essa intenção, esse começo mudando a Constituição brasileira, o senhor não veria problemas com relação aos outros países?
+
+[05:53] Não, não, de maneira alguma.
+
+[05:59] Os Estados Unidos da América, ele vai ter que sentar com o Brasil, a partir de agora, para a questão das terras raras, para negociar a própria soberania americana em parceria com o Brasil.
+
+[06:07] Os Estados Unidos, a título de comparação para todo mundo entender, os Estados Unidos para fazer um avião F-35, que é o principal jato deles,
+
+[06:08] precisa de meia tonelada de terra rara.
+
+[06:13] Os Estados Unidos não dispõem nem das terras raras no seu território, nem da extração, nem do processamento.
+
+[06:15] Ele precisa comprar da China, que é o seu maior rival.
+
+[06:17] Quem é o país que dispõe das segundas maiores reservas globais de terras raras?
+
+[06:20] É justamente o Brasil.
+
+[06:23] Os Estados Unidos vão ter que sentar com o Brasil para ter a própria soberania militar nas próximas décadas.
+
+[06:31] Isso nos coloca numa posição muito interessante para negociar com os Estados Unidos a construção de uma soberania regional.
+
+[06:41] Mas sobre negociação mesmo, por exemplo, teria que convencer a Argentina, porque a base do acordo que fundou o Mercosul, por exemplo, estabelece que Brasil e a Argentina devem renunciar a armas nucleares.
+
+[06:50] O senhor quebraria esse acordo e apostar numa bomba atômica é a melhor maneira de negociar com a Argentina?
+
+[06:52] Eu acho, no médio e longo prazo, sim.
+
+[06:54] A não ser que o Brasil queira abdicar de ser uma potência.
+
+[06:58] Eu vejo o Brasil como uma das cinco maiores nações do mundo nos próximos 30 anos.
+
+[07:03] E uma nação que será uma das mais importantes do mundo nos próximos 30 anos precisa ter armas nucleares.
+
+[07:05] Nós precisamos fazer uma retrospectiva de trás para frente.
+
+[07:08] O que nós seremos daqui 30 anos?
+
+[07:14] Daqui 30 anos nós temos que ser uma nação soberana, que destrói o crime organizado, que lidera a América do Sul e que vai ter força para negociar com seus vizinhos,
+
+[07:21] para estabelecer, olha, se nós vamos liderar junto com nossos vizinhos, o nosso continente, para poder negociar em bloco, por exemplo, com os Estados Unidos ou China, nós vamos precisar ter força militar.
+
+[07:26] Nós vamos precisar juntos trabalhar para a desconstrução dessa indústria do crime organizado que toma o nosso continente.
+
+[07:29] E nesse sentido, sim, vamos ter que discutir a construção de armas nucleares.
+
+[07:32] Isso é passo de uma construção de uma nação soberana.
+
+[07:34] Eu volto a repetir.
+
+[07:38] Se o Brasil quiser ser uma nação importante nos próximos 30 anos, o Brasil precisa ser uma nação poderosa.
+
+[07:41] Se o Brasil não quiser ser poderoso, o Brasil vai ser submisso a projetos internacionais.
+
+[07:44] Assim como o Brasil vem sendo submisso.
+
+[07:49] Agora, candidato, uma decisão dessa magnitude, ela não depende apenas de uma declaração de intenção.
+
+[07:55] E o programa do senhor não traz detalhes em relação a isso.
+
+[08:05] Então, eu pergunto ao senhor, em que estudo científico, técnico, o senhor se baseia para defender que o país deve desenvolver uma bomba atômica?
+
+[08:10] Qual a autoria dessa pesquisa, desse estudo?
+
+[08:13] E também, para concluir, de que maneira o senhor implantaria isso?
+
+[08:21] Eu não preciso de um estudo científico para determinar que uma nação tem que ter força política para se proteger de outras nações.
+
+[08:23] Eu posso trazer apenas dados da realidade.
+
+[08:25] A realidade é muito clara.
+
+[08:26] As nações mais poderosas do mundo dispõem de armas nucleares.
+
+[08:29] E elas se fazem respeitadas por causa disso.
+
+[08:31] A sua ideia é retirar o Brasil do Tratado de Não Coliferação de Armas?
+
+[08:34] Necessariamente, e no momento certo.
+
+[08:36] Apenas um país fez isso até agora, desde a Coreia do Norte.
+
+[08:43] Sim, mas pelo menos a Coreia do Norte, por mais que seja um regime que eu considero opressivo e que eu não o respeite,
+
+[08:46] pelo menos ele é respeitado internacionalmente de maneira que a Venezuela não foi.
+
+[08:48] Ter armas nucleares é uma forma de defender a sua própria soberania.
+
+[08:51] O Brasil tem um dos maiores territórios do mundo.
+
+[08:53] O Brasil tem recursos naturais infindáveis.
+
+[09:00] Se a gente quiser ser o eterno Zé Carioca no mundo, personagem engraçado em que os gringos vêm aqui para fazer festa e que a gente exporta matéria-prima e recebe produto pronto,
+
+[09:06] tudo bem, não fazemos armas nucleares, aceitamos nossa posição submissa.
+
+[09:13] Agora, se a gente quiser ser uma nação séria e respeitada, nos próximos 30 anos nós vamos ter armas nucleares, não para ficar arrumando briga,
+
+[09:15] mas ter poder de dissuasão, para as nossas riquezas serem respeitadas.
+
+[09:20] Se os Estados Unidos da América, que são uma nação hoje mais poderosa do mundo, não fizeram a lição de casa,
+
+[09:25] deixaram a China ficar com todo o processamento de terra rara do mundo nesse instante e ver de maneira cobiçosa o Brasil,
+
+[09:28] nós vamos ter que olhar para os americanos e entender.
+
+[09:31] Se nós não tivermos meios de se defender, o que nós vamos fazer?
+
+[09:36] Ora, nós vamos ter que reconstruir uma rede de alianças internacionais no mundo que vai se reconfigurar.
+
+[09:37] Isso é muito importante.
+
+[09:38] É que, Sérgio, eu preciso terminar isso aqui.
+
+[09:40] O mundo vai mudar muito.
+
+[09:41] O mundo vai se reconfigurar.
+
+[09:46] Se nós não reconstruímos essa rede e o Brasil se colocar de maneira soberana nesse mundo em conflito,
+
+[09:47] o Brasil vai ser vítima desse novo mundo que vem aí.
+
+[09:50] A ordem mundial pacífica acabou.
+
+[09:52] As guerras escritas pela NATO estão acontecendo.
+
+[09:55] E o Brasil vai ter que ser capaz de se defender nas próximas décadas.
+
+[10:00] Na segurança pública, o senhor tem defendido recorrer a estados de defesa, GLO e intervenções federais.
+
+[10:08] A promessa do senhor é, em um ano, recuperar todos os territórios dominados pelo crime organizado, facções criminosas,
+
+[10:11] no Brasil, ou seja, em todo o país.
+
+[10:14] Essa promessa, portanto, já foi feita pelo senhor.
+
+[10:17] Eu quero lembrar o caso aqui do Rio de Janeiro.
+
+[10:23] Em 2018, o Rio ficou sob intervenção federal, durou 10 meses e meio.
+
+[10:24] O custo dessa intervenção foi de 1 bilhão e 200 milhões de reais.
+
+[10:34] E de lá para cá, o crime organizado expandiu ainda mais a dominação sobre territórios do Estado.
+
+[10:45] Então, eu pergunto ao senhor o que permite ao senhor dizer que é possível implantar esse seu plano ao mesmo tempo em todo o país e nesse prazo de um ano?
+
+[10:50] Grande pergunta, César.
+
+[10:51] Vamos lá.
+
+[10:51] O Brasil vive uma guerra.
+
+[10:53] É uma guerra que foi declarada unilateralmente.
+
+[10:58] O crime organizado está em guerra com você, que está nos assistindo, e você fica considerando, vamos dizer,
+
+[11:00] que a tua vida é ser refém.
+
+[11:07] Se você mora numa favela, o crime organizado manda em você, pode te desalojar da tua casa, pode, eventualmente, se interessar de maneira sexual
+
+[11:10] pela tua filha e você não tem como se defender.
+
+[11:14] A vida no país que está em guerra é uma vida triste.
+
+[11:19] Hoje, quase 40 milhões de brasileiros vivem direta ou indiretamente sob a influência do crime organizado.
+
+[11:22] Portanto, o que eu defendo é a criação e a declaração de uma guerra contra o crime organizado.
+
+[11:26] É a aceitação de uma realidade que já é verdadeira para os brasileiros.
+
+[11:29] Precisamos de uma guerra contra eles.
+
+[11:31] Esse é o primeiro ponto.
+
+[11:32] Vou voltar um pouco no tempo para te responder.
+
+[11:38] Antes da GLO do Temer, nós tivemos as UPPs aqui no Rio de Janeiro, que foram uma outra tentativa de entrar em áreas
+
+[11:44] tomadas pelo crime organizado, que no início obtiveram sucesso com as operações do BOPE e depois não deram certo.
+
+[11:46] Por quê?
+
+[11:48] Porque o Brasil não fez um arcabouço legal para permitir a continuidade desse processo.
+
+[11:57] Pois é, sobre esse arcabouço legal, o seu plano fala em decretar sucessivos estados de defesa, mas não explica que sequência seria essa,
+
+[12:01] porque a Constituição autoriza 30 dias, prorrogável por mais 30 dias, uma única vez.
+
+[12:03] O senhor vai propor uma mudança na Constituição para isso?
+
+[12:06] É que não é isso o arcabouço legal.
+
+[12:08] O arcabouço legal é...
+
+[12:10] Nós precisamos...
+
+[12:17] E já passou um pedaço disso agora, no ano passado, que foi essa legislação que converte as facções criminosas em entes especiais similares a organizações terroristas
+
+[12:21] que vão ter um tratamento jurídico diferente.
+
+[12:28] Agora, nós temos que alterar também as leis de execuções penais, o Código de Processo Penal e o aumento de penas, especialmente para crimes violentos cometidos com armas,
+
+[12:31] que é basicamente uma parte dos crimes que assolam a vida dos brasileiros.
+
+[12:39] Quando houve a experiência dos UPPs no Rio de Janeiro, por mais que eles tenham derrotado inicialmente o crime organizado e feito a ocupação nas favelas,
+
+[12:43] não houve a posteriori a mudança nas leis que permitiam que o enfrentamento continuasse com sucesso.
+
+[12:46] Esse é o problema.
+
+[12:49] O governo nosso tem que passar essas leis e essas medidas têm que passar antes de entrar com o Estado de Defesa.
+
+[12:51] Agora, candidato...
+
+[12:53] Espera, César, que isso é muito importante, é para responder a tua pergunta.
+
+[12:59] Se eu altero essa legislação e aí eu entro com as medidas ligadas ao Estado de Defesa, eu consigo fazer a ocupação,
+
+[13:06] a desconstrução do espaço político das facções criminosas e aí sim, com um regime diferenciado para os criminosos,
+
+[13:11] porque a legislação, dentro desse princípio que eu chamo de direito penal do inimigo...
+
+[13:13] Mas, candidato, no Rio de Janeiro não deu certo.
+
+[13:15] Então, assim, se a gente pegar...
+
+[13:16] Como eu disse, não havia certo abuso, César.
+
+[13:18] Pegar um pouco da história recente, olha só.
+
+[13:21] Eu trouxe os números aqui da intervenção feita no Complexo da Maré.
+
+[13:28] O senhor deve se lembrar, abril de 2014 ela começou, foi até junho de 2015.
+
+[13:31] Ou seja, um ano e três meses de ocupação.
+
+[13:33] 23 mil militares no Complexo da Maré.
+
+[13:36] Custou mais de 500 milhões de reais na época.
+
+[13:41] 11 anos depois, o Complexo da Maré continua dominado pelas mesmas facções.
+
+[13:47] Então, o que eu pergunto ao senhor é o que o senhor faria de diferente?
+
+[13:52] E claro que, para o eleitor, é muito importante saber também se existe viabilidade econômica, financeira.
+
+[14:00] Quanto é que custaria fazer isso se não deu certo no Rio, no Brasil todo, como o senhor promete,
+
+[14:03] em um ano, recuperar todas as áreas dominadas por facções?
+
+[14:09] De maneira muito clara, como eu falei, se você não altera a legislação penal e a lei de execuções penais,
+
+[14:12] de nada de anta fazer a prisão de um traficante que vai ser solto logo depois.
+
+[14:17] Não há, hoje, meios de você manter uma pessoa que comete um crime sendo membro de uma facção
+
+[14:19] presa por tanto tempo.
+
+[14:20] A mudança da legislação é essencial.
+
+[14:26] A legislação que eu chamo de direito penal do inimigo, e isso explicando para quem está nos ouvindo, é uma legislação que trata
+
+[14:31] uma pessoa que é diferente de um cidadão comum, ou seja, um traficante, um membro de uma facção, como um ente anômalo.
+
+[14:37] Ou seja, a legislação vai ser muito dura, o direito vai ser mais rápido com ele, nós vamos poder atingir ele de maneira mais veloz,
+
+[14:43] ou seja, o Estado vai poder montar operações, a tutela antecipada das operações vai acontecer.
+
+[14:48] Ou seja, o Estado é muito veloz, e o uso da velocidade, que é a ideia de direito de terceira velocidade,
+
+[14:54] o uso dessa velocidade para buscar o inimigo, o uso de operações mais velozes, o uso de penas maiores,
+
+[15:00] a construção de mais presídios, e isso vai permitir que, depois da ocupação, a facção seja destruída,
+
+[15:01] que é o que precisamos fazer.
+
+[15:03] A facção precisa ser...
+
+[15:05] Sobre essas leis mais duras, mas é sobre isso que o senhor...
+
+[15:08] É que, Renata, eu não tenho que terminar esse ponto dele, porque senão eu não vou terminar o argumento.
+
+[15:09] Eu tenho uma pergunta para fazer sobre esse argumento.
+
+[15:11] Ele perguntou a questão financeira.
+
+[15:17] Então, primeiro é, é óbvio que dá para você fazer a recuperação territorial, e é óbvio que o Estado não pode permitir
+
+[15:18] o retorno das facções.
+
+[15:19] E, dois, não há outro meio além de reocupar o território.
+
+[15:22] Ou seja, você vai ter que aceitar que você vai fazer a guerra.
+
+[15:29] Senão a gente vai ficar aceitando que vão vir aqui perto da Globo, não sei se foi aqui, foi no Jardim Botânico, o pessoal vai ficar jogando bomba ali na frente,
+
+[15:31] como aconteceu essa semana.
+
+[15:34] A gente não vai poder ficar aceitando que o crime organizado tem, nos bairros e favelas, fortalezas.
+
+[15:36] A guerra é uma necessidade.
+
+[15:40] O que altera do que aconteceu nesses exemplos que você deu, que são bons exemplos,
+
+[15:43] é haverá uma nova legislação especial tratando o membro da facção como um ente anônomo.
+
+[15:46] Quanto custaria?
+
+[15:47] Foi a pergunta do Trale.
+
+[15:48] Quanto custaria?
+
+[15:48] Vou dar um exemplo só na parte de presídio.
+
+[15:50] Quanto custaria?
+
+[15:55] Só na parte de presídio, 6 bilhões de reais nós precisamos fazer para abrir vagas, para construir 10 presídios,
+
+[15:57] cada um de 30 a 40 mil vagas.
+
+[16:00] Esse processo precisa se iniciar desde já.
+
+[16:07] Uma operação dessas, para você tocar no estado do Rio de Janeiro, coisa de 5 bilhões estimado por ano,
+
+[16:12] numa operação, só para você sustentar não só a base militar, e depois a operação das polícias.
+
+[16:16] E depois as operações não vão ser demoradas, as operações precisam ser rápidas.
+
+[16:20] Primeiro você faz a ocupação junto com as forças policiais, e não serão forças militares com o Exército.
+
+[16:23] O Exército vai servir como força auxiliar.
+
+[16:25] Quem vai organizar as operações são as forças policiais.
+
+[16:29] São forças policiais.
+
+[16:30] O Exército atua de maneira auxiliar.
+
+[16:36] E o grande custo que você tem nessas operações é o custo ligado à atividade dos militares, das Forças Armadas,
+
+[16:37] que são custosos.
+
+[16:40] O nosso modelo, que está descrito no nosso livro, ele utiliza e empodera as forças policiais.
+
+[16:45] Inclusive, ele não precisa, em diversos estados, entrar com um estado de defesa.
+
+[16:46] Vou dar um exemplo.
+
+[16:51] Sobre isso, antes do seu exemplo, eu gostaria de entender que o senhor falou em penas mais duras, porque durante a sua pré-campanha,
+
+[16:57] o senhor exaltou e disse que se inspirava na política do presidente de El Salvador, Naebi Bukele.
+
+[17:00] O governo dele reduziu os índices de criminalidade, mas usando medidas de exceção.
+
+[17:05] Recentemente, o senhor passou a dizer eu não sou Bukele, mas manteve pontos centrais da política dele,
+
+[17:11] como, por exemplo, o fim da prosunção da inocência para pessoas que foram classificadas como inimigas da nação.
+
+[17:14] Quem é que vai definir quem é um inimigo da nação?
+
+[17:22] E como é que o senhor garantiria que não haveria arbitrariedades na classificação de uma pessoa que é inimiga da nação?
+
+[17:24] Renata, isso já acontece hoje.
+
+[17:30] Quando há uma investigação tocada por uma polícia ou um Ministério Público que demonstra que há uma formação de quadrilha,
+
+[17:39] que demonstra que há membros de uma facção como o PCC tocando uma operação na Baixada Santista, a autoridade policial determina isso.
+
+[17:43] Isso é uma determinação que já é feita, isso já é bem tradicional.
+
+[17:47] Prisões sem mandato, tortura e desaparecimentos, violação do devido processo legal.
+
+[17:49] Eu vou fazer tortura?
+
+[17:50] Prisões arbitrárias.
+
+[17:52] Estou perguntando ao senhor.
+
+[17:53] Não.
+
+[17:53] Essas são as políticas do Bukele.
+
+[17:56] Eu gostaria de saber qual tortura.
+
+[17:59] Você poderia demonstrar o caso, porque eu não tenho...
+
+[18:01] Ele suspendeu direitos, promoveu detenções arbitrárias.
+
+[18:04] Vamos fazer então, Renata, para a gente ser preciso.
+
+[18:07] Me dá o exemplo um a um que eu digo se eu vou fazer ou se ele mesmo fez.
+
+[18:11] Não, são denúncias graves de violações lá em El Salvador.
+
+[18:15] Eu tenho que saber qual foi a denúncia, porque eu acompanho o caso de El Salvador.
+
+[18:19] Suspensão de direitos, por exemplo, como a presunção da inocência, que o senhor acabou de dizer.
+
+[18:21] Sim.
+
+[18:22] E quem classificaria quem é o inimigo da nossa...
+
+[18:24] As autoridades policiais...
+
+[18:25] Vou dar um exemplo.
+
+[18:27] Agora passou uma legislação que trata membros de facções criminosas.
+
+[18:29] Autoridade policial.
+
+[18:33] As autoridades policiais, o Ministério Público, a Polícia Federal,
+
+[18:34] o processo investigativo.
+
+[18:36] E como evitar arbitrariedades na classificação?
+
+[18:37] O devido processo legal.
+
+[18:39] O devido processo legal existe para isso.
+
+[18:42] Mas, Renata, eu estou surpreso, porque isso já acontece hoje.
+
+[18:46] Hoje existem investigações que determinam que uma pessoa é membro de uma facção
+
+[18:48] ou há uma influência chamada Deolani.
+
+[18:52] Descobriram que a Deolani ela era não apenas uma influenciadora,
+
+[18:52] mas uma advogada ligada ao PCC.
+
+[18:56] Ora, a investigação pegou ela, ela foi presa.
+
+[18:58] Isso é o básico, isso já existe.
+
+[18:59] Candidato, não há nenhuma novidade.
+
+[19:00] Declarações do senhor.
+
+[19:04] Mas é que esses pontos sobre El Salvador, muitos elementos
+
+[19:07] que foram adotados em El Salvador, e de maneira muito similar vão ser adotados por mim.
+
+[19:08] Por exemplo?
+
+[19:10] Lista.
+
+[19:14] Eu vou dar um exemplo a ideia de enfrentamento usando um regime especial,
+
+[19:18] aqui o Estado de Defesa, em áreas dominadas pelo crime, eu vou adotar.
+
+[19:20] Vai ter um regime de exceção em favelas para eu retomar a favela.
+
+[19:23] Julgamento coletivo de réus, centenas de réus.
+
+[19:24] Prisões baseadas em denúncia anônima.
+
+[19:27] O Brasil hoje existe prisão baseada em denúncia anônima.
+
+[19:28] Eu disse que denúncia existe.
+
+[19:30] A questão é, não só em denúncia anônima.
+
+[19:33] Julgamento coletivo de centenas de réus.
+
+[19:35] Vou dar um exemplo.
+
+[19:35] Vou dar um exemplo.
+
+[19:36] Denúncia anônima.
+
+[19:39] Hoje, se você fizer uma denúncia anônima de que uma pessoa
+
+[19:42] é membro de uma facção e há um processo de investigação que leve esse investigado
+
+[19:45] à cadeia porque encontraram outras provas, é tudo normal.
+
+[19:46] Isso existe na legislação brasileira.
+
+[19:47] Isso não é novidade.
+
+[19:49] Julgamento coletivo de centenas de réus.
+
+[19:50] É um caso...
+
+[19:50] Você conhece esse caso?
+
+[19:52] É o Salvador.
+
+[19:53] É um caso...
+
+[19:53] Eu vou te narrar o caso.
+
+[19:57] É um caso de 456 pessoas, lideranças de um movimento chamado MS-13,
+
+[20:02] que é basicamente a principal facção de El Salvador, em que eles foram julgados
+
+[20:06] num modelo similar ao de Nuremberg pelo assassinato de 29 mil pessoas.
+
+[20:10] Ou seja, eles foram corresponsabilizados pela cadeia de comando
+
+[20:12] num modelo muito similar ao julgamento de Nuremberg.
+
+[20:16] Creio que todos aqui que rejeitam o Holocausto creiam que o julgamento
+
+[20:17] de Nuremberg foi um julgamento correto.
+
+[20:18] Turturas e desaparecimentos?
+
+[20:20] Não.
+
+[20:21] Não conheço as torturas e desaparecimentos que você está falando, Renata.
+
+[20:24] Eu acho que isso aí é um clichê que a mídia internacional
+
+[20:24] fala sobre o caso.
+
+[20:29] Candidato, em relação a declarações em relação a declarações do senhor.
+
+[20:30] Por favor.
+
+[20:32] É que eu preciso comentar o ponto dela.
+
+[20:34] Tortura e desaparecimento acontece todos os dias no Brasil.
+
+[20:37] O crime organizado está torturando e matando as pessoas diariamente.
+
+[20:40] Além das mortes na casa das 40 mil pessoas que acontecem todos os anos,
+
+[20:42] desaparecem outros milhares.
+
+[20:44] São corpos que não são encontrados.
+
+[20:45] Não era para institucionalizar isso, né?
+
+[20:47] Esse é o problema.
+
+[20:48] Já está institucionalizado.
+
+[20:53] Se você vai numa favela em que não há Estado democrático de direito, em que as pessoas
+
+[20:57] não dispõem de guia e direito, as pessoas precisam ser libertas e elas podem ser torturadas
+
+[20:58] nesses lugares.
+
+[20:59] Cabe ao Estado recuperar essas áreas.
+
+[21:02] São todas denúncias que vieram de famílias de El Salvador.
+
+[21:05] São denúncias levantadas pelo jornalismo profissional fazendo reportagens
+
+[21:08] em El Salvador e até mesmo por parte de entidades
+
+[21:12] independentes que fiscalizam segurança pública
+
+[21:13] também em El Salvador.
+
+[21:17] Então, só para a gente seguir aqui, por favor, declarações do senhor.
+
+[21:20] Matar quem roubar e fazer um banho de sangue.
+
+[21:24] O senhor diz que o senhor não é o Bukele.
+
+[21:26] Mas então, por que o senhor mantém esse tom
+
+[21:28] defendido pelo Naí Bukele?
+
+[21:33] Na última segunda-feira, um rapaz
+
+[21:35] chamado Eduardo lá em São Paulo, ele viu sua namorada
+
+[21:38] sendo assaltada no meio da rua, aparece o bandido,
+
+[21:39] ele tenta evitar o assalto.
+
+[21:42] O bandido olha para o Eduardo, puxa a arma,
+
+[21:44] tum, dá um tiro na cabeça do Eduardo.
+
+[21:46] A cabeça do Eduardo explode e o sangue
+
+[21:47] vaza na rua.
+
+[21:49] Houve um banho de sangue na segunda-feira de um inocente.
+
+[21:53] Eu acho que o sangue que tem que jorrar não é dele,
+
+[21:54] o sangue que tem que jorrar é do bandido.
+
+[21:56] Eu acho que as pessoas no Brasil, e eu rodeio o Brasil
+
+[22:00] a pé e de carro nos últimos meses todos, as pessoas no Brasil
+
+[22:03] estão implorando para que a gente faça justiça contra essas figuras
+
+[22:05] terríveis, esses demônios que estão matando a gente.
+
+[22:07] E cabe ao presidente da república liderar as pessoas
+
+[22:08] nessa guerra.
+
+[22:10] Os brasileiros morrem como se fosse bicho.
+
+[22:13] Ninguém liga, ninguém sabe o nome.
+
+[22:15] A maior parte são meninos, em geral, negros,
+
+[22:17] que morrem nas favelas e nas cidades mais pobres.
+
+[22:19] Pessoas são vítimas de latrocínio diariamente.
+
+[22:22] Desde que a gente começou esse programa, no mínimo,
+
+[22:24] uma pessoa já foi assassinada e, em geral, vítima dessas facções criminosas.
+
+[22:27] Agora, candidato, eu gostaria de abordar também um tema importante.
+
+[22:27] Eu não respondo o César ainda.
+
+[22:29] Deixa eu só terminar.
+
+[22:30] Por favor, Renata.
+
+[22:31] Para que a gente possa abordar vários temas.
+
+[22:32] Eu também quero.
+
+[22:34] Eu falo rápido justamente para ajudar a abordar.
+
+[22:36] Falo do banho de sangue.
+
+[22:39] Pode não ser a palavra mais bonita para a pessoa
+
+[22:41] que está assistindo em casa, mas é a única coisa que eu posso fazer
+
+[22:42] como resposta para alguém que está com uma arma apontada
+
+[22:43] para uma pessoa.
+
+[22:45] Uma pessoa que aponta uma arma para você no meio da rua
+
+[22:48] para te cometer um assalto é a pessoa que pode matar você por latrocínio.
+
+[22:50] Ela se torna juiz da tua vida.
+
+[22:52] Ela se torna juiz dos teus sonhos.
+
+[22:53] Ela se torna juiz do teu futuro.
+
+[22:55] Ela não tem o direito de se comportar como juiz da tua vida.
+
+[22:57] Se um policial estiver na tua frente, e por isso que um slogan
+
+[23:00] de maneira automática surgiu o meu respeito na internet,
+
+[23:03] que era prender ou matou, se um policial estiver ali na frente,
+
+[23:04] ele tem que atirar para matar nessa pessoa.
+
+[23:08] E eu falo isso porque eu sou um pacifista, nem sei atirar.
+
+[23:10] E esse tema nem foi central para mim.
+
+[23:12] Agora, eu já tive minha mãe alvo de sequestro relâmpago.
+
+[23:15] Todo mundo já no Brasil passou por uma experiência traumática.
+
+[23:17] Todo mundo sabe que tem um bandido com a arma na cabeça
+
+[23:18] de um parente seu.
+
+[23:20] A gente não pode aceitar mais ser refém dessas pessoas.
+
+[23:23] E o povo brasileiro está pedindo uma guerra.
+
+[23:24] É uma guerra o brasileiro quer.
+
+[23:28] Em 2022, o senhor e um dos principais nomes do seu partido,
+
+[23:32] o Missão, um aliado seu e amigo Arthur Duval,
+
+[23:35] estiveram juntos na Ucrânia e vieram a público áudios em que Duval
+
+[23:38] fez declarações machistas sobre mulheres ucranianas.
+
+[23:42] Ele disse o seguinte, abre aspas, elas são fáceis
+
+[23:43] porque são pobres.
+
+[23:47] Essas falas tiveram uma forte repercussão, levaram até a perda
+
+[23:49] do mandato, a cassação do mandato dele.
+
+[23:53] E numa live no dia 9 de março de 22, o senhor disse
+
+[23:55] que estava ao lado dele quando ele fez essas declarações.
+
+[23:57] Gostaria de saber como é que o senhor avalia elas hoje.
+
+[23:58] Foram declarações ruins.
+
+[24:00] Vamos contextualizar.
+
+[24:02] Eu não ouvi ele quando ele emitiu o áudio.
+
+[24:06] Eu vi que ele estava fazendo um áudio ali com o celular na mão.
+
+[24:06] gostaria de ter evitado.
+
+[24:10] O áudio que ele mandou em defesa dele foi um áudio
+
+[24:12] em um ambiente privado com amigos dele.
+
+[24:14] Não era nem dentro do nosso grupo político.
+
+[24:17] E esse áudio vazou e após vazar ele sofreu as consequências
+
+[24:18] políticas dele.
+
+[24:19] O áudio é muito ruim.
+
+[24:22] se a pessoa ouve o áudio a pessoa realmente qualquer mulher
+
+[24:24] ou homem mesmo fica esse áudio não é adequado.
+
+[24:28] Dito isso foi um áudio privado no ambiente privado
+
+[24:28] e ele perdeu o mandato dele.
+
+[24:31] Ele sendo um deputado estadual muito combativo
+
+[24:33] na Lespe não por conta do áudio em si.
+
+[24:36] Ele perdeu o mandato porque ele era basicamente de oposição
+
+[24:40] ao grupo político dominante na Assembleia Legislativa de São Paulo.
+
+[24:42] Dito isso não foi um bom áudio de maneira alguma.
+
+[24:46] candidato 92% dos filiados do seu partido
+
+[24:49] são homens muito acima da média
+
+[24:50] dos outros partidos.
+
+[24:54] Episódios como esse que a Renata relatou aqui envolvendo o senhor
+
+[24:58] o Arthur Duval não afastam as mulheres do seu partido
+
+[24:59] ou missão?
+
+[25:00] De maneira alguma.
+
+[25:03] Em 2022 o ano que aconteceu Por que então
+
+[25:03] 92% de homens?
+
+[25:06] Vou te contar uma história que o Brasil
+
+[25:07] precisa saber uma história muito triste.
+
+[25:11] O ano que aconteceu isso com o Arthur foi o ano que a gente tinha
+
+[25:12] na nossa academia de formação um mau número de mulheres
+
+[25:13] a proporção era 60 a 40.
+
+[25:18] No ano seguinte às vésperas da eleição para vereador
+
+[25:21] e prefeito em São Paulo a nossa candidata principal Amanda Vettorazo
+
+[25:23] que hoje é coordenadora da minha campanha ela foi
+
+[25:26] isso está na imprensa isso é uma historinha que eu estou contando
+
+[25:29] ela foi primeiro alvo de uma série de ataques de um stalker
+
+[25:32] que perseguiu ela hoje o stalker está preso ela teve o seu endereço
+
+[25:36] revelado pessoas picharam a casa dela um movimento de esquerda
+
+[25:38] que se diz inclusive defensores das mulheres e depois
+
+[25:41] a mãe dela e a tia e a avó dela foram sequestradas
+
+[25:45] meses depois vários deepfakes montagens foram feitas
+
+[25:49] dela pelada e toda sorte de ataque envolvendo a intimidade
+
+[25:52] dela foram feitas o número de moças que atuam politicamente
+
+[25:55] com a gente depois de casos como esse e outros casos
+
+[25:58] acontecem com lideranças nossas eles se repetem e se repetem
+
+[26:00] e se repetem só que eles costumam ser mais silenciados
+
+[26:02] pela mídia do que casos que acontecem no outro bloco
+
+[26:05] que é a esquerda mas o seu plano de governo por exemplo
+
+[26:07] não trata do combate ao feminicídio também não apresenta
+
+[26:10] políticas específicas sobre homicídios de crianças
+
+[26:14] violência sexual infantil e abuso só para informar
+
+[26:17] o telespectador os números do fórum brasileiro de segurança pública
+
+[26:22] mostram que só no ano passado mais de 1500 mulheres foram vítimas
+
+[26:24] de feminicídio no Brasil mais de 2000
+
+[26:28] crianças e jovens foram mortas vítimas da violência
+
+[26:31] o senhor não incluiu políticas específicas para enfrentar
+
+[26:33] esses problemas por quê?
+
+[26:36] posso terminar o Sérgio vou entrar pergunta correlacionada
+
+[26:41] boa a questão dessas mulheres não é
+
+[26:43] das mulheres não entrarem no partido é porque é um medo
+
+[26:46] generalizado nós elegemos uma vereadora e eu preciso trazer
+
+[26:47] esse caso para o Brasil aqui é um palco privilegiado
+
+[26:50] para trazer há uma vereadora nossa eleita
+
+[26:51] na cidade de Chapada Gaúcha chamada Luana
+
+[26:54] essa moça foi alvo da mesma natureza de ataques da Amanda
+
+[26:58] a Câmara dos Vereadores da cidade se reuniu e estão caçando ela
+
+[27:02] por absolutamente nada a violência política de gênero
+
+[27:05] que acontece contra pessoas não só do nosso grupo político mas em geral da direita
+
+[27:08] é muito maior do que imagino mas a gente fez um levantamento nos sete maiores partidos brasileiros
+
+[27:12] 46% de filiados são mulheres pois é
+
+[27:15] no Missão 8% mas o Missão
+
+[27:17] é um partido novo e o Missão é um partido marcado por esse tipo
+
+[27:21] de perseguição às mulheres a Amanda Vitorazo passou por uma perseguição
+
+[27:24] que eu não conheço nenhum outro grupo político que tem uma mulher
+
+[27:28] que passa por perseguição similar a perseguição que ela passa é gigantesca
+
+[27:30] as meninas que fazem parte da nossa academia de formação tem medo de ser candidata
+
+[27:33] medo medo de filiar políticas específicas
+
+[27:36] sobre feminicídio e sobre também a violência contra as crianças
+
+[27:39] eu só vou chegar nesse ponto porque uma coisa não está correlacionada a outra
+
+[27:42] eu vou deixar isso primeiro bem claro segunda coisa
+
+[27:44] não há como eu te disse nem políticas específicas
+
+[27:47] do nosso livro sobre homicídio homicídio como um todo
+
+[27:50] sobre latrocínio que é o tema que eu mais falo porque a nossa política
+
+[27:52] de segurança que está descrito no nosso livro de propostas
+
+[27:55] ela é focada acima de tudo no combate
+
+[27:58] ao crime organizado a guerra ao crime organizado que nós debatemos bastante
+
+[28:01] aqui no começo do programa a guerra ao crime organizado ela pressupõe uma ação
+
+[28:05] do governo federal alteração nas leis penais alteração nas leis de execução penal
+
+[28:08] que vão pegar de maneira extensiva também
+
+[28:10] crimes que acontecem contra mulheres crianças
+
+[28:14] o ponto que é muito importante é a formulação
+
+[28:17] de políticas públicas efetivas no combate feminicídio
+
+[28:20] violência contra criança e é uma correlação direta o mesmo homem
+
+[28:23] que costuma ser abusivo com a sua esposa ou namorada
+
+[28:26] costuma ser abusivo também com seus filhos e o combate a isso
+
+[28:29] exige medidas específicas exige medidas que são adotadas
+
+[28:32] majoritariamente por municípios e estados porque nós respeitamos
+
+[28:36] o princípio federativo um exemplo que nós respeitamos o princípio federativo
+
+[28:39] é houve uma votação recentemente em que o governo Lula
+
+[28:41] queria avocar para o governo federal mais poderes
+
+[28:43] sobre a formulação de políticas públicas de segurança
+
+[28:46] nos estados e nós votamos contra porque quem tem que fazer
+
+[28:48] a formulação das políticas públicas e das ações
+
+[28:52] sobre feminicídio e violência contra crianças e violência como um todo
+
+[28:55] são os estados e de maneira subsidiar os municípios
+
+[28:59] eu vou eu vou seguir aqui porque esse tema
+
+[29:01] é bastante importante o nosso plano de governo é um plano articulado
+
+[29:03] ele não foi escrito para o marqueteiro porque se eu quiser escrever
+
+[29:05] um plano de governo para o marqueteiro eu botava todos esses casos
+
+[29:09] para ilustrar de maneira marquetável olha esse problema está aqui
+
+[29:11] esse problema está aqui eu vendia não
+
+[29:14] eu não vou fazer isso porque o nosso plano contém
+
+[29:17] quando a gente segue ele mais para a terceira parte dele que é a parte da lei
+
+[29:20] de responsabilidade gerencial que é o meu grande legado para o Brasil
+
+[29:23] ele estabelece a seguinte regra prefeitos e depois governadores
+
+[29:28] receberão mais recursos desde que eles batam metas dentre as metas de desempenho
+
+[29:31] que incluem saúde fornecimento de água
+
+[29:34] desempenho no IDEB desempenho no SAEB estão rankings ligados
+
+[29:37] a segurança diminuição do número de violência contra a mulher
+
+[29:40] então na casa 250 mil todos os anos isso só os reportados
+
+[29:44] casos de homicídio casos de latrocínio roubos e furtos
+
+[29:48] esses indicadores que vão ser montados pelo governo federal
+
+[29:51] e que vão servir para você fiscalizar a atuação dos municípios
+
+[29:54] eles vão basilar a formulação de políticas públicas
+
+[29:55] dos municípios por exemplo São Paulo
+
+[29:57] tem uma das São Paulo capital a cidade
+
+[30:00] tem uma das melhores políticas de enfrentamento a feminicídio
+
+[30:03] e violência contra a mulher a Patrulha Maria da Penha em São Paulo
+
+[30:05] está funcionando e quem está dentro do regime
+
+[30:09] da Patrulha Maria da Penha não enfrentou nenhum caso de feminicídio
+
+[30:12] mas a gente está falando de políticas federais mas o Traile tem uma
+
+[30:15] pergunta sobre um tema importante desculpa
+
+[30:18] esse tema é muito importante a principal política federal ela vai surgir baseada
+
+[30:22] em quem está executando a política pública na ponta que em geral é o município
+
+[30:25] ou o estado porque não é o governo federal que tem o poder de polícia
+
+[30:28] para executar isso se tem um marido que está batendo
+
+[30:30] na sua esposa não é o governo federal que vai colocar alguém
+
+[30:33] dentro da casa dele em geral quem está mais próximo é uma patrulha
+
+[30:36] envolvendo uma guarda municipal numa cidade grande ou uma patrulha rural
+
+[30:40] numa cidade distante eu falo isso com preocupação porque esse tema
+
+[30:42] é central para a gente minha irmã quase morreu por feminicídio na França
+
+[30:45] minha irmã foi alvo de uma tentativa assim de 18 B.O.s
+
+[30:49] que ela fez contra um marido agressor a lei francesa
+
+[30:52] ela é completamente vazia a prefeitura de Paris não fez nada
+
+[30:54] minha irmã teve que vir com a filha dela para o Brasil esse assunto é central
+
+[30:57] aqui em São Paulo e isso é a coisa eu estou falando aqui
+
+[31:00] tem um outro assunto central importante
+
+[31:04] aqui por favor para a gente poder dar continuidade
+
+[31:05] na entrevista eu considero esse tema fundamental
+
+[31:09] o senhor já declarou que se eleito vai descumprir decisões
+
+[31:12] do Supremo Tribunal Federal que o senhor considera ilegais
+
+[31:17] um presidente da república assim como qualquer cidadão se discordar de uma decisão
+
+[31:21] pode recorrer exatamente a justiça
+
+[31:24] então eu pergunto ao senhor o seguinte se como presidente
+
+[31:28] o senhor passar a decidir o que é que o senhor
+
+[31:30] vai respeitar da justiça o que é que o senhor vai ignorar
+
+[31:33] descumprir não aceitar quem é que
+
+[31:37] determinaria os limites do senhor a lei
+
+[31:40] César Trale há uma decisão do STF
+
+[31:43] que diz o seguinte decisão ilegal não se cumpre
+
+[31:45] é uma decisão do STF inclusive
+
+[31:47] não estou nem falando da própria constituição César
+
+[31:52] recentemente o Alexandre de Moraes numa decisão
+
+[31:55] que eu atribuo como grotesca violou
+
+[31:58] uma cláusula pétrea da constituição quebrando o sigilo
+
+[32:00] de fonte de jornalistas lá no Maranhão
+
+[32:03] ele fez isso agora jornalistas do Brasil inteiro
+
+[32:05] protestaram porque não existe democracia
+
+[32:08] sem sigilo de fonte não há como ter imagina se revela
+
+[32:12] um sigilo de fonte aqui da Rede Globo quantas investigações
+
+[32:15] quantas matérias fundamentais para manutenção democracia
+
+[32:17] não tenham caído ele derrubou o sigilo de fonte
+
+[32:20] isso é cláusula pétrea só para quem está entendendo sigilo de fonte
+
+[32:23] tem o mesmo status quanto por exemplo pena de morte
+
+[32:25] então na mesma linha o Alexandre de Moraes podia por decreto
+
+[32:29] por um ali da cabeça dele mandar
+
+[32:31] por favor se execute fulano de tal por descumprimento
+
+[32:34] de uma regra tem o mesmo peso de eliminar o sigilo de fonte
+
+[32:37] não se deveria por parte das autoridades cumprir uma decisão
+
+[32:40] grotesca que breca que quebra
+
+[32:43] basicamente um princípio constitucional basilar não é que eu vou
+
+[32:46] eu preciso contextualizar não é que eu falei que vou sair desrespeitando
+
+[32:50] todas as decisões do STF que isso é absurdo o que eu avisei
+
+[32:52] num podcast e depois eu repeti lá na Globo News
+
+[32:54] numa ótima entrevista com a Natuza foi o seguinte
+
+[32:58] uma decisão num caso específico como por exemplo
+
+[33:01] eu estou fazendo uma operação para libertar a população de uma favela
+
+[33:04] aqui no Rio de Janeiro aí no meio dessa operação quando a própria população
+
+[33:07] está denunciando casos de violência que aconteceu contra elas
+
+[33:10] vem uma decisão monocrática do STF absolutamente legal
+
+[33:14] dado que eu estarei cumprindo o devido processo legislativo devido processo legal
+
+[33:17] naquela operação e aí eles mandam pera pera
+
+[33:19] mas candidato por favor se nós
+
+[33:21] se eu não te der esse exemplo eu não vou conseguir um senador
+
+[33:24] um prefeito um governador poderiam fazer a mesma coisa
+
+[33:29] ou isso seria uma prerrogativa só do senhor caso eleito
+
+[33:31] presidente da república não poderiam poderiam fazer
+
+[33:34] porque decisão na verdade qualquer cidadão diante de uma decisão ilegal
+
+[33:38] ele pode não cumprir na verdade ele tem um dever de não cumprir
+
+[33:40] decisão ilegal não se cumpre decisão ilegal
+
+[33:43] não se cumpre se você cumpre vier com uma decisão ilegal
+
+[33:46] que faça as pessoas correm um risco muito grande você não pode cumprir
+
+[33:50] uma decisão ilegal pode acabar com a vida de uma pessoa
+
+[33:52] o exemplo que eu estava dando foi num podcast do Rodrigo Pimentel
+
+[33:54] aqui no Rio de Janeiro foi se eu estou no meio
+
+[33:57] de uma operação policial e vem uma decisão monocrática e eu cumpri todos os ritos formais
+
+[34:01] previstos na nossa constituição e que são basilares para a nossa democracia
+
+[34:04] se vem uma decisão monocrática falando não
+
+[34:07] pare tudo e isso vai colocar em risco a vida dos moradores
+
+[34:09] daquela favela eu não vou cumprir mas não é que eu vou cumprir
+
+[34:13] da minha cabeça porque eu sou apenas eu eu vou via AGU
+
+[34:16] a advocacia da Geraldo Anião vou pedir um parecer olha
+
+[34:19] é uma decisão ilegal ok eu não vou cumprir e vou por favor
+
+[34:22] recorrer ao STF só que o cumprimento disso pode eventualmente
+
+[34:25] gerar perdas e morte para muitas pessoas eu não vou colocar
+
+[34:27] a vida das pessoas em risco candidato nós vamos agora
+
+[34:30] fazer um rápido intervalo e daqui a pouco voltamos com outros temas
+
+[34:33] nessa entrevista com o candidato à presidência da república
+
+[34:37] Renan Santos do partido Missão a gente volta já já
+
+[34:50] estamos de volta com a entrevista com o candidato
+
+[34:53] Renan Santos candidato eu gostaria de falar
+
+[34:56] sobre direito ao voto Orlando Lima um dos principais colaboradores
+
+[35:00] do seu plano de governo disse o seguinte eu peço licença
+
+[35:04] aqui para abrir aspas pessoas que não tem propriedade que recebem auxílio do governo
+
+[35:07] essas pessoas tinham que ter apenas os direitos básicos
+
+[35:10] você não teria direito por exemplo ao voto
+
+[35:13] o senhor concorda com essa ideia se eleito
+
+[35:15] o senhor promoveria alguma medida para restringir o direito
+
+[35:18] a voto do cidadão não
+
+[35:22] isso é a opinião dele eu nem sabia da opinião mas se ele falou isso
+
+[35:24] é a opinião dele e por que Orlando Lima tem uma participação
+
+[35:28] tão destacada no seu programa de governo porque ele é um grande pesquisador
+
+[35:33] mesmo com declarações como essa sugerindo restrição
+
+[35:36] ao direito ao voto do cidadão
+
+[35:38] a pessoa pode dar uma declaração infeliz e fazer uma pesquisa
+
+[35:41] sobre história brilhante eu conheço grandes
+
+[35:43] pesquisadores grandes jornalistas que às vezes
+
+[35:46] dão declarações ruins o planejamento do livro amarelo
+
+[35:49] surgiu sobretudo pelas ideias de colaboradores
+
+[35:53] como Orlando Silva foram mais de 200 colaboradores Orlando Lima
+
+[35:55] Orlando Lima perdão Orlando Silva
+
+[35:57] do PCdoB Orlando Lima foram mais de 200 pessoas
+
+[36:00] que trabalharam na elaboração do livro são pesquisadores
+
+[36:03] ao redor do Brasil inclusive de fora do Brasil que participaram
+
+[36:05] desse projeto o Orlando é um deles
+
+[36:09] é um dos mais importantes mas isso não determina que uma declaração ruim dele
+
+[36:12] vai interferir nesse processo que é colaborativo nós temos como princípio
+
+[36:16] o Basilar a defesa do Estado Democrático de Direito
+
+[36:19] eu estudei na faculdade de Direito mais antiga do Brasil eu faço e pratico
+
+[36:22] democracia desde os meus 18 anos de idade quando eu comecei
+
+[36:25] eu montei meu primeiro partido acadêmico na faculdade de Direito da USP
+
+[36:28] no Largo São Francisco participei da elaboração da alteração do estatuto
+
+[36:33] do centro acadêmico criei o movimento Brasil Livre
+
+[36:35] lutei contra movimentos golpistas que haviam
+
+[36:38] nas manifestações pelo impeachment da Dilma gente que depois
+
+[36:41] já estava em 2022 participando de atos que vocês mesmos
+
+[36:43] cobriram bastante nós temos o nosso pendor democrático
+
+[36:46] sempre foi gigantesco o senhor respondeu a pergunta agora vamos falar de economia
+
+[36:49] porque a dívida pública a gente sabe está hoje em 82% do PIB
+
+[36:53] e se eleito o senhor promete cortar 1 trilhão
+
+[36:58] e 100 bilhões de reais para que percentual do PIB o senhor se compromete
+
+[37:01] a trazer essa dívida e como o senhor vai chegar até ela
+
+[37:04] claro a beleza do corte do corte de gastos
+
+[37:06] é porque a trajetória da dívida não necessariamente ela caia
+
+[37:10] mas ela se mantém estável existem nações ela está em trajetória de ar
+
+[37:12] exato mas as medidas que nós vamos adotar
+
+[37:14] no mínimo vão deixar ela estável como?
+
+[37:17] com corte de gastos e aumento de PIB existe uma relação
+
+[37:19] dívida PIB o PIB do Brasil está próximo dos 12 trilhões
+
+[37:24] a dívida próxima dos 10 trilhões hoje ela está acelerando velozmente
+
+[37:26] nós precisamos cortar a velocidade de aceleração dela
+
+[37:29] ela acelera através das indexações e vinculações
+
+[37:31] que são um tema muito complicado para eu explicar
+
+[37:33] para as pessoas aqui se eu tiver um minutinho talvez esse tema
+
+[37:35] é bem importante basicamente para quem está assistindo
+
+[37:37] as medidas que o Palmeiras e o Flamengo adotaram
+
+[37:41] para salvar esses times o Palmeiras aqui para o pessoal assistir
+
+[37:45] continuem na Globo assistindo tem que ser adotados pelo Brasil
+
+[37:47] para sobreviver quem não adotou as medidas
+
+[37:48] do São Paulo Corinthians e outros times
+
+[37:50] quebraram o Brasil está tomando as medidas
+
+[37:52] para administrar suas contas públicas igualzinho
+
+[37:54] a dos grandes times de futebol brasileiro que não fizeram ajuntes
+
+[37:57] como Vasco como São Paulo Corinthians
+
+[37:59] então o senhor propõe desindexar benefícios do salário
+
+[38:01] desindexar desvinculações do piso
+
+[38:03] da educação e da saúde até porque hoje
+
+[38:05] eles estão irracionais e estão quebrando pequenos municípios
+
+[38:08] tem municípios do interior do Rio Grande do Sul que a população envelheceu
+
+[38:12] não está nascendo gente então eles precisam de mais gasto com saúde
+
+[38:16] e menos gasto com educação as vinculações fazem que eles
+
+[38:18] sejam obrigados a gastar com educação mesmo quase não tendo
+
+[38:21] crianças novas lugares como Mato Grosso que tem migração interna
+
+[38:23] muito grande eles precisam de maiores gastos
+
+[38:25] em educação essa liberdade precisa ser gerada
+
+[38:28] hoje quando a liberdade não é gerada você tem basicamente
+
+[38:31] um gasto ineficiente pouco inteligente de dinheiro
+
+[38:32] esse é o problema da vinculação as indexações
+
+[38:38] as vinculações somadas a uma nova reforma da Previdência
+
+[38:41] e avisando você eu não sou estelionatário eleitoral como outros
+
+[38:43] candidatos que vão vir aqui e falar que não precisa vamos precisar fazer
+
+[38:45] outra reforma da Previdência senão vai quebrar e em três anos
+
+[38:49] você não tem aposentadoria eu vou deixar claro porque eu não sou
+
+[38:51] populista fiscal aqui um monte de gente vai ficar mentindo
+
+[38:54] que não vai precisar de fazer reforma e vai precisar fazer reforma
+
+[38:57] pois bem todas essas medidas vão evitar aceleração
+
+[39:00] e o resto é corte gastos que nós vamos fazer só que a beleza
+
+[39:02] dos cortes gastos é que eles serão vinculados aí sim a investimento
+
+[39:05] em infraestrutura que é uma coisa que o Brasil está precisando
+
+[39:07] para poder voltar a crescer candidato outro tema que está tendo
+
+[39:10] muito impacto hoje na vida das pessoas se chama meio ambiente
+
+[39:14] já tem muito tempo que o planeta vem enfrentando
+
+[39:17] efeitos de fenômenos climáticos extremos cientistas reforçando
+
+[39:21] o alerta cada vez mais para que as cidades se preparem
+
+[39:24] mitiguem façam investimentos em prevenção
+
+[39:28] preparem as populações salvem as pessoas de desastres climáticos
+
+[39:32] agora o programa do senhor não apresenta uma política estruturada
+
+[39:36] de adaptação a essas mudanças climáticas e nem de prevenção
+
+[39:40] a esses desastres que tem se repetido de forma muito espantosa
+
+[39:44] para todos nós por que que uma emergência dessa dimensão
+
+[39:48] não recebeu uma política específica no seu programa de governo
+
+[39:52] porque as políticas específicas já existem nos planos de não os planos
+
+[39:54] de governo mas nas metas de infraestrutura
+
+[39:56] de todos os estados e municípios que estão em regiões problemáticas
+
+[39:59] por exemplo o Rio Grande do Sul já tinha todas as manutenções
+
+[40:03] a serem feitas no seu sistema de comportas para evitar o que aconteceu
+
+[40:05] com aquelas chuvas todo mundo sabia o que precisava ser feito
+
+[40:07] em juízo de fora para evitar aquele deslize todo mundo sabia
+
+[40:10] o que precisava ser feito em Angra ou na Baixada Santista
+
+[40:13] ou no litoral de São Paulo para evitar os desastres que houveram
+
+[40:16] o problema é que não há dinheiro para investimento em infraestrutura
+
+[40:18] os planos inclusive já existem a coisa mais desesperadora
+
+[40:21] é os planos nos estados e municípios existem
+
+[40:22] não tem o dinheiro e por que não tem o dinheiro?
+
+[40:25] pela mesma pergunta muito bem feita pela Renata
+
+[40:28] porque não há capacidade do estado em reduzir seus gastos
+
+[40:31] obrigatórios reduzir despesas cortar mamata de político
+
+[40:35] cortar mamata do judiciário fazer reformas que vão ser impopulares
+
+[40:39] que vão fazer sobrar dinheiro e aí a gente investe na infraestrutura
+
+[40:42] então nós ouvimos vários especialistas consultamos também
+
+[40:46] o Observatório do Clima verificamos o seu plano de governo
+
+[40:49] o Observatório do Clima é uma entidade de referência no assunto
+
+[40:53] e na avaliação deles o programa ele não informa
+
+[40:56] quais são as regiões mais vulneráveis que medidas adotar
+
+[40:59] para proteger essas populações e também
+
+[41:02] quanto deveria ser investido porque eu volto a repetir
+
+[41:05] os planos já existem nos governos estaduais
+
+[41:08] e municipais eu vou repetir os planos já existem
+
+[41:11] existe um problema de dinheiro mas o senhor
+
+[41:14] se eleito presidente da república qual o papel
+
+[41:16] do governo federal na proteção das populações
+
+[41:19] em relação a essas tragédias dois
+
+[41:21] dois papéis o primeiro fazer sobrar dinheiro
+
+[41:24] para investimento em infraestrutura o governo
+
+[41:27] não tem dinheiro o governo não tem dinheiro
+
+[41:29] até vi ponte caindo no Maranhão o governo
+
+[41:31] não tem dinheiro para infraestrutura com nada
+
+[41:33] as coisas no Brasil estão colapsando por isso é importante
+
+[41:37] apontar prioridades mas essa é tão prioritária quanto uma estrada
+
+[41:40] no Maranhão para ligar uma produção de soja
+
+[41:42] até o porto de destino tudo é prioritário em infraestrutura
+
+[41:44] porque o Brasil pode até ter um apagão e onde é que o senhor
+
+[41:48] vai buscar esse dinheiro como eu repeti aqui para a Renata
+
+[41:51] nós precisamos fazer reformas que vão economizar nos próximos
+
+[41:53] cinco anos 1.1 trilhão com essas reformas
+
+[41:55] vai começar a sobrar dinheiro e os juros
+
+[41:57] vai baixar juros baixando mais licença e aumento
+
+[42:00] ambiental que passou investimento investimento vai significar
+
+[42:02] emprego aumento da competitividade e aí atender
+
+[42:04] esses problemas que são dramáticos e um outro tema
+
+[42:07] que é central que envolve vidas humanas o nosso plano nacional
+
+[42:10] de desfavelização desfavelizar o Brasil é salvar as populações
+
+[42:13] mais pobres quase todos os grandes desastres terminam
+
+[42:15] atingindo pessoas que moram em regiões de encosta
+
+[42:18] e regiões favelizadas um país que não se desfaveliza é um país que aceita
+
+[42:21] que as pessoas mais pobres são tratadas como animais eu vou desfavelizar o Brasil
+
+[42:24] e vai vir através desses cortes os cortes que eu estou propondo
+
+[42:28] são para muita gente impopulares e dolorosos quero ver o Lula
+
+[42:30] falar disso aqui amanhã gostaria de ver o Flávio falar disso
+
+[42:32] eu falo candidato chegou o momento
+
+[42:36] das suas considerações finais por favor meus queridos amigos
+
+[42:40] nós chegamos até aqui construindo uma campanha que conversou com o Brasil inteiro
+
+[42:44] eu rodeio o Brasil mais pobre eu rodeio o Brasil com o maior número
+
+[42:47] de dificuldades eu amo o nosso país e eu sei que o nosso país
+
+[42:49] nasceu para ser uma das maiores nações do mundo gostaria de construir um Brasil
+
+[42:53] que vai declarar guerra ao crime organizado que vai permitir que você
+
+[42:57] ande na rua de maneira segura que eu sei se você é mãe você sabe que a sua filha
+
+[43:00] corre risco ninguém se sente seguro a andar numa grande cidade brasileira
+
+[43:04] eu vou permitir que as favelas do Brasil se tornem bairros e que as pessoas que moram lá
+
+[43:08] se tornem cidadãos eu vou olhar para o Nordeste eu vou desenvolver o Nordeste
+
+[43:13] o Nordeste vai ter um futuro glorioso ele vai ser a nova locomotiva brasileira eu vou transformar esse país
+
+[43:18] num canteiro de obras gigantesco que vai fazer com que a nossa produtividade aumente como nunca antes
+
+[43:22] eu vou fazer com que você não mais sonhe em se mudar do Brasil para outro lugar
+
+[43:25] eu vou fazer com que o Brasil o Brasil das novas gerações o Brasil dos mais jovens
+
+[43:29] seja o país que a gente se orgulhe não por conta dos campeonatos de futebol música ou coisa que valha
+
+[43:35] mas sim por ser uma das maiores nações do mundo vamos sonhar esse sonho tem dois projetos de poder
+
+[43:38] do Lula e do Flávio Bolsonaro que não valem nada estão cansados
+
+[43:43] e eles rifaram o nosso futuro vamos acreditar que o futuro seja glorioso acredite em mudar o seu destino
+
+[43:47] eu estou aqui dando minha vida por isso eu espero que você cumpre também essa ideia
+
+[43:50] muito obrigado a todos muito obrigado Renato muito obrigado pela entrevista candidato
+
+[43:55] obrigada amanhã o nosso entrevistado é o candidato Luiz Inácio Lula da Silva
+
+[44:00] do PT uma boa noite para você e até amanhã
+
+[44:02] boa noite muito obrigado e até amanhã
+
+[44:16] e atam e atam
