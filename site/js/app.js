@@ -308,6 +308,44 @@
           </div>
         </div>
 
+        <details class="mt-8 card p-6 group">
+          <summary class="cursor-pointer select-none list-none flex items-center justify-between text-lg font-semibold">
+            <span>Por que usamos IA e não humanos?</span>
+            <svg class="h-5 w-5 text-muted-foreground transition-transform group-open:rotate-180" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg>
+          </summary>
+          <div class="mt-4 text-sm text-muted-foreground space-y-4">
+            <div class="p-3 rounded-md bg-muted/50">
+              <p><strong class="text-foreground">Nenhum ser humano é imparcial.</strong> A psicologia e a filosofia demonstram que a mente humana é moldada por vieses cognitivos inevitáveis — ninguém pensa a partir do "vazio".</p>
+            </div>
+
+            <div class="grid gap-4 sm:grid-cols-2">
+              <div>
+                <h4 class="font-medium text-foreground mb-2">Vieses cognitivos</h4>
+                <ul class="space-y-1 text-xs">
+                  <li><strong class="text-foreground">Confirmação:</strong> buscamos dados que defendam nossas crenças</li>
+                  <li><strong class="text-foreground">Motivado:</strong> avaliamos argumentos favoráveis com menos rigor</li>
+                  <li><strong class="text-foreground">Retrocesso:</strong> ao ser contradito, o eleitor se agarra mais à crença</li>
+                  <li><strong class="text-foreground">Halo:</strong> carisma é confundido com competência</li>
+                  <li><strong class="text-foreground">Grupo:</strong> "meu time contra o deles" substitui análise de propostas</li>
+                </ul>
+              </div>
+              <div>
+                <h4 class="font-medium text-foreground mb-2">Perspectivas filosóficas</h4>
+                <ul class="space-y-1 text-xs">
+                  <li><strong class="text-foreground">Nietzsche:</strong> não existem fatos puros, apenas interpretações</li>
+                  <li><strong class="text-foreground">Rawls:</strong> o "véu da ignorância" é impossível de atingir na prática</li>
+                  <li><strong class="text-foreground">Marx:</strong> posição social determina visão de mundo</li>
+                  <li><strong class="text-foreground">Falsa neutralidade:</strong> "não escolher" geralmente apoia o status quo</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="p-3 rounded-md bg-muted/50">
+              <p><strong class="text-foreground">Por isso usamos IA:</strong> um modelo de linguagem não tem voto, não tem candidato, não sente raiva nem esperança. Ele processa texto e compara com fontes oficiais. Não é perfeito — pode errar — mas é verificável, transparente e reproduzível. Qualquer pessoa pode baixar o prompt, os dados e testar com outra IA.</p>
+            </div>
+          </div>
+        </details>
+
         <div class="info-banner mt-6 rounded-lg border border-border bg-muted/30 px-4 py-3 text-sm text-muted-foreground">
           <button class="dismiss-btn" onclick="this.parentElement.style.display='none'" aria-label="Fechar">
             <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
