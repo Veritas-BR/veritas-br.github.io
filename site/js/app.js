@@ -135,7 +135,7 @@
 
   function shareClaim(claim, candidateName, candidateParty, candidateSlug) {
     const url = `${window.location.origin}${window.location.pathname}#/candidato/${candidateSlug}`;
-    const text = `"${claim.quote.slice(0, 100)}..." — ${candidateName} (${candidateParty}) | Veritas BR 2026`;
+    const text = `"${claim.quote.slice(0, 100)}..." | ${candidateName} (${candidateParty}) | Veritas BR 2026`;
 
     if (navigator.share) {
       navigator.share({ title: text, url: url }).catch(() => {});
@@ -228,7 +228,8 @@
         <div class="mb-10 text-center">
           <h1 class="text-3xl font-bold tracking-tight sm:text-4xl">Veritas BR 2026</h1>
           <p class="mt-2 text-lg text-muted-foreground">Contra fatos, não existem argumentos</p>
-          <p class="mt-1 text-sm text-muted-foreground">Verificação de fatos dos candidatos à Presidência — por IA</p>
+          <p class="mt-1 text-sm text-muted-foreground">Nenhum ser humano é imparcial</p>
+          <p class="mt-1 text-sm text-muted-foreground">Verificação de fatos dos candidatos à Presidência com IA</p>
         </div>
 
         <div class="grid grid-cols-3 sm:grid-cols-5 gap-3 sm:gap-4 mb-10">
@@ -315,7 +316,7 @@
           </summary>
           <div class="mt-4 text-sm text-muted-foreground space-y-4">
             <div class="p-3 rounded-md bg-muted/50">
-              <p><strong class="text-foreground">Nenhum ser humano é imparcial.</strong> A psicologia e a filosofia demonstram que a mente humana é moldada por vieses cognitivos inevitáveis — ninguém pensa a partir do "vazio".</p>
+              <p><strong class="text-foreground">Nenhum ser humano é imparcial.</strong> A psicologia e a filosofia demonstram que a mente humana é moldada por vieses cognitivos inevitáveis. Ninguém pensa a partir do "vazio".</p>
             </div>
 
             <div class="grid gap-4 sm:grid-cols-2">
@@ -341,7 +342,7 @@
             </div>
 
             <div class="p-3 rounded-md bg-muted/50">
-              <p><strong class="text-foreground">Por isso usamos IA:</strong> um modelo de linguagem não tem voto, não tem candidato, não sente raiva nem esperança. Ele processa texto e compara com fontes oficiais. Não é perfeito — pode errar — mas é verificável, transparente e reproduzível. Qualquer pessoa pode baixar o prompt, os dados e testar com outra IA.</p>
+              <p><strong class="text-foreground">Por isso usamos IA:</strong> um modelo de linguagem não tem voto, não tem candidato, não sente raiva nem esperança. Ele processa texto e compara com fontes oficiais. Não é perfeito, pode errar, mas é verificável, transparente e reproduzível. Qualquer pessoa pode baixar o prompt, os dados e testar com outra IA.</p>
             </div>
           </div>
         </details>
@@ -351,8 +352,8 @@
             <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
           </button>
           <p>${isEn
-            ? '<strong class="text-foreground">Notice:</strong> 100% AI-generated analysis. No human review. All data is open-source and verifiable. Not voter guidance — consult original sources.'
-            : '<strong class="text-foreground">Aviso:</strong> Análise 100% gerada por IA. Sem revisão humana. Dados abertos e verificáveis. Não constitui orientação eleitoral — consulte as fontes originais.'
+            ? '<strong class="text-foreground">Notice:</strong> 100% AI-generated analysis. No human review. All data is open-source and verifiable. Not voter guidance, consult original sources.'
+            : '<strong class="text-foreground">Aviso:</strong> Análise 100% gerada por IA. Sem revisão humana. Dados abertos e verificáveis. Não constitui orientação eleitoral, consulte as fontes originais.'
           }</p>
         </div>
       </div>`;
@@ -733,7 +734,7 @@
             <h2 class="font-semibold text-foreground mb-2">Tecnologia</h2>
             <ul class="mt-3 space-y-1 list-disc list-inside">
               <li><strong class="text-foreground">Transcrição:</strong> Whisper large-v3-turbo (OpenAI, local)</li>
-              <li><strong class="text-foreground">Verificação:</strong> MiMo 2.5 (via opencode) — 100% automatizado</li>
+              <li><strong class="text-foreground">Verificação:</strong> MiMo 2.5 (via opencode), 100% automatizado</li>
               <li><strong class="text-foreground">Site:</strong> HTML/CSS/JS puro com Tailwind CSS</li>
               <li><strong class="text-foreground">Hospedagem:</strong> GitHub Pages</li>
             </ul>
@@ -1036,14 +1037,14 @@
           </div>
 
           <div class="card p-5">
-            <h2 class="font-semibold text-foreground mb-4">Preview — Todos os candidatos</h2>
+            <h2 class="font-semibold text-foreground mb-4">Preview: Todos os candidatos</h2>
             <div class="flex justify-center p-4 bg-muted/30 rounded-lg">
               <div data-contrafatos-widget="all"></div>
             </div>
           </div>
 
           <div class="card p-5">
-            <h2 class="font-semibold text-foreground mb-4">Preview — Por candidato</h2>
+            <h2 class="font-semibold text-foreground mb-4">Preview: Por candidato</h2>
             <div class="grid gap-4 sm:grid-cols-2">`;
 
     const uniqueCandidates = [];
@@ -1072,15 +1073,15 @@
             <div class="space-y-3 text-sm text-muted-foreground">
               <div>
                 <code class="text-xs bg-muted px-1.5 py-0.5 rounded">data-contrafatos-widget="all"</code>
-                — Mostra resumo de todos os candidatos
+                Mostra resumo de todos os candidatos
               </div>
               <div>
                 <code class="text-xs bg-muted px-1.5 py-0.5 rounded">data-contrafatos-widget="caiado-debate-band"</code>
-                — Mostra apenas o candidato específico
+                Mostra apenas o candidato específico
               </div>
               <div>
                 <code class="text-xs bg-muted px-1.5 py-0.5 rounded">data-base-url="..."</code>
-                — URL base do projeto (opcional, detecta automaticamente)
+                URL base do projeto (opcional, detecta automaticamente)
               </div>
             </div>
           </div>
@@ -1293,7 +1294,7 @@
           <div class="card p-5">
             <h2 class="font-semibold text-foreground mb-3 flex items-center gap-2">
               <svg class="h-4 w-4 text-muted-foreground" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/></svg>
-              Transcrições — Jornal Nacional
+              Transcrições: Jornal Nacional
             </h2>
             <p class="text-xs text-muted-foreground mb-3">Transcrições geradas pelo Whisper large-v3-turbo com timestamps.</p>
             <div class="space-y-2">`;
@@ -1316,7 +1317,7 @@
           <div class="card p-5">
             <h2 class="font-semibold text-foreground mb-3 flex items-center gap-2">
               <svg class="h-4 w-4 text-muted-foreground" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/></svg>
-              Transcrições — Debate Band (05/08/2026)
+              Transcrições: Debate Band (05/08/2026)
             </h2>
             <p class="text-xs text-muted-foreground mb-3">Falas separadas por candidato do debate da Band.</p>
             <div class="space-y-2">`;
@@ -1339,7 +1340,7 @@
           <div class="card p-5">
             <h2 class="font-semibold text-foreground mb-3 flex items-center gap-2">
               <svg class="h-4 w-4 text-muted-foreground" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/></svg>
-              Análises — Jornal Nacional
+              Análises: Jornal Nacional
             </h2>
             <p class="text-xs text-muted-foreground mb-3">Relatórios completos com todas as afirmações verificadas, classificações e fontes.</p>
             <div class="space-y-2">`;
@@ -1362,7 +1363,7 @@
           <div class="card p-5">
             <h2 class="font-semibold text-foreground mb-3 flex items-center gap-2">
               <svg class="h-4 w-4 text-muted-foreground" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/></svg>
-              Análises — Debate Band (05/08/2026)
+              Análises: Debate Band (05/08/2026)
             </h2>
             <p class="text-xs text-muted-foreground mb-3">Verificação de fatos das falas de cada candidato no debate.</p>
             <div class="space-y-2">`;
