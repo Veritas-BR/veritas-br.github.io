@@ -52,6 +52,18 @@ ENTREVISTAS = {
         "data": "2026-08-29",
         "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/29/augusto-cury-avante-e-entrevistado-na-globo-veja-integra.ghtml",
     },
+    "lula-domingo-espetacular": {
+        "candidato": "Lula",
+        "partido": "PT",
+        "data": "2026-08-24",
+        "url": "https://youtu.be/y7okXMXSxvg?t=26",
+    },
+    "flavio-bolsonaro-domingo-espetacular": {
+        "candidato": "Flávio Bolsonaro",
+        "partido": "PL",
+        "data": "2026-08-30",
+        "url": "https://youtu.be/EWIMZ5f8pp0?t=31",
+    },
 }
 
 

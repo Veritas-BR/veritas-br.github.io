@@ -30,6 +30,13 @@ CANDIDATES = [
     {"slug": "augusto-cury", "segments_file": "augusto-cury-segments.json",
      "analysis_file": "augusto-cury-2026.txt",
      "meta_file": "augusto-cury-2026-meta.json", "color": "#06B6D4"},
+    # Entrevistas Domingo Espetacular - Record
+    {"slug": "lula-domingo-espetacular", "segments_file": "lula-domingo-espetacular-segments.json",
+     "analysis_file": "lula-domingo-espetacular-2026.txt",
+     "meta_file": "lula-domingo-espetacular-2026-meta.json", "color": "#EF4444"},
+    {"slug": "flavio-bolsonaro-domingo-espetacular", "segments_file": "flavio-bolsonaro-domingo-espetacular-segments.json",
+     "analysis_file": "flavio-bolsonaro-domingo-espetacular-2026.txt",
+     "meta_file": "flavio-bolsonaro-domingo-espetacular-2026-meta.json", "color": "#F59E0B"},
     # Debate da Band - 05/08/2026
     {"slug": "caiado-debate-band", "segments_file": "debate-band/caiado.json",
      "analysis_file": "caiado-debate-band.txt",
@@ -41,6 +48,22 @@ CANDIDATES = [
      "analysis_file": "cury-debate-band.txt",
      "meta_file": "cury-debate-band-meta.json", "color": "#06B6D4"},
 ]
+
+# Event name mapping
+EVENT_NAMES = {
+    "caiado-debate-band": "Debate Band",
+    "renan-debate-band": "Debate Band",
+    "cury-debate-band": "Debate Band",
+    "lula-domingo-espetacular": "Domingo Espetacular",
+    "flavio-bolsonaro-domingo-espetacular": "Domingo Espetacular",
+}
+
+def get_event_name(slug):
+    if slug in EVENT_NAMES:
+        return EVENT_NAMES[slug]
+    if "debate" in slug:
+        return "Debate Band"
+    return "Entrevista JN"
 
 # Topic detection keywords
 TOPIC_KEYWORDS = {
@@ -360,6 +383,7 @@ def main():
 
         candidates_data.append({
             "slug": cand_info["slug"],
+            "event_name": get_event_name(cand_info["slug"]),
             "name": candidate_name,
             "party": party,
             "interview_date": interview_date,

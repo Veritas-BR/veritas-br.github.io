@@ -57,9 +57,8 @@
     return `<span class="badge ${info.class}">${info.label}</span>`;
   }
 
-  function eventLabel(slug) {
-    if (slug.includes('debate')) return 'Debate Band';
-    return 'Entrevista JN';
+  function eventLabel(entry) {
+    return entry.event_name || (entry.slug.includes('debate') ? 'Debate Band' : 'Entrevista JN');
   }
 
   // --- Share functionality ---
@@ -71,67 +70,6 @@
     NAO_VERIFICAVEL: { bg: '#f3f4f6', text: '#374151', label: 'Não verificável' },
     OPINIAO: { bg: '#f3e8ff', text: '#6b21a8', label: 'Opinião' },
   };
-
-  function createShareCard(claim, candidateName, candidateParty) {
-    const color = CLAIM_COLORS[claim.classification] || CLAIM_COLORS.NAO_VERIFICAVEL;
-    const quote = claim.quote.length > 180 ? claim.quote.slice(0, 177) + '...' : claim.quote;
-    const topic = claim.context && claim.context !== 'Geral' ? claim.context : '';
-
-    const div = document.createElement('div');
-    div.style.cssText = 'position:fixed;left:-9999px;top:0;width:600px;height:315px;z-index:-1;';
-    div.innerHTML = `
-      <div style="width:600px;height:315px;background:#ffffff;font-family:Inter,system-ui,sans-serif;display:flex;flex-direction:column;justify-content:space-between;padding:24px;box-sizing:border-box;">
-        <div>
-          <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
-            <span style="display:inline-block;padding:3px 10px;border-radius:6px;font-size:12px;font-weight:600;background:${color.bg};color:${color.text};">${color.label}</span>
-            ${topic ? `<span style="display:inline-block;padding:3px 10px;border-radius:6px;font-size:11px;font-weight:500;background:#dbeafe;color:#1e40af;">${topic}</span>` : ''}
-          </div>
-          <div style="font-size:15px;color:#1e293b;line-height:1.5;font-style:italic;">"${quote}"</div>
-        </div>
-        <div style="display:flex;justify-content:space-between;align-items:flex-end;">
-          <div>
-            <div style="font-size:13px;font-weight:600;color:#0f172a;">${candidateName}</div>
-            <div style="font-size:11px;color:#64748b;">${candidateParty}</div>
-          </div>
-          <div style="text-align:right;">
-            <div style="font-size:10px;color:#64748b;">Veritas BR 2026</div>
-            <div style="font-size:9px;color:#94a3b8;">Verificação de fatos · Eleições 2026</div>
-          </div>
-        </div>
-      </div>`;
-    document.body.appendChild(div);
-    return div;
-  }
-
-  async function generateShareImage(claim, candidateName, candidateParty) {
-    const el = createShareCard(claim, candidateName, candidateParty);
-    try {
-      if (window.htmlToImage) {
-        const dataUrl = await window.htmlToImage.toPng(el, {
-          width: 600,
-          height: 315,
-          pixelRatio: 2,
-          cacheBust: true,
-        });
-        el.remove();
-        return dataUrl;
-      }
-    } catch (e) {
-      el.remove();
-      console.error('Error generating share image:', e);
-    }
-    return null;
-  }
-
-  async function downloadShareImage(claim, candidateName, candidateParty) {
-    const dataUrl = await generateShareImage(claim, candidateName, candidateParty);
-    if (dataUrl) {
-      const link = document.createElement('a');
-      link.download = `veritas-br-${candidateName.toLowerCase().replace(/\s+/g, '-')}-${claim.id}.png`;
-      link.href = dataUrl;
-      link.click();
-    }
-  }
 
   function shareClaim(claim, candidateName, candidateParty, candidateSlug) {
     const url = `${window.location.origin}${window.location.pathname}#/candidato/${candidateSlug}`;
@@ -145,7 +83,6 @@
   }
 
   // Expose to global scope for onclick handlers
-  window.downloadShareImage = downloadShareImage;
   window.shareClaim = shareClaim;
 
   function mergeCandidates(candidates) {
@@ -397,47 +334,46 @@
         <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">`;
 
       merged.forEach(m => {
-        const slug = m.entries[0].slug.includes('debate') && m.entries.length === 1
-          ? m.entries[0].slug
-          : m.entries.find(e => !e.slug.includes('debate'))?.slug || m.entries[0].slug;
+        // Prefer Entrevista JN > Domingo Espetacular > Debate Band
+        const slug = m.entries.find(e => e.event_name === 'Entrevista JN')?.slug
+          || m.entries.find(e => e.event_name === 'Domingo Espetacular')?.slug
+          || m.entries.find(e => e.event_name === 'Debate Band')?.slug
+          || m.entries[0].slug;
         html += cardHTML(m, m.totalClaims, `#/candidato/${slug}`);
       });
 
       html += '</div>';
       container.innerHTML = html;
     } else {
-      const interviews = candidates.filter(c => !c.slug.includes('debate'));
-      const debates = candidates.filter(c => c.slug.includes('debate'));
+      // Group by event_name
+      const eventGroups = {};
+      candidates.forEach(c => {
+        const eventName = c.event_name || eventLabel(c);
+        if (!eventGroups[eventName]) eventGroups[eventName] = [];
+        eventGroups[eventName].push(c);
+      });
+
+      const eventOrder = ['Entrevista JN', 'Domingo Espetacular', 'Debate Band'];
+      const sortedEvents = Object.keys(eventGroups).sort((a, b) => eventOrder.indexOf(a) - eventOrder.indexOf(b));
 
       let html = '';
 
-      // Interviews
-      html += `
-        <div class="mb-6 flex items-center justify-between">
-          <h2 class="text-lg font-semibold">Entrevistas Jornal Nacional</h2>
-          <span class="text-sm text-muted-foreground">${interviews.length} entrevistas</span>
-        </div>
-        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 mb-12">`;
+      sortedEvents.forEach(eventName => {
+        const entries = eventGroups[eventName];
+        html += `
+          <div class="mb-6 flex items-center justify-between">
+            <h2 class="text-lg font-semibold">${eventName}</h2>
+            <span class="text-sm text-muted-foreground">${entries.length} ${entries.length === 1 ? 'análise' : 'análises'}</span>
+          </div>
+          <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 mb-12">`;
 
-      interviews.forEach(c => {
-        html += cardHTML(c, getSummaryTotal(c), `#/candidato/${c.slug}`);
+        entries.forEach(c => {
+          html += cardHTML(c, getSummaryTotal(c), `#/candidato/${c.slug}`);
+        });
+
+        html += '</div>';
       });
 
-      html += '</div>';
-
-      // Debates
-      html += `
-        <div class="mb-6 flex items-center justify-between">
-          <h2 class="text-lg font-semibold">Debates</h2>
-          <span class="text-sm text-muted-foreground">${debates.length} análises</span>
-        </div>
-        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 mb-12">`;
-
-      debates.forEach(c => {
-        html += cardHTML(c, getSummaryTotal(c), `#/candidato/${c.slug}`);
-      });
-
-      html += '</div>';
       container.innerHTML = html;
     }
   }
@@ -455,7 +391,7 @@
       entry.claims.forEach(claim => {
         mergedClaims.push({
           ...claim,
-          event: entry.slug.includes('debate') ? 'Debate Band' : 'Entrevista JN',
+          event: entry.event_name || eventLabel(entry),
           eventSlug: entry.slug,
         });
       });
@@ -465,7 +401,7 @@
     });
 
     const total = getSummaryTotal({ summary: mergedSummary });
-    const events = allEntries.map(e => eventLabel(e.slug));
+    const events = [...new Set(allEntries.map(e => eventLabel(e)))];
 
     let html = `
       <div class="fade-in">
@@ -513,8 +449,11 @@
         <div id="claims-list" class="space-y-4">`;
 
     // Sort claims: event first, then by original id
+    const eventOrder = ['Entrevista JN', 'Domingo Espetacular', 'Debate Band'];
     mergedClaims.sort((a, b) => {
-      if (a.event !== b.event) return a.event === 'Entrevista JN' ? -1 : 1;
+      if (a.event !== b.event) {
+        return eventOrder.indexOf(a.event) - eventOrder.indexOf(b.event);
+      }
       return a.id - b.id;
     });
 
@@ -548,10 +487,6 @@
               ${claim.sources ? `<div class="mt-2 source-text"><strong>Fontes:</strong> ${claim.sources}</div>` : ''}
               ${claim.notes ? `<div class="mt-2 source-text"><strong>Observações:</strong> ${claim.notes}</div>` : ''}
               <div class="mt-3 flex items-center gap-2">
-                <button onclick="downloadShareImage(${JSON.stringify(claim).replace(/"/g, '&quot;')}, '${c.name.replace(/'/g, "\\'")}', '${c.party.replace(/'/g, "\\'")}')" class="inline-flex items-center gap-1 rounded-md border border-border px-2 py-1 text-xs text-muted-foreground hover:bg-accent transition-colors">
-                  <svg class="h-3 w-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="m7 10 5 5 5-5"/><path d="M12 15V3"/></svg>
-                  Baixar card
-                </button>
                 <button onclick="shareClaim(${JSON.stringify(claim).replace(/"/g, '&quot;')}, '${c.name.replace(/'/g, "\\'")}', '${c.party.replace(/'/g, "\\'")}', '${c.slug}')" class="inline-flex items-center gap-1 rounded-md border border-border px-2 py-1 text-xs text-muted-foreground hover:bg-accent transition-colors">
                   <svg class="h-3 w-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.59 13.51 6.83 3.98"/><path d="m15.41 6.51-6.82 3.98"/></svg>
                   Compartilhar

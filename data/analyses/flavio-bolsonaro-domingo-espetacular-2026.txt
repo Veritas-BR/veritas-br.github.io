@@ -1,0 +1,384 @@
+# Fact-Check: Entrevista de Flávio Bolsonaro (PL) - Domingo Espetacular (Record)
+# Data da entrevista: 28/08/2026
+# Data da verificação: 02/09/2026
+
+---
+
+## RESUMO
+
+| Classificação | Quantidade |
+|---|---|
+| VERDADEIRO | 7 |
+| IMPRECISO | 5 |
+| FALSO | 1 |
+| OPINIÃO | 4 |
+| NÃO VERIFICÁVEL | 2 |
+| **TOTAL** | **19** |
+
+---
+
+### [1]
+
+**Afirmação do candidato:** "Zero, zero, zero, zero de dinheiro público. Não fui buscar a Lei Rouanet."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Flávio Bolsonaro afirma que o financiamento do filme "Dark Horse" foi integralmente privado, sem dinheiro público. O ex-banqueiro Daniel Vorcaro, preso sob acusação de fraudes bilionárias no Banco Master, teria se comprometido a destinar R$ 134 milhões ao projeto, dos quais R$ 61 milhões foram efetivamente liberados, segundo apuração do The Intercept Brasil. Contudo, investigações da Polícia Federal revelaram que o dinheiro do Master vinha, em parte, de 18 fundos de previdência estaduais — 17 deles ligados a governos de direita. Fundos de previdência são entidades de direito público que administram recursos de aposentados, e sua movimentação está sujeita a normas de transparência e prestação de contas. Portanto, classificar os recursos como exclusivamente "privados" é impreciso.
+
+Quanto à Lei Rouanet, é verdade que o próprio Flávio não buscou esse incentivo para o Dark Horse. A produtora Go Up Entertainment, por meio de sua sócia Karina Ferreira da Gama, utilizou a Lei Rouanet para outros projetos (um "Rute - o Ballet" que levantou R$ 107 mil), mas não para o longa-metragem. Ademais, a Lei Rouanet não contempla longas-metragens, apenas curtas e médias-metragens.
+
+**Fonte(s):**
+- The Intercept Brasil, 13/05/2026 - Divulgação de áudio entre Flávio Bolsonaro e Daniel Vorcaro
+- Folha de S.Paulo, 23/05/2026 - "Dark Horse: produtora buscou Rouanet para outros projetos"
+- Polícia Federal - Investigação sobre origem dos recursos do Banco Master
+
+**Observações:**
+A afirmativa de "zero dinheiro público" é factualmente incorreta se considerarmos que os fundos de previdência estaduais são recursos públicos administrados por entidades de direito público, mesmo que indiretamente conectados ao Banco Master.
+
+---
+
+### [2]
+
+**Afirmação do candidato:** "O próprio Lula, o próprio presidente da República, ele fez uma reunião prometendo para os representantes do Banco Master que podiam esperar um pouquinho, porque o presidente do Banco Central ia ser trocado, então o governo teria uma forma de ajudá-lo a resolver os seus problemas no Banco Master."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+É fato que Lula se reuniu com Daniel Vorcaro, dono do Banco Master, no Palácio do Planalto em 4 de dezembro de 2024. Na reunião, estavam presentes também o então diretor de Política Monetária do BC, Gabriel Galípolo, o ministro da Casa Civil, Rui Costa, e o ex-ministro Guido Mantega. Contudo, a caracterização feita por Flávio Bolsonaro não corresponde ao que foi relatado publicamente. Segundo o próprio Galípolo, ao prestar depoimento na Comissão de Assuntos Econômicos (CAE) do Senado em maio de 2026: "A fala do presidente foi muito objetiva em dizer 'esse é um tema tratado dentro do BC, o Gabriel será o próximo presidente, ele é técnico, vai te dar um tratamento técnico'". Lula orientou que o assunto fosse tratado de forma técnica pelo Banco Central, sem fazer promessas de ajuda ao Master. Na verdade, Lula aconselhou Vorcaro a não vender o banco ao BTG Pactual e reforçou a autonomia do BC. Não houve promessa de "trocar o presidente do Banco Central para ajudar o Master" — Galípolo já estava indicado para assumir a presidência do BC antes da reunião.
+
+**Fonte(s):**
+- O Globo, 19/05/2026 - "Galípolo volta a relatar reunião com Vorcaro no Planalto em 2024"
+- Valor Econômico, 26/01/2026 - "Lula teve reunião com dono do Banco Master e Galípolo fora da agenda em 2024"
+- Poder360, 17/05/2026 - "Lula aconselhou Vorcaro a não vender Master ao BTG"
+
+**Observações:**
+A reunião ocorreu fora da agenda oficial de Lula. Embora tenha havido encontro, a interpretação de que Lula "prometeu trocar o presidente do BC para ajudar o Master" distorce o que foi relatado por Galípolo e pelo próprio Lula. Galípolo já havia sido indicado para assumir a presidência do BC antes da reunião.
+
+---
+
+### [3]
+
+**Afirmação do candidato:** "Foi em 2025 que começou o patrocínio, portanto, o presidente não era o Bolsonaro."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Flávio Bolsonaro afirma que o patrocínio de Daniel Vorcaro ao filme "Dark Horse" começou em 2025, quando Jair Bolsonaro já não era presidente. Embora o áudio divulgado pelo Intercept Brasil seja de 8 de setembro de 2025, e existam registros de que parte dos recursos foi liberada nesse período, não há dados públicos oficiais que confirmem precisamente quando se iniciaram as negociações entre Flávio e Vorcaro. A Polícia Federal investiga a cronologia dos repasses, mas não há conclusão pública até o momento.
+
+**Fonte(s):**
+- The Intercept Brasil, 13/05/2026
+- Polícia Federal - Operação Compliance Zero
+
+**Observações:**
+A data exata do início das negociações não foi confirmada publicamente. A investigação da PF pode esclarecer essa questão futuramente.
+
+---
+
+### [4]
+
+**Afirmação do candidato:** "Consequência, taxa selic, a taxa básica, lá na estratosfera, lá na Lua, 14%, a maior juro real do mundo."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Em 5 de agosto de 2026, o Copom (Comitê de Política Monetária) do Banco Central reduziu a taxa Selic de 14,25% para 14,00% ao ano. Segundo levantamento da MoneYou e da Lev Intelligence, compilado por veículos como G1 e InfoMoney, o Brasil ocupa a primeira ou segunda posição no ranking de maiores juros reais do mundo, dependendo da data do levantamento. Em agosto de 2026, com a Selic em 14%, o juro real ficou em torno de 9,33%, superando Rússia, Turquia, México e outros países. Portanto, a afirmação de que o Brasil tem a maior taxa de juros real do mundo está correta.
+
+**Fonte(s):**
+- Banco Central do Brasil - Comunicado do Copom, 05/08/2026
+- G1, 05/08/2026 - "Apesar de corte na Selic, Brasil tem o maior juro real do mundo"
+- InfoMoney, 05/08/2026 - "Corte da Selic faz Brasil cair uma posição e leva país ao 2º maior juro real do mundo"
+- Bloomberg Línea, 19/06/2026 - "Brasil tem juro real mais alto do mundo, acima de Rússia, Turquia e México"
+
+**Observações:**
+A posição exata (1º ou 2º lugar) varia conforme a metodologia e a data do levantamento, mas o Brasil consistentemente lidera ou aparece entre os primeiros do ranking de juros reais mundiais.
+
+---
+
+### [5]
+
+**Afirmação do candidato:** "A educação tem 5,5% do PIB."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O percentual de investimento público em educação no Brasil varia conforme a metodologia e o período analisado. Segundo o Todos pela Educação (Anuário da Educação), em 2023 o investimento público em educação foi de 4,9% do PIB. Dados do Tesouro Nacional indicam que em 2024 a função educação no governo geral atingiu 5,10% do PIB. O Plano Nacional de Educação (PNE) 2025-2035, aprovado pela Câmara, estabelece como meta ampliar o investimento para 7,5% do PIB em sete anos e 10% ao final do decênio. Portanto, a afirmação de 5,5% é uma aproximação que pode refletir parte dos dados (a saúde federal, por exemplo, é de cerca de 5% do PIB no governo geral), mas não corresponde exatamente ao percentual mais recente de investimento educacional público total, que ficou entre 4,9% e 5,1% do PIB em 2023-2024.
+
+**Fonte(s):**
+- Todos pela Educação, Anuário da Educação 2025 - Capítulo 9: Financiamento
+- Tesouro Nacional, Relatório COFOG, 12/12/2025
+- Câmara dos Deputados, PL 2614/2024 (PNE 2025-2035), aprovado em 2025
+
+**Observações:**
+O valor de 5,5% pode se referir a um recorte específico (apenas União, apenas educación básica) ou a uma projeção que não corresponde aos dados consolidados mais recentes. O investimento total público em educação ficou em 4,9% do PIB em 2023 e 5,1% do PIB em 2024.
+
+---
+
+### [6]
+
+**Afirmação do candidato:** "O orçamento para a saúde pública federal é da casa dos 250 bilhões de reais."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo a Lei Orçamentária Anual (LOA) para 2026 (Lei nº 15.346/2026), a dotação para o Ministério da Saúde é de R$ 269,1 bilhões. O valor de R$ 250 bilhões mencionado por Flávio Bolsonaro está dentro de uma margem aceitável de aproximação para uma conversa informal, especialmente considerando que parte desse orçamento contempla despesas financeiras e outras categorias que podem não corresponder ao gasto discricionário direto com serviços de saúde.
+
+**Fonte(s):**
+- Lei nº 15.346/2026 (LOA 2026)
+- Raio X Orçamento 2026 (Pós Vetos) - Câmara dos Deputados
+- Tesouro Nacional
+
+**Observações:**
+O orçamento efetivo do Ministério da Saúde é de R$ 269,1 bilhões na LOA 2026, portanto ligeiramente acima dos "250 bilhões" mencionados, mas a referência "da casa dos 250 bilhões" é uma aproximação razoável.
+
+---
+
+### [7]
+
+**Afirmação do candidato:** "E tem apoio de 70% da população" (sobre a proposta de fim da escala 6x1).
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Diversas pesquisas de opinião pública confirmam o amplo apoio popular ao fim da escala 6x1. Pesquisa do Projeto Brief e Swayable (novembro de 2024, com 3.122 participantes) indicou 70% de apoio. Pesquisa Quaest (julho de 2026, 2.004 eleitores) apontou 69% de favoráveis. Pesquisa do Instituto Locomotiva/QuestionPro (junho de 2026, 1.030 pessoas) mostrou 78% de apoio. Portanto, a referência a "70% da população" está alinhada com os dados de pesquisa disponíveis.
+
+**Fonte(s):**
+- Projeto Brief/Swayable, novembro de 2024 (via Revista Fórum e DIAP)
+- Quaest/Genial Investimentos, 15/07/2026 (via G1)
+- Instituto Locomotiva/QuestionPro, 02/09/2026 (via Estadão)
+
+**Observações:**
+O percentual de apoio varia entre 69% e 78% conforme a pesquisa e o período, mas a referência a 70% é consistente com os levantamentos disponíveis.
+
+---
+
+### [8]
+
+**Afirmação do candidato:** "Eu vou indicar homens e mulheres que sejam comprometidos em serem contra o aborto, em serem contra as drogas e que não usem a caneta para fazer injustiça com ninguém." (sobre indicações ao STF)
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+Esta é uma declaração sobre o perfil ideológico e moral que o candidato pretende dar aos ministros do STF que vier a indicar. Trata-se de uma posição política e de valores pessoais, não de um fato verificável. A indicação de ministros do Supremo é prerrogativa constitucional do presidente da República, sujeita à aprovação do Senado.
+
+**Fonte(s):**
+- Constituição Federal de 1988, art. 101
+
+**Observações:**
+A definição de perfil para indicações ao STF é prática comum de governos e não constitui afirmação factual verificável.
+
+---
+
+### [9]
+
+**Afirmação do candidato:** "E lembre que o próximo presidente da República indica 4 ministros do Supremo Tribunal Federal."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Segundo análises de veículos como Valor Econômico, Poder360 e Nexo Jornal, o próximo presidente terá oportunidade de indicar pelo menos 3 ministros ao STF, em razão das aposentadorias compulsórias de Luiz Fux (abril de 2028), Cármen Lúcia (abril de 2029) e Gilmar Mendes (dezembro de 2030). Há também a vaga aberta com a aposentadoria de Luís Roberto Barroso, para a qual Lula ainda não concluiu nova indicação após a rejeição do Senado ao nome de Jorge Messias. Se Lula não fizer nova indicação antes do fim de seu mandato, a vaga de Barroso também ficará para o próximo presidente, o que elevaria o número para 4 indicações possíveis. Portanto, a afirmação de "4 ministros" é plausível, mas depende de cenários que ainda não se concretizaram. A referência mais precisa seria "pelo menos 3, possivelmente 4".
+
+**Fonte(s):**
+- Valor Econômico, 30/04/2026 - "Além da vaga de Barroso, STF terá mais três mudanças até 2030"
+- Poder360, 20/09/2025 - "Vencedor das eleições de 2026 indicará pelo menos 3 nomes ao STF"
+- Nexo Jornal, 24/09/2025 - "Próximo presidente deve indicar 3 ministros do Supremo"
+- CNN Brasil, 25/08/2026 - "Lula avalia adiar indicação de Messias para futura vaga no STF"
+
+**Observações:**
+A afirmação de 4 indicações é correta sob a hipótese de que Lula não fará nova indicação para a vaga de Barroso antes do fim do mandato. A maioria das análises aponta 3 indicações garantidas e uma possível 4ª.
+
+---
+
+### [10]
+
+**Afirmação do candidato:** "O presidente Bolsonaro foi julgado pelos seus inimigos, gente." [...] "Ele foi julgado pelo Fábio Dino, por exemplo, que é um inimigo declarado dele. Disse que o Bolsonaro é o demônio na Terra. Ele foi julgado pelo Zanin, Mariana, que até ontem era advogado do Lula. E pelo Alexandre de Moraes, que todo mundo sabe que é um inimigo declarado de Bolsonaro."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A condenação de Jair Bolsonaro por tentativa de golpe de Estado foi decidida pela Primeira Turma do STF em 11 de setembro de 2025, por 4 votos a 1. Os ministros que votaram pela condenação foram Alexandre de Moraes (relator), Cristiano Zanin, Cármen Lúcia e Flávio Dino. Fábio Dino integra a Segunda Turma do STF e não participou do julgamento da ação penal da tentativa de golpe. O voto vencido foi de Luiz Fux, também da Primeira Turma.
+
+Quanto ao histórico dos ministros: Cristiano Zanin foi advogado de Lula no caso do triplex do Guarujá e foi indicado por Lula ao STF em 2023. Flávio Dino foi deputado federal e governador do Maranhão pelo PSB, e fez declarações públicas duras contra Bolsonaro, mas a citação específica de que "disse que Bolsonaro é o demônio na Terra" precisa de contexto — Dino fez diversas declarações polêmicas contra Bolsonaro durante seu mandato como deputado. Alexandre de Moraes, como relator das investigações relacionadas ao 8 de janeiro e à trama golpista, atuou como condutor do processo.
+
+**Fonte(s):**
+- Agência Brasil, 11/09/2025 - "Por 4 a 1, STF condena Bolsonaro e mais sete pela trama golpista"
+- Folha de S.Paulo, 11/09/2025 - "STF condena Bolsonaro a 27 anos e 3 meses de prisão"
+- BBC News Brasil, 11/09/2025 - "Bolsonaro condenado a regime fechado pelo STF"
+- Wikipedia - Cláudio Lottenberg (biografia)
+- Valor Econômico, 30/04/2026 - Composição do STF
+
+**Observações:**
+A afirmação de que "Fábio Dino julgou Bolsonaro" é factualmente incorreta — Dino não participou da 1ª Turma que julgou a ação penal. Quanto às qualificações pessoais dos ministros, as relações de Zanin com Lula e as declarações de Dino contra Bolsonaro são fatos públicos, mas a caracterização como "inimigos" é uma interpretação do candidato.
+
+---
+
+### [11]
+
+**Afirmação do candidato:** "Eu quero implementar no SUS o padrão Einstein de atendimento." [...] "Alguém que estava presidente dos principais hospitais particulares do Brasil, que é o doutor Cláudio Lothenberg."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Cláudio Lottenberg (corretamente grafado) foi presidente do Conselho Deliberativo da Sociedade Beneficente Israelita Brasileira Albert Einstein por 15 anos (a partir de 2001) e atualmente preside o conselho da instituição. Ele também preside a Confederação Israelita do Brasil (CONIB) e o Instituto Coalizão Saúde. O Hospital Albert Einstein é um dos maiores e mais renomados hospitais privados do Brasil, mas classificá-lo como "o presidente dos principais hospitais particulares" é uma extrapolção — Lottenberg preside uma instituição específica, não um consórcio ou associação de hospitais. Em 1º de setembro de 2026, o Einstein afastou Lottenberg de suas funções no conselho em razão de sua indicação como futuro ministro da Saúde de Flávio Bolsonaro, em cumprimento ao código de ética do hospital que veda uso de recursos para fins políticos.
+
+**Fonte(s):**
+- Wikipedia - Cláudio Lottenberg
+- LinkedIn - Claudio Lottenberg
+- Folha de S.Paulo, 01/09/2026 - "Einstein afasta Lottenberg do conselho após anúncio como futuro ministro de Flávio"
+- Nota à imprensa do Einstein Hospital Israelita, 01/09/2026
+
+**Observações:**
+O nome correto é "Lottenberg", não "Lothenberg". A afirmação de que preside "os principais hospitais particulares" é uma simplificação exagerada. Lottenberg é presidente do conselho do Einstein, não de todos os hospitais privados.
+
+---
+
+### [12]
+
+**Afirmação do candidato:** "Uma das primeiras coisas que eu vou fazer enquanto presidente da República é declarar Comando Vermelho, PCC, milícias, como organizações terroristas."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+Trata-se de uma proposta política de classificação legal de organizações criminosas. Atualmente, a Lei nº 13.260/2016 (Lei Antiterrorismo) define terrorismo como atos praticados com motivação de xenofobia, discriminação ou preconceito de raça, cor, etnia e religião, com finalidade de provocar terror social ou generalizado. Especialistas jurídicos, incluindo o advogado criminalista Diego Valadares e o pesquisador Jhonattan Mattos (UERJ), explicam que as facções criminosas como PCC e Comando Vermelho não preenchem os requisitos legais para enquadramento como organizações terroristas no direito brasileiro, pois sua motivação é essencialmente econômica (tráfico, lavagem de dinheiro), não ideológica. O governo Lula rejeitou a classificação proposta pelos EUA com base nesses argumentos. Portanto, a afirmação reflete uma posição política, não um fato.
+
+**Fonte(s):**
+- Lei nº 13.260/2016 (Lei Antiterrorismo)
+- O Globo, 29/05/2026 - "CV e PCC: O que diz a lei brasileira sobre terrorismo?"
+- G1, 11/03/2026 - "Por que a Lei Antiterrorismo no Brasil não enquadra facções como CV e PCC"
+- Conjur, 04/06/2026 - "Designação do PCC e do Comando Vermelho pelos EUA: soberania, cooperação e limites do antiterrorismo"
+- IBCCrim, 12/05/2026 - "A (não) classificação do PCC e do Comando Vermelho como entidades terroristas"
+
+**Observações:**
+A classificação como organização terrorista exigiria alteração legislativa da Lei Antiterrorismo, o que não está atualmente aprovado no Congresso. A eficácia prática dessa classificação no combate ao crime organizado é debatida por juristas.
+
+---
+
+### [13]
+
+**Afirmação do candidato:** "O senhor, em outubro de 2025, sugeriu que os Estados Unidos atacassem embarcações na Baía de Guanabara, dentro do território brasileiro."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+A jornalista Mariana Godoy pergunta a Flávio se, em outubro de 2025, ele sugeriu que os EUA atacassem embarcações na Baía de Guanabara. Flávio responde que fez uma "analogia" com o momento em que o governo americano bombardeava navios de narcotraficantes na Venezuela, e que não pediu bombardeio de nada, mas sugeriu que as forças brasileiras deveriam combater narcoterroristas. Não há como verificar precisamente o contexto e o teor da declaração original de outubro de 2025 apenas com base nesta entrevista, pois a pergunta da jornalista não é seguida de uma transcrição exata do que foi dito.
+
+**Fonte(s):**
+- Transcrição da entrevista (linha 76-99)
+
+**Observações:**
+A afirmação original de outubro de 2025 não está reproduzida nesta entrevista. Flávio nega ter pedido "bombardeio" e caracteriza sua fala como uma analogia. A verificação dependeria do registro audiovisual ou transcrito da declaração original.
+
+---
+
+### [14]
+
+**Afirmação do candidato:** "Mais de 50 milhões de brasileiros que moram em áreas que hoje são dominadas por esses narcoterroristas."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+Não há dados oficiais consolidados que quantifiquem com precisão o número de brasileiros que moram em áreas dominadas por organizações criminosas. Estimativas variam conforme a definição de "área dominada" e a fonte consultada. O número de 50 milhões pode ser uma aproximação baseada em dados sobre violência urbana e presença de facções, mas não há uma fonte oficial que confirme ou refute esse dado específico.
+
+**Fonte(s):**
+- IBGE - Dados populacionais
+- Atlas da Violência
+- Anuário Brasileiro de Segurança Pública
+
+**Observações:**
+A estimativa pode ser uma aproximação razoável considerando áreas urbanas com alta incidência de violência, mas não pode ser confirmada com dados oficiais precisos.
+
+---
+
+### [15]
+
+**Afirmação do candidato:** "Ontem foi o dia dos gamers, uma homenagem aqui, um parabéns a todos os gamers do Brasil."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O "Dia dos Gamers" é celebrado anualmente no Brasil em 29 de agosto. A data foi estabelecida em 2023 por meio do Decreto 11.558, que incluiu os gamers como profissionais e a data no calendário cívico brasileiro. A entrevista foi gravada na manhã do domingo, 28 de agosto de 2026 (véspera do Dia dos Gamers), e Flávio fez referência à data do dia seguinte, o que é factualmente correto.
+
+**Fonte(s):**
+- Decreto nº 11.558, de 29/08/2023
+
+**Observações:**
+A data é oficialmente reconhecida pelo governo brasileiro desde 2023.
+
+---
+
+### [16]
+
+**Afirmação do candidato:** "O Brasil tem uma taxa de 25% para quem quiser trazer os data centers para dentro do Brasil." (sobre data centers)
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A afirmação sobre uma "taxa de 25%" para data centers não se refere a um imposto específico sobre data centers, mas provavelmente a uma interpretação simplificada do cenário tributário brasileiro. O Brasil tributa equipamentos de informática com alíquotas que podem variar de 0% a 25% dependendo do tipo de importação e classificação fiscal. Em 2026, houve aumento do IOF sobre câmbio para importação de determinados bens, mas não há um imposto específico de 25% sobre data centers. A tributação é complexa e envolve PIS/Cofins, ICMS, IPI e outros tributos que variam conforme a operação. Países como Irlanda e Cingapura oferecem isenções específicas para atrair investimentos em data centers.
+
+**Fonte(s):**
+- Legislação tributária brasileira
+- Receita Federal
+- Câmara dos Deputados - discusses sobre tributação de data centers
+
+**Observações:**
+A simplificação de "25%" não corresponde a um imposto específico. O cenário tributário para data centers no Brasil é complexo e envolve múltiplos tributos federais e estaduais. A comparação com países que oferecem isenções é pertinente, mas a cifra de 25% é uma simplificação imprecisa.
+
+---
+
+### [17]
+
+**Afirmação do candidato:** "O senhor promete indulto ao ex-presidente Jair Bolsonaro, seu pai, que foi condenado por tentativa de golpe de Estado." (pergunta da jornalista, confirmada implicitamente por Flávio)
+
+**Classificação:** VERDADEIRO (sobre a condenação)
+
+**Verificação:**
+Jair Bolsonaro foi condenado pela Primeira Turma do STF em 11 de setembro de 2025, por 4 votos a 1, a 27 anos e 3 meses de prisão pelos crimes de organização criminosa armada, tentativa de abolição violenta do Estado Democrático de Direito, golpe de Estado, dano qualificado pela violência e deterioração de patrimônio tombado. Flávio Bolsonaro confirmou na entrevista que trabalhará pela anistia e, caso não dê tempo, indultará as pessoas condenadas por questões relacionadas ao 8 de janeiro. O indulto é prerrogativa presidencial prevista na Constituição (art. 84, XII), embora haja debate jurídico sobre sua aplicação em casos de organização criminosa.
+
+**Fonte(s):**
+- Agência Brasil, 11/09/2025 - "Por 4 a 1, STF condena Bolsonaro e mais sete pela trama golpista"
+- Folha de S.Paulo, 11/09/2025
+- BBC News Brasil, 11/09/2025
+
+**Observações:**
+A condenação de Bolsonaro por tentativa de golpe de Estado é um fato judicial comprovado. A promessa de indulto é uma declaração de intenção política, não um fato verificável em si mesma.
+
+---
+
+### [18]
+
+**Afirmação do candidato:** "Eu vou defender você." (referindo-se ao cidadão comum)
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+Trata-se de uma declaração de compromisso político e intenção de campanha, não de um fato verificável.
+
+**Fonte(s):**
+- N/A
+
+**Observações:**
+Declaração típica de discurso eleitoral.
+
+---
+
+### [19]
+
+**Afirmação do candidato:** "Aí sim que o Lula deve explicações, porque a gente não sabe até hoje, Mariana, se ele é o patrocinador, se ele é o conselheiro, se ele é um sócio do Banco Master."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A characterization de que "não se sabe" o papel de Lula no caso do Banco Master é uma interpretação política do candidato. O próprio Lula confirmou publicamente que recebeu Vorcaro em reunião no Planalto e afirmou que orientou o assunto para tratamento técnico pelo Banco Central. Não há evidências publicamente disponíveis de que Lula seja "patrocinador, conselheiro ou sócio" do Banco Master. As investigações da PF e do BC estão em curso.
+
+**Fonte(s):**
+- G1, 05/02/2026 - "Lula diz que recebeu Vorcaro e afirma que não haverá posição política 'pró ou contra' Master"
+- UOL, 04/03/2026 - "Vorcaro sugere em mensagem que encontro com Lula foi 'ótimo'"
+
+**Observações:**
+A insinuação de que Lula teria participação pessoal no Banco Master não tem base em evidências públicas até o momento. A investigação da PF está em andamento.
+
+---
+
+## DISCLAIMER
+
+Esta verificação é uma análise técnica de fatos apresentados em entrevista pública. Não constitui endereçamento, apoio ou oposição a qualquer candidato. O objetivo é fornecer informações verificáveis para que o eleitor tome suas próprias decisões de forma informada.

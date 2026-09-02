@@ -1,0 +1,10 @@
+{
+  "candidate": "Flávio Nantes Bolsonaro",
+  "party": "PL",
+  "interview_date": "2026-08-30",
+  "transcript_file": "data/transcripts/flavio-bolsonaro-domingo-espetacular.txt",
+  "analysis_file": "data/analyses/flavio-bolsonaro-domingo-espetacular-2026.txt",
+  "model_used": "opencode/mimo-v2.5-free",
+  "analysis_date": "2026-09-02",
+  "version": "2.0"
+}

@@ -1,0 +1,559 @@
+# Transcrição: Lula (PT) - Globo 2026-08-24
+# Modelo: Whisper large-v3-turbo
+
+[00:05] A gente começa com uma entrevista exclusiva com o candidato à reeleição pelo Partido dos Trabalhadores, Luiz Inácio Lula da Silva, gravada na manhã desse domingo em Brasília.
+
+[00:20] Segurança pública, as relações com o presidente dos Estados Unidos, Donald Trump, e as investigações envolvendo o filho dele, Fábio Luiz Lula da Silva, o Lulinha, foram alguns dos temas abordados na conversa com a âncora do Jornal da Record, Mariana Godoy.
+
+[00:25] O jornalismo da Record veio à Brasília para uma entrevista exclusiva com o presidente Lula no Palácio da Alvorada.
+
+[00:31] Presidente, muito obrigada por receber o Domingo Espetacular aqui em sua casa num domingo.
+
+[00:36] Mas é importante, nesse momento da política nacional, falar com a rede de comunicação.
+
+[00:43] E o domingo é um dia bom de falar.
+
+[00:45] É um domingo de bastante audiência na Record também, presidente.
+
+[00:48] Porque nós temos bastante assunto para conversar.
+
+[00:50] E estamos logo depois do futebol.
+
+[01:06] Então, já vou começar com o assunto do noticiário, com informações que deixam uma impressão e uma suspeição sobre as relações do seu filho, Fábio Luiz Lulinha, e do seu ex-chefe de gabinete, Marco Aurélio, conhecido como Marcola, com uma pessoa que parecia querer fazer negócios com vários setores do governo federal.
+
+[01:10] Se tiver alguma coisa errada, se ficar comprovado, o que o senhor vai fazer a respeito?
+
+[01:14] O que o senhor tem a dizer sobre isso?
+
+[01:16] Mariana, eu trato isso com muita seriedade.
+
+[01:19] Primeiro, porque eu não sou juiz.
+
+[01:21] Segundo, eu não sou procurador, nem sou delegado.
+
+[01:24] Eu sou presidente da República.
+
+[01:31] E o que eu digo para você, eu digo para o meu filho, eu digo para qualquer pessoa, todos nós somos obrigados a agirmos corretamente.
+
+[01:34] Se alguém está agindo de forma equivocada, de forma errada, então alguém vai ter que ser investigado.
+
+[01:41] E eu não sou um presidente que tenta proibir a investigação.
+
+[01:45] Eu não ameaço mandar ministro embora, eu não ameaço punir delegado.
+
+[01:49] Investigue-se.
+
+[01:51] E todo mundo tem o direito de provar se é inocente.
+
+[01:55] Se isso acontecer, eles serão perdoados.
+
+[02:02] Mas se alguém cometer o erro, e esse erro trouxe prejuízo aos cofres públicos, essas pessoas terão que pagar.
+
+[02:04] Por enquanto, parece que o complexo do governo funcionou.
+
+[02:11] Eu acho que há muita ilação, e nós temos que tomar muito cuidado com isso, Mariana, porque tem muita ilação.
+
+[02:19] Ou seja, quando começa a vazar, e você sabe que eu sou vítima disso desde 1989, você não pode perder o equilíbrio.
+
+[02:21] E somente você sabe a verdade, Mariana.
+
+[02:24] Quando alguém está cuidando de alguma coisa, só você sabe a verdade.
+
+[02:27] Eu tenho dito para as pessoas que são inocentes, provem.
+
+[02:30] Provem.
+
+[02:30] Não tenho coragem de ser investigado, de participar de inquérito.
+
+[02:33] Isso vale para o meu filho e vale para qualquer pessoa.
+
+[02:37] Ninguém está impune se cometer o erro.
+
+[02:40] Portanto, esse é o meu papel do presidente.
+
+[02:42] Meu filho sabe se cometer o erro, ele vai ser julgado, vai ser punido ou vai ser inocentado.
+
+[02:48] Mas ele tem que provar a inocência dele.
+
+[02:50] E ele sabe disso, porque ele sabe o que eu vivi.
+
+[02:53] Ele conviveu comigo 40 anos.
+
+[02:55] Ele sabe que a mãe dele morreu por causa da Lava Jato.
+
+[02:59] Então, é o seguinte, só ele sabe a verdade.
+
+[03:02] Então, quer diga publicamente que se defenda que processo que eu estou acusando.
+
+[03:07] E se ficar livre, tudo bem.
+
+[03:09] Se reeleito, o senhor mudaria alguma coisa no combate à corrupção?
+
+[03:13] Olha, veja, nós temos muita coisa de combate à corrupção.
+
+[03:17] Agora, a corrupção é uma coisa quase que incontrolável, porque o dinheiro...
+
+[03:23] E inerente aos ambientes de poder.
+
+[03:24] Não, porque a corrupção tem em qualquer lugar.
+
+[03:27] Tem em qualquer lugar a corrupção.
+
+[03:29] Tem na empresa, tem no governo, tem no judiciário, tem em qualquer lugar.
+
+[03:32] Tem no tipo de futebol.
+
+[03:33] Ou seja, agora, o que nós temos é uma capacidade de investigação como jamais teve esse país.
+
+[03:40] Porque a política federal está preparada para isso.
+
+[03:42] O Ministério da Justiça sabe que tem que investigar.
+
+[03:46] E além de investir a corrupção inteira, todo mundo sabe.
+
+[03:49] Quando eu fiz a primeira reunião com os militares, eu falei o seguinte, olha, todo mundo aqui tem o direito de trabalhar com a maior liberdade possível.
+
+[03:57] Nós somos obrigados a fazer as coisas certas.
+
+[04:00] Se alguém fizer a coisa errada, pagará pelo que fez.
+
+[04:04] Não existe uma relação de amizade.
+
+[04:07] Já existe uma relação de confiança e que as pessoas precisam cumpri-la.
+
+[04:11] Quem não cumprir, sabe, qualquer pessoa será julgada e tem direito à defesa.
+
+[04:16] E se for inocente, ótimo, se for culpado, paga o preço da culpa.
+
+[04:21] Já que a gente começou falando sobre as notícias, o senhor conversou por uma hora e vinte com o presidente americano, Donald Trump.
+
+[04:27] Eu gostaria de saber o que é que ficou acertado com relação a dois temas importantes.
+
+[04:31] O primeiro é o tarifácio contra os produtos brasileiros.
+
+[04:34] E o segundo é a questão do combate ao crime organizado aqui no Brasil.
+
+[04:39] Olha, eu conversei mais assunto com o Trump.
+
+[04:41] Uma coisa é o seguinte, é discutir sobre a questão do tarifácio, que é do interesse do Brasil.
+
+[04:45] Eu disse ao presidente Trump que, mais uma vez, as bases pelas quais eles impuseram novas sanções ao Brasil são mentirosas.
+
+[04:56] Ou seja, nós temos o menor desmatamento da história do Brasil.
+
+[05:00] E eu nasci na minha vida política combatendo o trabalho escravo.
+
+[05:08] Portanto, eu não posso admitir que alguém possa dizer que vai culpar o Brasil, porque o Brasil compra produtos de países que têm trabalho escravo.
+
+[05:11] Eu não posso fiscalizar os outros países.
+
+[05:12] No fundo, no fundo, ele estava se refletindo à China.
+
+[05:15] Na verdade, é isso.
+
+[05:16] E eu conversei muito sinceramente com ele.
+
+[05:19] E foi uma conversa boa.
+
+[05:28] Porque no mesmo dia, ele ligou para o secretário de comércio dele, que ligou para o meu ministro de indústria e comércio, e já marcaram uma reunião para a próxima semana.
+
+[05:30] Então, já deu frutos.
+
+[05:32] Já deu frutos.
+
+[05:32] E eu espero que seja um fruto bem saboroso e gostoso.
+
+[05:35] Porque eu quero manter, Maria, numa relação muito civilizada com os Estados Unidos.
+
+[05:40] Eu não sei se é o governo americano, se é o Trump ou se é a assessoria do Trump.
+
+[05:45] Eu, às vezes, tenho a impressão que o Trump é bem melhor na relação política que a assessoria.
+
+[05:51] Eu disse para ele.
+
+[05:53] Disse para ele.
+
+[05:54] Não é possível.
+
+[05:54] Nós conversamos, tudo vai bem.
+
+[05:56] A minha conversa com o Trump é muito civilizada.
+
+[05:59] É muito respeitosa, tanto da minha parte quanto da parte dele.
+
+[06:02] Mas depois do segundo escalão, toma atitudes, sabe que são impensáveis.
+
+[06:07] E aí, nós não podemos aceitar.
+
+[06:09] Intromissão de um país, quem quer que seja na coisa do Brasil.
+
+[06:17] Eu disse para o Trump, o Brasil está disposto a trabalhar junto com os Estados Unidos no combate ao crime organizado.
+
+[06:19] Aliás, eu entreguei um documento, tudo escrito para ele.
+
+[06:25] Disse para o Trump que nós estamos dispostos a trabalhar com ele na questão da exploração de minérios críticos e terras raras.
+
+[06:28] Só que, desta vez, a gente não vai ser exportador de matéria-prima.
+
+[06:38] Nós queremos transformar aqui dentro para produzir celular, para produzir bateria elétrica, para produzir chips.
+
+[06:40] Nós não queremos ser exportador de matéria.
+
+[06:42] E eu disse para ele que, além disso, a gente quer ter um comércio muito, muito sério com os Estados Unidos.
+
+[06:53] Presidente, aqui no Brasil, a segurança pública está sendo uma das principais pautas dessa eleição e os seus adversários têm falado muito em aumento de penas, punições mais severas.
+
+[06:58] O senhor também pretende se reeleito?
+
+[07:00] É jogar mais duro contra o crime?
+
+[07:07] Olha, a vantagem de ter um pouco mais de idade do que algumas pessoas é porque você conhece um pouco mais a história do que outros.
+
+[07:11] Segurança pública sempre foi um tema crucial nesse país.
+
+[07:17] Sempre foi.
+
+[07:29] Eu sou do Estado e você é do Estado de São Paulo, onde a política todo ano era o seguinte, candidato fazendo propaganda com caminhão, sabe, uma carreta, como se fosse uma cela, com artistas vestidos de prisioneiros, dizendo bandido bom é bandido morto, bandido bom.
+
+[07:33] Você sabe disso?
+
+[07:35] Pois bem, isso continua até hoje.
+
+[07:37] O que é que nós fizemos na Constituição de 88, Mariana?
+
+[07:48] Nós tiramos um certo controle que tinha federal, porque a política exigia e os Estados queriam, e nós passamos toda a responsabilidade para os Estados.
+
+[07:57] A União, ela tem pouco a ver com a segurança pública na medida em que nós transferimos responsabilidade para o Estado.
+
+[07:58] Eu agora quero criar o Ministério da Segurança Pública.
+
+[08:02] Por que eu não criei no começo?
+
+[08:03] Porque eu não tinha o que fazer se eu criasse sem mudar a Constituição.
+
+[08:19] Então, agora nós fizemos a PEC da Segurança Pública, a PEC sendo aprovada, eu vou criar o Ministério e nós temos que convencer os meus meninos da Fazenda, do Planejamento, de que não precisam muito dinheiro para garantir um suporte de trabalhar aliado com o governo
+
+[08:36] do Estado, com prefeituras, utilizando a Polícia Federal, a Polícia Rodoviária Federal, a Polícia Penal, para que a gente possa definitivamente resolver o problema da segurança pública, prendendo quem tiver que prender, sabe?
+
+[08:40] Punindo quem tiver que punir, mas não matando quem não precisa morrer.
+
+[08:49] Porque é muito fácil falar de segurança pública, chegar num bairro pobre, matar 10, 15 pessoas, está resolvido o problema, não está resolvido.
+
+[08:56] Porque o responsável por aqueles pobres de Estado da Bandidade mora em apartamento de cobertura, ou mora em condomínio chique.
+
+[08:59] Eles não aparecem.
+
+[09:05] Então, o que a gente quer fazer é o seguinte, a gente quer devolver o território da periferia e da cidade para o povo.
+
+[09:07] Ele é o dono do território.
+
+[09:09] E aí o bandido vai ocupar seu espaço na cadeia.
+
+[09:17] Falando de povo aterrorizado, eu vou falar de uma questão feminina, porque o número de feminicídios vem aumentando e os dados são muito alarmantes.
+
+[09:24] Eu sei que o senhor pegou essa bandeira com o Pacto Nacional, mas esse tema, na verdade, é um drama, com números absurdos.
+
+[09:28] E o que é que o governo federal pode fazer para ajudar a reduzir esses índices?
+
+[09:45] Mariana, eu fiz questão de trazer esse assunto para o colo da Presidência da República, do Supremo Tribunal Federal, do Senado e da Câmara do Deputado, para mostrar que é possível, os três poderes se unindo, a gente fazer uma luta contra o feminicídio.
+
+[10:00] Só para você ter ideia, desde que eu criei esse pacto, nós já fizemos 11 leis, 4 decretos e 3 portarias.
+
+[10:07] Nós já fizemos várias casas da mulher e precisamos fazer muito mais e nós vamos criar muita coisa.
+
+[10:17] Só para você ter ideia, hoje, o cara que for velhento que é mulher e tiver tonozeleira, se ele chegar perto da mulher, a mulher vai saber que ele está chegando perto e ele tem que ser preso para não chegar perto dela.
+
+[10:19] E também trabalhar um processo educacional, Mariana, porque a nossa educação foi equivocada.
+
+[10:25] Nós, homens, nascemos achando que a gente era mais poderoso que a mulher.
+
+[10:33] Quando você casa, você não vira dono da mulher, você vira parceiro de uma companheira, que vai construir junto, sabe, a sua vida.
+
+[10:40] Mas tem gente que acha que é dono, então, a mulher não pode fazer nada, a mulher tem que se vestir do jeito que ele quer, tem que comer do jeito que ele quer.
+
+[10:52] Não, a mulher quer ser livre, ela quer fazer o que ela quiser, respeitando a relação dela com o marido, com o filho, ou seja, ela tem o direito de se vestir do jeito que quiser e trabalhar onde ela quiser.
+
+[10:53] Ela tem o direito de sair com a amiga para comer uma pizza.
+
+[11:00] Por que que o homem chega em casa à meia-noite e ainda pede desculpa e a mulher não pode chegar cinco minutos atrasado?
+
+[11:02] O cara que vai tomar banho fica pedindo tutora para a mulher.
+
+[11:05] Não, isso tem que acabar.
+
+[11:12] Nós precisamos fazer com que os homens de bem, e graças a Deus, é a maioria, trata as mulheres com respeito.
+
+[11:18] Então, faço um apelo às pessoas de bem, aos homens de bem, aos homens que tratam as mulheres de bem.
+
+[11:24] Converse com os seus amigos que são brutos, que são ignorantes, que acham que mulher é escrava dele, para ele parar, sabe, de fazer bobagem e cuidar da família.
+
+[11:29] O homem de verdade protege, né?
+
+[11:31] O homem de verdade protege.
+
+[11:37] É isso, o homem, é isso, você disse bem, o homem de verdade, aquele que é homem com H maiúsculo, ele protege a sua companheira e não por violência contra ela.
+
+[11:49] Presidente, o senhor fala dos números positivos da economia, fala do desemprego em queda, da inflação controlada.
+
+[11:57] Ao mesmo tempo, o Brasil é um país que ainda tem juros muito altos e o endividamento das famílias é recorte.
+
+[11:58] Isso deixa no ar...
+
+[12:03] Eu acho que os números e a sensação das pessoas não estão batendo, né?
+
+[12:18] Como é que a gente consegue fazer alinhar o que aparece num gráfico com uma realidade mais agradável?
+
+[12:19] Você já viu quando na televisão, Record, você denuncia o tempo?
+
+[12:25] Sim.
+
+[12:26] Aí a pessoa fala, está 30 graus com 1,32 reais.
+
+[12:29] Tá.
+
+[12:29] Eu queria que para o salário fosse assim, está 6 reais com a sensação de 10.
+
+[12:35] Pode chegar tanto, é.
+
+[12:42] Agora, o juro está alto, a taxa felia, quem paga muito caro disso é o povo mais pobre que compra a prestação.
+
+[12:47] Mas também tem uma coisa que nós temos que levar em conta, a gente não pode aceitar mentira.
+
+[12:48] Sabe?
+
+[12:49] O mundo do consumo mudou.
+
+[12:52] Eu estava discutindo com a Janja antes de vir para cá para a entrevista.
+
+[13:01] Ou seja, hoje uma mulher, um rapaz está no celular, ele está passando o dedo lá, ele vê propaganda para ele comprar qualquer coisa, qualquer coisa, muito barato, sabe?
+
+[13:06] É de 5 reais, 15 reais, 20 reais.
+
+[13:12] E a gente vai comprando, ou seja, ele não se dá conta que tem que somar aquilo para saber no fim do mês quanto é que ele gastou que não estava previsto.
+
+[13:16] Porque eu sou favorável que o povo consuma.
+
+[13:19] Agora o povo tem que consumir olhando quanto que ele ganha.
+
+[13:22] É, nunca teve uma educação econômica, né?
+
+[13:24] Porque toda vez.
+
+[13:25] É isso que eu acho.
+
+[13:26] O governo tem obrigação de criar uma política educacional para o povo.
+
+[13:31] Agora, veja o que está acontecendo no Brasil.
+
+[13:40] Esses dias eu vi que um adversário meu foi botar uma picanha, sabe, na televisão, porque é até cara.
+
+[13:41] Eu vou dar um dado para você aqui.
+
+[13:42] Eu fiz questão de trazer isso aqui para você.
+
+[13:45] A inflação.
+
+[13:52] Enquanto no governo passado, em quatro anos, a inflação teve média 6,2%, a nossa é só apenas 4,5%.
+
+[13:54] A inflação de alimentos.
+
+[13:56] Esse dado eu queria, eu vou olhar para a Câmara aqui.
+
+[13:58] A inflação de alimentos.
+
+[14:01] No governo passado, chegou nos quatro anos a 56,16%.
+
+[14:07] A nossa, em quatro anos, de 2023 até agora, 13,64%.
+
+[14:13] Ou seja, quatro vezes menos.
+
+[14:16] Quatro vezes menos.
+
+[14:29] Então, era importante que esses adversários, ao invés de ir no supermercado fazer pirotecnia, deviam acompanhar os dados do IPCA, para eles saberem que as coisas melhoraram muito nesse país.
+
+[14:30] Você quer outra ideia?
+
+[14:31] O desemprego.
+
+[14:32] Nele, chegou a quase 8%, o nosso a 5%.
+
+[14:36] O desemprego.
+
+[14:38] Eles geraram 6 milhões de empregos.
+
+[14:40] Nós geramos 10,6, 100 milhões de empregos.
+
+[14:44] O crescimento econômico.
+
+[14:45] O deles foi 1,4%.
+
+[14:53] O nosso, três anos cresceu acima de 3%, e esse ano vai crescer um pouco menos, mas a média vai ser 2,8%.
+
+[14:54] O dobro deles.
+
+[14:56] Se você quiser mais, a situação fiscal.
+
+[14:59] Déficit fiscal, que todo dia aparece no jornal.
+
+[15:00] Déficit fiscal, o governo não controla déficit fiscal.
+
+[15:03] No governo passado, foi 2,8% o déficit fiscal.
+
+[15:08] Eu queria que a Faria Lima olhasse esse dado.
+
+[15:11] No governo passado, foi 2,8% o déficit fiscal.
+
+[15:15] No nosso, nos quatro anos, o máximo chegou a 8%, a 0,8%.
+
+[15:27] Ou seja, desde o governo Dilma, que a gente não tem um superávit, um déficit fiscal tão pequeno como esse.
+
+[15:28] Então, os números são todos exitosos.
+
+[15:31] Nós temos a menor inflação acumulada em quatro anos.
+
+[15:39] Nós temos aumento do salário mínimo real em todos os anos, que eles passaram sete anos sem fazer.
+
+[15:39] Agora, por que a sensação está caro?
+
+[15:47] Está caro porque mudou o nosso hábito de comer, porque o juros está caro e porque a gente está comprando umas coisas e utilizando umas coisas.
+
+[15:54] Por isso que eu acho que nós vamos ter que criar, além de ter um monte de economia, nós temos que criar como programa de governo uma coisa chamada educação de economia popular.
+
+[16:01] Educação financeira nas escolas.
+
+[16:02] É isso, é isso.
+
+[16:03] As pessoas têm que aprender, porque se as pessoas cuidarem disso, a gente vive bem.
+
+[16:10] Presidente, vamos falar da escala 6x1?
+
+[16:18] Porque o presidente do Congresso, Davi Alcolumbre, deu sinais de que pode colocar em pauta já agora em setembro, no começo do mês, e pode inclusive ser aprovada.
+
+[16:23] Essa é a expectativa do governo, certo?
+
+[16:25] Tem quatro coisas importantes que podem acontecer logo.
+
+[16:37] A escala 6x1, a PEC da Segurança Pública, a escala 6x1, a PEC da Segurança Pública e a questão dos minerais críticos que a lei está lá.
+
+[16:46] E tem mais uma que é o Redata, que é importante para ser votado, e tem mais uma que é a taxa das bolsinhas.
+
+[16:48] Nós estamos com a medida provisória, ela vem esse dia 8 de setembro.
+
+[17:04] Eu tive com o meu amigo Alcolumbre, quarta-feira, ter uma reunião com ele, e nós vamos anunciar o fim da taxa das bolsinhas para o bem das pessoas que gostam de comprar coisinha pouca por 50 dólares.
+
+[17:04] Nós temos muita coisa para o futuro desse país, muita coisa.
+
+[17:14] Nós queremos fazer, primeiro, no próximo mandato a educação será a prioridade, que eu quero resolver definitivamente o problema de educação nesse país.
+
+[17:18] Depois eu quero resolver o problema também do idoso.
+
+[17:21] Eu vou ter que criar um programa para cuidar dos idosos.
+
+[17:25] Presidente, o senhor participou de inúmeras eleições.
+
+[17:30] O senhor enfrentou os mais diversos adversários.
+
+[17:34] O senhor encara agora aquela que se apresenta como a sua última disputa.
+
+[17:40] Qual é a leitura que o senhor faz hoje dos seus concorrentes nesse pleito?
+
+[17:51] E o que muda em concorrer com os quadros atuais e com o ex-presidente Bolsonaro, por exemplo, ou com outros nomes que o senhor enfrentou nas urnas?
+
+[17:53] Olha, eu tenho saudade do tempo que eu disputava eleições com o PSDB.
+
+[18:00] Fernando Henrique?
+
+[18:01] Com o Ferra, com o Alckmin, com o Fernando Henrique Cardoso.
+
+[18:11] Na primeira eleição que eu participei, era o Orelhano Chaves, o Lício Guimarães, Paulo Maluf, Leonel Brizola, a Fifi Domingos, Mário Covas, Roberto Freire.
+
+[18:18] Era assim.
+
+[18:20] E mais um homem da democracia cristã.
+
+[18:22] Você está lembrado disso?
+
+[18:23] Foi piorando o quadro.
+
+[18:31] Hoje, se você comparar a disputa de hoje com a disputa daquele tempo, você percebe que diminuiu a importância dos políticos que disputam eleição.
+
+[18:38] Diminuiu.
+
+[18:39] Tem gente que acha que pode ser candidato por causa da internet.
+
+[18:43] Tem gente que acha que brincar na internet ou lacrar a internet dá ele o direito de ser presidente da República.
+
+[18:49] Ser presidente é diferente.
+
+[18:51] É tomar decisões.
+
+[18:53] Então, há 18 anos, coisa séria.
+
+[18:55] Eu acho que piorou o processo político do Brasil.
+
+[18:58] O senhor é bem conciliador, né?
+
+[19:00] O senhor acredita que conseguirá reunir os dois Brasis?
+
+[19:05] Olha, veja, eu acho que não tem dois Brasis.
+
+[19:08] Eu acho que tem um momento histórico que estamos vivendo.
+
+[19:10] Um momento histórico que pode ser dissipado daqui a dois anos, três anos, quatro anos.
+
+[19:14] Esse é um país que não tem histórico, sabe?
+
+[19:19] Geral de violência nas eleições, de agressões, de ofensas, de lacramento na internet.
+
+[19:26] Porque a internet permite que os bandidos se apareçam, sabe?
+
+[19:30] Às vezes com mais força do que os honestos.
+
+[19:32] E que aparentem uma autoridade.
+
+[19:34] É porque o cara te acredita e para ele contar uma mentira a seu respeito, ele não tem que explicar nada.
+
+[19:41] Quem tem que explicar é quem tem que se defender.
+
+[19:44] Você percebe a diferença?
+
+[19:46] Então, aqui no Congresso Nacional, você pega quando vai um ministro da CPI.
+
+[19:50] O deputado vai fazer pergunta para ele?
+
+[19:53] Ele não está fazendo pergunta para o ministro.
+
+[19:54] Ele está fazendo uma coisinha para celular dele, pela cara de poesia.
+
+[19:58] Ele nem fica para esperar a resposta.
+
+[20:00] Então, o nível da política, Mariana, caiu muito.
+
+[20:03] Caiu muito.
+
+[20:04] Se você não gostava da política 30 anos atrás, muito menos razão, você tem de gostar agora.
+
+[20:10] Mas sabe por que o povo tem que votar e o povo tem que comparecer à UNA?
+
+[20:14] Porque a desgraça de quem não gosta de política é que é governado por quem gosta.
+
+[20:20] E se quem gosta for a minoria perversa, o povo será governado por essa minoria.
+
+[20:27] Eu tenho orgulho, eu tenho orgulho de dizer uma coisa, eu vou dizer aqui, vai recorrer, um orgulho muito grande.
+
+[20:40] Por que que eu sou o único presidente que não tem diploma universitário e sou o presidente que mais fiz universidade na história do país, fiz mais campi, fiz mais institutos federais na história desse país?
+
+[20:44] No próximo ano, eu quero garantir ao povo escola de tempo integral para todas as crianças.
+
+[20:50] Com qualidade.
+
+[20:51] Com qualidade.
+
+[20:52] Presidente.
+
+[20:53] Mariana, obrigado.
+
+[20:54] Muito obrigada, eu agradeço.
+
+[20:56] Obrigado.
+

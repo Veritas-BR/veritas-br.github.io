@@ -1,0 +1,361 @@
+# Fact-Check: Entrevista de Lula no Domingo Espetacular (Record)
+# Data da entrevista: 24/08/2026
+# Entrevistador: Mariana Godoy
+# Data da análise: 02/09/2026
+
+---
+
+## RESUMO
+
+| Classificação | Quantidade |
+|---|---|
+| VERDADEIRO | 5 |
+| FALSO | 3 |
+| IMPRECISO | 5 |
+| NÃO VERIFICÁVEL | 2 |
+| OPINIÃO | 3 |
+| **TOTAL** | **18** |
+
+---
+
+## ANÁLISE DETALHADA
+
+---
+
+### [1]
+
+**Afirmação do candidato:** "Nós temos o menor desmatamento da história do Brasil."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Segundo dados do INPE (Instituto Nacional de Pesquisas Espaciais), a taxa consolidada de desmatamento na Amazônia Legal em 2025 foi de 5.731 km², representando uma redução de 12,07% em relação a 2024 (6.518 km²). Trata-se do menor registro nos últimos 11 anos e da terceira menor da série histórica do Prodes, iniciada em 1988. No entanto, a menor taxa já registrada na série histórica foi de aproximadamente 4.571 km², em 2012, durante o primeiro mandato de Dilma Rousseff. Portanto, o desmatamento de 2025 é o mais baixo dos últimos 11 anos, mas não o menor da história do monitoramento.
+
+**Fonte(s):**
+- INPE/Prodes - Taxa consolidada de desmatamento 2025: https://data.inpe.br/wp-content/uploads/sites/3/2026/03/A-taxa-consolidada-de-desmatamento-para-os-nove-estados-da-Amazonia-Legal-para-2025-e-de-5.731-km2.pdf
+- TerraBrasilis - Séries históricas de desmatamento: https://terrabrasilis.dpi.inpe.br/
+
+**Observações:**
+A redução do desmatamento é significativa e consistente nos últimos quatro anos. O governo federal projeta que 2026 pode registrar a menor taxa da história, com queda adicional de cerca de 35% em relação a 2025, segundo dados preliminares do Deter. A afirmação é imprecisa porque omite que há registros menores na série histórica, mas o mérito da redução é relevante.
+
+---
+
+### [2]
+
+**Afirmação do candidato:** "Enquanto no governo passado, em quatro anos, a inflação teve média 6,2%, a nossa é só apenas 4,5%."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O IPCA acumulado nos quatro anos do governo Bolsonaro (2019-2022) foi de 26,93%, o que resulta em uma média anual de aproximadamente 6,2%. No governo Lula, o IPCA acumulado de 2023 a julho de 2026 é de aproximadamente 16,9%, resultando em uma média anual de cerca de 4,5%. Os dados são consistentes com as fontes oficiais do IBGE.
+
+**Fonte(s):**
+- IBGE - IPCA: https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html
+- IBGE - Indicadores: https://www.ibge.gov.br/indicadores
+- Agência de Notícias IBGE - IPCA 2022: https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/36047-ipca-vai-a-0-62-em-dezembro-e-fecha-2022-em-5-79
+
+**Observações:**
+A média de inflação no governo Lula é inferior à do governo Bolsonaro. Vale destacar que a inflação no governo Bolsonaro foi significativamente influenciada pela pandemia de Covid-19 em 2020 (IPCA de 4,52%) e pela alta dos preços de alimentos e combustíveis. O governo atual beneficia-se de uma normalização parcial desses fatores.
+
+---
+
+### [3]
+
+**Afirmação do candidato:** "No governo passado, chegou nos quatro anos a 56,16% [inflação de alimentos]. A nossa, em quatro anos, de 2023 até agora, 13,64%."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O grupo Alimentação e bebidas do IPCA registrou as seguintes variações anuais acumuladas no governo Bolsonaro: 3,97% (2019), 14,06% (2020), 7,94% (2021) e 11,64% (2022). A inflação acumulada composta dos quatro anos é de aproximadamente 41-42%, e não 56,16%. No governo Lula, as variações anuais do grupo foram: 4,62% (2023), 7,69% (2024) e 2,95% (2025). O acumulado até julho de 2026 é de aproximadamente 15-16%, e não 13,64%. O dado de 56,16% citado pelo candidato não corresponde aos números publicados pelo IBGE para o grupo Alimentação e bebidas do IPCA. É possível que o número se refira a uma métrica diferente (como inflação acumulada por preço ao consumidor em relação a uma data-base anterior), mas não é verificável com os dados públicos do IBGE na categoria padrão.
+
+**Fonte(s):**
+- IBGE - IPCA por grupos de produtos: https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html
+- IBGE - Indicadores IBGE 2022: https://ftp.ibge.gov.br/Precos_Indices_de_Precos_ao_Consumidor/INPC/Fasciculo_Indicadores_IBGE/2025/ipca-inpc_202512caderno.pdf
+- IPEA - Inflação de alimentos: https://repositorio.ipea.gov.br/handle/11058/18987
+
+**Observações:**
+A comparação qualitativa é válida: a inflação de alimentos foi, de fato, mais elevada no governo Bolsonaro do que no governo Lula. No entanto, os valores numéricos exatos apresentados pelo candidato não condizem com os dados disponíveis do IBGE. A diferença entre os governos permanece significativa mesmo com os dados corrigidos.
+
+---
+
+### [4]
+
+**Afirmação do candidato:** "No governo passado, foi 2,8% o déficit fiscal. No nosso, nos quatro anos, o máximo chegou a 0,8%."
+
+**Classificação:** FALSO
+
+**Verificação:**
+O dado é incorreto em ambas as partes. No governo Bolsonaro, o resultado primário do setor público consolidado variou: déficit de 0,85% do PIB (2019), déficit de 9,44% do PIB (2020, pandemia), superávit de 0,73% do PIB (2021) e superávit de 1,28% do PIB (2022). A média dos quatro anos, excluindo 2020, foi de aproximadamente déficit de 0,02% do PIB (praticamente zero). Se incluído 2020, a média é déficit de 1,93% do PIB. O valor de 2,8% não corresponde a nenhuma métrica padrão dos dados do Banco Central para o período.
+
+No governo Lula, o déficit primário do setor público consolidado foi de 2,28% do PIB (2023), 0,40% do PIB (2024) e 0,43% do PIB (2025). O déficit acumulado de 2023 a 2025 é de aproximadamente 3,11% do PIB, com média anual de aproximadamente 1,04% do PIB. A afirmação de que o "máximo chegou a 0,8%" é incorreta: apenas em 2023 o déficit foi de 2,28% do PIB, valor muito superior ao citado.
+
+**Fonte(s):**
+- Banco Central - Estatísticas Fiscal: https://www.bcb.gov.br/content/estatisticas/hist_estatisticasfiscais/
+- Tesouro Nacional - Resultado Primário: https://www.gov.br/tesouronacional/
+- Tesouro Transparente - Boletim Trimestral: https://www.tesourotransparente.gov.br/publicacoes/boletim-trimestral-de-estatisticas-fiscais-do-governo-geral
+
+**Observações:**
+A comparação fiscal entre os dois governos é complicada pelo impacto da pandemia de Covid-19 em 2020, que gerou um déficit primário recorde. O governo Bolsonaro registrou superávits primários em 2021 e 2022, resultado do ajuste fiscal pós-pandemia e do crescimento da arrecadação. O governo Lula registrou déficits em todos os anos, com o pior resultado em 2023 (2,28% do PIB), reduzido significativamente em 2024 e 2025. A trajetória fiscal é um dos principais pontos de divergência entre os dois governos.
+
+---
+
+### [5]
+
+**Afirmação do candidato:** "O desemprego. Nele, chegou a quase 8%, o nosso a 5%."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo a PNAD Contínua do IBGE, a taxa de desocupação atingiu seu pico no governo Bolsonaro em 2021, quando alcançou 14,7% no trimestre móvel encerrado em março de 2021 (no conceito ampliado). No recorte mais comparável (trimestre móvel encerrado em junho, para efeito de comparação com o dado atual), a taxa chegou a 7,9% no 2º trimestre de 2019 e 12,4% em março de 2021. No governo Lula, a taxa de desocupação no 2º trimestre de 2026 foi de 5,4%, e em julho de 2026 atingiu 5,3%, a menor desde o início da série em 2012.
+
+**Fonte(s):**
+- IBGE - PNAD Contínua: https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html
+- IBGE - Painel de Indicadores: https://www.ibge.gov.br/indicadores
+
+**Observações:**
+A queda do desemprego é consistente com a recuperação econômica pós-pandemia e a dinâmica do mercado de trabalho. O pico de desemprego no governo Bolsonaro (14,7% em março de 2021) foi influenciado pela crise da Covid-19. A afirmação de "quase 8%" refere-se provavelmente ao patamar pré-pandemia (7,9% no 2º trimestre de 2019). O dado atual de 5,3-5,4% representa historicamente baixo.
+
+---
+
+### [6]
+
+**Afirmação do candidato:** "Eles geraram 6 milhões de empregos. Nós geramos 10,6 milhões."
+
+**Classificação:** FALSO
+
+**Verificação:**
+Segundo o CAGED (antiga metodologia), o governo Bolsonaro gerou 5,27 milhões de empregos formais entre 2019 e 2022. Com a nova metodologia (Novo Caged), o número é de aproximadamente 4,1 milhões. A بواس時点で 6 milhões não corresponde a nenhuma das duas metodologias. Quanto ao governo Lula, o Novo Caged acumula um saldo de aproximadamente 6,4 milhões de empregos formais entre dezembro de 2022 e dezembro de 2025 (de 42,7 milhões para 49,1 milhões de vínculos). No acumulado até julho de 2026, o saldo é de aproximadamente 7 milhões. O número de 10,6 milhões não é verificável com os dados oficiais disponíveis.
+
+**Fonte(s):**
+- Ministério do Trabalho e Emprego - Novo Caged: https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-aques-obras-e-atividades/estatisticas-trabalho/caged
+- Folha de S.Paulo - Caged 2025: https://www1.folha.uol.com.br/mercado/2026/01/brasil-criou-12-milhao-de-vagas-formais-no-ano-passado-pior-saldo-desde-2020-aponta-caged.shtml
+
+**Observações:**
+A comparação entre os governos é comprometida pela mudança de metodologia do CAGED para o Novo Caged em 2020. Os dados do Novo Caged são mais precisos, mas tornam a comparação direta com anos anteriores mais difícil. Além disso, o número de empregos formais não captura a totalidade do mercado de trabalho, que inclui trabalhadores por conta própria, domésticos e informais. O governo atual também registrou queda no desemprego, o que pode obscurecer a comparação de criação de empregos formais.
+
+---
+
+### [7]
+
+**Afirmação do candidato:** "O crescimento econômico. O deles foi 1,4%. O nosso, três anos cresceu acima de 3%, e esse ano vai crescer um pouco menos, mas a média vai ser 2,8%. O dobro deles."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+O PIB do Brasil cresceu em média 1,5% ao ano no governo Bolsonaro (2019-2022), e não 1,4%. Os valores anuais foram: 1,1% (2019), -3,3% (2020), 5,0% (2021) e 2,9% (2022). No governo Lula, o PIB cresceu 2,9% (2023) e 3,4% (2024), com projeção de cerca de 2,0-2,2% para 2025 (1º trimestre de 2026 mostrou 1,8% acumulado em 4 trimestres). A média de 2023 a 2025 é de aproximadamente 2,8-3,0%. A afirmação de "o dobro" é uma aproximação razoável (3,0% vs 1,5%), mas o dado de 1,4% para o governo anterior está ligeiramente abaixo do registrado.
+
+**Fonte(s):**
+- IBGE - Contas Nacionais: https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/
+- IBGE - PIB 2022: https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/36371-pib-cresce-2-9-em-2022-e-fecha-o-ano-em-r-9-9-trilhoes
+- IBGE - Anuário Estatístico: https://anuario.ibge.gov.br/images/aeb/2024/s7/2_pdf/s7t5102.pdf
+
+**Observações:**
+O crescimento do PIB no governo Bolsonaro foi impactado pela pandemia (-3,3% em 2020) e pela forte recuperação em 2021 (5,0%). A média de 1,5% reflete esses extremos. No governo Lula, o crescimento foi mais consistente, com dois anos acima de 2,9%. A comparação de "o dobro" é uma aproximação aceitável, mas a precisão numérica poderia ser melhorada.
+
+---
+
+### [8]
+
+**Afirmação do candidato:** "Nós temos a menor inflação acumulada em quatro anos."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+A inflação acumulada no governo Lula até julho de 2026 (período disponível) é de aproximadamente 16,9%, o que resulta em uma média anual de cerca de 4,5%. Isso é inferior à média do governo Bolsonaro (26,93% acumulado, média de 6,2%). No entanto, a inflação acumulada em quatro anos completos do governo Lula ainda não está disponível, pois o mandato se encerra em dezembro de 2026. Além disso, há governos anteriores com inflação mais baixa em períodos específicos (como o segundo mandato de FHC, com inflação acumulada abaixo de 30% em quatro anos, ou o primeiro mandato de Dilma, com acumulado de aproximadamente 27%).
+
+**Fonte(s):**
+- IBGE - IPCA: https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html
+- IBGE - Indicadores: https://www.ibge.gov.br/indicadores
+
+**Observações:**
+A comparação é difícil porque o período de quatro anos do governo Lula ainda não se completou. A inflação acumulada disponível (até julho de 2026) é, de fato, inferior à do governo Bolsonaro. No entanto, a afirmação de "menor em quatro anos" é uma projeção que depende do desempenho nos meses restantes do mandato.
+
+---
+
+### [9]
+
+**Afirmação do candidato:** "Nós temos aumento do salário mínimo real em todos os anos, que eles passaram sete anos sem fazer."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+O salário mínimo real (descontada a inflação) apresentou aumento em todos os anos do governo Lula: 2023 (+1,06%), 2024 (+5,34%) e 2025 (+7,27%). No governo Bolsonaro, o salário mínimo real caiu em 2020 (-3,3%), 2021 (-1,4%) e 2022 (+2,2% com desoneração de combustíveis), com recuperção parcial apenas no último ano. Antes disso, o salário mínimo real vinha apresentando variações negativas ou modestas desde 2016, durante o governo Temer. A afirmação de "sete anos sem fazer" refere-se ao período de 2016 a 2022, quando o ganho real foi negativo ou inexistente na maioria dos anos.
+
+**Fonte(s):**
+- Dieese - Salário Mínimo: https://www.dieese.org.br/salariominimo/
+- IBGE - INPC: https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html
+
+**Observações:**
+O ganho real do salário mínimo é um dos pilares da política econômica do governo Lula. O aumento expressivo em 2025 (+7,27%) reflete a correção pelo INPC e o reajuste acima da inflação. A política de valorização real do salário mínimo foi retomada após um período de estagnação e perda de poder aquisitivo entre 2016 e 2022.
+
+---
+
+### [10]
+
+**Afirmação do candidato:** "Desde que eu criei esse pacto, nós já fizemos 11 leis, 4 decretos e 3 portarias."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+O Pacto Nacional de Prevenção aos Feminicídios foi instituído pelo Decreto nº 11.640, de 16 de agosto de 2023. Desde então, foram sancionadas diversas leis voltadas ao enfrentamento da violência contra a mulher, incluindo o pacote assinado em maio de 2026 (4 projetos de lei) e a Lei nº 14.899/2024. No entanto, não foi possível verificar independentemente o número exato de 11 leis, 4 decretos e 3 portarias especificamente vinculados ao Pacto, pois a contagem depende de critérios de vinculação que podem variar. O Pacto engloba ações de múltiplos órgãos e poderes, e a contagem de "leis do Pacto" pode incluir legislação que tramitava antes de sua criação.
+
+**Fonte(s):**
+- Portal Gov.br - Pacto Nacional de Prevenção aos Feminicídios: https://www.gov.br/mulheres/pt-br/acesso-a-informacao/acoes-e-programas/pacto-nacional-de-prevencao-aos-feminicidios
+- Congresso em Foco - Pacote de enfrentamento: https://www.congressoemfoco.com.br/noticia/119042/lula-assina-pacote-de-enfrentamento-a-violencia-contra-a-mulher
+- Senado Federal - Pacto de Enfrentamento ao Feminicídio: https://www12.senado.leg.br/noticias/materias/2026/02/04/representantes-dos-tres-poderes-assinam-pacto-de-combate-ao-feminicidio
+
+**Observações:**
+O Pacto foi uma iniciiva conjunta dos três Poderes e envolve múltiplas frentes legislativas. O número citado pelo candidato pode ser correto, mas a verificação independente é dificultada pela dispersão das ações em diferentes órgãos e pela falta de um consolidado oficial público com essa contagem específica.
+
+---
+
+### [11]
+
+**Afirmação do candidato:** "O Brasil está disposto a trabalhar junto com os Estados Unidos no combate ao crime organizado."
+
+**Classificação:** NÃO VERIFICÁVEL
+
+**Verificação:**
+A afirmação se refere a uma declaração de intenção feita pelo presidente Lula ao presidente Donald Trump durante uma conversa telefônica. Trata-se de compromisso diplomático declarado publicamente, mas cujos termos específicos, condições e implementação não foram divulgados publicamente na data da entrevista. Não há como verificar se o compromisso se materializará em ações concretas.
+
+**Fonte(s):**
+- Declarações do próprio presidente na entrevista (24/08/2026)
+
+**Observações:**
+A cooperação internacional no combate ao crime organizado é uma pauta recorrente nas relações Brasil-EUA. A disponibilidade declarada pelo governo brasileiro é consistente com a política externa tradicional, mas a efetividade depende de negociações posteriores e de condições que ainda não foram definidas.
+
+---
+
+### [12]
+
+**Afirmação do candidato:** "Nós queremos transformar aqui dentro para produzir celular, para produzir bateria elétrica, para produzir chips."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A afirmação expressa uma intenção de política industrial do governo brasileiro em relação à exploração de minérios críticos e terras raras. Trata-se de uma posição política e econômica, não de um fato verificável. O Brasil possui reservas significativas de minerais críticos e tem discutido estratégias de processamento doméstico, mas a viabilidade econômica e tecnológica desses projetos depende de fatores que vão além da intenção governamental.
+
+**Fonte(s):**
+- Declarações do próprio presidente na entrevista (24/08/2026)
+
+**Observações:**
+A proposta de industrialização de matérias-primas é uma pauta histórica do governo Lula e do PT. A viabilidade depende de investimentos em infraestrutura, tecnologia e acordos comerciais internacionais. Não se trata de um fato verificável, mas de uma proposta de política pública.
+
+---
+
+### [13]
+
+**Afirmação do candidato:** "Eu sou o único presidente que não tem diploma universitário e sou o presidente que mais fez universidade na história do país, fiz mais campi, fiz mais institutos federais na história desse país."
+
+**Classificação:** IMPRECISO
+
+**Verificação:**
+Lula é, de fato, o primeiro presidente da República desde a redemocratização (1985) a não possuir diploma universitário. Quanto à criação de universidades e institutos federais, o governo Lula (incluindo os primeiros mandatos) foi responsável pela expansão significativa da rede de educação superior federal, incluindo a criação dos Institutos Federais (a partir de 2008, no primeiro mandato) e a implantação do Reuni (Programa de Reestruturação e Expansão das Universidades Federais). No entanto, a afirmação de que é o presidente que "mais fez universidade" depende da métrica utilizada (número de campi, vagas, investimento). Dados do IBGE e do Censo da Educação Superior indicam expansão significativa, mas a comparação exata com outros presidentes é complexa.
+
+**Fonte(s):**
+- IBGE - Censo da Educação Superior
+- Ministério da Educação - Institutos Federais: https://www.gov.br/inep/pt-br
+- Lei nº 11.892/2008 (Institutos Federais)
+
+**Observações:**
+A expansão da rede federal de ensino superior foi uma das bandeiras dos governos do PT. Os Institutos Federais foram criados em 2008, e o programa Reuni ampliou vagas e campi nas universidades federais existentes. No governo atual, o PAC da Educação prevê a construção de novos campi e a ampliação de estruturas. A afirmação é qualitativamente correta, mas a quantificação exata depende de critérios específicos.
+
+---
+
+### [14]
+
+**Afirmação do candidato:** "O número de feminicídios vem aumentando e os dados são muito alarmantes."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Segundo dados do Sistema Nacional de Informações de Segurança Pública (Sinesp), o número de vítimas de feminicídio no Brasil apresentou tendência de alta nos últimos anos. Em 2023, foram registradas 1.438 vítimas de feminicídio (conforme dados preliminares do Anuário Brasileiro de Segurança Pública). Em 2024, o número continuou em patamar elevado. O aumento reflete tanto uma piora real da situação quanto melhoria na notificação e investigação dos crimes.
+
+**Fonte(s):**
+- Anuário Brasileiro de Segurança Pública: https://www.segurancaejustica.cfrj.br/
+- Sinesp - Dados de Violência contra a Mulher
+- Secretaria Nacional de Políticas para Mulheres
+
+**Observações:**
+O feminicídio permanece como um dos graves problemas de segurança pública no Brasil. O governo Lula instituiu o Pacto Nacional de Prevenção aos Feminicídios em 2023 e intensificou as ações de enfrentamento. A tendência de alta preocupa especialistas e justifica as medidas legislativas e administrativas adotadas.
+
+---
+
+### [15]
+
+**Afirmação do candidato:** "A corrupção tem em qualquer lugar. Tem na empresa, tem no governo, tem no judiciário, tem em qualquer lugar."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A afirmação expressa uma opinião sobre a natureza generalizada da corrupção. Não é uma afirmação factual verificável com dados estatísticos, mas reflete uma percepção amplamente compartilhada. Índices como o da Transparência Internacional (Percepção da Corrupção) mostram que o Brasil ocupa posições intermediárias em ranking de percepção de corrupção entre os países, sugerindo que o problema é significativo mas não exclusivo do país.
+
+**Fonte(s):**
+- Transparência Internacional - Índice de Percepção da Corrupção: https://www.transparency.org/cpi2024
+
+**Observações:**
+A afirmação é uma generalização que dificilmente pode ser confirmada ou refutada com dados precisos. A corrupção é um fenômeno multissetorial e sua percepção varia conforme a metodologia de medição.
+
+---
+
+### [16]
+
+**Afirmação do candidato:** "Tem quatro coisas importantes que podem acontecer logo. A escala 6x1, a PEC da Segurança Pública, a escala 6x1, a PEC da Segurança Pública e a questão dos minerais críticos que a lei está lá. E tem mais uma que é o Redata, que é importante para ser votado, e tem mais uma que é a taxa das bolsinhas."
+
+**Classificação:** VERDADEIRO
+
+**Verificação:**
+Na data da entrevista (24/08/2026), esses projetos de fato tramitavam no Congresso Nacional. A PEC da Segurança Pública, o projeto de lei dos minerais críticos, o projeto Redata e a medida provisória sobre a taxa das bolsinhas estavam em fase avançada de tramitação. O presidente do Congresso, Davi Alcolumbre, havia sinalizado a possibilidade de pautar esses projetos em setembro de 2026.
+
+**Fonte(s):**
+- Congresso em Foco - Pauta legislativa: https://www.congressoemfoco.com.br/
+- Câmara dos Deputados - PL 2.308/2023 (Minerais Críticos): https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=6232712
+- Senado Federal - PEC Segurança Pública
+
+**Observações:**
+A pauta legislativa mencionada pelo candidato era consistente com o cenário político na data da entrevista. A aprovação desses projetos depende de negociações com o Congresso e de consenso entre os partidos.
+
+---
+
+### [17]
+
+**Afirmação do candidato:** "No próximo ano, eu quero garantir ao povo escola de tempo integral para todas as crianças."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A afirmação expressa uma meta de política pública para o próximo mandato (2027-2030). Trata-se de uma proposta de campanha, não de um fato verificável. A ampliação do ensino integral é uma pauta histórica do governo Lula e do PT, e já existem programas como o FUNDEB que financiam a educação integral em municípios brasileiros.
+
+**Fonte(s):**
+- Declarações do próprio presidente na entrevista (24/08/2026)
+- FUNDEB - Fundo de Manutenção e Desenvolvimento da Educação Básica
+
+**Observações:**
+A proposta de escola de tempo integral para todas as crianças é ambiciosa e demandaria investimentos significativos em infraestrutura, quadro docente e alimentação. Trata-se de uma promessa de campanha que depende de aprovação orçamentária e capacidade de implementação.
+
+---
+
+### [18]
+
+**Afirmação do candidato:** "O governo tem obrigação de criar uma política educacional para o povo."
+
+**Classificação:** OPINIÃO
+
+**Verificação:**
+A afirmação expressa uma posição sobre o papel do governo na educação financeira da população. Não é uma afirmação factual verificável, mas uma opinião sobre políticas públicas.
+
+**Fonte(s):**
+- Declarações do próprio presidente na entrevista (24/08/2026)
+
+**Observações:**
+A educação financeira é reconhecida por especialistas como importante para o empoderamento econômico dos cidadãos. Alguns países já implementaram programas de educação financeira nas escolas. A proposta é consistente com a agenda do governo, mas sua implementação depende de decisões orçamentárias e legislativas.
+
+---
+
+## DISCAIMERS
+
+Esta verificação é uma análise técnica de fatos apresentados em entrevista pública. Não constitui endereçamento, apoio ou oposição a qualquer candidato. O objetivo é fornecer informações verificáveis para que o eleitor tome suas próprias decisões de forma informada.
+
+**Data de corte dos dados:** 28/08/2026 (data da entrevista)
+**Fontes primárias utilizadas:** IBGE, INPE, Banco Central do Brasil, Tesouro Nacional, TSE, Sinesp, Dieese, Transparência Internacional
+**Metodologia:** Verificação de afirmações factuais com base em dados oficiais e fontes jornalísticas de credibilidade comprovada
